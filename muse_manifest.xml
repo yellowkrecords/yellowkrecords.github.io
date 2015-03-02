@@ -1,0 +1,30 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425261267410">
+  <folder name="css">
+    <file name="site_global.css" crc="84678012"/>
+    <file name="master_a-master.css" crc="279479258" ref="index"/>
+    <file name="index.css" crc="4197532326" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4263367560" ref="index"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="yellowkoriginal.jpg" crc="4207108047" ref="index"/>
+    <file name="yellow k logo horiz-b-w-trans.png" crc="4069315241" ref="index"/>
+    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="4100493987" ref="index"/>
+    <file name="menu_facebook-01.svg" crc="4246097550" ref="index"/>
+    <file name="menu_facebook-01_poster_u645.png" crc="404754229" ref="index"/>
+    <file name="menu_twitter-01.svg" crc="4208172594" ref="index"/>
+    <file name="menu_twitter-01_poster_u651.png" crc="285587496" ref="index"/>
+    <file name="menu_instagram-01.svg" crc="467373801" ref="index"/>
+    <file name="menu_instagram-01_poster_u658.png" crc="30140015" ref="index"/>
+  </folder>
+  <file name="index.html" crc="179852113" mt="1425261148477" redirect="true"/>
+</manifest>
