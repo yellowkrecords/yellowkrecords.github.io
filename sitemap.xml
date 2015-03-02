@@ -2,61 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yellowkrecords.github.io/images/yellowkoriginal.jpg</loc>
-    <lastmod>2015-03-01</lastmod>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/yellow%20k%20logo%20horiz-b-w-trans.png</loc>
-    <lastmod>2015-03-01</lastmod>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/yellow%20k%20logo%20horiz-b-w-trans_2x.png</loc>
-    <lastmod>2015-03-01</lastmod>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/menu_facebook-01.svg</loc>
-    <lastmod>2015-03-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/menu_facebook-01_poster_u645.png</loc>
-    <lastmod>2015-03-01</lastmod>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/menu_twitter-01.svg</loc>
-    <lastmod>2015-03-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/menu_twitter-01_poster_u651.png</loc>
-    <lastmod>2015-03-01</lastmod>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/menu_instagram-01.svg</loc>
-    <lastmod>2015-03-01</lastmod>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/menu_instagram-01_poster_u658.png</loc>
-    <lastmod>2015-03-01</lastmod>
+    <loc>http://yellowkrecords.github.io/images/menu_facebook-01_poster_u690.png</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/menu_twitter-01_poster_u684.png</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/menu_instagram-01_poster_u678.png</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/roster_header.jpg</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/seagulls_artist_pic.jpg</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/seagulls_artist_pic_2x.jpg</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/view_seagulls.png</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/new-god-2015-pic-lores.jpg</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/new-god-2015-pic-lores_2x.jpg</loc>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/view_newgod.png</loc>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/index.html</loc>
-    <lastmod>2015-03-01</lastmod>
+    <lastmod>2015-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/roster.html</loc>
+    <lastmod>2015-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

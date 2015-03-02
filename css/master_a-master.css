@@ -1,4 +1,4 @@
-#u531-8
+#u531-10
 {
 	line-height: 32px;
 	text-align: center;
@@ -19,9 +19,10 @@
 
 #buttonu571
 {
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_facebook-01.svg") no-repeat center top;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: transparent;
+	position: fixed;
 	background-size: cover;
 }
 
@@ -32,16 +33,25 @@
 	background-size: cover;
 }
 
+.menu_fb
+{
+	border-style: none;
+	border-color: #787878;
+	background: transparent url("../images/menu_facebook-01.svg") no-repeat center top;
+	background-size: cover;
+}
+
 .nosvg #buttonu571
 {
-	background-image: url('../images/menu_facebook-01_poster_u645.png');
+	background-image: url('../images/menu_facebook-01_poster_u690.png');
 }
 
 #buttonu596
 {
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_twitter-01.svg") no-repeat center top;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: transparent;
+	position: fixed;
 	background-size: cover;
 }
 
@@ -52,16 +62,25 @@
 	background-size: cover;
 }
 
+.menu_twitter
+{
+	border-style: none;
+	border-color: #787878;
+	background: transparent url("../images/menu_twitter-01.svg") no-repeat center top;
+	background-size: cover;
+}
+
 .nosvg #buttonu596
 {
-	background-image: url('../images/menu_twitter-01_poster_u651.png');
+	background-image: url('../images/menu_twitter-01_poster_u684.png');
 }
 
 #buttonu657
 {
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_instagram-01.svg") no-repeat center top;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: transparent;
+	position: fixed;
 	background-size: cover;
 }
 
@@ -79,9 +98,25 @@
 	background-size: cover;
 }
 
+.menu_insta
+{
+	border-style: none;
+	border-color: #787878;
+	background: transparent url("../images/menu_instagram-01.svg") no-repeat center top;
+	background-size: cover;
+}
+
 .nosvg #buttonu657
 {
-	background-image: url('../images/menu_instagram-01_poster_u658.png');
+	background-image: url('../images/menu_instagram-01_poster_u678.png');
+}
+
+#u787,#u853
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 }
 
 #u532-4
@@ -96,13 +131,5 @@
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
-}
-
-#u529,#u569
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
 }
 

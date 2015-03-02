@@ -1,30 +1,39 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425261267410">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425317070374">
   <folder name="css">
     <file name="site_global.css" crc="84678012"/>
-    <file name="master_a-master.css" crc="279479258" ref="index"/>
-    <file name="index.css" crc="4197532326" ref="index"/>
+    <file name="master_a-master.css" crc="240458646" ref="index:roster"/>
+    <file name="index.css" crc="3926068186" ref="index"/>
+    <file name="roster.css" crc="4254907371" ref="roster"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
-    <file name="museutils.js" crc="3793461109" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster"/>
+    <file name="museutils.js" crc="3793461109" ref="index:roster"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index:roster"/>
+    <file name="pie.js" crc="3827607177" ref="index:roster"/>
     <file name="webpro.js" crc="4263367560" ref="index"/>
     <file name="musewpslideshow.js" crc="126372691" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
     <file name="touchswipe.js" crc="3796284560" ref="index"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:roster"/>
   </folder>
   <folder name="images">
     <file name="yellowkoriginal.jpg" crc="4207108047" ref="index"/>
     <file name="yellow k logo horiz-b-w-trans.png" crc="4069315241" ref="index"/>
     <file name="yellow k logo horiz-b-w-trans_2x.png" crc="4100493987" ref="index"/>
-    <file name="menu_facebook-01.svg" crc="4246097550" ref="index"/>
-    <file name="menu_facebook-01_poster_u645.png" crc="404754229" ref="index"/>
-    <file name="menu_twitter-01.svg" crc="4208172594" ref="index"/>
-    <file name="menu_twitter-01_poster_u651.png" crc="285587496" ref="index"/>
-    <file name="menu_instagram-01.svg" crc="467373801" ref="index"/>
-    <file name="menu_instagram-01_poster_u658.png" crc="30140015" ref="index"/>
+    <file name="menu_facebook-01.svg" crc="4191476218" ref="index"/>
+    <file name="menu_twitter-01.svg" crc="4143472261" ref="index"/>
+    <file name="menu_instagram-01.svg" crc="201306675" ref="index"/>
+    <file name="menu_facebook-01_poster_u690.png" crc="3978741991" ref="index"/>
+    <file name="menu_twitter-01_poster_u684.png" crc="241056680" ref="index"/>
+    <file name="menu_instagram-01_poster_u678.png" crc="378560003" ref="index"/>
+    <file name="roster_header.jpg" crc="4206350557" ref="roster"/>
+    <file name="seagulls_artist_pic.jpg" crc="3900582285" ref="roster"/>
+    <file name="seagulls_artist_pic_2x.jpg" crc="15886745" ref="roster"/>
+    <file name="view_seagulls.png" crc="493468127" ref="roster"/>
+    <file name="new-god-2015-pic-lores.jpg" crc="3959986211" ref="roster"/>
+    <file name="new-god-2015-pic-lores_2x.jpg" crc="503885862" ref="roster"/>
+    <file name="view_newgod.png" crc="3913691004" ref="roster"/>
   </folder>
-  <file name="index.html" crc="179852113" mt="1425261148477" redirect="true"/>
+  <file name="index.html" crc="4133400179" mt="1425316142696" redirect="true"/>
+  <file name="roster.html" crc="3879279612" mt="1425317032118" redirect="true"/>
 </manifest>
