@@ -1,9 +1,9 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425317572020">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425328033982">
   <folder name="css">
     <file name="site_global.css" crc="84678012"/>
     <file name="master_a-master.css" crc="240458646" ref="index:roster"/>
     <file name="index.css" crc="3926068186" ref="index"/>
-    <file name="roster.css" crc="4254907371" ref="roster"/>
+    <file name="roster.css" crc="87865622" ref="roster"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster"/>
@@ -33,7 +33,12 @@
     <file name="new-god-2015-pic-lores.jpg" crc="3959986211" ref="roster"/>
     <file name="new-god-2015-pic-lores_2x.jpg" crc="503885862" ref="roster"/>
     <file name="view_newgod.png" crc="3913691004" ref="roster"/>
+    <file name="nicole_artist_pic.jpg" crc="496516986" ref="roster"/>
+    <file name="view_nicole.png" crc="468251161" ref="roster"/>
+    <file name="williamalexander_artist_pic.jpg" crc="206980984" ref="roster"/>
+    <file name="williamalexander_artist_pic_2x.jpg" crc="4073603106" ref="roster"/>
+    <file name="view_williamalexander.png" crc="4100340296" ref="roster"/>
   </folder>
-  <file name="index.html" crc="4133400179" mt="1425316142696" redirect="true"/>
-  <file name="roster.html" crc="3879279612" mt="1425317032118" redirect="true"/>
+  <file name="index.html" crc="4133400179" mt="1425317653628" redirect="true"/>
+  <file name="roster.html" crc="276847875" mt="1425327999347" redirect="true"/>
 </manifest>
