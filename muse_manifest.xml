@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425317070374">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425317572020">
   <folder name="css">
     <file name="site_global.css" crc="84678012"/>
     <file name="master_a-master.css" crc="240458646" ref="index:roster"/>
