@@ -1,44 +1,69 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425328033982">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425442570538">
   <folder name="css">
-    <file name="site_global.css" crc="84678012"/>
-    <file name="master_a-master.css" crc="240458646" ref="index:roster"/>
-    <file name="index.css" crc="3926068186" ref="index"/>
-    <file name="roster.css" crc="87865622" ref="roster"/>
+    <file name="site_global.css" crc="192527179"/>
+    <file name="master_a-master.css" crc="30772347" ref="index:roster:about:news:tour:media"/>
+    <file name="index.css" crc="355450600" ref="index"/>
+    <file name="roster.css" crc="6935516" ref="roster"/>
+    <file name="about.css" crc="3895840138" ref="about"/>
+    <file name="news.css" crc="3856046110" ref="news"/>
+    <file name="tour.css" crc="432846950" ref="tour"/>
+    <file name="media.css" crc="50466334" ref="media"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster"/>
-    <file name="museutils.js" crc="3793461109" ref="index:roster"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index:roster"/>
-    <file name="pie.js" crc="3827607177" ref="index:roster"/>
-    <file name="webpro.js" crc="4263367560" ref="index"/>
-    <file name="musewpslideshow.js" crc="126372691" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
-    <file name="touchswipe.js" crc="3796284560" ref="index"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="index:roster"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster:about:media:news:tour"/>
+    <file name="museutils.js" crc="3793461109" ref="index:roster:about:media:news:tour"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="roster:about:news:tour"/>
+    <file name="pie.js" crc="3827607177" ref="roster:about:media"/>
+    <file name="webpro.js" crc="4263367560" ref="index:about:media"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index:about:media"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index:about:media"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index:about:media"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:roster:about:media:news:tour"/>
   </folder>
   <folder name="images">
-    <file name="yellowkoriginal.jpg" crc="4207108047" ref="index"/>
-    <file name="yellow k logo horiz-b-w-trans.png" crc="4069315241" ref="index"/>
-    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="4100493987" ref="index"/>
-    <file name="menu_facebook-01.svg" crc="4191476218" ref="index"/>
-    <file name="menu_twitter-01.svg" crc="4143472261" ref="index"/>
-    <file name="menu_instagram-01.svg" crc="201306675" ref="index"/>
-    <file name="menu_facebook-01_poster_u690.png" crc="3978741991" ref="index"/>
-    <file name="menu_twitter-01_poster_u684.png" crc="241056680" ref="index"/>
-    <file name="menu_instagram-01_poster_u678.png" crc="378560003" ref="index"/>
+    <file name="yellowkoriginal.jpg" crc="4207108047" ref="about"/>
+    <file name="yellow k logo horiz-b-w-trans.png" crc="4069315241" ref="about"/>
+    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="4100493987" ref="about"/>
+    <file name="menu_facebook-01.svg" crc="4191476218" ref="about"/>
+    <file name="menu_twitter-01.svg" crc="4143472261" ref="about"/>
+    <file name="menu_instagram-01.svg" crc="201306675" ref="about"/>
+    <file name="menu_facebook-01_poster_u690.png" crc="3978741991" ref="about"/>
+    <file name="menu_twitter-01_poster_u684.png" crc="241056680" ref="about"/>
+    <file name="menu_instagram-01_poster_u678.png" crc="378560003" ref="about"/>
     <file name="roster_header.jpg" crc="4206350557" ref="roster"/>
-    <file name="seagulls_artist_pic.jpg" crc="3900582285" ref="roster"/>
-    <file name="seagulls_artist_pic_2x.jpg" crc="15886745" ref="roster"/>
+    <file name="seagulls_artist_pic.jpg" crc="3971044185" ref="index"/>
+    <file name="seagulls_artist_pic_2x.jpg" crc="434474825" ref="index"/>
     <file name="view_seagulls.png" crc="493468127" ref="roster"/>
-    <file name="new-god-2015-pic-lores.jpg" crc="3959986211" ref="roster"/>
-    <file name="new-god-2015-pic-lores_2x.jpg" crc="503885862" ref="roster"/>
+    <file name="new-god-2015-pic-lores.jpg" crc="4081543406" ref="index"/>
+    <file name="new-god-2015-pic-lores_2x.jpg" crc="4096684874" ref="index"/>
     <file name="view_newgod.png" crc="3913691004" ref="roster"/>
-    <file name="nicole_artist_pic.jpg" crc="496516986" ref="roster"/>
+    <file name="nicole_artist_pic.jpg" crc="445463022" ref="index"/>
     <file name="view_nicole.png" crc="468251161" ref="roster"/>
-    <file name="williamalexander_artist_pic.jpg" crc="206980984" ref="roster"/>
-    <file name="williamalexander_artist_pic_2x.jpg" crc="4073603106" ref="roster"/>
+    <file name="williamalexander_artist_pic.jpg" crc="296514009" ref="index"/>
+    <file name="williamalexander_artist_pic_2x.jpg" crc="3955131005" ref="index"/>
     <file name="view_williamalexander.png" crc="4100340296" ref="roster"/>
+    <file name="fb-01.svg" crc="513802957" ref="about"/>
+    <file name="fb-01_poster_u1055.png" crc="191633971" ref="about"/>
+    <file name="fb_rollover-01.svg" crc="4234093869" ref="about"/>
+    <file name="fb_rollover-01_poster_u1068.png" crc="4201758671" ref="about"/>
+    <file name="seagulls_artist_pic500x357.jpg" crc="3820877567" ref="roster"/>
+    <file name="seagulls_artist_pic500x357_2x.jpg" crc="4249939400" ref="roster"/>
+    <file name="new-god-2015-pic-lores500x357.jpg" crc="254686130" ref="roster"/>
+    <file name="new-god-2015-pic-lores500x357_2x.jpg" crc="184772201" ref="roster"/>
+    <file name="nicole_artist_pic500x357.jpg" crc="186690790" ref="roster"/>
+    <file name="williamalexander_artist_pic500x358.jpg" crc="4018040151" ref="roster"/>
+    <file name="williamalexander_artist_pic500x358_2x.jpg" crc="3952405874" ref="roster"/>
+    <file name="headphones.jpg" crc="4092767074" ref="news"/>
+    <file name="yellow k logo horiz-b-w.jpg" crc="344571944" ref="index"/>
+    <file name="yellow k logo horiz-b-w_2x.jpg" crc="3918594164" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="tour_header.jpg" crc="410239057" ref="tour"/>
   </folder>
-  <file name="index.html" crc="4133400179" mt="1425317653628" redirect="true"/>
-  <file name="roster.html" crc="276847875" mt="1425327999347" redirect="true"/>
+  <file name="index.html" crc="173193177" mt="1425442481686" redirect="true"/>
+  <file name="roster.html" crc="175859576" mt="1425442481686" redirect="true"/>
+  <file name="about.html" crc="4152406146" mt="1425442481686" redirect="true"/>
+  <file name="media.html" crc="143537189" mt="1425442481686" redirect="true"/>
+  <file name="news.html" crc="3763308346" mt="1425442481686" redirect="true"/>
+  <file name="tour.html" crc="14247853" mt="1425442481686" redirect="true"/>
 </manifest>
