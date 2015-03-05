@@ -1,13 +1,13 @@
 .version.about /* version checker */
 {
-	color: #0000FE;
-	background-color: #3FB231;
+	color: #0000F4;
+	background-color: #1A6B23;
 }
 
 .html
 {
 	background: #FFFFFF url("../images/pianoplayer2.jpg") no-repeat center top scroll;
-	background-size: cover;
+	background-size: contain;
 }
 
 #page
@@ -34,20 +34,20 @@
 
 #u531-26
 {
-	z-index: 47;
-	min-height: 45px;
+	z-index: 46;
+	min-height: 44px;
 	top: 0px;
-	padding: 19px 4px 4px;
+	padding: 20px 4px 4px;
 }
 
 #u531-26-bw
 {
-	z-index: 47;
+	z-index: 46;
 }
 
 #u1439
 {
-	z-index: 76;
+	z-index: 75;
 	width: 158px;
 	top: 0px;
 	left: 7px;
@@ -55,7 +55,7 @@
 
 #u1087
 {
-	z-index: 73;
+	z-index: 72;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -64,7 +64,7 @@
 
 #u1365
 {
-	z-index: 74;
+	z-index: 73;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -73,7 +73,7 @@
 
 #u1384
 {
-	z-index: 75;
+	z-index: 74;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -90,7 +90,7 @@
 
 #pamphletu398
 {
-	z-index: 4;
+	z-index: 3;
 	width: 0.01px;
 	height: 48px;
 	padding-bottom: 376px;
@@ -100,7 +100,7 @@
 
 #u405
 {
-	z-index: 5;
+	z-index: 4;
 	width: 677px;
 	position: relative;
 	margin-right: -10000px;
@@ -141,14 +141,14 @@
 
 #u427-4
 {
-	z-index: 7;
+	z-index: 6;
 	width: 178px;
 	min-height: 38px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -197,14 +197,14 @@
 
 #u519-4
 {
-	z-index: 12;
+	z-index: 11;
 	width: 178px;
 	min-height: 38px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -265,14 +265,14 @@
 
 #u522-4
 {
-	z-index: 17;
+	z-index: 16;
 	width: 178px;
 	min-height: 38px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -321,12 +321,12 @@
 
 #u401popup
 {
-	z-index: 21;
+	z-index: 20;
 }
 
 #u403
 {
-	z-index: 22;
+	z-index: 21;
 	width: 1162px;
 	height: 321px;
 	border-style: none;
@@ -339,7 +339,7 @@
 
 #u523-6
 {
-	z-index: 23;
+	z-index: 22;
 	width: 1048px;
 	min-height: 218px;
 	border-width: 10px;
@@ -348,10 +348,10 @@
 	background-color: transparent;
 	border-radius: 1800px;
 	padding: 21px;
+	line-height: 35px;
 	color: #333333;
 	text-align: center;
 	font-size: 29px;
-	line-height: 35px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -362,7 +362,7 @@
 
 #u1477
 {
-	z-index: 29;
+	z-index: 28;
 	width: 277px;
 	background-color: transparent;
 	position: relative;
@@ -373,7 +373,7 @@
 
 #u1483
 {
-	z-index: 31;
+	z-index: 30;
 	width: 285px;
 	height: 159px;
 	border-width: 2px;
@@ -388,7 +388,7 @@
 
 #u404
 {
-	z-index: 32;
+	z-index: 31;
 	width: 1162px;
 	height: 321px;
 	border-style: none;
@@ -401,7 +401,7 @@
 
 #u527-4
 {
-	z-index: 33;
+	z-index: 32;
 	width: 1048px;
 	min-height: 218px;
 	border-width: 10px;
@@ -410,10 +410,10 @@
 	background-color: transparent;
 	border-radius: 180px;
 	padding: 21px;
+	line-height: 35px;
 	color: #333333;
 	text-align: center;
 	font-size: 29px;
-	line-height: 35px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -431,7 +431,7 @@
 
 #u402
 {
-	z-index: 37;
+	z-index: 36;
 	width: 1162px;
 	height: 321px;
 	border-style: none;
@@ -444,7 +444,7 @@
 
 #u528-4
 {
-	z-index: 38;
+	z-index: 37;
 	width: 1048px;
 	min-height: 218px;
 	border-width: 10px;
@@ -453,10 +453,10 @@
 	background-color: transparent;
 	border-radius: 158px;
 	padding: 21px;
+	line-height: 35px;
 	color: #333333;
 	text-align: center;
 	font-size: 29px;
-	line-height: 35px;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -475,16 +475,6 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
-}
-
-#u853
-{
-	z-index: 3;
-	width: 50px;
-	min-height: 50px;
-	left: -100px;
-	top: -179px;
-	margin-bottom: -50px;
 }
 
 #u787
@@ -506,7 +496,7 @@
 
 #u855
 {
-	z-index: 42;
+	z-index: 41;
 	width: 50px;
 	min-height: 50px;
 	border-style: none;
@@ -520,7 +510,7 @@
 
 #u532-4
 {
-	z-index: 43;
+	z-index: 42;
 	min-height: 39px;
 	padding-left: 20px;
 	padding-top: 25px;
@@ -529,7 +519,7 @@
 
 #u532-4-bw
 {
-	z-index: 43;
+	z-index: 42;
 	min-height: 39px;
 }
 

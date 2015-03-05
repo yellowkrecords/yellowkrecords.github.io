@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #000004;
-	background-color: #9A88AA;
+	color: #00000F;
+	background-color: #010556;
 }
 
 .html
@@ -36,20 +36,20 @@
 
 #u531-26
 {
-	z-index: 20;
-	min-height: 45px;
+	z-index: 19;
+	min-height: 44px;
 	top: 0px;
-	padding: 19px 4px 4px;
+	padding: 20px 4px 4px;
 }
 
 #u531-26-bw
 {
-	z-index: 20;
+	z-index: 19;
 }
 
 #u1439
 {
-	z-index: 49;
+	z-index: 48;
 	width: 158px;
 	top: 0px;
 	left: 7px;
@@ -57,7 +57,7 @@
 
 #u1087
 {
-	z-index: 46;
+	z-index: 45;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -66,7 +66,7 @@
 
 #u1365
 {
-	z-index: 47;
+	z-index: 46;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -75,7 +75,7 @@
 
 #u1384
 {
-	z-index: 48;
+	z-index: 47;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -98,7 +98,7 @@
 
 #u864
 {
-	z-index: 6;
+	z-index: 5;
 	width: 500px;
 	border-width: 9px;
 	border-style: solid;
@@ -114,7 +114,7 @@
 
 #u873
 {
-	z-index: 9;
+	z-index: 8;
 	width: 500px;
 	height: 357px;
 	opacity: 0;
@@ -154,7 +154,7 @@
 
 #u750
 {
-	z-index: 4;
+	z-index: 3;
 	width: 500px;
 	border-width: 9px;
 	border-style: solid;
@@ -170,7 +170,7 @@
 
 #u827
 {
-	z-index: 8;
+	z-index: 7;
 	width: 500px;
 	height: 357px;
 	opacity: 0;
@@ -218,7 +218,7 @@
 
 #u915
 {
-	z-index: 13;
+	z-index: 12;
 	width: 500px;
 	border-width: 9px;
 	border-style: solid;
@@ -234,7 +234,7 @@
 
 #u921
 {
-	z-index: 15;
+	z-index: 14;
 	width: 500px;
 	height: 357px;
 	opacity: 0;
@@ -267,7 +267,7 @@
 
 #u896
 {
-	z-index: 10;
+	z-index: 9;
 	width: 500px;
 	border-width: 9px;
 	border-style: solid;
@@ -288,7 +288,7 @@
 
 #u902
 {
-	z-index: 12;
+	z-index: 11;
 	width: 500px;
 	height: 357px;
 	opacity: 0;
@@ -326,16 +326,6 @@
 	filter: alpha(opacity=88);
 }
 
-#u853
-{
-	z-index: 3;
-	width: 50px;
-	min-height: 50px;
-	left: -100px;
-	top: -102px;
-	margin-bottom: -50px;
-}
-
 #u787
 {
 	z-index: 2;
@@ -348,7 +338,7 @@
 
 #u532-4
 {
-	z-index: 16;
+	z-index: 15;
 	min-height: 39px;
 	padding-left: 20px;
 	padding-top: 25px;
@@ -357,7 +347,7 @@
 
 #u532-4-bw
 {
-	z-index: 16;
+	z-index: 15;
 	min-height: 39px;
 	margin-top: 63px;
 }

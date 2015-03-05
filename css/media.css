@@ -1,13 +1,13 @@
 .version.media /* version checker */
 {
-	color: #000002;
-	background-color: #BE7206;
+	color: #000013;
+	background-color: #3A0ED8;
 }
 
 .html
 {
 	background: #FFFFFF url("../images/headphones.jpg") no-repeat center top scroll;
-	background-size: cover;
+	background-size: contain;
 }
 
 #page
@@ -35,20 +35,20 @@
 
 #u531-26
 {
-	z-index: 14;
-	min-height: 45px;
+	z-index: 13;
+	min-height: 44px;
 	top: 0px;
-	padding: 19px 4px 4px;
+	padding: 20px 4px 4px;
 }
 
 #u531-26-bw
 {
-	z-index: 14;
+	z-index: 13;
 }
 
 #u1439
 {
-	z-index: 43;
+	z-index: 42;
 	width: 158px;
 	top: 0px;
 	left: 7px;
@@ -56,7 +56,7 @@
 
 #u1087
 {
-	z-index: 40;
+	z-index: 39;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -65,7 +65,7 @@
 
 #u1365
 {
-	z-index: 41;
+	z-index: 40;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -74,7 +74,7 @@
 
 #u1384
 {
-	z-index: 42;
+	z-index: 41;
 	width: 38px;
 	height: 42px;
 	top: 11px;
@@ -91,7 +91,7 @@
 
 #pamphletu938
 {
-	z-index: 4;
+	z-index: 3;
 	width: 0.01px;
 	height: 322px;
 	margin-left: 244px;
@@ -100,7 +100,7 @@
 
 #u950
 {
-	z-index: 5;
+	z-index: 4;
 	width: 514px;
 	margin-bottom: -1px;
 	position: relative;
@@ -152,12 +152,12 @@
 
 #u943popup
 {
-	z-index: 7;
+	z-index: 6;
 }
 
 #u948
 {
-	z-index: 8;
+	z-index: 7;
 	width: 743px;
 	height: 466px;
 	border-style: none;
@@ -171,7 +171,7 @@
 
 #u956
 {
-	z-index: 9;
+	z-index: 8;
 	width: 743px;
 	min-height: 466px;
 	border-style: none;
@@ -186,16 +186,6 @@
 	cursor: pointer;
 }
 
-#u853
-{
-	z-index: 3;
-	width: 50px;
-	min-height: 50px;
-	left: -100px;
-	top: -181px;
-	margin-bottom: -50px;
-}
-
 #u787
 {
 	z-index: 2;
@@ -208,7 +198,7 @@
 
 #u532-4
 {
-	z-index: 10;
+	z-index: 9;
 	min-height: 39px;
 	padding-left: 20px;
 	padding-top: 25px;
@@ -217,7 +207,7 @@
 
 #u532-4-bw
 {
-	z-index: 10;
+	z-index: 9;
 	min-height: 39px;
 	margin-top: 25px;
 }

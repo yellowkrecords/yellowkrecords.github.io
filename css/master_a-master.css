@@ -1,10 +1,10 @@
 #u531-26
 {
-	color: #FFFFFF;
 	text-align: center;
 	font-size: 23px;
-	line-height: 28px;
 	letter-spacing: 4px;
+	color: #FFFFFF;
+	line-height: 28px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
 }
@@ -132,7 +132,7 @@
 	background-image: url('../images/insta_rollover_poster_u1391.png');
 }
 
-#u853,#u787
+#u787
 {
 	border-style: none;
 	border-color: transparent;

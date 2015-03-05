@@ -247,36 +247,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/homebg2.png</loc>
-    <lastmod>2015-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/occidental_record_logo-01.svg</loc>
-    <lastmod>2015-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/occidental_record_logo-01_poster_.png</loc>
-    <lastmod>2015-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/occidental_record_logo_records-01.svg</loc>
-    <lastmod>2015-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/occidental_record_logo_records-01_poster_.png</loc>
-    <lastmod>2015-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic561x400.jpg</loc>
     <lastmod>2015-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -284,6 +254,18 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic561x400_2x.jpg</loc>
+    <lastmod>2015-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yello-k-logo-box-b-w.jpg</loc>
+    <lastmod>2015-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yello-k-logo-box-b-w_2x.jpg</loc>
     <lastmod>2015-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

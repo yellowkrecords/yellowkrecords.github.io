@@ -1,18 +1,18 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425533116614">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425599203338">
   <folder name="css">
-    <file name="site_global.css" crc="84678012"/>
-    <file name="master_a-master.css" crc="4134515913" ref="index:roster:about:tour:media:releases"/>
-    <file name="index.css" crc="64434280" ref="index"/>
-    <file name="roster.css" crc="77236394" ref="roster"/>
-    <file name="about.css" crc="4265587249" ref="about"/>
-    <file name="tour.css" crc="4068079498" ref="tour"/>
-    <file name="media.css" crc="46035462" ref="media"/>
-    <file name="releases.css" crc="57858026" ref="releases"/>
+    <file name="site_global.css" crc="192527179"/>
+    <file name="master_a-master.css" crc="273589630" ref="index:roster:about:tour:media:releases"/>
+    <file name="index.css" crc="3974735377" ref="index"/>
+    <file name="roster.css" crc="251725142" ref="roster"/>
+    <file name="about.css" crc="4095372067" ref="about"/>
+    <file name="tour.css" crc="986305" ref="tour"/>
+    <file name="media.css" crc="322571992" ref="media"/>
+    <file name="releases.css" crc="4098104086" ref="releases"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster:about:media:tour:releases"/>
     <file name="museutils.js" crc="3793461109" ref="index:roster:about:media:tour:releases"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="roster:about:tour:media:releases:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="roster:about:tour:media:releases"/>
     <file name="pie.js" crc="3827607177" ref="roster:about:media"/>
     <file name="webpro.js" crc="4263367560" ref="index:about:media"/>
     <file name="musewpslideshow.js" crc="126372691" ref="index:about:media"/>
@@ -42,14 +42,14 @@
     <file name="nicole_artist_pic500x357.jpg" crc="186690790" ref="roster"/>
     <file name="williamalexander_artist_pic500x358.jpg" crc="4154834243" ref="roster"/>
     <file name="williamalexander_artist_pic500x358_2x.jpg" crc="4111928011" ref="roster"/>
-    <file name="headphones.jpg" crc="4092767074" ref="media"/>
+    <file name="headphones.jpg" crc="4180052624" ref="media"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="410239057" ref="tour"/>
     <file name="fb-01-01.svg" crc="4190058772" ref="about"/>
     <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about"/>
     <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
-    <file name="pianoplayer2.jpg" crc="532115151" ref="about"/>
+    <file name="pianoplayer2.jpg" crc="4025525862" ref="about"/>
     <file name="menul_logo.png" crc="3813404673" ref="about:roster:media:releases:index:tour"/>
     <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:media:releases:index:tour"/>
     <file name="twiiter-01.svg" crc="4212934312" ref="about"/>
@@ -62,18 +62,15 @@
     <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
     <file name="yellowkoriginal_2x.jpg" crc="4073498356" ref="about"/>
     <file name="recordplayer1.jpg" crc="482599654" ref="releases"/>
-    <file name="homebg2.png" crc="404712807" ref="index"/>
-    <file name="occidental_record_logo-01.svg" crc="3853420031" ref="index"/>
-    <file name="occidental_record_logo-01_poster_.png" crc="497971157" ref="index"/>
-    <file name="occidental_record_logo_records-01.svg" crc="141288512" ref="index"/>
-    <file name="occidental_record_logo_records-01_poster_.png" crc="4285690393" ref="index"/>
     <file name="williamalexander_artist_pic561x400.jpg" crc="4053222989" ref="index"/>
     <file name="williamalexander_artist_pic561x400_2x.jpg" crc="3981360157" ref="index"/>
+    <file name="yello-k-logo-box-b-w.jpg" crc="3935442206" ref="index"/>
+    <file name="yello-k-logo-box-b-w_2x.jpg" crc="38671055" ref="index"/>
   </folder>
-  <file name="index.html" crc="373169361" mt="1425532886928" redirect="true"/>
-  <file name="roster.html" crc="4010760676" mt="1425532886928" redirect="true"/>
-  <file name="about.html" crc="3993735365" mt="1425532886928" redirect="true"/>
-  <file name="media.html" crc="370573387" mt="1425533099652" redirect="true"/>
-  <file name="tour.html" crc="169703536" mt="1425532886928" redirect="true"/>
-  <file name="releases.html" crc="4058009787" mt="1425532886928" redirect="true"/>
+  <file name="index.html" crc="4119726922" mt="1425599187312" redirect="true"/>
+  <file name="roster.html" crc="423451403" mt="1425593690728" redirect="true"/>
+  <file name="about.html" crc="3803445259" mt="1425599085197" redirect="true"/>
+  <file name="media.html" crc="427542265" mt="1425593690728" redirect="true"/>
+  <file name="tour.html" crc="3842952073" mt="1425593690728" redirect="true"/>
+  <file name="releases.html" crc="3815064319" mt="1425593690728" redirect="true"/>
 </manifest>
