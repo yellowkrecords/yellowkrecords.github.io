@@ -1,11 +1,11 @@
-#u531-16
+#u531-26
 {
-	line-height: 32px;
-	text-align: center;
-	font-size: 27px;
-	letter-spacing: 4px;
 	color: #FFFFFF;
-	font-family: Courier New, Courier, monospace;
+	text-align: center;
+	font-size: 23px;
+	line-height: 28px;
+	letter-spacing: 4px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
 }
 
@@ -22,22 +22,37 @@
 	letter-spacing: 3px;
 }
 
-#u531-2,#u531-4,#u531-7,#u531-9,#u531-11
+#u531-2,#u531-4,#u531-7,#u531-9,#u531-11,#u531-13,#u531-15,#u531-17,#u531-19,#u531-21
 {
 	letter-spacing: 11px;
 }
 
+#u1439
+{
+	background-color: transparent;
+	position: fixed;
+}
+
 #u1087
 {
-	border-style: none;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
 	position: fixed;
-	background: transparent url("../images/fb-01-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
 #u1087:hover
 {
 	background: transparent url("../images/fb_rollover-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.big_menu_facebook
+{
+	border-style: none;
+	border-color: #000000;
+	background: transparent url("../images/fb-01-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -51,106 +66,73 @@
 	background-image: url('../images/fb_rollover-01_poster_u1352.png');
 }
 
-#buttonu571
+#u1365
 {
 	background-repeat: no-repeat;
-	background-position: center top;
+	background-position: center center;
 	background-color: transparent;
 	position: fixed;
-	background-size: auto;
+	background-size: contain;
 }
 
-#buttonu571:hover
+#u1365:hover
 {
-	background-repeat: no-repeat;
-	background-position: center bottom;
+	background: transparent url("../images/twiiter_rollover-01.svg") no-repeat center center;
+	background-size: contain;
 }
 
-#buttonu571.ButtonSelected
-{
-	background-repeat: no-repeat;
-	background-position: center top;
-}
-
-.menu_fb
+.big_menu_twitter
 {
 	border-style: none;
-	border-color: #787878;
-	background: transparent url("../images/menu_facebook-01.svg") no-repeat center top;
-	background-size: cover;
+	border-color: #000000;
+	background: transparent url("../images/twiiter-01.svg") no-repeat center center;
+	background-size: contain;
 }
 
-.nosvg #buttonu571
+.nosvg #u1365
 {
-	background-image: url('../images/menu_facebook-01_poster_u1358.png');
+	background-image: url('../images/twiiter-01_poster_u1372.png');
 }
 
-#buttonu596
+.nosvg #u1365:hover
+{
+	background-image: url('../images/twiiter_rollover-01_poster_u1378.png');
+}
+
+#u1384
 {
 	background-repeat: no-repeat;
-	background-position: center top;
+	background-position: center center;
 	background-color: transparent;
 	position: fixed;
-	background-size: cover;
+	background-size: contain;
 }
 
-#buttonu596:hover
+#u1384:hover
 {
-	background-repeat: no-repeat;
-	background-position: center bottom;
-	background-size: cover;
+	background: transparent url("../images/insta_rollover.svg") no-repeat center center;
+	background-size: contain;
 }
 
-.menu_twitter
-{
-	border-style: none;
-	border-color: #787878;
-	background: transparent url("../images/menu_twitter-01.svg") no-repeat center top;
-	background-size: cover;
-}
-
-.nosvg #buttonu596
-{
-	background-image: url('../images/menu_twitter-01_poster_u684.png');
-}
-
-#buttonu657
-{
-	background-repeat: no-repeat;
-	background-position: center top;
-	background-color: transparent;
-	position: fixed;
-	background-size: cover;
-}
-
-#buttonu657:hover
-{
-	background-repeat: no-repeat;
-	background-position: center bottom;
-	background-size: cover;
-}
-
-#buttonu596.ButtonSelected,#buttonu657.ButtonSelected
-{
-	background-repeat: no-repeat;
-	background-position: center top;
-	background-size: cover;
-}
-
-.menu_insta
+.big_menu_insta
 {
 	border-style: none;
-	border-color: #787878;
-	background: transparent url("../images/menu_instagram-01.svg") no-repeat center top;
-	background-size: cover;
+	border-color: #000000;
+	background: transparent url("../images/insta-01.svg") no-repeat center center;
+	background-size: contain;
 }
 
-.nosvg #buttonu657
+.nosvg #u1384
 {
-	background-image: url('../images/menu_instagram-01_poster_u678.png');
+	background-image: url('../images/insta-01_poster_u1385.png');
 }
 
-#u1091,#u853,#u787
+.nosvg #u1384:hover
+{
+	background-image: url('../images/insta_rollover_poster_u1391.png');
+}
+
+#u853,#u787
 {
 	border-style: none;
 	border-color: transparent;

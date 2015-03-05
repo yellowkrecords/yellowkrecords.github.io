@@ -1,34 +1,27 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425520580217">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425533116614">
   <folder name="css">
-    <file name="site_global.css" crc="192527179"/>
-    <file name="master_a-master.css" crc="4138982398" ref="index:roster:about:news:tour:media"/>
-    <file name="index.css" crc="355450600" ref="index"/>
-    <file name="roster.css" crc="6935516" ref="roster"/>
-    <file name="about.css" crc="3895840138" ref="about"/>
-    <file name="news.css" crc="3856046110" ref="news"/>
-    <file name="tour.css" crc="432846950" ref="tour"/>
-    <file name="media.css" crc="50466334" ref="media"/>
+    <file name="site_global.css" crc="84678012"/>
+    <file name="master_a-master.css" crc="4134515913" ref="index:roster:about:tour:media:releases"/>
+    <file name="index.css" crc="64434280" ref="index"/>
+    <file name="roster.css" crc="77236394" ref="roster"/>
+    <file name="about.css" crc="4265587249" ref="about"/>
+    <file name="tour.css" crc="4068079498" ref="tour"/>
+    <file name="media.css" crc="46035462" ref="media"/>
+    <file name="releases.css" crc="57858026" ref="releases"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster:about:media:news:tour"/>
-    <file name="museutils.js" crc="3793461109" ref="index:roster:about:media:news:tour"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="roster:about:news:tour"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster:about:media:tour:releases"/>
+    <file name="museutils.js" crc="3793461109" ref="index:roster:about:media:tour:releases"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="roster:about:tour:media:releases:index"/>
     <file name="pie.js" crc="3827607177" ref="roster:about:media"/>
     <file name="webpro.js" crc="4263367560" ref="index:about:media"/>
     <file name="musewpslideshow.js" crc="126372691" ref="index:about:media"/>
     <file name="jquery.museoverlay.js" crc="3946374898" ref="index:about:media"/>
     <file name="touchswipe.js" crc="3796284560" ref="index:about:media"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="index:roster:about:media:news:tour"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:roster:about:media:tour:releases"/>
   </folder>
   <folder name="images">
-    <file name="yellowkoriginal.jpg" crc="4126731831" ref="about"/>
-    <file name="yellow k logo horiz-b-w-trans.png" crc="4069315241" ref="about"/>
-    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="4100493987" ref="about"/>
-    <file name="menu_facebook-01.svg" crc="79372480" ref="about"/>
-    <file name="menu_twitter-01.svg" crc="4143472261" ref="about"/>
-    <file name="menu_instagram-01.svg" crc="201306675" ref="about"/>
-    <file name="menu_twitter-01_poster_u684.png" crc="241056680" ref="about"/>
-    <file name="menu_instagram-01_poster_u678.png" crc="378560003" ref="about"/>
+    <file name="yellowkoriginal.jpg" crc="4290402004" ref="about"/>
     <file name="roster_header.jpg" crc="4206350557" ref="roster"/>
     <file name="seagulls_artist_pic.jpg" crc="3971044185" ref="index"/>
     <file name="seagulls_artist_pic_2x.jpg" crc="434474825" ref="index"/>
@@ -38,8 +31,8 @@
     <file name="view_newgod.png" crc="3913691004" ref="roster"/>
     <file name="nicole_artist_pic.jpg" crc="445463022" ref="index"/>
     <file name="view_nicole.png" crc="468251161" ref="roster"/>
-    <file name="williamalexander_artist_pic.jpg" crc="296514009" ref="index"/>
-    <file name="williamalexander_artist_pic_2x.jpg" crc="3955131005" ref="index"/>
+    <file name="williamalexander_artist_pic.jpg" crc="97051264" ref="media"/>
+    <file name="williamalexander_artist_pic_2x.jpg" crc="3765326578" ref="media"/>
     <file name="view_williamalexander.png" crc="4100340296" ref="roster"/>
     <file name="fb_rollover-01.svg" crc="4037678609" ref="about"/>
     <file name="seagulls_artist_pic500x357.jpg" crc="3820877567" ref="roster"/>
@@ -47,23 +40,40 @@
     <file name="new-god-2015-pic-lores500x357.jpg" crc="254686130" ref="roster"/>
     <file name="new-god-2015-pic-lores500x357_2x.jpg" crc="184772201" ref="roster"/>
     <file name="nicole_artist_pic500x357.jpg" crc="186690790" ref="roster"/>
-    <file name="williamalexander_artist_pic500x358.jpg" crc="4018040151" ref="roster"/>
-    <file name="williamalexander_artist_pic500x358_2x.jpg" crc="3952405874" ref="roster"/>
-    <file name="headphones.jpg" crc="4092767074" ref="news"/>
-    <file name="yellow k logo horiz-b-w.jpg" crc="344571944" ref="index"/>
-    <file name="yellow k logo horiz-b-w_2x.jpg" crc="3918594164" ref="index"/>
+    <file name="williamalexander_artist_pic500x358.jpg" crc="4154834243" ref="roster"/>
+    <file name="williamalexander_artist_pic500x358_2x.jpg" crc="4111928011" ref="roster"/>
+    <file name="headphones.jpg" crc="4092767074" ref="media"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="410239057" ref="tour"/>
     <file name="fb-01-01.svg" crc="4190058772" ref="about"/>
     <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about"/>
     <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
-    <file name="menu_facebook-01_poster_u1358.png" crc="152510912" ref="about"/>
+    <file name="pianoplayer2.jpg" crc="532115151" ref="about"/>
+    <file name="menul_logo.png" crc="3813404673" ref="about:roster:media:releases:index:tour"/>
+    <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:media:releases:index:tour"/>
+    <file name="twiiter-01.svg" crc="4212934312" ref="about"/>
+    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about"/>
+    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about"/>
+    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about"/>
+    <file name="insta-01.svg" crc="316478732" ref="about"/>
+    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about"/>
+    <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
+    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
+    <file name="yellowkoriginal_2x.jpg" crc="4073498356" ref="about"/>
+    <file name="recordplayer1.jpg" crc="482599654" ref="releases"/>
+    <file name="homebg2.png" crc="404712807" ref="index"/>
+    <file name="occidental_record_logo-01.svg" crc="3853420031" ref="index"/>
+    <file name="occidental_record_logo-01_poster_.png" crc="497971157" ref="index"/>
+    <file name="occidental_record_logo_records-01.svg" crc="141288512" ref="index"/>
+    <file name="occidental_record_logo_records-01_poster_.png" crc="4285690393" ref="index"/>
+    <file name="williamalexander_artist_pic561x400.jpg" crc="4053222989" ref="index"/>
+    <file name="williamalexander_artist_pic561x400_2x.jpg" crc="3981360157" ref="index"/>
   </folder>
-  <file name="index.html" crc="3842245725" mt="1425520493224" redirect="true"/>
-  <file name="roster.html" crc="4223933307" mt="1425520493224" redirect="true"/>
-  <file name="about.html" crc="216793473" mt="1425520493224" redirect="true"/>
-  <file name="media.html" crc="339673658" mt="1425520493224" redirect="true"/>
-  <file name="news.html" crc="4251613100" mt="1425520493224" redirect="true"/>
-  <file name="tour.html" crc="326613522" mt="1425520493224" redirect="true"/>
+  <file name="index.html" crc="373169361" mt="1425532886928" redirect="true"/>
+  <file name="roster.html" crc="4010760676" mt="1425532886928" redirect="true"/>
+  <file name="about.html" crc="3993735365" mt="1425532886928" redirect="true"/>
+  <file name="media.html" crc="370573387" mt="1425533099652" redirect="true"/>
+  <file name="tour.html" crc="169703536" mt="1425532886928" redirect="true"/>
+  <file name="releases.html" crc="4058009787" mt="1425532886928" redirect="true"/>
 </manifest>

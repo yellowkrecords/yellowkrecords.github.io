@@ -1,13 +1,13 @@
-.version.tour /* version checker */
+.version.releases /* version checker */
 {
-	color: #0000F2;
-	background-color: #79F78A;
+	color: #000003;
+	background-color: #72D7EA;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/tour_header.jpg") no-repeat center top scroll;
-	background-size: contain;
+	background: #000000 url("../images/recordplayer1.jpg") no-repeat center top scroll;
+	background-size: cover;
 }
 
 #page

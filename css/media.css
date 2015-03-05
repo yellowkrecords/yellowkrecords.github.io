@@ -1,110 +1,87 @@
 .version.media /* version checker */
 {
-	color: #000003;
-	background-color: #020E1E;
+	color: #000002;
+	background-color: #BE7206;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background: #FFFFFF url("../images/headphones.jpg") no-repeat center top scroll;
+	background-size: cover;
 }
 
 #page
 {
 	z-index: 1;
 	width: 1000px;
-	min-height: 500px;
+	min-height: 499.95000000000005px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-top: 77px;
+	padding-top: 89px;
 	width: 0.01px;
 }
 
-#u531-16
+#u531-26
 {
-	z-index: 15;
-	min-height: 34px;
-	padding: 4px;
+	z-index: 14;
+	min-height: 45px;
 	top: 0px;
+	padding: 19px 4px 4px;
 }
 
-#u531-16-bw
+#u531-26-bw
 {
-	z-index: 15;
+	z-index: 14;
+}
+
+#u1439
+{
+	z-index: 43;
+	width: 158px;
+	top: 0px;
+	left: 7px;
 }
 
 #u1087
 {
-	z-index: 31;
+	z-index: 40;
 	width: 38px;
 	height: 42px;
-	top: 0px;
-	left: 195px;
+	top: 11px;
+	right: 138px;
 }
 
-#buttonu571
+#u1365
 {
-	z-index: 32;
+	z-index: 41;
 	width: 38px;
 	height: 42px;
-	top: 0px;
-	right: 120px;
+	top: 11px;
+	right: 90px;
 }
 
-#u1087:hover,#buttonu571:hover
+#u1384
 {
+	z-index: 42;
 	width: 38px;
 	height: 42px;
-	min-height: 0px;
-	margin: 0px;
+	top: 11px;
+	right: 42px;
 }
 
-#buttonu596
-{
-	z-index: 33;
-	width: 38px;
-	height: 42px;
-	top: 0px;
-	right: 77px;
-}
-
-#buttonu571.ButtonSelected,#buttonu596:hover
-{
-	width: 38px;
-	height: 42px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#buttonu657
-{
-	z-index: 34;
-	width: 38px;
-	height: 42px;
-	top: 0px;
-	right: 34px;
-}
-
-#buttonu596.ButtonSelected,#buttonu657:hover
-{
-	width: 38px;
-	height: 42px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#buttonu657.ButtonSelected
+#u1087:hover,#u1365:hover,#u1384:hover
 {
 	width: 38px;
 	height: 42px;
@@ -114,16 +91,16 @@
 
 #pamphletu938
 {
-	z-index: 5;
+	z-index: 4;
 	width: 0.01px;
 	height: 322px;
-	margin-left: 329px;
+	margin-left: 244px;
 	position: relative;
 }
 
 #u950
 {
-	z-index: 6;
+	z-index: 5;
 	width: 514px;
 	margin-bottom: -1px;
 	position: relative;
@@ -138,16 +115,25 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #DEDEDE;
-	background-color: #DEDEDE;
+	background: #DEDEDE url("../images/williamalexander_artist_pic.jpg") no-repeat left top;
 }
 
 #u951:hover
 {
+	background-repeat: no-repeat;
+	background-position: left top;
 	border-color: #999999;
 	width: 512px;
 	height: 321px;
 	min-height: 0px;
 	margin: 0px;
+	background-size: auto;
+}
+
+.hidpi #u951
+{
+	background-image: url("../images/williamalexander_artist_pic_2x.jpg");
+	background-size: 680.5px 486px;
 }
 
 #u943
@@ -166,12 +152,12 @@
 
 #u943popup
 {
-	z-index: 8;
+	z-index: 7;
 }
 
 #u948
 {
-	z-index: 9;
+	z-index: 8;
 	width: 743px;
 	height: 466px;
 	border-style: none;
@@ -185,7 +171,7 @@
 
 #u956
 {
-	z-index: 10;
+	z-index: 9;
 	width: 743px;
 	min-height: 466px;
 	border-style: none;
@@ -200,23 +186,13 @@
 	cursor: pointer;
 }
 
-#u1091
-{
-	z-index: 4;
-	width: 50px;
-	min-height: 50px;
-	left: -33px;
-	top: -280px;
-	margin-bottom: -50px;
-}
-
 #u853
 {
 	z-index: 3;
 	width: 50px;
 	min-height: 50px;
 	left: -100px;
-	top: -169px;
+	top: -181px;
 	margin-bottom: -50px;
 }
 
@@ -225,14 +201,14 @@
 	z-index: 2;
 	width: 50px;
 	min-height: 50px;
-	left: -83px;
-	top: -20px;
-	margin-bottom: -20px;
+	left: -100px;
+	top: -88px;
+	margin-bottom: -50px;
 }
 
 #u532-4
 {
-	z-index: 11;
+	z-index: 10;
 	min-height: 39px;
 	padding-left: 20px;
 	padding-top: 25px;
@@ -241,9 +217,9 @@
 
 #u532-4-bw
 {
-	z-index: 11;
+	z-index: 10;
 	min-height: 39px;
-	margin-top: 7px;
+	margin-top: 25px;
 }
 
 body
