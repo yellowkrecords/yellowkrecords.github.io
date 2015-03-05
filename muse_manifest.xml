@@ -1,7 +1,7 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425442570538">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425520221653">
   <folder name="css">
     <file name="site_global.css" crc="192527179"/>
-    <file name="master_a-master.css" crc="30772347" ref="index:roster:about:news:tour:media"/>
+    <file name="master_a-master.css" crc="4134855291" ref="index:roster:about:news:tour:media"/>
     <file name="index.css" crc="355450600" ref="index"/>
     <file name="roster.css" crc="6935516" ref="roster"/>
     <file name="about.css" crc="3895840138" ref="about"/>
@@ -21,7 +21,7 @@
     <file name="jquery.watch.js" crc="3766403489" ref="index:roster:about:media:news:tour"/>
   </folder>
   <folder name="images">
-    <file name="yellowkoriginal.jpg" crc="4207108047" ref="about"/>
+    <file name="yellowkoriginal.jpg" crc="4126731831" ref="about"/>
     <file name="yellow k logo horiz-b-w-trans.png" crc="4069315241" ref="about"/>
     <file name="yellow k logo horiz-b-w-trans_2x.png" crc="4100493987" ref="about"/>
     <file name="menu_facebook-01.svg" crc="4191476218" ref="about"/>
@@ -42,10 +42,7 @@
     <file name="williamalexander_artist_pic.jpg" crc="296514009" ref="index"/>
     <file name="williamalexander_artist_pic_2x.jpg" crc="3955131005" ref="index"/>
     <file name="view_williamalexander.png" crc="4100340296" ref="roster"/>
-    <file name="fb-01.svg" crc="513802957" ref="about"/>
-    <file name="fb-01_poster_u1055.png" crc="191633971" ref="about"/>
-    <file name="fb_rollover-01.svg" crc="4234093869" ref="about"/>
-    <file name="fb_rollover-01_poster_u1068.png" crc="4201758671" ref="about"/>
+    <file name="fb_rollover-01.svg" crc="4037678609" ref="about"/>
     <file name="seagulls_artist_pic500x357.jpg" crc="3820877567" ref="roster"/>
     <file name="seagulls_artist_pic500x357_2x.jpg" crc="4249939400" ref="roster"/>
     <file name="new-god-2015-pic-lores500x357.jpg" crc="254686130" ref="roster"/>
@@ -59,11 +56,14 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="410239057" ref="tour"/>
+    <file name="fb-01-01.svg" crc="4190058772" ref="about"/>
+    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about"/>
+    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
   </folder>
-  <file name="index.html" crc="173193177" mt="1425442481686" redirect="true"/>
-  <file name="roster.html" crc="175859576" mt="1425442481686" redirect="true"/>
-  <file name="about.html" crc="4152406146" mt="1425442481686" redirect="true"/>
-  <file name="media.html" crc="143537189" mt="1425442481686" redirect="true"/>
-  <file name="news.html" crc="3763308346" mt="1425442481686" redirect="true"/>
-  <file name="tour.html" crc="14247853" mt="1425442481686" redirect="true"/>
+  <file name="index.html" crc="3842245725" mt="1425520165692" redirect="true"/>
+  <file name="roster.html" crc="4223933307" mt="1425520165692" redirect="true"/>
+  <file name="about.html" crc="216793473" mt="1425520165692" redirect="true"/>
+  <file name="media.html" crc="339673658" mt="1425520165692" redirect="true"/>
+  <file name="news.html" crc="4251613100" mt="1425520165692" redirect="true"/>
+  <file name="tour.html" crc="326613522" mt="1425520165692" redirect="true"/>
 </manifest>

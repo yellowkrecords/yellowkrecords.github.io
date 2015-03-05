@@ -29,10 +29,9 @@
 
 #u1087
 {
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-color: transparent;
+	border-style: none;
 	position: fixed;
+	background: transparent url("../images/fb-01-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -42,22 +41,14 @@
 	background-size: contain;
 }
 
-.facebook
-{
-	border-style: none;
-	border-color: #000000;
-	background: transparent url("../images/fb-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
 .nosvg #u1087
 {
-	background-image: url('../images/fb-01_poster_u1055.png');
+	background-image: url('../images/fb-01-01_poster_u1346.png');
 }
 
 .nosvg #u1087:hover
 {
-	background-image: url('../images/fb_rollover-01_poster_u1068.png');
+	background-image: url('../images/fb_rollover-01_poster_u1352.png');
 }
 
 #buttonu571
