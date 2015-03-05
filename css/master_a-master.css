@@ -57,14 +57,19 @@
 	background-position: center top;
 	background-color: transparent;
 	position: fixed;
-	background-size: cover;
+	background-size: auto;
 }
 
 #buttonu571:hover
 {
 	background-repeat: no-repeat;
 	background-position: center bottom;
-	background-size: cover;
+}
+
+#buttonu571.ButtonSelected
+{
+	background-repeat: no-repeat;
+	background-position: center top;
 }
 
 .menu_fb
@@ -77,7 +82,7 @@
 
 .nosvg #buttonu571
 {
-	background-image: url('../images/menu_facebook-01_poster_u690.png');
+	background-image: url('../images/menu_facebook-01_poster_u1358.png');
 }
 
 #buttonu596
@@ -125,7 +130,7 @@
 	background-size: cover;
 }
 
-#buttonu571.ButtonSelected,#buttonu596.ButtonSelected,#buttonu657.ButtonSelected
+#buttonu596.ButtonSelected,#buttonu657.ButtonSelected
 {
 	background-repeat: no-repeat;
 	background-position: center top;
