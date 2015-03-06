@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000F4;
-	background-color: #1A6B23;
+	color: #0000FA;
+	background-color: #AEBBC4;
 }
 
 .html
@@ -13,7 +13,7 @@
 #page
 {
 	z-index: 1;
-	width: 1000px;
+	width: 1400px;
 	min-height: 829px;
 	background-image: none;
 	border-style: none;
@@ -526,7 +526,7 @@
 body
 {
 	position: relative;
-	min-width: 1000px;
+	min-width: 1400px;
 }
 
 #page .verticalspacer
