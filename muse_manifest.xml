@@ -1,8 +1,8 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425599203338">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425600050669">
   <folder name="css">
     <file name="site_global.css" crc="192527179"/>
     <file name="master_a-master.css" crc="273589630" ref="index:roster:about:tour:media:releases"/>
-    <file name="index.css" crc="3974735377" ref="index"/>
+    <file name="index.css" crc="4020622291" ref="index"/>
     <file name="roster.css" crc="251725142" ref="roster"/>
     <file name="about.css" crc="4095372067" ref="about"/>
     <file name="tour.css" crc="986305" ref="tour"/>
@@ -12,7 +12,7 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:roster:about:media:tour:releases"/>
     <file name="museutils.js" crc="3793461109" ref="index:roster:about:media:tour:releases"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="roster:about:tour:media:releases"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="roster:about:tour:media:releases:index"/>
     <file name="pie.js" crc="3827607177" ref="roster:about:media"/>
     <file name="webpro.js" crc="4263367560" ref="index:about:media"/>
     <file name="musewpslideshow.js" crc="126372691" ref="index:about:media"/>
@@ -34,7 +34,7 @@
     <file name="williamalexander_artist_pic.jpg" crc="97051264" ref="media"/>
     <file name="williamalexander_artist_pic_2x.jpg" crc="3765326578" ref="media"/>
     <file name="view_williamalexander.png" crc="4100340296" ref="roster"/>
-    <file name="fb_rollover-01.svg" crc="4037678609" ref="about"/>
+    <file name="fb_rollover-01.svg" crc="4037678609" ref="about:index"/>
     <file name="seagulls_artist_pic500x357.jpg" crc="3820877567" ref="roster"/>
     <file name="seagulls_artist_pic500x357_2x.jpg" crc="4249939400" ref="roster"/>
     <file name="new-god-2015-pic-lores500x357.jpg" crc="254686130" ref="roster"/>
@@ -46,28 +46,29 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="410239057" ref="tour"/>
-    <file name="fb-01-01.svg" crc="4190058772" ref="about"/>
-    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about"/>
-    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
+    <file name="fb-01-01.svg" crc="4190058772" ref="about:index"/>
+    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:index"/>
+    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about:index"/>
     <file name="pianoplayer2.jpg" crc="4025525862" ref="about"/>
     <file name="menul_logo.png" crc="3813404673" ref="about:roster:media:releases:index:tour"/>
     <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:media:releases:index:tour"/>
-    <file name="twiiter-01.svg" crc="4212934312" ref="about"/>
-    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about"/>
-    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about"/>
-    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about"/>
-    <file name="insta-01.svg" crc="316478732" ref="about"/>
-    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about"/>
-    <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
-    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
+    <file name="twiiter-01.svg" crc="4212934312" ref="about:index"/>
+    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:index"/>
+    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about:index"/>
+    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about:index"/>
+    <file name="insta-01.svg" crc="316478732" ref="about:index"/>
+    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:index"/>
+    <file name="insta_rollover.svg" crc="4057936125" ref="about:index"/>
+    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about:index"/>
     <file name="yellowkoriginal_2x.jpg" crc="4073498356" ref="about"/>
     <file name="recordplayer1.jpg" crc="482599654" ref="releases"/>
     <file name="williamalexander_artist_pic561x400.jpg" crc="4053222989" ref="index"/>
     <file name="williamalexander_artist_pic561x400_2x.jpg" crc="3981360157" ref="index"/>
     <file name="yello-k-logo-box-b-w.jpg" crc="3935442206" ref="index"/>
     <file name="yello-k-logo-box-b-w_2x.jpg" crc="38671055" ref="index"/>
+    <file name="brightrecord.jpg" crc="413811782" ref="index"/>
   </folder>
-  <file name="index.html" crc="4119726922" mt="1425599187312" redirect="true"/>
+  <file name="index.html" crc="3937682805" mt="1425600019284" redirect="true"/>
   <file name="roster.html" crc="423451403" mt="1425593690728" redirect="true"/>
   <file name="about.html" crc="3803445259" mt="1425599085197" redirect="true"/>
   <file name="media.html" crc="427542265" mt="1425593690728" redirect="true"/>
