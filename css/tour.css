@@ -1,7 +1,7 @@
 .version.tour /* version checker */
 {
-	color: #0000E7;
-	background-color: #A8FB84;
+	color: #0000FE;
+	background-color: #6499B0;
 }
 
 .html
@@ -13,8 +13,8 @@
 #page
 {
 	z-index: 1;
-	width: 1400px;
-	min-height: 499.65000000000003px;
+	width: 1200px;
+	min-height: 757.6500000000001px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -29,7 +29,7 @@
 
 #page_position_content
 {
-	padding-top: 323px;
+	padding-top: 581px;
 	width: 0.01px;
 }
 
@@ -60,7 +60,7 @@
 	width: 38px;
 	height: 42px;
 	top: 11px;
-	right: 138px;
+	right: 129px;
 }
 
 #u1365
@@ -69,7 +69,7 @@
 	width: 38px;
 	height: 42px;
 	top: 11px;
-	right: 90px;
+	right: 81px;
 }
 
 #u1384
@@ -78,7 +78,7 @@
 	width: 38px;
 	height: 42px;
 	top: 11px;
-	right: 42px;
+	right: 33px;
 }
 
 #u1087:hover,#u1365:hover,#u1384:hover
@@ -116,7 +116,7 @@
 body
 {
 	position: relative;
-	min-width: 1400px;
+	min-width: 1200px;
 }
 
 #page .verticalspacer
