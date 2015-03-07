@@ -1,10 +1,10 @@
-#u531-26
+#u531-3
 {
+	line-height: 28px;
 	text-align: center;
 	font-size: 23px;
 	letter-spacing: 4px;
 	color: #FFFFFF;
-	line-height: 28px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
 }
@@ -17,20 +17,207 @@
 	background-color: rgba(0,0,0,0.61);
 }
 
-#u531-5
-{
-	letter-spacing: 3px;
-}
-
-#u531-2,#u531-4,#u531-7,#u531-9,#u531-11,#u531-13,#u531-15,#u531-17,#u531-19,#u531-21
-{
-	letter-spacing: 11px;
-}
-
 #u1439
 {
 	background-color: transparent;
 	position: fixed;
+}
+
+#u1949
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#buttonu1843
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/menu_about.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1843:hover
+{
+	background: transparent url("../images/menu_about_roll.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1843.ButtonSelected
+{
+	background: transparent url("../images/menu_about.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+.nosvg #buttonu1843:hover
+{
+	background-image: url('../images/menu_about_roll_poster_u1850.png');
+}
+
+.nosvg #buttonu1843,.nosvg #buttonu1843.ButtonSelected
+{
+	background-image: url('../images/menu_about_poster_u1844.png');
+}
+
+#buttonu1856
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/menu_roster.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1856:hover
+{
+	background: transparent url("../images/menu_roster_roll.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1856.ButtonSelected
+{
+	background: transparent url("../images/menu_roster.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+.nosvg #buttonu1856:hover
+{
+	background-image: url('../images/menu_roster_roll_poster_u1863.png');
+}
+
+.nosvg #buttonu1856,.nosvg #buttonu1856.ButtonSelected
+{
+	background-image: url('../images/menu_roster_poster_u1857.png');
+}
+
+#buttonu1869
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/menu_releases.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1869:hover
+{
+	background: transparent url("../images/menu_releases_roll.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1869.ButtonSelected
+{
+	background: transparent url("../images/menu_releases.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+.nosvg #buttonu1869:hover
+{
+	background-image: url('../images/menu_releases_roll_poster_u1876.png');
+}
+
+.nosvg #buttonu1869,.nosvg #buttonu1869.ButtonSelected
+{
+	background-image: url('../images/menu_releases_poster_u1870.png');
+}
+
+#buttonu1882
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/menu_store.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1882:hover
+{
+	background: transparent url("../images/menu_store_roll.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1882.ButtonSelected
+{
+	background: transparent url("../images/menu_store.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+.nosvg #buttonu1882:hover
+{
+	background-image: url('../images/menu_store_roll_poster_u1889.png');
+}
+
+.nosvg #buttonu1882,.nosvg #buttonu1882.ButtonSelected
+{
+	background-image: url('../images/menu_store_poster_u1883.png');
+}
+
+#buttonu1895
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/menu_media.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1895:hover
+{
+	background: transparent url("../images/menu_media_roll.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1895.ButtonSelected
+{
+	background: transparent url("../images/menu_media.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+.nosvg #buttonu1895:hover
+{
+	background-image: url('../images/menu_media_roll_poster_u1902.png');
+}
+
+.nosvg #buttonu1895,.nosvg #buttonu1895.ButtonSelected
+{
+	background-image: url('../images/menu_media_poster_u1896.png');
+}
+
+#buttonu1908
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/menu_tour.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1908:hover
+{
+	background: transparent url("../images/menu_tour_roll.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+#buttonu1908.ButtonSelected
+{
+	background: transparent url("../images/menu_tour.svg") no-repeat center center;
+	background-size: 120px 68px;
+}
+
+.nosvg #buttonu1908:hover
+{
+	background-image: url('../images/menu_tour_roll_poster_u1915.png');
+}
+
+.nosvg #buttonu1908,.nosvg #buttonu1908.ButtonSelected
+{
+	background-image: url('../images/menu_tour_poster_u1909.png');
+}
+
+#u1944-4,#u1945-4,#u1946-4,#u1947-4,#u1948-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 33px;
+	line-height: 40px;
+	position: relative;
 }
 
 #u1087
@@ -132,7 +319,7 @@
 	background-image: url('../images/insta_rollover_poster_u1391.png');
 }
 
-#u787
+#u1943,#u787
 {
 	border-style: none;
 	border-color: transparent;
