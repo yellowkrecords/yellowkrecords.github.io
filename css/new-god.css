@@ -1,7 +1,7 @@
 .version.new_god /* version checker */
 {
-	color: #000008;
-	background-color: #E27011;
+	color: #000004;
+	background-color: #DD315B;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 499.65000000000003px;
+	min-height: 498.65000000000003px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -28,6 +28,7 @@
 
 #page_position_content
 {
+	margin-bottom: -1px;
 	padding-top: 323px;
 	width: 0.01px;
 }

@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000EF;
-	background-color: #D92E96;
+	color: #0000EE;
+	background-color: #3BC070;
 }
 
 .html
@@ -28,6 +28,7 @@
 
 #page_position_content
 {
+	margin-bottom: -1px;
 	padding-top: 314px;
 	width: 0.01px;
 }
@@ -698,7 +699,7 @@
 	width: 50px;
 	min-height: 50px;
 	left: -100px;
-	top: -84px;
+	top: -83px;
 	margin-bottom: -50px;
 }
 
@@ -706,7 +707,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 30px;
+	margin-top: 31px;
 }
 
 #u855
@@ -719,7 +720,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
+	margin-top: 3px;
 	left: 335px;
 }
 

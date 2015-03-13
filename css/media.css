@@ -1,7 +1,7 @@
 .version.media /* version checker */
 {
-	color: #000009;
-	background-color: #5C70AD;
+	color: #0000EA;
+	background-color: #97A14A;
 }
 
 .html
@@ -29,6 +29,7 @@
 
 #page_position_content
 {
+	margin-bottom: -1px;
 	padding-top: 89px;
 	width: 0.01px;
 }
@@ -407,7 +408,7 @@
 	width: 50px;
 	min-height: 50px;
 	left: -100px;
-	margin-top: 664px;
+	margin-top: 665px;
 }
 
 #u532-4

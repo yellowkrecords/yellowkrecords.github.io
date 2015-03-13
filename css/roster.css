@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #0000FF;
-	background-color: #B22214;
+	color: #0000E5;
+	background-color: #AEA8AB;
 }
 
 .html
@@ -29,6 +29,7 @@
 
 #page_position_content
 {
+	margin-bottom: -1px;
 	padding-top: 156px;
 	width: 0.01px;
 }
@@ -357,8 +358,8 @@
 	border-radius: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 9px;
+	margin-top: 8px;
+	left: 8px;
 }
 
 .ie #u827
@@ -377,8 +378,8 @@
 	width: 500px;
 	height: 357px;
 	min-height: 0px;
-	margin: 9px -10000px 0px 0px;
-	background: transparent url("../images/view_newgod.png") no-repeat center top;
+	margin: 8px -10000px 0px 0px;
+	background: transparent url("../images/view_newgod.png") no-repeat center center;
 	background-size: cover;
 }
 

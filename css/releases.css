@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #0000EF;
-	background-color: #36A040;
+	color: #000010;
+	background-color: #0ACC00;
 }
 
 .html
@@ -29,7 +29,8 @@
 
 #page_position_content
 {
-	padding-top: 887px;
+	margin-bottom: -1px;
+	padding-top: 888px;
 	width: 0.01px;
 }
 
