@@ -583,6 +583,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://yellowkrecords.github.io/images/sg-gp-cover272x272.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/sg-gp-cover272x272_2x.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%20168692x28.svg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%20168692x28_poster_.png</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/seagulls_artist_pic354x253.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/seagulls_artist_pic354x253_2x.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://yellowkrecords.github.io/index.html</loc>
     <lastmod>2015-03-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -620,6 +656,12 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/new-god.html</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/seagulls.html</loc>
     <lastmod>2015-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

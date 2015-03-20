@@ -1,31 +1,33 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1426869996436">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1426876615254">
   <folder name="css">
     <file name="site_global.css" crc="441141462"/>
-    <file name="master_a-master.css" crc="418609034" ref="index:roster:about:tour:media:releases:new-god"/>
+    <file name="master_a-master.css" crc="418609034" ref="index:roster:about:tour:media:releases:new-god:seagulls"/>
     <file name="index.css" crc="164164571" ref="index"/>
     <file name="roster.css" crc="253775105" ref="roster"/>
     <file name="about.css" crc="102796627" ref="about"/>
     <file name="tour.css" crc="37965351" ref="tour"/>
     <file name="media.css" crc="3935805770" ref="media"/>
     <file name="releases.css" crc="269143040" ref="releases"/>
-    <file name="new-god.css" crc="4030727891" ref="new-god"/>
+    <file name="new-god.css" crc="512274084" ref="new-god"/>
     <file name="iefonts_new-god.css" crc="4164404099" ref="new-god"/>
+    <file name="seagulls.css" crc="4057240927" ref="seagulls"/>
+    <file name="iefonts_seagulls.css" crc="269985105" ref="seagulls"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:roster:about:media:tour:releases:new-god"/>
-    <file name="museutils.js" crc="479751881" ref="index:roster:about:media:tour:releases:new-god"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="roster:about:tour:media:releases:index"/>
-    <file name="pie.js" crc="3827607177" ref="roster:about:media:index:tour:new-god"/>
-    <file name="webpro.js" crc="3930024250" ref="index:about:media:new-god"/>
-    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:media:new-god"/>
-    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:media:new-god"/>
-    <file name="touchswipe.js" crc="4151298246" ref="index:about:media:new-god"/>
-    <file name="jquery.watch.js" crc="4232581965" ref="index:roster:about:media:tour:releases:new-god"/>
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:roster:about:media:tour:releases:new-god:seagulls"/>
+    <file name="museutils.js" crc="479751881" ref="index:roster:about:media:tour:releases:new-god:seagulls"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="roster:about:tour:media:releases:index:seagulls"/>
+    <file name="pie.js" crc="3827607177" ref="roster:about:media:index:tour:new-god:seagulls"/>
+    <file name="webpro.js" crc="3930024250" ref="index:about:media:new-god:seagulls"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:media:new-god:seagulls"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:media:new-god:seagulls"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:about:media:new-god:seagulls"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:roster:about:media:tour:releases:new-god:seagulls"/>
   </folder>
   <folder name="images">
     <file name="roster_header.jpg" crc="329933802" ref="roster"/>
-    <file name="seagulls_artist_pic.jpg" crc="3900582285" ref="roster"/>
-    <file name="seagulls_artist_pic_2x.jpg" crc="15886745" ref="roster"/>
+    <file name="seagulls_artist_pic.jpg" crc="4230471172" ref="roster"/>
+    <file name="seagulls_artist_pic_2x.jpg" crc="4087442365" ref="roster"/>
     <file name="view_seagulls.png" crc="493468127" ref="roster"/>
     <file name="new-god-2015-pic-lores.jpg" crc="3959986211" ref="roster"/>
     <file name="new-god-2015-pic-lores_2x.jpg" crc="503885862" ref="roster"/>
@@ -35,26 +37,26 @@
     <file name="williamalexander_artist_pic.jpg" crc="97051264" ref="media"/>
     <file name="williamalexander_artist_pic_2x.jpg" crc="3765326578" ref="media"/>
     <file name="view_williamalexander.png" crc="4100340296" ref="roster"/>
-    <file name="fb_rollover-01.svg" crc="4037678609" ref="about"/>
+    <file name="fb_rollover-01.svg" crc="4037678609" ref="about:seagulls"/>
     <file name="williamalexander_artist_pic500x358.jpg" crc="4154834243" ref="roster"/>
     <file name="williamalexander_artist_pic500x358_2x.jpg" crc="4111928011" ref="roster"/>
     <file name="headphones.jpg" crc="3940587031" ref="media"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="453445497" ref="tour"/>
-    <file name="fb-01-01.svg" crc="4190058772" ref="about"/>
-    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about"/>
-    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
-    <file name="menul_logo.png" crc="3813404673" ref="about:roster:media:releases:index:tour:new-god"/>
-    <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:media:releases:index:tour:new-god"/>
-    <file name="twiiter-01.svg" crc="4212934312" ref="about"/>
-    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about"/>
-    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about"/>
-    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about"/>
-    <file name="insta-01.svg" crc="316478732" ref="about"/>
-    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about"/>
-    <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
-    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
+    <file name="fb-01-01.svg" crc="4190058772" ref="about:seagulls"/>
+    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:seagulls"/>
+    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about:seagulls"/>
+    <file name="menul_logo.png" crc="3813404673" ref="about:roster:media:releases:index:tour:new-god:seagulls"/>
+    <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:media:releases:index:tour:new-god:seagulls"/>
+    <file name="twiiter-01.svg" crc="4212934312" ref="about:seagulls"/>
+    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:seagulls"/>
+    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about:seagulls"/>
+    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about:seagulls"/>
+    <file name="insta-01.svg" crc="316478732" ref="about:seagulls"/>
+    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:seagulls"/>
+    <file name="insta_rollover.svg" crc="4057936125" ref="about:seagulls"/>
+    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about:seagulls"/>
     <file name="brightrecord.jpg" crc="413811782" ref="index"/>
     <file name="about_header.jpg" crc="4006486005" ref="about"/>
     <file name="releases_header.jpg" crc="211725711" ref="releases"/>
@@ -65,30 +67,30 @@
     <file name="pasted svg 1071619x265_poster_.png" crc="234482380" ref="index"/>
     <file name="pasted svg 621486x127.svg" crc="14300572" ref="index"/>
     <file name="pasted svg 621486x127_poster_.png" crc="4180219185" ref="index"/>
-    <file name="menu_about.svg" crc="3875152294" ref="about"/>
-    <file name="menu_about_roll.svg" crc="405709203" ref="about"/>
-    <file name="menu_about_roll_poster_u1850.png" crc="520033109" ref="about"/>
-    <file name="menu_roster.svg" crc="4062335715" ref="about"/>
-    <file name="menu_roster_poster_u1857.png" crc="497536395" ref="about"/>
-    <file name="menu_roster_roll.svg" crc="3855933220" ref="about"/>
-    <file name="menu_roster_roll_poster_u1863.png" crc="138218837" ref="about"/>
-    <file name="menu_releases.svg" crc="3832286886" ref="about"/>
-    <file name="menu_releases_poster_u1870.png" crc="3846370785" ref="about"/>
-    <file name="menu_releases_roll.svg" crc="454890202" ref="about"/>
-    <file name="menu_releases_roll_poster_u1876.png" crc="514009259" ref="about"/>
-    <file name="menu_store.svg" crc="3988680279" ref="about"/>
-    <file name="menu_store_poster_u1883.png" crc="317720856" ref="about"/>
-    <file name="menu_store_roll.svg" crc="3771976515" ref="about"/>
-    <file name="menu_store_roll_poster_u1889.png" crc="211800751" ref="about"/>
-    <file name="menu_media.svg" crc="280837495" ref="about"/>
-    <file name="menu_media_poster_u1896.png" crc="3971907051" ref="about"/>
-    <file name="menu_media_roll.svg" crc="95374350" ref="about"/>
-    <file name="menu_media_roll_poster_u1902.png" crc="4090878838" ref="about"/>
-    <file name="menu_tour.svg" crc="4019094857" ref="about"/>
-    <file name="menu_tour_poster_u1909.png" crc="165555259" ref="about"/>
-    <file name="menu_tour_roll.svg" crc="4259439331" ref="about"/>
-    <file name="menu_tour_roll_poster_u1915.png" crc="4038518119" ref="about"/>
-    <file name="menu_about_poster_u2151.png" crc="431357723" ref="about"/>
+    <file name="menu_about.svg" crc="3875152294" ref="about:seagulls"/>
+    <file name="menu_about_roll.svg" crc="405709203" ref="about:seagulls"/>
+    <file name="menu_about_roll_poster_u1850.png" crc="520033109" ref="about:seagulls"/>
+    <file name="menu_roster.svg" crc="4062335715" ref="about:seagulls"/>
+    <file name="menu_roster_poster_u1857.png" crc="497536395" ref="about:seagulls"/>
+    <file name="menu_roster_roll.svg" crc="3855933220" ref="about:seagulls"/>
+    <file name="menu_roster_roll_poster_u1863.png" crc="138218837" ref="about:seagulls"/>
+    <file name="menu_releases.svg" crc="3832286886" ref="about:seagulls"/>
+    <file name="menu_releases_poster_u1870.png" crc="3846370785" ref="about:seagulls"/>
+    <file name="menu_releases_roll.svg" crc="454890202" ref="about:seagulls"/>
+    <file name="menu_releases_roll_poster_u1876.png" crc="514009259" ref="about:seagulls"/>
+    <file name="menu_store.svg" crc="3988680279" ref="about:seagulls"/>
+    <file name="menu_store_poster_u1883.png" crc="317720856" ref="about:seagulls"/>
+    <file name="menu_store_roll.svg" crc="3771976515" ref="about:seagulls"/>
+    <file name="menu_store_roll_poster_u1889.png" crc="211800751" ref="about:seagulls"/>
+    <file name="menu_media.svg" crc="280837495" ref="about:seagulls"/>
+    <file name="menu_media_poster_u1896.png" crc="3971907051" ref="about:seagulls"/>
+    <file name="menu_media_roll.svg" crc="95374350" ref="about:seagulls"/>
+    <file name="menu_media_roll_poster_u1902.png" crc="4090878838" ref="about:seagulls"/>
+    <file name="menu_tour.svg" crc="4019094857" ref="about:seagulls"/>
+    <file name="menu_tour_poster_u1909.png" crc="165555259" ref="about:seagulls"/>
+    <file name="menu_tour_roll.svg" crc="4259439331" ref="about:seagulls"/>
+    <file name="menu_tour_roll_poster_u1915.png" crc="4038518119" ref="about:seagulls"/>
+    <file name="menu_about_poster_u2151.png" crc="431357723" ref="about:seagulls"/>
     <file name="thumbnail_active.svg" crc="194836176" ref="index"/>
     <file name="thumbnail_active_poster_u2145.png" crc="163638855" ref="index"/>
     <file name="pasted svg 26227x56.svg" crc="67313" ref="index"/>
@@ -98,8 +100,8 @@
     <file name="wa-st-jacket-preview.jpg" crc="4133597922" ref="index"/>
     <file name="fireworklorescover.jpg" crc="3787923958" ref="index"/>
     <file name="fireworklorescover_2x.jpg" crc="343442117" ref="index"/>
-    <file name="sg-gp-cover.jpg" crc="3861734421" ref="index"/>
-    <file name="sg-gp-cover_2x.jpg" crc="3946551478" ref="index"/>
+    <file name="sg-gp-cover.jpg" crc="3760084728" ref="seagulls"/>
+    <file name="sg-gp-cover_2x.jpg" crc="4002769270" ref="seagulls"/>
     <file name="thumbnail.svg" crc="3962590333" ref="index"/>
     <file name="thumbnail_poster_u2139.png" crc="346770268" ref="index"/>
     <file name="yellowkoriginal-crop-u1477.png" crc="4099297268" ref="about"/>
@@ -110,22 +112,29 @@
     <file name="pasted svg 17372x32_poster_.png" crc="3919117645" ref="new-god"/>
     <file name="new-god-2015-pic-hires.jpg" crc="4021906471" ref="new-god"/>
     <file name="new-god-2015-pic-hires_2x.jpg" crc="206405351" ref="new-god"/>
-    <file name="pasted svg 9832x9.svg" crc="4208576191" ref="new-god"/>
-    <file name="pasted svg 9832x9_poster_.png" crc="53414553" ref="new-god"/>
-    <file name="pasted svg 23704x23.svg" crc="4247753903" ref="new-god"/>
-    <file name="pasted svg 23704x23_poster_.png" crc="450199579" ref="new-god"/>
-    <file name="pasted svg 23704x232.svg" crc="128447498" ref="new-god"/>
-    <file name="pasted svg 23704x23_poster_2.png" crc="411069468" ref="new-god"/>
-    <file name="pasted svg 23704x233.svg" crc="345203960" ref="new-god"/>
-    <file name="pasted svg 23704x23_poster_3.png" crc="4118123688" ref="new-god"/>
+    <file name="pasted svg 9832x9.svg" crc="4208576191" ref="new-god:seagulls"/>
+    <file name="pasted svg 9832x9_poster_.png" crc="53414553" ref="new-god:seagulls"/>
+    <file name="pasted svg 23704x23.svg" crc="4247753903" ref="new-god:seagulls"/>
+    <file name="pasted svg 23704x23_poster_.png" crc="450199579" ref="new-god:seagulls"/>
+    <file name="pasted svg 23704x232.svg" crc="128447498" ref="new-god:seagulls"/>
+    <file name="pasted svg 23704x23_poster_2.png" crc="411069468" ref="new-god:seagulls"/>
+    <file name="pasted svg 23704x233.svg" crc="345203960" ref="new-god:seagulls"/>
+    <file name="pasted svg 23704x23_poster_3.png" crc="4118123688" ref="new-god:seagulls"/>
     <file name="firework-transparant-small-2.png" crc="509102486" ref="new-god"/>
     <file name="firework-transparant-small-2_2x.png" crc="144225918" ref="new-god"/>
+    <file name="sg-gp-cover272x272.jpg" crc="361983408" ref="index"/>
+    <file name="sg-gp-cover272x272_2x.jpg" crc="3953088139" ref="index"/>
+    <file name="pasted svg 168692x28.svg" crc="3931072856" ref="seagulls"/>
+    <file name="pasted svg 168692x28_poster_.png" crc="339103307" ref="seagulls"/>
+    <file name="seagulls_artist_pic354x253.jpg" crc="496173229" ref="seagulls"/>
+    <file name="seagulls_artist_pic354x253_2x.jpg" crc="3968248675" ref="seagulls"/>
   </folder>
-  <file name="index.html" crc="3857148099" mt="1426869729922" redirect="true"/>
-  <file name="roster.html" crc="127470770" mt="1426869729922" redirect="true"/>
-  <file name="about.html" crc="4047518663" mt="1426869729922" redirect="true"/>
+  <file name="index.html" crc="3766982264" mt="1426874314021" redirect="true"/>
+  <file name="roster.html" crc="244463220" mt="1426876380605" redirect="true"/>
+  <file name="about.html" crc="4047518663" mt="1426871043647" redirect="true"/>
   <file name="media.html" crc="3885288959" mt="1426869729922" redirect="true"/>
   <file name="tour.html" crc="178902524" mt="1426869729922" redirect="true"/>
   <file name="releases.html" crc="4044164820" mt="1426869729922" redirect="true"/>
-  <file name="new-god.html" crc="4135302703" mt="1426869970081" redirect="true"/>
+  <file name="new-god.html" crc="3789688738" mt="1426876354658" redirect="true"/>
+  <file name="seagulls.html" crc="180182200" mt="1426876546381" redirect="true"/>
 </manifest>
