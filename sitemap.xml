@@ -205,12 +205,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/releases_header.jpg</loc>
-    <lastmod>2015-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/yellow-k-logo-box-(charcoal).jpg</loc>
     <lastmod>2015-03-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -614,6 +608,72 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/seagulls_artist_pic354x253_2x.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%2026227x70.svg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%2026227x70_poster_.png</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%20394785x80.svg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%20394785x80_poster_.png</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/wa-st-jacket-preview237x237.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%20267803x61.svg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/pasted%20svg%20267803x61_poster_.png</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/sg-gp-cover237x237.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/sg-gp-cover237x237_2x.jpg</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/firework-transparant-small-2237x237.png</loc>
+    <lastmod>2015-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/firework-transparant-small-2237x237_2x.png</loc>
     <lastmod>2015-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

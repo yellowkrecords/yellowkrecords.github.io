@@ -81,6 +81,12 @@ body
 	body { text-rendering:auto; }
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
 	color: #0000FF;
@@ -113,12 +119,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-a,.Yellow-K a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Yellow-K a:link
 {
 	color: #484848;
@@ -127,7 +127,7 @@ a,.Yellow-K a
 
 .Yellow-K a:visited
 {
-	color: #A4A4A4;
+	color: #484848;
 	text-decoration: none;
 }
 
