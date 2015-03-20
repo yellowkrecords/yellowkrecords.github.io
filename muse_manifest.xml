@@ -1,28 +1,28 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1426266544968">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1426869996436">
   <folder name="css">
-    <file name="site_global.css" crc="84678012"/>
-    <file name="master_a-master.css" crc="521669334" ref="index:roster:about:tour:media:releases:new-god"/>
-    <file name="index.css" crc="175071617" ref="index"/>
-    <file name="roster.css" crc="3853428907" ref="roster"/>
-    <file name="about.css" crc="3996893296" ref="about"/>
-    <file name="tour.css" crc="507640179" ref="tour"/>
+    <file name="site_global.css" crc="441141462"/>
+    <file name="master_a-master.css" crc="418609034" ref="index:roster:about:tour:media:releases:new-god"/>
+    <file name="index.css" crc="164164571" ref="index"/>
+    <file name="roster.css" crc="253775105" ref="roster"/>
+    <file name="about.css" crc="102796627" ref="about"/>
+    <file name="tour.css" crc="37965351" ref="tour"/>
     <file name="media.css" crc="3935805770" ref="media"/>
     <file name="releases.css" crc="269143040" ref="releases"/>
-    <file name="new-god.css" crc="81604955" ref="new-god"/>
+    <file name="new-god.css" crc="4030727891" ref="new-god"/>
+    <file name="iefonts_new-god.css" crc="4164404099" ref="new-god"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:roster:about:media:tour:releases:new-god"/>
     <file name="museutils.js" crc="479751881" ref="index:roster:about:media:tour:releases:new-god"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="roster:about:tour:media:releases:index"/>
-    <file name="pie.js" crc="3827607177" ref="roster:about:media:index"/>
-    <file name="webpro.js" crc="3930024250" ref="index:about:media"/>
-    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:media"/>
-    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:media"/>
-    <file name="touchswipe.js" crc="4151298246" ref="index:about:media"/>
+    <file name="pie.js" crc="3827607177" ref="roster:about:media:index:tour:new-god"/>
+    <file name="webpro.js" crc="3930024250" ref="index:about:media:new-god"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:media:new-god"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:media:new-god"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:about:media:new-god"/>
     <file name="jquery.watch.js" crc="4232581965" ref="index:roster:about:media:tour:releases:new-god"/>
   </folder>
   <folder name="images">
-    <file name="yellowkoriginal.jpg" crc="4290402004" ref="about"/>
     <file name="roster_header.jpg" crc="329933802" ref="roster"/>
     <file name="seagulls_artist_pic.jpg" crc="3900582285" ref="roster"/>
     <file name="seagulls_artist_pic_2x.jpg" crc="15886745" ref="roster"/>
@@ -41,7 +41,7 @@
     <file name="headphones.jpg" crc="3940587031" ref="media"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="tour_header.jpg" crc="173876233" ref="tour"/>
+    <file name="tour_header.jpg" crc="453445497" ref="tour"/>
     <file name="fb-01-01.svg" crc="4190058772" ref="about"/>
     <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about"/>
     <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
@@ -55,7 +55,6 @@
     <file name="insta-01_poster_u1385.png" crc="216846707" ref="about"/>
     <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
     <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
-    <file name="yellowkoriginal_2x.jpg" crc="4073498356" ref="about"/>
     <file name="brightrecord.jpg" crc="413811782" ref="index"/>
     <file name="about_header.jpg" crc="4006486005" ref="about"/>
     <file name="releases_header.jpg" crc="211725711" ref="releases"/>
@@ -103,14 +102,30 @@
     <file name="sg-gp-cover_2x.jpg" crc="3946551478" ref="index"/>
     <file name="thumbnail.svg" crc="3962590333" ref="index"/>
     <file name="thumbnail_poster_u2139.png" crc="346770268" ref="index"/>
-    <file name="williamalexander_artist_pic-crop-u2343.jpg" crc="4209559052" ref="index"/>
-    <file name="williamalexander_artist_pic-crop-u2343_2x.jpg" crc="19245707" ref="index"/>
+    <file name="yellowkoriginal-crop-u1477.png" crc="4099297268" ref="about"/>
+    <file name="yellowkoriginal-crop-u1477_2x.png" crc="3835638527" ref="about"/>
+    <file name="williamalexander_artist_pic-crop-u2343.png" crc="226094592" ref="index"/>
+    <file name="williamalexander_artist_pic-crop-u2343_2x.png" crc="102064820" ref="index"/>
+    <file name="pasted svg 17372x32.svg" crc="4036536545" ref="new-god"/>
+    <file name="pasted svg 17372x32_poster_.png" crc="3919117645" ref="new-god"/>
+    <file name="new-god-2015-pic-hires.jpg" crc="4021906471" ref="new-god"/>
+    <file name="new-god-2015-pic-hires_2x.jpg" crc="206405351" ref="new-god"/>
+    <file name="pasted svg 9832x9.svg" crc="4208576191" ref="new-god"/>
+    <file name="pasted svg 9832x9_poster_.png" crc="53414553" ref="new-god"/>
+    <file name="pasted svg 23704x23.svg" crc="4247753903" ref="new-god"/>
+    <file name="pasted svg 23704x23_poster_.png" crc="450199579" ref="new-god"/>
+    <file name="pasted svg 23704x232.svg" crc="128447498" ref="new-god"/>
+    <file name="pasted svg 23704x23_poster_2.png" crc="411069468" ref="new-god"/>
+    <file name="pasted svg 23704x233.svg" crc="345203960" ref="new-god"/>
+    <file name="pasted svg 23704x23_poster_3.png" crc="4118123688" ref="new-god"/>
+    <file name="firework-transparant-small-2.png" crc="509102486" ref="new-god"/>
+    <file name="firework-transparant-small-2_2x.png" crc="144225918" ref="new-god"/>
   </folder>
-  <file name="index.html" crc="3890295940" mt="1426007312747" redirect="true"/>
-  <file name="roster.html" crc="240353844" mt="1426007553122" redirect="true"/>
-  <file name="about.html" crc="161585623" mt="1425958192637" redirect="true"/>
-  <file name="media.html" crc="517921361" mt="1425957221073" redirect="true"/>
-  <file name="tour.html" crc="4264758819" mt="1425957785762" redirect="true"/>
-  <file name="releases.html" crc="3809986172" mt="1425957221073" redirect="true"/>
-  <file name="new-god.html" crc="3982133370" mt="1425957221073" redirect="true"/>
+  <file name="index.html" crc="3857148099" mt="1426869729922" redirect="true"/>
+  <file name="roster.html" crc="127470770" mt="1426869729922" redirect="true"/>
+  <file name="about.html" crc="4047518663" mt="1426869729922" redirect="true"/>
+  <file name="media.html" crc="3885288959" mt="1426869729922" redirect="true"/>
+  <file name="tour.html" crc="178902524" mt="1426869729922" redirect="true"/>
+  <file name="releases.html" crc="4044164820" mt="1426869729922" redirect="true"/>
+  <file name="new-god.html" crc="4135302703" mt="1426869970081" redirect="true"/>
 </manifest>

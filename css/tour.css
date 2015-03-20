@@ -1,7 +1,7 @@
 .version.tour /* version checker */
 {
-	color: #00001E;
-	background-color: #41F973;
+	color: #000002;
+	background-color: #434E27;
 }
 
 .html
@@ -309,6 +309,7 @@
 	z-index: 3;
 	width: 1028px;
 	background-color: #FFFFFF;
+	border-radius: 22px 22px 0px 0px ;
 	padding-bottom: 22px;
 	margin-left: 92px;
 	position: relative;

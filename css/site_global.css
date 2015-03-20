@@ -113,15 +113,21 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+a,.Yellow-K a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Yellow-K a:link
 {
-	color: #FFFFFF;
+	color: #484848;
 	text-decoration: none;
 }
 
 .Yellow-K a:visited
 {
-	color: #FFFFFF;
+	color: #A4A4A4;
 	text-decoration: none;
 }
 
