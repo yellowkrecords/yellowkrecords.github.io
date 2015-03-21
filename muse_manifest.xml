@@ -1,32 +1,33 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1426892573733">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1426971409412">
   <folder name="css">
-    <file name="site_global.css" crc="4213592805"/>
-    <file name="master_a-master.css" crc="418609034" ref="index:roster:about:tour:media:releases:new-god:seagulls"/>
-    <file name="index.css" crc="164164571" ref="index"/>
-    <file name="roster.css" crc="3834836735" ref="roster"/>
-    <file name="about.css" crc="102796627" ref="about"/>
-    <file name="tour.css" crc="37965351" ref="tour"/>
-    <file name="media.css" crc="3935805770" ref="media"/>
-    <file name="releases.css" crc="4139538384" ref="releases"/>
-    <file name="new-god.css" crc="512274084" ref="new-god"/>
+    <file name="site_global.css" crc="4032823704"/>
+    <file name="master_a-master.css" crc="521669334" ref="index:roster:about:tour:media:releases:new-god:seagulls:william-alexander"/>
+    <file name="index.css" crc="421440385" ref="index"/>
+    <file name="roster.css" crc="395039126" ref="roster"/>
+    <file name="about.css" crc="3913043408" ref="about"/>
+    <file name="tour.css" crc="3856547496" ref="tour"/>
+    <file name="media.css" crc="442956665" ref="media"/>
+    <file name="releases.css" crc="3992975666" ref="releases"/>
+    <file name="new-god.css" crc="4256198297" ref="new-god"/>
     <file name="iefonts_new-god.css" crc="4164404099" ref="new-god"/>
-    <file name="seagulls.css" crc="4057240927" ref="seagulls"/>
+    <file name="seagulls.css" crc="304459073" ref="seagulls"/>
     <file name="iefonts_seagulls.css" crc="269985105" ref="seagulls"/>
     <file name="iefonts_releases.css" crc="291242913" ref="releases"/>
+    <file name="william-alexander.css" crc="44605652" ref="william-alexander"/>
+    <file name="iefonts_william-alexander.css" crc="4274321491" ref="william-alexander"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:roster:about:media:tour:releases:new-god:seagulls"/>
-    <file name="museutils.js" crc="479751881" ref="index:roster:about:media:tour:releases:new-god:seagulls"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="roster:about:tour:media:index"/>
-    <file name="pie.js" crc="3827607177" ref="roster:about:media:index:tour:new-god:seagulls"/>
-    <file name="webpro.js" crc="3930024250" ref="index:about:media:new-god:seagulls"/>
-    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:media:new-god:seagulls"/>
-    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:media:new-god:seagulls"/>
-    <file name="touchswipe.js" crc="4151298246" ref="index:about:media:new-god:seagulls"/>
-    <file name="jquery.watch.js" crc="4232581965" ref="index:roster:about:media:tour:releases:new-god:seagulls"/>
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:roster:about:media:tour:releases:new-god:seagulls:william-alexander"/>
+    <file name="museutils.js" crc="479751881" ref="index:roster:about:media:tour:releases:new-god:seagulls:william-alexander"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="roster:about:tour:media:index:william-alexander"/>
+    <file name="pie.js" crc="3827607177" ref="roster:about:media:tour:new-god:seagulls:william-alexander"/>
+    <file name="webpro.js" crc="3930024250" ref="index:about:media:new-god:seagulls:william-alexander"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:media:new-god:seagulls:william-alexander"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:media:new-god:seagulls:william-alexander"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:about:media:new-god:seagulls:william-alexander"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:roster:about:media:tour:releases:new-god:seagulls:william-alexander"/>
   </folder>
   <folder name="images">
-    <file name="roster_header.jpg" crc="329933802" ref="roster"/>
     <file name="seagulls_artist_pic.jpg" crc="4230471172" ref="roster"/>
     <file name="seagulls_artist_pic_2x.jpg" crc="4087442365" ref="roster"/>
     <file name="view_seagulls.png" crc="493468127" ref="roster"/>
@@ -48,8 +49,8 @@
     <file name="fb-01-01.svg" crc="4190058772" ref="about"/>
     <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about"/>
     <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
-    <file name="menul_logo.png" crc="3813404673" ref="about:roster:media:releases:index:tour:new-god:seagulls"/>
-    <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:media:releases:index:tour:new-god:seagulls"/>
+    <file name="menul_logo.png" crc="3813404673" ref="about:roster:media:releases:index:tour:new-god:seagulls:william-alexander"/>
+    <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:media:releases:index:tour:new-god:seagulls:william-alexander"/>
     <file name="twiiter-01.svg" crc="4212934312" ref="about"/>
     <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about"/>
     <file name="twiiter_rollover-01.svg" crc="421850805" ref="about"/>
@@ -58,8 +59,7 @@
     <file name="insta-01_poster_u1385.png" crc="216846707" ref="about"/>
     <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
     <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
-    <file name="brightrecord.jpg" crc="413811782" ref="index"/>
-    <file name="about_header.jpg" crc="4006486005" ref="about"/>
+    <file name="about_header.jpg" crc="515214761" ref="about"/>
     <file name="yellow-k-logo-box-(charcoal).jpg" crc="357128641" ref="index"/>
     <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index"/>
     <file name="pasted svg 724491x194_poster_.png" crc="328712073" ref="index"/>
@@ -106,20 +106,18 @@
     <file name="thumbnail_poster_u2139.png" crc="346770268" ref="index"/>
     <file name="yellowkoriginal-crop-u1477.png" crc="4099297268" ref="about"/>
     <file name="yellowkoriginal-crop-u1477_2x.png" crc="3835638527" ref="about"/>
-    <file name="williamalexander_artist_pic-crop-u2343.png" crc="226094592" ref="index"/>
-    <file name="williamalexander_artist_pic-crop-u2343_2x.png" crc="102064820" ref="index"/>
     <file name="pasted svg 17372x32.svg" crc="4036536545" ref="new-god"/>
     <file name="pasted svg 17372x32_poster_.png" crc="3919117645" ref="new-god"/>
-    <file name="new-god-2015-pic-hires.jpg" crc="4021906471" ref="new-god"/>
-    <file name="new-god-2015-pic-hires_2x.jpg" crc="206405351" ref="new-god"/>
-    <file name="pasted svg 9832x9.svg" crc="4208576191" ref="new-god:seagulls"/>
-    <file name="pasted svg 9832x9_poster_.png" crc="53414553" ref="new-god"/>
+    <file name="new-god-2015-pic-hires.jpg" crc="3915135583" ref="new-god"/>
+    <file name="new-god-2015-pic-hires_2x.jpg" crc="4237307350" ref="new-god"/>
+    <file name="pasted svg 9832x9.svg" crc="4208576191" ref="new-god:seagulls:william-alexander"/>
+    <file name="pasted svg 9832x9_poster_.png" crc="4290022102" ref="new-god"/>
     <file name="pasted svg 23704x23.svg" crc="4247753903" ref="new-god:seagulls"/>
-    <file name="pasted svg 23704x23_poster_.png" crc="450199579" ref="new-god"/>
+    <file name="pasted svg 23704x23_poster_.png" crc="278612837" ref="new-god"/>
     <file name="pasted svg 23704x232.svg" crc="128447498" ref="new-god:seagulls"/>
-    <file name="pasted svg 23704x23_poster_2.png" crc="411069468" ref="new-god"/>
-    <file name="pasted svg 23704x233.svg" crc="345203960" ref="new-god:seagulls"/>
-    <file name="pasted svg 23704x23_poster_3.png" crc="4118123688" ref="new-god"/>
+    <file name="pasted svg 23704x23_poster_2.png" crc="3831807250" ref="new-god"/>
+    <file name="pasted svg 23704x233.svg" crc="345203960" ref="new-god:seagulls:william-alexander"/>
+    <file name="pasted svg 23704x23_poster_3.png" crc="19918301" ref="new-god"/>
     <file name="firework-transparant-small-2.png" crc="509102486" ref="new-god"/>
     <file name="firework-transparant-small-2_2x.png" crc="144225918" ref="new-god"/>
     <file name="sg-gp-cover272x272.jpg" crc="361983408" ref="index"/>
@@ -139,13 +137,25 @@
     <file name="sg-gp-cover237x237_2x.jpg" crc="4122651426" ref="releases"/>
     <file name="firework-transparant-small-2237x237.png" crc="18554648" ref="releases"/>
     <file name="firework-transparant-small-2237x237_2x.png" crc="4279570600" ref="releases"/>
+    <file name="pasted svg 187588x66.svg" crc="256879670" ref="roster"/>
+    <file name="pasted svg 187588x66_poster_.png" crc="4116183957" ref="roster"/>
+    <file name="williamalexander_artist_pic-crop-u2978.png" crc="226094592" ref="index"/>
+    <file name="williamalexander_artist_pic-crop-u2978_2x.png" crc="102064820" ref="index"/>
+    <file name="pasted svg 1093567x62.svg" crc="3985633088" ref="william-alexander"/>
+    <file name="pasted svg 1093567x62_poster_.png" crc="4078429724" ref="william-alexander"/>
+    <file name="williamalexander_artist_pic-u3117-fr.jpg" crc="314425480" ref="william-alexander"/>
+    <file name="williamalexander_artist_pic-u3117-fr_2x.jpg" crc="4238116320" ref="william-alexander"/>
+    <file name="pasted svg 198x198.svg" crc="3997877972" ref="william-alexander"/>
+    <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="william-alexander"/>
+    <file name="wa-st jacket.jpg" crc="466390727" ref="william-alexander"/>
   </folder>
-  <file name="index.html" crc="3766982264" mt="1426890850998" redirect="true"/>
-  <file name="roster.html" crc="244463220" mt="1426892252354" redirect="true"/>
-  <file name="about.html" crc="4047518663" mt="1426890850998" redirect="true"/>
-  <file name="media.html" crc="3885288959" mt="1426890850998" redirect="true"/>
-  <file name="tour.html" crc="178902524" mt="1426890850998" redirect="true"/>
-  <file name="releases.html" crc="4162670528" mt="1426891999871" redirect="true"/>
-  <file name="new-god.html" crc="3789688738" mt="1426890850998" redirect="true"/>
-  <file name="seagulls.html" crc="3809518658" mt="1426890850998" redirect="true"/>
+  <file name="index.html" crc="4293935173" mt="1426970967135" redirect="true"/>
+  <file name="roster.html" crc="234366678" mt="1426971295741" redirect="true"/>
+  <file name="about.html" crc="4238257025" mt="1426970685809" redirect="true"/>
+  <file name="media.html" crc="3871676772" mt="1426961947167" redirect="true"/>
+  <file name="tour.html" crc="4031843262" mt="1426971141378" redirect="true"/>
+  <file name="releases.html" crc="4095273892" mt="1426968929468" redirect="true"/>
+  <file name="new-god.html" crc="386886741" mt="1426971071875" redirect="true"/>
+  <file name="seagulls.html" crc="27691325" mt="1426971092617" redirect="true"/>
+  <file name="william-alexander.html" crc="130222037" mt="1426971035764" redirect="true"/>
 </manifest>
