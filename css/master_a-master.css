@@ -151,36 +151,6 @@
 	background-image: url('../images/menu_store_poster_u1883.png');
 }
 
-#buttonu1895
-{
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_media.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1895:hover
-{
-	background: transparent url("../images/menu_media_roll.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1895.ButtonSelected
-{
-	background: transparent url("../images/menu_media.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-.nosvg #buttonu1895:hover
-{
-	background-image: url('../images/menu_media_roll_poster_u1902.png');
-}
-
-.nosvg #buttonu1895,.nosvg #buttonu1895.ButtonSelected
-{
-	background-image: url('../images/menu_media_poster_u1896.png');
-}
-
 #buttonu1908
 {
 	border-color: #787878;
@@ -211,7 +181,7 @@
 	background-image: url('../images/menu_tour_poster_u1909.png');
 }
 
-#u1944-4,#u1945-4,#u1946-4,#u1947-4,#u1948-4
+#u1944-4,#u1945-4,#u1946-4,#u1947-4
 {
 	background-color: transparent;
 	line-height: 40px;

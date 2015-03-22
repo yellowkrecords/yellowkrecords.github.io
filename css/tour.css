@@ -1,7 +1,7 @@
 .version.tour /* version checker */
 {
 	color: #0000E5;
-	background-color: #DE3EA8;
+	background-color: #ABAA50;
 }
 
 .html
@@ -57,16 +57,16 @@
 #u1949
 {
 	z-index: 17;
-	width: 518px;
+	width: 428px;
 	top: -1px;
 	left: 50%;
-	margin-left: -259px;
+	margin-left: -214px;
 }
 
 #u1943
 {
 	z-index: 18;
-	width: 518px;
+	width: 428px;
 	margin-right: -10000px;
 }
 
@@ -169,38 +169,13 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#buttonu1895
-{
-	z-index: 23;
-	width: 74px;
-	height: 68px;
-	margin-right: -10000px;
-	left: 373px;
-}
-
-#buttonu1895:hover
-{
-	width: 74px;
-	height: 68px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#buttonu1895.ButtonSelected
-{
-	width: 74px;
-	height: 68px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #buttonu1908
 {
-	z-index: 24;
+	z-index: 23;
 	width: 55px;
 	height: 68px;
 	margin-right: -10000px;
-	left: 463px;
+	left: 373px;
 }
 
 #buttonu1908:hover
@@ -221,7 +196,7 @@
 
 #u1944-4
 {
-	z-index: 25;
+	z-index: 24;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -231,7 +206,7 @@
 
 #u1945-4
 {
-	z-index: 29;
+	z-index: 28;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -241,7 +216,7 @@
 
 #u1946-4
 {
-	z-index: 33;
+	z-index: 32;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -251,22 +226,12 @@
 
 #u1947-4
 {
-	z-index: 37;
+	z-index: 36;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
 	margin-right: -10000px;
 	left: 360px;
-}
-
-#u1948-4
-{
-	z-index: 41;
-	width: 8px;
-	min-height: 59px;
-	padding-top: 9px;
-	margin-right: -10000px;
-	left: 451px;
 }
 
 #u1087
