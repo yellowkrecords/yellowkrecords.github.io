@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #00001D;
-	background-color: #C9E643;
+	color: #0000EC;
+	background-color: #A42F73;
 }
 
 .html
@@ -310,7 +310,7 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 521px;
+	margin-top: 465px;
 }
 
 #pu3635
@@ -360,7 +360,7 @@
 {
 	z-index: 198;
 	width: 671px;
-	min-height: 580px;
+	min-height: 491px;
 	background-color: transparent;
 	font-family: source-sans-pro, sans-serif;
 	position: relative;
@@ -377,7 +377,7 @@
 {
 	width: 0.01px;
 	margin-left: 83px;
-	margin-top: 28px;
+	margin-top: 61px;
 }
 
 #pu2919
