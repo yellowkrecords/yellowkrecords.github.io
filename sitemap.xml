@@ -157,12 +157,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/about_header.jpg</loc>
-    <lastmod>2015-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/pasted%20svg%20724491x194.svg</loc>
     <lastmod>2015-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -691,6 +685,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://yellowkrecords.github.io/images/yellow-k-logo-horiz-b-w-trans.gif</loc>
+    <lastmod>2015-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yellow-k-logo-horiz-b-w-trans_2x.gif</loc>
+    <lastmod>2015-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/tmsco%20gramaphone%20copy.jpg</loc>
+    <lastmod>2015-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/tmsco%20gramaphone%20copy_2x.jpg</loc>
+    <lastmod>2015-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://yellowkrecords.github.io/index.html</loc>
     <lastmod>2015-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -704,13 +722,13 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/about.html</loc>
-    <lastmod>2015-03-21</lastmod>
+    <lastmod>2015-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/tour.html</loc>
-    <lastmod>2015-03-21</lastmod>
+    <lastmod>2015-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -734,13 +752,13 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/william-alexander.html</loc>
-    <lastmod>2015-03-21</lastmod>
+    <lastmod>2015-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/nicole-dollanganger.html</loc>
-    <lastmod>2015-03-21</lastmod>
+    <lastmod>2015-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
