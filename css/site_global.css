@@ -113,12 +113,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-a,.Yellow-K a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Yellow-K a:link
 {
 	color: #484848;
@@ -137,7 +131,25 @@ a,.Yellow-K a
 	text-decoration: none;
 }
 
-.Yellow-K a:active
+.Yellow-K-Dark a:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.Yellow-K-Dark a:visited
+{
+	color: #484848;
+	text-decoration: none;
+}
+
+.Yellow-K a:active,.Yellow-K-Dark a:hover
+{
+	color: #EAC516;
+	text-decoration: none;
+}
+
+.Yellow-K-Dark a:active
 {
 	color: #EAC516;
 	text-decoration: none;
