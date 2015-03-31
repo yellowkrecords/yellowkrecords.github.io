@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427834941955">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427835146414">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -8,7 +8,7 @@
     <folder name="css">
       <file name="master_a-master.css" crc="4105747908" ref="phone>seagulls:phone>index:phone>roster:phone>nicole-dollanganger:phone>about:phone>releases:phone>william-alexander:phone>tour:phone>new-god"/>
       <file name="seagulls.css" crc="3884562693" ref="phone>seagulls"/>
-      <file name="index.css" crc="493393355" ref="phone>index"/>
+      <file name="index.css" crc="210483558" ref="phone>index"/>
       <file name="roster.css" crc="4292237015" ref="phone>roster"/>
       <file name="nicole-dollanganger.css" crc="3884562693" ref="phone>nicole-dollanganger"/>
       <file name="about.css" crc="3859551798" ref="phone>about"/>
@@ -17,7 +17,7 @@
       <file name="tour.css" crc="4260784834" ref="phone>tour"/>
       <file name="new-god.css" crc="3884562693" ref="phone>new-god"/>
     </folder>
-    <file name="index.html" crc="395006272" mt="1427834918571" redirect="true"/>
+    <file name="index.html" crc="395006272" mt="1427835137485" redirect="true"/>
     <file name="about.html" crc="471062373" mt="1427320984723" redirect="true"/>
     <file name="roster.html" crc="3999335015" mt="1427320984723" redirect="true"/>
     <file name="new-god.html" crc="101681268" mt="1427320984723" redirect="true"/>

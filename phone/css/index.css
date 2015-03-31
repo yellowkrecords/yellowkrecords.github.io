@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #00001D;
-	background-color: #6895CB;
+	color: #00000C;
+	background-color: #8BB966;
 }
 
 @-ms-viewport
@@ -433,8 +433,8 @@
 {
 	z-index: 45;
 	width: 0.01px;
-	height: 493px;
-	padding-bottom: 19px;
+	height: 507px;
+	padding-bottom: 5px;
 	margin-top: 10px;
 	position: relative;
 }
@@ -709,7 +709,7 @@
 	width: 81px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 478px;
+	margin-top: 492px;
 	left: 150px;
 }
 
