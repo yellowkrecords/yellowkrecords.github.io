@@ -601,18 +601,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u2978.png</loc>
-    <lastmod>2015-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u2978_2x.png</loc>
-    <lastmod>2015-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/pasted%20svg%201093567x62.svg</loc>
     <lastmod>2015-03-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -793,18 +781,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4187.png</loc>
-    <lastmod>2015-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4187_2x.png</loc>
-    <lastmod>2015-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/pasted%20svg%20163568x61.svg</loc>
     <lastmod>2015-03-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -824,6 +800,30 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/pasted%20svg%20187588x61_poster_.png</loc>
+    <lastmod>2015-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4243.png</loc>
+    <lastmod>2015-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4243_2x.png</loc>
+    <lastmod>2015-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4213.png</loc>
+    <lastmod>2015-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4213_2x.png</loc>
     <lastmod>2015-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427835146414">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427835902860">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -8,7 +8,7 @@
     <folder name="css">
       <file name="master_a-master.css" crc="4105747908" ref="phone>seagulls:phone>index:phone>roster:phone>nicole-dollanganger:phone>about:phone>releases:phone>william-alexander:phone>tour:phone>new-god"/>
       <file name="seagulls.css" crc="3884562693" ref="phone>seagulls"/>
-      <file name="index.css" crc="210483558" ref="phone>index"/>
+      <file name="index.css" crc="350898411" ref="phone>index"/>
       <file name="roster.css" crc="4292237015" ref="phone>roster"/>
       <file name="nicole-dollanganger.css" crc="3884562693" ref="phone>nicole-dollanganger"/>
       <file name="about.css" crc="3859551798" ref="phone>about"/>
@@ -17,7 +17,7 @@
       <file name="tour.css" crc="4260784834" ref="phone>tour"/>
       <file name="new-god.css" crc="3884562693" ref="phone>new-god"/>
     </folder>
-    <file name="index.html" crc="395006272" mt="1427835137485" redirect="true"/>
+    <file name="index.html" crc="4095784728" mt="1427835894525" redirect="true"/>
     <file name="about.html" crc="471062373" mt="1427320984723" redirect="true"/>
     <file name="roster.html" crc="3999335015" mt="1427320984723" redirect="true"/>
     <file name="new-god.html" crc="101681268" mt="1427320984723" redirect="true"/>
@@ -30,7 +30,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4229430239"/>
     <file name="master_a-master.css" crc="3975313690" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
-    <file name="index.css" crc="4079669290" ref="index"/>
+    <file name="index.css" crc="94414639" ref="index"/>
     <file name="roster.css" crc="335427376" ref="roster"/>
     <file name="about.css" crc="218682370" ref="about"/>
     <file name="tour.css" crc="304890450" ref="tour"/>
@@ -71,49 +71,49 @@
     <file name="nicole_artist_pic.jpg" crc="229819298" ref="roster"/>
     <file name="view_nicole.png" crc="4197296553" ref="roster"/>
     <file name="view_williamalexander.png" crc="4094499234" ref="roster"/>
-    <file name="fb_rollover-01.svg" crc="4037678609" ref="about"/>
+    <file name="fb_rollover-01.svg" crc="4037678609" ref="about:index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="453445497" ref="tour:phone>tour"/>
-    <file name="fb-01-01.svg" crc="4190058772" ref="about:phone>index"/>
-    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:phone>index"/>
-    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
+    <file name="fb-01-01.svg" crc="4190058772" ref="about:phone>index:index"/>
+    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:phone>index:index"/>
+    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about:index"/>
     <file name="menul_logo.png" crc="3813404673" ref="about:roster:releases:index:tour:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
     <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:releases:index:tour:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
-    <file name="twiiter-01.svg" crc="4212934312" ref="about:phone>index"/>
-    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:phone>index"/>
-    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about"/>
-    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about"/>
-    <file name="insta-01.svg" crc="316478732" ref="about:phone>index"/>
-    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index"/>
-    <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
-    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
+    <file name="twiiter-01.svg" crc="4212934312" ref="about:phone>index:index"/>
+    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:phone>index:index"/>
+    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about:index"/>
+    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about:index"/>
+    <file name="insta-01.svg" crc="316478732" ref="about:phone>index:index"/>
+    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index:index"/>
+    <file name="insta_rollover.svg" crc="4057936125" ref="about:index"/>
+    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about:index"/>
     <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index:phone>index"/>
     <file name="pasted svg 724491x194_poster_.png" crc="146283962" ref="phone>index"/>
     <file name="pasted svg 1071619x265.svg" crc="4149419158" ref="index"/>
     <file name="pasted svg 1071619x265_poster_.png" crc="511957105" ref="index"/>
     <file name="pasted svg 621486x127.svg" crc="14300572" ref="index"/>
     <file name="pasted svg 621486x127_poster_.png" crc="4180219185" ref="index"/>
-    <file name="menu_about.svg" crc="3875152294" ref="about"/>
-    <file name="menu_about_roll.svg" crc="405709203" ref="about"/>
-    <file name="menu_about_roll_poster_u1850.png" crc="520033109" ref="about"/>
-    <file name="menu_roster.svg" crc="4062335715" ref="about"/>
-    <file name="menu_roster_poster_u1857.png" crc="497536395" ref="about"/>
-    <file name="menu_roster_roll.svg" crc="3855933220" ref="about"/>
-    <file name="menu_roster_roll_poster_u1863.png" crc="138218837" ref="about"/>
-    <file name="menu_releases.svg" crc="3832286886" ref="about"/>
-    <file name="menu_releases_poster_u1870.png" crc="3846370785" ref="about"/>
-    <file name="menu_releases_roll.svg" crc="454890202" ref="about"/>
-    <file name="menu_releases_roll_poster_u1876.png" crc="514009259" ref="about"/>
-    <file name="menu_store.svg" crc="3988680279" ref="about"/>
-    <file name="menu_store_poster_u1883.png" crc="317720856" ref="about"/>
-    <file name="menu_store_roll.svg" crc="3771976515" ref="about"/>
-    <file name="menu_store_roll_poster_u1889.png" crc="211800751" ref="about"/>
-    <file name="menu_tour.svg" crc="4019094857" ref="about"/>
-    <file name="menu_tour_poster_u1909.png" crc="165555259" ref="about"/>
-    <file name="menu_tour_roll.svg" crc="4259439331" ref="about"/>
-    <file name="menu_tour_roll_poster_u1915.png" crc="4038518119" ref="about"/>
-    <file name="menu_about_poster_u2151.png" crc="431357723" ref="about"/>
+    <file name="menu_about.svg" crc="3875152294" ref="about:index"/>
+    <file name="menu_about_roll.svg" crc="405709203" ref="about:index"/>
+    <file name="menu_about_roll_poster_u1850.png" crc="520033109" ref="about:index"/>
+    <file name="menu_roster.svg" crc="4062335715" ref="about:index"/>
+    <file name="menu_roster_poster_u1857.png" crc="497536395" ref="about:index"/>
+    <file name="menu_roster_roll.svg" crc="3855933220" ref="about:index"/>
+    <file name="menu_roster_roll_poster_u1863.png" crc="138218837" ref="about:index"/>
+    <file name="menu_releases.svg" crc="3832286886" ref="about:index"/>
+    <file name="menu_releases_poster_u1870.png" crc="3846370785" ref="about:index"/>
+    <file name="menu_releases_roll.svg" crc="454890202" ref="about:index"/>
+    <file name="menu_releases_roll_poster_u1876.png" crc="514009259" ref="about:index"/>
+    <file name="menu_store.svg" crc="3988680279" ref="about:index"/>
+    <file name="menu_store_poster_u1883.png" crc="317720856" ref="about:index"/>
+    <file name="menu_store_roll.svg" crc="3771976515" ref="about:index"/>
+    <file name="menu_store_roll_poster_u1889.png" crc="211800751" ref="about:index"/>
+    <file name="menu_tour.svg" crc="4019094857" ref="about:index"/>
+    <file name="menu_tour_poster_u1909.png" crc="165555259" ref="about:index"/>
+    <file name="menu_tour_roll.svg" crc="4259439331" ref="about:index"/>
+    <file name="menu_tour_roll_poster_u1915.png" crc="4038518119" ref="about:index"/>
+    <file name="menu_about_poster_u2151.png" crc="431357723" ref="about:index"/>
     <file name="thumbnail_active.svg" crc="194836176" ref="index:phone>index"/>
     <file name="thumbnail_active_poster_u2145.png" crc="163638855" ref="index:phone>index"/>
     <file name="pasted svg 26227x56.svg" crc="67313" ref="index:phone>index"/>
@@ -160,8 +160,6 @@
     <file name="firework-transparant-small-2237x237_2x.png" crc="4279570600" ref="releases"/>
     <file name="pasted svg 187588x66.svg" crc="256879670" ref="roster"/>
     <file name="pasted svg 187588x66_poster_.png" crc="4116183957" ref="roster"/>
-    <file name="williamalexander_artist_pic-crop-u2978.png" crc="3965897694" ref="index"/>
-    <file name="williamalexander_artist_pic-crop-u2978_2x.png" crc="224657096" ref="index"/>
     <file name="pasted svg 1093567x62.svg" crc="3985633088" ref="william-alexander"/>
     <file name="pasted svg 1093567x62_poster_.png" crc="4078429724" ref="william-alexander"/>
     <file name="williamalexander_artist_pic-u3117-fr.jpg" crc="4008063176" ref="william-alexander"/>
@@ -192,14 +190,16 @@
     <file name="nicole_artist_pic-crop-u4069_2x.png" crc="4036161317" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9.svg" crc="461014809" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9_poster_.png" crc="4077194670" ref="nicole-dollanganger"/>
-    <file name="williamalexander_artist_pic-crop-u4187.png" crc="4078820578" ref="phone>index"/>
-    <file name="williamalexander_artist_pic-crop-u4187_2x.png" crc="32207800" ref="phone>index"/>
     <file name="pasted svg 163568x61.svg" crc="251769037" ref="phone>index"/>
     <file name="pasted svg 163568x61_poster_.png" crc="3842207726" ref="phone>index"/>
     <file name="pasted svg 187588x61.svg" crc="4193743915" ref="phone>index"/>
     <file name="pasted svg 187588x61_poster_.png" crc="3962792695" ref="phone>index"/>
+    <file name="williamalexander_artist_pic-crop-u4243.png" crc="4078820578" ref="phone>index"/>
+    <file name="williamalexander_artist_pic-crop-u4243_2x.png" crc="32207800" ref="phone>index"/>
+    <file name="williamalexander_artist_pic-crop-u4213.png" crc="3965897694" ref="index"/>
+    <file name="williamalexander_artist_pic-crop-u4213_2x.png" crc="224657096" ref="index"/>
   </folder>
-  <file name="index.html" crc="4171935336" mt="1427833610545" redirect="true"/>
+  <file name="index.html" crc="334650044" mt="1427835561069" redirect="true"/>
   <file name="roster.html" crc="437097325" mt="1427834149655" redirect="true"/>
   <file name="about.html" crc="25778358" mt="1427833897147" redirect="true"/>
   <file name="tour.html" crc="4132810268" mt="1427832480588" redirect="true"/>
