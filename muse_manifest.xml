@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427383153222">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427834941955">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -8,7 +8,7 @@
     <folder name="css">
       <file name="master_a-master.css" crc="4105747908" ref="phone>seagulls:phone>index:phone>roster:phone>nicole-dollanganger:phone>about:phone>releases:phone>william-alexander:phone>tour:phone>new-god"/>
       <file name="seagulls.css" crc="3884562693" ref="phone>seagulls"/>
-      <file name="index.css" crc="3896899402" ref="phone>index"/>
+      <file name="index.css" crc="493393355" ref="phone>index"/>
       <file name="roster.css" crc="4292237015" ref="phone>roster"/>
       <file name="nicole-dollanganger.css" crc="3884562693" ref="phone>nicole-dollanganger"/>
       <file name="about.css" crc="3859551798" ref="phone>about"/>
@@ -17,7 +17,7 @@
       <file name="tour.css" crc="4260784834" ref="phone>tour"/>
       <file name="new-god.css" crc="3884562693" ref="phone>new-god"/>
     </folder>
-    <file name="index.html" crc="4057618828" mt="1427320984723" redirect="true"/>
+    <file name="index.html" crc="395006272" mt="1427834918571" redirect="true"/>
     <file name="about.html" crc="471062373" mt="1427320984723" redirect="true"/>
     <file name="roster.html" crc="3999335015" mt="1427320984723" redirect="true"/>
     <file name="new-god.html" crc="101681268" mt="1427320984723" redirect="true"/>
@@ -28,9 +28,9 @@
     <file name="tour.html" crc="4169828644" mt="1427320984723" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4292812649"/>
-    <file name="master_a-master.css" crc="269228863" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
-    <file name="index.css" crc="224517470" ref="index"/>
+    <file name="site_global.css" crc="4229430239"/>
+    <file name="master_a-master.css" crc="3975313690" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
+    <file name="index.css" crc="4079669290" ref="index"/>
     <file name="roster.css" crc="335427376" ref="roster"/>
     <file name="about.css" crc="218682370" ref="about"/>
     <file name="tour.css" crc="304890450" ref="tour"/>
@@ -53,13 +53,13 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="roster:about:tour:index:william-alexander:releases:phone>index:phone>tour:dustin-lovelis"/>
     <file name="pie.js" crc="3827607177" ref="about:tour:new-god:seagulls:william-alexander:phone>index:dustin-lovelis"/>
     <file name="webpro.js" crc="3930024250" ref="index:about:new-god:seagulls:william-alexander:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis"/>
-    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:new-god:seagulls:william-alexander:dustin-lovelis"/>
-    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:new-god:seagulls:william-alexander:dustin-lovelis"/>
-    <file name="touchswipe.js" crc="4151298246" ref="index:about:new-god:seagulls:william-alexander:dustin-lovelis"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:about:new-god:seagulls:william-alexander:dustin-lovelis:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:about:new-god:seagulls:william-alexander:dustin-lovelis:phone>index"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:about:new-god:seagulls:william-alexander:dustin-lovelis:phone>index"/>
     <file name="jquery.watch.js" crc="4232581965" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis"/>
     <file name="jquery.musemenu.js" crc="4120181458" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour"/>
     <file name="musewpdisclosure.js" crc="102406591" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:tour:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:tour:index:about:roster:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
     <file name="museredirect.js" crc="172797823" ref="about:roster:releases:tour:new-god:seagulls:index:william-alexander:nicole-dollanganger"/>
   </folder>
   <folder name="images">
@@ -88,8 +88,8 @@
     <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index"/>
     <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
     <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
-    <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index"/>
-    <file name="pasted svg 724491x194_poster_.png" crc="328712073" ref="index"/>
+    <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index:phone>index"/>
+    <file name="pasted svg 724491x194_poster_.png" crc="146283962" ref="phone>index"/>
     <file name="pasted svg 1071619x265.svg" crc="4149419158" ref="index"/>
     <file name="pasted svg 1071619x265_poster_.png" crc="511957105" ref="index"/>
     <file name="pasted svg 621486x127.svg" crc="14300572" ref="index"/>
@@ -114,10 +114,10 @@
     <file name="menu_tour_roll.svg" crc="4259439331" ref="about"/>
     <file name="menu_tour_roll_poster_u1915.png" crc="4038518119" ref="about"/>
     <file name="menu_about_poster_u2151.png" crc="431357723" ref="about"/>
-    <file name="thumbnail_active.svg" crc="194836176" ref="index"/>
-    <file name="thumbnail_active_poster_u2145.png" crc="163638855" ref="index"/>
-    <file name="pasted svg 26227x56.svg" crc="67313" ref="index"/>
-    <file name="pasted svg 26227x56_poster_.png" crc="475342223" ref="index"/>
+    <file name="thumbnail_active.svg" crc="194836176" ref="index:phone>index"/>
+    <file name="thumbnail_active_poster_u2145.png" crc="163638855" ref="index:phone>index"/>
+    <file name="pasted svg 26227x56.svg" crc="67313" ref="index:phone>index"/>
+    <file name="pasted svg 26227x56_poster_.png" crc="4078546778" ref="phone>index"/>
     <file name="pasted svg 19587x44.svg" crc="4044201550" ref="index"/>
     <file name="pasted svg 19587x44_poster_.png" crc="3948462915" ref="index"/>
     <file name="wa-st-jacket-preview.jpg" crc="3972889466" ref="index"/>
@@ -125,8 +125,8 @@
     <file name="fireworklorescover_2x.jpg" crc="343442117" ref="index"/>
     <file name="sg-gp-cover.jpg" crc="3760084728" ref="seagulls"/>
     <file name="sg-gp-cover_2x.jpg" crc="4002769270" ref="seagulls"/>
-    <file name="thumbnail.svg" crc="3962590333" ref="index"/>
-    <file name="thumbnail_poster_u2139.png" crc="346770268" ref="index"/>
+    <file name="thumbnail.svg" crc="3962590333" ref="index:phone>index"/>
+    <file name="thumbnail_poster_u2139.png" crc="346770268" ref="index:phone>index"/>
     <file name="yellowkoriginal-crop-u1477.png" crc="4099297268" ref="about"/>
     <file name="yellowkoriginal-crop-u1477_2x.png" crc="3835638527" ref="about"/>
     <file name="pasted svg 17372x32.svg" crc="4036536545" ref="new-god"/>
@@ -160,8 +160,8 @@
     <file name="firework-transparant-small-2237x237_2x.png" crc="4279570600" ref="releases"/>
     <file name="pasted svg 187588x66.svg" crc="256879670" ref="roster"/>
     <file name="pasted svg 187588x66_poster_.png" crc="4116183957" ref="roster"/>
-    <file name="williamalexander_artist_pic-crop-u2978.png" crc="47256513" ref="index"/>
-    <file name="williamalexander_artist_pic-crop-u2978_2x.png" crc="3807514322" ref="index"/>
+    <file name="williamalexander_artist_pic-crop-u2978.png" crc="3965897694" ref="index"/>
+    <file name="williamalexander_artist_pic-crop-u2978_2x.png" crc="224657096" ref="index"/>
     <file name="pasted svg 1093567x62.svg" crc="3985633088" ref="william-alexander"/>
     <file name="pasted svg 1093567x62_poster_.png" crc="4078429724" ref="william-alexander"/>
     <file name="williamalexander_artist_pic-u3117-fr.jpg" crc="4008063176" ref="william-alexander"/>
@@ -192,15 +192,21 @@
     <file name="nicole_artist_pic-crop-u4069_2x.png" crc="4036161317" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9.svg" crc="461014809" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9_poster_.png" crc="4077194670" ref="nicole-dollanganger"/>
+    <file name="williamalexander_artist_pic-crop-u4187.png" crc="4078820578" ref="phone>index"/>
+    <file name="williamalexander_artist_pic-crop-u4187_2x.png" crc="32207800" ref="phone>index"/>
+    <file name="pasted svg 163568x61.svg" crc="251769037" ref="phone>index"/>
+    <file name="pasted svg 163568x61_poster_.png" crc="3842207726" ref="phone>index"/>
+    <file name="pasted svg 187588x61.svg" crc="4193743915" ref="phone>index"/>
+    <file name="pasted svg 187588x61_poster_.png" crc="3962792695" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="376475324" mt="1427244852828" redirect="true"/>
-  <file name="roster.html" crc="364347663" mt="1427326125370" redirect="true"/>
-  <file name="about.html" crc="415672222" mt="1427382814640" redirect="true"/>
-  <file name="tour.html" crc="4132810268" mt="1427244700397" redirect="true"/>
-  <file name="releases.html" crc="3898666469" mt="1427325348645" redirect="true"/>
-  <file name="new-god.html" crc="128321531" mt="1427381824347" redirect="true"/>
-  <file name="seagulls.html" crc="4287787919" mt="1427381833818" redirect="true"/>
-  <file name="william-alexander.html" crc="273141168" mt="1427381851046" redirect="true"/>
-  <file name="nicole-dollanganger.html" crc="4214028819" mt="1427383008098" redirect="true"/>
-  <file name="dustin-lovelis.html" crc="4038030505" mt="1427383000510" redirect="true"/>
+  <file name="index.html" crc="4171935336" mt="1427833610545" redirect="true"/>
+  <file name="roster.html" crc="437097325" mt="1427834149655" redirect="true"/>
+  <file name="about.html" crc="25778358" mt="1427833897147" redirect="true"/>
+  <file name="tour.html" crc="4132810268" mt="1427832480588" redirect="true"/>
+  <file name="releases.html" crc="28305240" mt="1427833545055" redirect="true"/>
+  <file name="new-god.html" crc="4253420359" mt="1427832480588" redirect="true"/>
+  <file name="seagulls.html" crc="125877068" mt="1427832480588" redirect="true"/>
+  <file name="william-alexander.html" crc="3820902079" mt="1427833519547" redirect="true"/>
+  <file name="nicole-dollanganger.html" crc="101434894" mt="1427832480588" redirect="true"/>
+  <file name="dustin-lovelis.html" crc="367330160" mt="1427833526388" redirect="true"/>
 </manifest>
