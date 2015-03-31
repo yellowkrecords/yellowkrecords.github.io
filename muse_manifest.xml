@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427836668983">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427837325386">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -8,7 +8,7 @@
     <folder name="css">
       <file name="master_a-master.css" crc="4105747908" ref="phone>seagulls:phone>index:phone>roster:phone>nicole-dollanganger:phone>about:phone>releases:phone>william-alexander:phone>tour:phone>new-god"/>
       <file name="seagulls.css" crc="3884562693" ref="phone>seagulls"/>
-      <file name="index.css" crc="240286665" ref="phone>index"/>
+      <file name="index.css" crc="4186796509" ref="phone>index"/>
       <file name="roster.css" crc="4292237015" ref="phone>roster"/>
       <file name="nicole-dollanganger.css" crc="3884562693" ref="phone>nicole-dollanganger"/>
       <file name="about.css" crc="3859551798" ref="phone>about"/>
@@ -17,7 +17,7 @@
       <file name="tour.css" crc="4260784834" ref="phone>tour"/>
       <file name="new-god.css" crc="3884562693" ref="phone>new-god"/>
     </folder>
-    <file name="index.html" crc="3945603194" mt="1427836661144" redirect="true"/>
+    <file name="index.html" crc="162002221" mt="1427837312102" redirect="true"/>
     <file name="about.html" crc="471062373" mt="1427320984723" redirect="true"/>
     <file name="roster.html" crc="3999335015" mt="1427320984723" redirect="true"/>
     <file name="new-god.html" crc="101681268" mt="1427320984723" redirect="true"/>
@@ -88,8 +88,7 @@
     <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index:index"/>
     <file name="insta_rollover.svg" crc="4057936125" ref="about:index"/>
     <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about:index"/>
-    <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index:phone>index"/>
-    <file name="pasted svg 724491x194_poster_.png" crc="146283962" ref="phone>index"/>
+    <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index"/>
     <file name="pasted svg 1071619x265.svg" crc="4149419158" ref="index"/>
     <file name="pasted svg 1071619x265_poster_.png" crc="511957105" ref="index"/>
     <file name="pasted svg 621486x127.svg" crc="14300572" ref="index"/>
@@ -116,8 +115,7 @@
     <file name="menu_about_poster_u2151.png" crc="431357723" ref="about:index"/>
     <file name="thumbnail_active.svg" crc="194836176" ref="index:phone>index"/>
     <file name="thumbnail_active_poster_u2145.png" crc="163638855" ref="index:phone>index"/>
-    <file name="pasted svg 26227x56.svg" crc="67313" ref="index:phone>index"/>
-    <file name="pasted svg 26227x56_poster_.png" crc="4078546778" ref="phone>index"/>
+    <file name="pasted svg 26227x56.svg" crc="67313" ref="index"/>
     <file name="pasted svg 19587x44.svg" crc="4044201550" ref="index"/>
     <file name="pasted svg 19587x44_poster_.png" crc="3948462915" ref="index"/>
     <file name="wa-st-jacket-preview.jpg" crc="3972889466" ref="index"/>
@@ -190,14 +188,12 @@
     <file name="nicole_artist_pic-crop-u4069_2x.png" crc="4036161317" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9.svg" crc="461014809" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9_poster_.png" crc="4077194670" ref="nicole-dollanganger"/>
-    <file name="pasted svg 163568x61.svg" crc="251769037" ref="phone>index"/>
-    <file name="pasted svg 163568x61_poster_.png" crc="3842207726" ref="phone>index"/>
-    <file name="pasted svg 187588x61.svg" crc="4193743915" ref="phone>index"/>
-    <file name="pasted svg 187588x61_poster_.png" crc="3962792695" ref="phone>index"/>
     <file name="williamalexander_artist_pic-crop-u4243.png" crc="4078820578" ref="phone>index"/>
     <file name="williamalexander_artist_pic-crop-u4243_2x.png" crc="32207800" ref="phone>index"/>
     <file name="williamalexander_artist_pic-crop-u4213.png" crc="3965897694" ref="index"/>
     <file name="williamalexander_artist_pic-crop-u4213_2x.png" crc="224657096" ref="index"/>
+    <file name="pasted svg 9023x9.svg" crc="4099897992" ref="phone>index"/>
+    <file name="pasted svg 9023x9_poster_.png" crc="300429794" ref="phone>index"/>
   </folder>
   <file name="index.html" crc="334650044" mt="1427835561069" redirect="true"/>
   <file name="roster.html" crc="437097325" mt="1427834149655" redirect="true"/>
