@@ -4,8 +4,8 @@
 
 .version.seagulls /* version checker */
 {
-	color: #00000C;
-	background-color: #DFB260;
+	color: #000005;
+	background-color: #90D7CD;
 }
 
 @-ms-viewport
@@ -834,7 +834,7 @@
 #u4497-20
 {
 	z-index: 126;
-	min-height: 235px;
+	min-height: 401px;
 	background-color: transparent;
 	text-align: justify;
 	font-size: 15px;
@@ -845,8 +845,8 @@
 
 #u4497-2,#u4497-3,#u4497-7,#u4497-8,#u4497-18
 {
-	padding-right: 5px;
-	padding-left: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
 #u4497-5,#u4497-10,#u4497-12,#u4497-14,#u4497-16
@@ -857,7 +857,7 @@
 #u4497-20-bw
 {
 	z-index: 126;
-	min-height: 235px;
+	min-height: 401px;
 	margin-top: -37px;
 	margin-bottom: -37px;
 }
@@ -866,7 +866,7 @@
 {
 	width: 0.01px;
 	margin-left: 12px;
-	margin-top: 73px;
+	margin-top: 50px;
 }
 
 #u4498

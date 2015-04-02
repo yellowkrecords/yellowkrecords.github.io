@@ -4,8 +4,8 @@
 
 .version.nicole_dollanganger /* version checker */
 {
-	color: #0000E1;
-	background-color: #770F08;
+	color: #00000F;
+	background-color: #EF214B;
 }
 
 @-ms-viewport
@@ -42,7 +42,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 613px;
+	min-height: 645.95px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -50,6 +50,12 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	width: 0.01px;
 }
 
 #u3789
@@ -317,11 +323,112 @@
 	z-index: 12;
 }
 
+#u4612
+{
+	z-index: 54;
+	overflow: hidden;
+	margin-left: 9px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u4617-4
+{
+	z-index: 57;
+	width: 371px;
+	min-height: 40px;
+	background-color: transparent;
+	color: #484848;
+	font-size: 27px;
+	line-height: 32px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	margin-left: 9px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#pu4615
+{
+	width: 0.01px;
+	margin-left: 9px;
+	margin-top: 10px;
+}
+
+#u4615
+{
+	z-index: 55;
+	width: 194px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4618
+{
+	z-index: 61;
+	overflow: hidden;
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: 220px;
+}
+
+#u4622
+{
+	z-index: 63;
+	overflow: hidden;
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	margin-top: 60px;
+	left: 274px;
+}
+
+#u4620
+{
+	z-index: 62;
+	overflow: hidden;
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: 327px;
+}
+
+#u4611-4
+{
+	z-index: 50;
+	min-height: 194px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 22px;
+	line-height: 26px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+#u4611-2
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u4611-4-bw
+{
+	z-index: 50;
+	min-height: 194px;
+	margin-top: 48px;
+}
+
 #pu4301
 {
 	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 536px;
+	margin-top: 13px;
 }
 
 #u4301,#u4301-bw
@@ -392,6 +499,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -536px;
 }
 
