@@ -1033,11 +1033,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4924.png</loc>
+    <lastmod>2015-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic-crop-u4924_2x.png</loc>
+    <lastmod>2015-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://yellowkrecords.github.io/index.html</loc>
     <lastmod>2015-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/index.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/roster.html</loc>
@@ -1045,6 +1058,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/roster.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/roster.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/about.html</loc>
@@ -1052,6 +1066,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/about.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/about.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/tour.html</loc>
@@ -1059,6 +1074,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/tour.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/tour.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/releases.html</loc>
@@ -1066,6 +1082,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/releases.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/releases.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/new-god.html</loc>
@@ -1073,6 +1090,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/new-god.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/new-god.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/seagulls.html</loc>
@@ -1080,6 +1098,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/seagulls.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/seagulls.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/william-alexander.html</loc>
@@ -1087,6 +1106,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/william-alexander.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/william-alexander.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/nicole-dollanganger.html</loc>
@@ -1094,6 +1114,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/nicole-dollanganger.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/nicole-dollanganger.html"/>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/dustin-lovelis.html</loc>
@@ -1101,5 +1122,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/dustin-lovelis.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://yellowkrecords.github.io/tablet/dustin-lovelis.html"/>
   </url>
 </urlset>
