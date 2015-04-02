@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427940518738">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427940570365">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -13,7 +13,7 @@
       <file name="nicole-dollanganger.css" crc="3782676232" ref="phone>nicole-dollanganger"/>
       <file name="about.css" crc="33452568" ref="phone>about"/>
       <file name="releases.css" crc="4005233991" ref="phone>releases"/>
-      <file name="william-alexander.css" crc="3949496882" ref="phone>william-alexander"/>
+      <file name="william-alexander.css" crc="3909311397" ref="phone>william-alexander"/>
       <file name="tour.css" crc="3852060396" ref="phone>tour"/>
       <file name="new-god.css" crc="367842582" ref="phone>new-god"/>
       <file name="iefonts_releases.css" crc="3920980715" ref="phone>releases"/>
@@ -27,7 +27,7 @@
     <file name="roster.html" crc="4278076698" mt="1427936328624" redirect="true"/>
     <file name="new-god.html" crc="3976192988" mt="1427939616239" redirect="true"/>
     <file name="seagulls.html" crc="372401977" mt="1427939606466" redirect="true"/>
-    <file name="william-alexander.html" crc="392076220" mt="1427940510841" redirect="true"/>
+    <file name="william-alexander.html" crc="437106979" mt="1427940562819" redirect="true"/>
     <file name="nicole-dollanganger.html" crc="105793137" mt="1427933734724" redirect="true"/>
     <file name="releases.html" crc="213602999" mt="1427936423103" redirect="true"/>
     <file name="tour.html" crc="4149886671" mt="1427934444628" redirect="true"/>
@@ -81,17 +81,17 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="453445497" ref="tour"/>
-    <file name="fb-01-01.svg" crc="4190058772" ref="about:phone>index:william-alexander"/>
-    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:phone>index:william-alexander"/>
+    <file name="fb-01-01.svg" crc="4190058772" ref="about:phone>index:william-alexander:phone>william-alexander"/>
+    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:phone>index:william-alexander:phone>william-alexander"/>
     <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about:william-alexander"/>
     <file name="menul_logo.png" crc="3813404673" ref="about:roster:releases:index:tour:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
     <file name="menul_logo_2x.png" crc="3793365590" ref="about:roster:releases:index:tour:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
-    <file name="twiiter-01.svg" crc="4212934312" ref="about:phone>index:william-alexander"/>
-    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:phone>index:william-alexander"/>
+    <file name="twiiter-01.svg" crc="4212934312" ref="about:phone>index:william-alexander:phone>william-alexander"/>
+    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:phone>index:william-alexander:phone>william-alexander"/>
     <file name="twiiter_rollover-01.svg" crc="421850805" ref="about:william-alexander"/>
     <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about:william-alexander"/>
-    <file name="insta-01.svg" crc="316478732" ref="about:phone>index:william-alexander"/>
-    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index:william-alexander"/>
+    <file name="insta-01.svg" crc="316478732" ref="about:phone>index:william-alexander:phone>william-alexander"/>
+    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index:william-alexander:phone>william-alexander"/>
     <file name="insta_rollover.svg" crc="4057936125" ref="about:william-alexander"/>
     <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about:william-alexander"/>
     <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index"/>
