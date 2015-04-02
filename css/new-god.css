@@ -1,7 +1,7 @@
 .version.new_god /* version checker */
 {
-	color: #00001F;
-	background-color: #609A2D;
+	color: #000001;
+	background-color: #D5E4A8;
 }
 
 .html
@@ -790,9 +790,9 @@
 	width: 936px;
 	min-height: 235px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 90px;

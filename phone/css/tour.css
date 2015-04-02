@@ -4,8 +4,8 @@
 
 .version.tour /* version checker */
 {
-	color: #0000FD;
-	background-color: #F66AC2;
+	color: #0000E5;
+	background-color: #99C6EC;
 }
 
 @-ms-viewport
@@ -35,8 +35,7 @@
 
 .html
 {
-	background: #FFFFFF url("../../images/tour_header.jpg") no-repeat center top scroll;
-	background-size: contain;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -53,14 +52,19 @@
 	filter: alpha(opacity=100);
 }
 
+#page_position_content
+{
+	width: 0.01px;
+}
+
 #u3789
 {
-	z-index: 3;
+	z-index: 13;
 }
 
 #u3790-4
 {
-	z-index: 4;
+	z-index: 14;
 	min-height: 45px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -85,7 +89,7 @@
 
 #u3791
 {
-	z-index: 8;
+	z-index: 18;
 }
 
 #u3805
@@ -309,27 +313,84 @@
 
 #menuu3801,#menuu3801-bw
 {
-	z-index: 9;
+	z-index: 19;
 	min-height: 134px;
 }
 
 #accordionu3788,#accordionu3788-bw
 {
+	z-index: 12;
+}
+
+#u4309
+{
+	z-index: 50;
+	min-height: 595px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u4309-bw
+{
+	z-index: 50;
+	min-height: 595px;
+}
+
+#pu4301
+{
+	width: 0.01px;
+	margin-top: 1px;
+}
+
+#u4301,#u4301-bw
+{
 	z-index: 2;
+	height: 77px;
 }
 
 #u3936-6
 {
-	z-index: 40;
-	min-height: 44px;
+	z-index: 3;
+	min-height: 27px;
 	padding-top: 24px;
 }
 
 #u3936-6-bw
 {
-	z-index: 40;
-	min-height: 44px;
-	margin-top: 545px;
+	z-index: 3;
+	min-height: 27px;
+	margin-top: 26px;
+}
+
+#u4298
+{
+	z-index: 9;
+	width: 37px;
+	height: 24px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 172px;
+}
+
+#u4299
+{
+	z-index: 10;
+	width: 37px;
+	height: 24px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 251px;
+}
+
+#u4300
+{
+	z-index: 11;
+	width: 37px;
+	height: 24px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 92px;
 }
 
 @font-face
@@ -350,6 +411,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -545px;
 }
 

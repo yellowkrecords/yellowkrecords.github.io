@@ -4,9 +4,9 @@
 	border-color: transparent;
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
-	line-height: 44px;
-	font-size: 44px;
 	color: #FFFFFF;
+	font-size: 44px;
+	line-height: 44px;
 	font-family: '__websocialmenus_5';
 	font-weight: 400;
 	-pie-background: rgba(0,0,0,0.6);
@@ -76,10 +76,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #FFFFFF;
 	text-align: left;
 	font-size: 17px;
-	color: #FFFFFF;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -124,10 +124,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #FFFFFF;
 	text-align: left;
 	font-size: 17px;
-	color: #FFFFFF;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -172,10 +172,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #FFFFFF;
 	text-align: left;
 	font-size: 17px;
-	color: #FFFFFF;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -220,10 +220,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #FFFFFF;
 	text-align: left;
 	font-size: 17px;
-	color: #FFFFFF;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -273,10 +273,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #FFFFFF;
 	text-align: left;
 	font-size: 17px;
-	color: #FFFFFF;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -292,11 +292,71 @@
 	cursor: pointer;
 }
 
+#u4301
+{
+	background-color: #666666;
+	background-color: rgba(0,0,0,0.6);
+	-pie-background: rgba(0,0,0,0.6);
+}
+
 #u3936-6
 {
 	background-color: transparent;
 	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
+}
+
+#u3936
+{
+	color: #FFFFFF;
+}
+
+.big_menu_facebook
+{
+	border-style: none;
+	border-color: #000000;
+	background: transparent url("../../images/fb-01-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u4298
+{
+	background-image: url('../../images/fb-01-01_poster_u1346.png');
+}
+
+.big_menu_twitter
+{
+	border-style: none;
+	border-color: #000000;
+	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u4299
+{
+	background-image: url('../../images/twiiter-01_poster_u1372.png');
+}
+
+#u4298,#u4299,#u4300
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
+	position: relative;
+	background-size: contain;
+}
+
+.big_menu_insta
+{
+	border-style: none;
+	border-color: #000000;
+	background: transparent url("../../images/insta-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u4300
+{
+	background-image: url('../../images/insta-01_poster_u1385.png');
 }
 
