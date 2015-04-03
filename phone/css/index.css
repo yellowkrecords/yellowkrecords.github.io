@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000FD;
-	background-color: #D28933;
+	color: #0000EF;
+	background-color: #813474;
 }
 
 @-ms-viewport
@@ -375,7 +375,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	left: 279px;
+	left: 151px;
 }
 
 #u4255
@@ -386,7 +386,18 @@
 	width: 9px;
 	margin-right: -10000px;
 	margin-top: 7px;
-	left: 345px;
+	left: 217px;
+}
+
+#u5030
+{
+	z-index: 136;
+	overflow: hidden;
+	position: relative;
+	width: 45px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 318px;
 }
 
 #pamphletu4164

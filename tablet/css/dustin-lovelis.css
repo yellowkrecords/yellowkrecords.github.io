@@ -1,7 +1,7 @@
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000F9;
-	background-color: #4950E4;
+	color: #000003;
+	background-color: #7CEDFD;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1024px;
+	min-height: 833px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -48,280 +48,170 @@
 	filter: alpha(opacity=100);
 }
 
+#page_position_content
+{
+	width: 0.01px;
+}
+
+#menuu4814
+{
+	z-index: 12;
+	width: 762px;
+	padding-bottom: 6px;
+}
+
 #u4815
 {
-	width: 152px;
-	min-height: 56px;
+	width: 149px;
+	min-height: 54px;
 	margin-right: -10000px;
+	top: 3px;
+	left: 3px;
 }
 
 #u4816
 {
-	width: 152px;
-	padding-bottom: 18px;
-}
-
-#u4816:hover
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u4816:active
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
+	width: 148px;
+	padding-bottom: 16px;
 }
 
 #u4817-4
 {
-	width: 152px;
+	width: 148px;
 	min-height: 38px;
 	margin-right: -10000px;
-	top: 9px;
-}
-
-#u4816:hover #u4817-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4816:active #u4817-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
+	top: 8px;
 }
 
 #u4822
 {
-	width: 152px;
-	min-height: 56px;
+	width: 149px;
+	min-height: 54px;
 	margin-right: -10000px;
+	top: 3px;
 	left: 154px;
 }
 
 #u4823
 {
-	width: 152px;
-	padding-bottom: 18px;
+	width: 148px;
+	padding-bottom: 16px;
 }
 
-#u4816.MuseMenuActive,#u4823:hover
+#u4816.MuseMenuActive,#u4823.MuseMenuActive
 {
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u4823:active
-{
-	width: 152px;
+	width: 148px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u4826-4
 {
-	width: 152px;
+	width: 148px;
 	min-height: 38px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 8px;
 }
 
-#u4816.MuseMenuActive #u4817-4,#u4823:hover #u4826-4
+#u4816.MuseMenuActive #u4817-4,#u4823.MuseMenuActive #u4826-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4823:active #u4826-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
+	width: 148px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u4829
 {
-	width: 152px;
-	min-height: 56px;
+	width: 150px;
+	min-height: 54px;
 	margin-right: -10000px;
-	left: 308px;
+	top: 3px;
+	left: 305px;
 }
 
 #u4830
 {
-	width: 152px;
-	padding-bottom: 18px;
-}
-
-#u4823.MuseMenuActive,#u4830:hover
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u4830:active
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
+	width: 149px;
+	padding-bottom: 16px;
 }
 
 #u4833-4
 {
-	width: 152px;
+	width: 149px;
 	min-height: 38px;
 	margin-right: -10000px;
-	top: 9px;
-}
-
-#u4823.MuseMenuActive #u4826-4,#u4830:hover #u4833-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4830:active #u4833-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
+	top: 8px;
 }
 
 #u4836
 {
-	width: 152px;
-	min-height: 56px;
+	width: 150px;
+	min-height: 54px;
 	margin-right: -10000px;
-	left: 462px;
+	top: 3px;
+	left: 457px;
 }
 
 #u4837
 {
-	width: 152px;
-	padding-bottom: 18px;
+	width: 149px;
+	padding-bottom: 16px;
 }
 
-#u4830.MuseMenuActive,#u4837:hover
+#u4830.MuseMenuActive,#u4837.MuseMenuActive
 {
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u4837:active
-{
-	width: 152px;
+	width: 149px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u4839-4
 {
-	width: 152px;
+	width: 149px;
 	min-height: 38px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 8px;
 }
 
-#u4830.MuseMenuActive #u4833-4,#u4837:hover #u4839-4
+#u4830.MuseMenuActive #u4833-4,#u4837.MuseMenuActive #u4839-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4837:active #u4839-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
+	width: 149px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u4843
 {
-	width: 152px;
-	min-height: 56px;
+	width: 150px;
+	min-height: 54px;
 	margin-right: -10000px;
-	left: 616px;
+	top: 3px;
+	left: 609px;
 }
 
 #u4846
 {
-	width: 152px;
-	padding-bottom: 18px;
-}
-
-#u4837.MuseMenuActive,#u4846:hover
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u4846:active
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 0px;
+	width: 150px;
+	padding-bottom: 16px;
 }
 
 #u4846.MuseMenuActive
 {
-	width: 152px;
+	width: 150px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u4847-4
 {
-	width: 152px;
+	width: 150px;
 	min-height: 38px;
 	margin-right: -10000px;
-	top: 9px;
-}
-
-#u4837.MuseMenuActive #u4839-4,#u4846:hover #u4847-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4846:active #u4847-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 152px;
-	margin: 0px -10000px 0px 0px;
+	top: 8px;
 }
 
 #u4846.MuseMenuActive #u4847-4
@@ -329,21 +219,208 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 152px;
+	width: 150px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#menuu4814,#menuu4814-bw
+#u5203
 {
-	z-index: 12;
-	min-height: 56px;
+	z-index: 77;
+	margin-left: 226px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#pu5201
+{
+	width: 0.01px;
+	margin-left: 226px;
+	margin-top: 35px;
+}
+
+#u5201
+{
+	z-index: 75;
+	width: 195px;
+	height: 139px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/dustin_artist_pic-u4601-fr.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+.hidpi #u5201
+{
+	background-image: url("../../images/dustin_artist_pic-u4601-fr_2x.jpg");
+}
+
+#u5199
+{
+	z-index: 74;
+	overflow: hidden;
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: 269px;
+}
+
+#u5195-8
+{
+	z-index: 43;
+	min-height: 73px;
+	background-color: transparent;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-align: center;
+}
+
+#u5195-4
+{
+	font-size: 18px;
+	line-height: 25px;
+	color: #29ABE2;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u5195-6
+{
+	font-size: 16px;
+	line-height: 22px;
+	color: #484848;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 600;
+}
+
+#u5195-8-bw
+{
+	z-index: 43;
+	min-height: 73px;
+	margin-top: 18px;
+}
+
+#u5196-10
+{
+	z-index: 51;
+	min-height: 119px;
+	background-color: transparent;
+	line-height: 18px;
+	text-align: justify;
+	font-size: 15px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u5196-8
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u5195-2,#u5196-2,#u5196-4,#u5196-6
+{
+	font-style: italic;
+}
+
+#u5196-10-bw
+{
+	z-index: 51;
+	min-height: 119px;
+	margin-top: 18px;
+}
+
+#pu5197
+{
+	width: 0.01px;
+	margin-left: 211px;
+	margin-top: 13px;
+}
+
+#u5197
+{
+	z-index: 61;
+	width: 186px;
+	height: 186px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #484848;
+	background-color: transparent;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#u5198-12
+{
+	z-index: 62;
+	width: 144px;
+	min-height: 123px;
+	background-color: transparent;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 201px;
+}
+
+#u5198-2
+{
+	font-size: 26px;
+	line-height: 31px;
+}
+
+#u5198-5
+{
+	font-size: 30px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u5198-3
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+
+#u5198-4
+{
+	font-size: 14px;
+	font-style: italic;
+	line-height: 17px;
+}
+
+#u5198-7,#u5198-8,#u5198-10
+{
+	font-size: 17px;
+	line-height: 20px;
+}
+
+#u5202
+{
+	z-index: 76;
+	width: 186px;
+	height: 186px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/dustin_dimensions_art-u4602-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u5202
+{
+	background-image: url("../../images/dustin_dimensions_art-u4602-fr_2x.jpg");
 }
 
 #pu4769
 {
 	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 947px;
+	margin-top: 53px;
 }
 
 #u4769,#u4769-bw
@@ -372,7 +449,7 @@
 	width: 37px;
 	height: 24px;
 	margin-right: -10000px;
-	margin-top: 14px;
+	margin-top: 13px;
 	left: 365px;
 }
 
@@ -382,7 +459,7 @@
 	width: 37px;
 	height: 24px;
 	margin-right: -10000px;
-	margin-top: 14px;
+	margin-top: 13px;
 	left: 444px;
 }
 
@@ -405,6 +482,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -946px;
 }
 
