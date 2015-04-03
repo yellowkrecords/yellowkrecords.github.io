@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
 	color: #00000D;
-	background-color: #B93920;
+	background-color: #08D402;
 }
 
 .html
@@ -337,10 +337,10 @@
 	width: 178px;
 	min-height: 38px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 34px;
 	text-align: center;
 	font-size: 28px;
-	line-height: 34px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -396,10 +396,10 @@
 	width: 178px;
 	min-height: 38px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 34px;
 	text-align: center;
 	font-size: 28px;
-	line-height: 34px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -477,10 +477,10 @@
 	width: 178px;
 	min-height: 38px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 34px;
 	text-align: center;
 	font-size: 28px;
-	line-height: 34px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -556,10 +556,10 @@
 	background-color: transparent;
 	border-radius: 1800px;
 	padding: 21px;
-	color: #333333;
+	line-height: 35px;
 	text-align: center;
 	font-size: 29px;
-	line-height: 35px;
+	color: #333333;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -618,10 +618,10 @@
 	background-color: transparent;
 	border-radius: 180px;
 	padding: 37px;
-	color: #333333;
+	line-height: 35px;
 	text-align: center;
 	font-size: 29px;
-	line-height: 35px;
+	color: #333333;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -661,10 +661,10 @@
 	background-color: transparent;
 	border-radius: 158px;
 	padding: 27px;
-	color: #333333;
+	line-height: 35px;
 	text-align: center;
 	font-size: 29px;
-	line-height: 35px;
+	color: #333333;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;

@@ -131,7 +131,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-a,.Yellow-K a,.Yellow-K-Dark a
+.Yellow-K-Dark a
 {
 	color: inherit;
 	text-decoration: inherit;

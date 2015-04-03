@@ -4,8 +4,8 @@
 
 .version.tour /* version checker */
 {
-	color: #0000E5;
-	background-color: #99C6EC;
+	color: #000006;
+	background-color: #6DECB7;
 }
 
 @-ms-viewport
@@ -390,7 +390,7 @@
 	height: 24px;
 	margin-right: -10000px;
 	margin-top: 15px;
-	left: 92px;
+	left: 93px;
 }
 
 @font-face

@@ -4,8 +4,8 @@
 
 .version.new_god /* version checker */
 {
-	color: #0000F2;
-	background-color: #D439B7;
+	color: #00001E;
+	background-color: #B07FFC;
 }
 
 @-ms-viewport
@@ -513,9 +513,9 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
+	line-height: 20px;
 	text-align: center;
 	font-size: 14px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -543,9 +543,9 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
+	line-height: 18px;
 	text-align: center;
 	font-size: 13px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -574,9 +574,9 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
+	line-height: 20px;
 	text-align: center;
 	font-size: 14px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -653,9 +653,9 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
+	line-height: 20px;
 	text-align: center;
 	font-size: 14px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -874,9 +874,9 @@
 	z-index: 115;
 	min-height: 523px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -1079,7 +1079,7 @@
 	height: 24px;
 	margin-right: -10000px;
 	margin-top: 14px;
-	left: 92px;
+	left: 93px;
 }
 
 @font-face

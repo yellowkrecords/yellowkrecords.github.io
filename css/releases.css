@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #000000;
-	background-color: #BA45CB;
+	color: #00000E;
+	background-color: #BC1857;
 }
 
 .html
@@ -347,8 +347,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
@@ -407,8 +407,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
@@ -510,8 +510,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
@@ -566,8 +566,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
