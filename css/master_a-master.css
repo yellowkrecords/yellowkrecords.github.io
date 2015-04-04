@@ -23,7 +23,7 @@
 	position: fixed;
 }
 
-#u1949
+#u5322,#u5304,#u5286,#u5269
 {
 	border-style: none;
 	border-color: transparent;
@@ -31,154 +31,61 @@
 	position: fixed;
 }
 
-#buttonu1843
+#u5239
 {
-	border-color: #787878;
+	position: fixed;
+	background: transparent url("../images/menu_about-about.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5239:hover
+{
+	background: transparent url("../images/menu_about-about2.png") no-repeat left top;
+	background-size: contain;
+}
+
+.hidpi #u5239
+{
+	background-image: url("../images/menu_about-about_2x.png");
+}
+
+.hidpi #u5239:hover
+{
+	background-image: url("../images/menu_about-about_2x2.png");
+}
+
+#u5252
+{
 	position: relative;
-	background: transparent url("../images/menu_about.svg") no-repeat center center;
-	background-size: 120px 68px;
+	background: transparent url("../images/menu_roster.png") no-repeat left top;
+	background-size: contain;
 }
 
-#buttonu1843:hover
+#u5252:hover
 {
-	background: transparent url("../images/menu_about_roll.svg") no-repeat center center;
-	background-size: 120px 68px;
+	background: transparent url("../images/menu_roster-yellow.png") no-repeat left top;
+	background-size: contain;
 }
 
-#buttonu1843.ButtonSelected
+#u5252.MuseLinkActive
 {
-	background: transparent url("../images/menu_about.svg") no-repeat center center;
-	background-size: 120px 68px;
+	background: transparent url("../images/menu_roster-white.png") no-repeat left top;
+	background-size: contain;
 }
 
-.nosvg #buttonu1843:hover
+.hidpi #u5252
 {
-	background-image: url('../images/menu_about_roll_poster_u1850.png');
+	background-image: url("../images/menu_roster_2x.png");
 }
 
-.nosvg #buttonu1843,.nosvg #buttonu1843.ButtonSelected
+.hidpi #u5252:hover
 {
-	background-image: url('../images/menu_about_poster_u2151.png');
+	background-image: url("../images/menu_roster-yellow_2x.png");
 }
 
-#buttonu1856
+.hidpi #u5252.MuseLinkActive
 {
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_roster.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1856:hover
-{
-	background: transparent url("../images/menu_roster_roll.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1856.ButtonSelected
-{
-	background: transparent url("../images/menu_roster.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-.nosvg #buttonu1856:hover
-{
-	background-image: url('../images/menu_roster_roll_poster_u1863.png');
-}
-
-.nosvg #buttonu1856,.nosvg #buttonu1856.ButtonSelected
-{
-	background-image: url('../images/menu_roster_poster_u1857.png');
-}
-
-#buttonu1869
-{
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_releases.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1869:hover
-{
-	background: transparent url("../images/menu_releases_roll.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1869.ButtonSelected
-{
-	background: transparent url("../images/menu_releases.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-.nosvg #buttonu1869:hover
-{
-	background-image: url('../images/menu_releases_roll_poster_u1876.png');
-}
-
-.nosvg #buttonu1869,.nosvg #buttonu1869.ButtonSelected
-{
-	background-image: url('../images/menu_releases_poster_u1870.png');
-}
-
-#buttonu1882
-{
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_store.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1882:hover
-{
-	background: transparent url("../images/menu_store_roll.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1882.ButtonSelected
-{
-	background: transparent url("../images/menu_store.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-.nosvg #buttonu1882:hover
-{
-	background-image: url('../images/menu_store_roll_poster_u1889.png');
-}
-
-.nosvg #buttonu1882,.nosvg #buttonu1882.ButtonSelected
-{
-	background-image: url('../images/menu_store_poster_u1883.png');
-}
-
-#buttonu1908
-{
-	border-color: #787878;
-	position: relative;
-	background: transparent url("../images/menu_tour.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1908:hover
-{
-	background: transparent url("../images/menu_tour_roll.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-#buttonu1908.ButtonSelected
-{
-	background: transparent url("../images/menu_tour.svg") no-repeat center center;
-	background-size: 120px 68px;
-}
-
-.nosvg #buttonu1908:hover
-{
-	background-image: url('../images/menu_tour_roll_poster_u1915.png');
-}
-
-.nosvg #buttonu1908,.nosvg #buttonu1908.ButtonSelected
-{
-	background-image: url('../images/menu_tour_poster_u1909.png');
+	background-image: url("../images/menu_roster-white_2x.png");
 }
 
 #u1944-4,#u1945-4,#u1946-4,#u1947-4
@@ -187,7 +94,109 @@
 	line-height: 40px;
 	font-size: 33px;
 	color: #FFFFFF;
+	position: fixed;
+}
+
+#u5270
+{
 	position: relative;
+	background: transparent url("../images/menu_releases.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5270:hover
+{
+	background: transparent url("../images/menu_releases-yellow.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5270.MuseLinkActive
+{
+	background: transparent url("../images/menu_releases-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+.hidpi #u5270
+{
+	background-image: url("../images/menu_releases_2x.png");
+}
+
+.hidpi #u5270:hover
+{
+	background-image: url("../images/menu_releases-yellow_2x.png");
+}
+
+.hidpi #u5270.MuseLinkActive
+{
+	background-image: url("../images/menu_releases-white_2x.png");
+}
+
+#u5287
+{
+	position: relative;
+	background: transparent url("../images/menu_store.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5287:hover
+{
+	background: transparent url("../images/menu_store-yellow.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5287.MuseLinkActive
+{
+	background: transparent url("../images/menu_store-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+.hidpi #u5287
+{
+	background-image: url("../images/menu_store_2x.png");
+}
+
+.hidpi #u5287:hover
+{
+	background-image: url("../images/menu_store-yellow_2x.png");
+}
+
+.hidpi #u5287.MuseLinkActive
+{
+	background-image: url("../images/menu_store-white_2x.png");
+}
+
+#u5305
+{
+	position: relative;
+	background: transparent url("../images/menu_tour.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5305:hover
+{
+	background: transparent url("../images/menu_tour-yellow.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5305.MuseLinkActive
+{
+	background: transparent url("../images/menu_tour-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+.hidpi #u5305
+{
+	background-image: url("../images/menu_tour_2x.png");
+}
+
+.hidpi #u5305:hover
+{
+	background-image: url("../images/menu_tour-yellow_2x.png");
+}
+
+.hidpi #u5305.MuseLinkActive
+{
+	background-image: url("../images/menu_tour-white_2x.png");
 }
 
 #u1087
@@ -289,7 +298,7 @@
 	background-image: url('../images/insta_rollover_poster_u1391.png');
 }
 
-#u1943,#u787
+#u787
 {
 	border-style: none;
 	border-color: transparent;
