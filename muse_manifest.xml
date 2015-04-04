@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1428164022083">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1428164346512">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="129699907" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index"/>
@@ -287,14 +287,14 @@
     <file name="menu_tour-white.png" crc="3933689101" ref="about"/>
     <file name="menu_tour-white_2x.png" crc="4289214184" ref="about"/>
   </folder>
-  <file name="index.html" crc="4092130758" mt="1428085661509" redirect="true"/>
-  <file name="roster.html" crc="4129441041" mt="1428085661509" redirect="true"/>
-  <file name="about.html" crc="3887095805" mt="1428085661509" redirect="true"/>
-  <file name="tour.html" crc="3967561306" mt="1428085661509" redirect="true"/>
-  <file name="releases.html" crc="81678195" mt="1428163799688" redirect="true"/>
-  <file name="new-god.html" crc="57062795" mt="1428085661509" redirect="true"/>
-  <file name="seagulls.html" crc="167034672" mt="1428085661509" redirect="true"/>
-  <file name="william-alexander.html" crc="4124753091" mt="1428085661509" redirect="true"/>
-  <file name="nicole-dollanganger.html" crc="3879366089" mt="1428085661509" redirect="true"/>
-  <file name="dustin-lovelis.html" crc="4123208059" mt="1428085661509" redirect="true"/>
+  <file name="index.html" crc="221224829" mt="1428164331997" redirect="true"/>
+  <file name="roster.html" crc="22015818" mt="1428164331997" redirect="true"/>
+  <file name="about.html" crc="4087361679" mt="1428164331997" redirect="true"/>
+  <file name="tour.html" crc="165564062" mt="1428164331997" redirect="true"/>
+  <file name="releases.html" crc="104713653" mt="1428164331997" redirect="true"/>
+  <file name="new-god.html" crc="514299394" mt="1428164331997" redirect="true"/>
+  <file name="seagulls.html" crc="4154654211" mt="1428164331997" redirect="true"/>
+  <file name="william-alexander.html" crc="3914371991" mt="1428164331997" redirect="true"/>
+  <file name="nicole-dollanganger.html" crc="314463401" mt="1428164331997" redirect="true"/>
+  <file name="dustin-lovelis.html" crc="4150427133" mt="1428164331997" redirect="true"/>
 </manifest>
