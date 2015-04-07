@@ -113,6 +113,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+.Yellow-K a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Yellow-K a:link
 {
 	color: #484848;

@@ -1,7 +1,7 @@
 .version.nicole_dollanganger /* version checker */
 {
-	color: #000001;
-	background-color: #7B6936;
+	color: #0000E4;
+	background-color: #7E3679;
 }
 
 .html
@@ -384,9 +384,9 @@
 	width: 948px;
 	min-height: 89px;
 	background-color: transparent;
-	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	line-height: 26px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	font-style: italic;
