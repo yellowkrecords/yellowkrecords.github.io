@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #000001;
-	background-color: #2E3BBE;
+	color: #00000C;
+	background-color: #6A13C1;
 }
 
 .html
@@ -34,7 +34,7 @@
 
 #u531-3
 {
-	z-index: 270;
+	z-index: 329;
 	min-height: 44px;
 	top: 0px;
 	padding: 20px 4px 4px;
@@ -42,12 +42,12 @@
 
 #u531-3-bw
 {
-	z-index: 270;
+	z-index: 329;
 }
 
 #u1439
 {
-	z-index: 276;
+	z-index: 335;
 	width: 158px;
 	top: 0px;
 	left: 7px;
@@ -55,7 +55,7 @@
 
 #u5322
 {
-	z-index: 278;
+	z-index: 337;
 	width: 429px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -65,7 +65,7 @@
 
 #u5304
 {
-	z-index: 279;
+	z-index: 338;
 	width: 369px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -75,7 +75,7 @@
 
 #u5286
 {
-	z-index: 280;
+	z-index: 339;
 	width: 369px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -85,7 +85,7 @@
 
 #u5269
 {
-	z-index: 281;
+	z-index: 340;
 	width: 369px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -95,7 +95,7 @@
 
 #u5239
 {
-	z-index: 298;
+	z-index: 357;
 	width: 71px;
 	height: 68px;
 	top: -1px;
@@ -113,7 +113,7 @@
 
 #u1944-4
 {
-	z-index: 282;
+	z-index: 341;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -124,7 +124,7 @@
 
 #u5252
 {
-	z-index: 299;
+	z-index: 358;
 	width: 71px;
 	height: 68px;
 	margin-right: -10000px;
@@ -149,7 +149,7 @@
 
 #u1945-4
 {
-	z-index: 286;
+	z-index: 345;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -160,7 +160,7 @@
 
 #u1946-4
 {
-	z-index: 290;
+	z-index: 349;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -171,7 +171,7 @@
 
 #u1947-4
 {
-	z-index: 294;
+	z-index: 353;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -182,7 +182,7 @@
 
 #u5270
 {
-	z-index: 300;
+	z-index: 359;
 	width: 103px;
 	height: 68px;
 	margin-right: -10000px;
@@ -207,7 +207,7 @@
 
 #u5287
 {
-	z-index: 301;
+	z-index: 360;
 	width: 64px;
 	height: 68px;
 	margin-right: -10000px;
@@ -232,7 +232,7 @@
 
 #u5305
 {
-	z-index: 302;
+	z-index: 361;
 	width: 55px;
 	height: 68px;
 	margin-right: -10000px;
@@ -257,7 +257,7 @@
 
 #u1087
 {
-	z-index: 273;
+	z-index: 332;
 	width: 38px;
 	height: 42px;
 	top: 13px;
@@ -266,7 +266,7 @@
 
 #u1365
 {
-	z-index: 274;
+	z-index: 333;
 	width: 38px;
 	height: 42px;
 	top: 13px;
@@ -275,7 +275,7 @@
 
 #u1384
 {
-	z-index: 275;
+	z-index: 334;
 	width: 38px;
 	height: 42px;
 	top: 13px;
@@ -297,6 +297,21 @@
 	position: relative;
 }
 
+#pstrangestthings
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 49px;
+}
+
+#strangestthings
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
 #u2907
 {
 	z-index: 3;
@@ -305,9 +320,10 @@
 	border-color: #484848;
 	background-color: transparent;
 	padding-bottom: 2px;
-	margin-left: 83px;
-	margin-top: 49px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
+	left: 183px;
 	border-width: 0px 0px 2px;
 }
 
@@ -320,86 +336,19 @@
 	left: 25px;
 }
 
-#pstrangestthings
+#pdimensions
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 29px;
+	margin-top: 41px;
 }
 
-#strangestthings
+#dimensions
 {
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 465px;
-}
-
-#pu3635
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: -1px;
-	margin-left: 182px;
-}
-
-#u3635
-{
-	z-index: 200;
-	width: 237px;
-	height: 237px;
-	-pie-box-shadow: none;
-	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
-	border-width: 1px;
-	border-style: solid;
-	border-color: #484848;
-	position: relative;
-	background: transparent url("../images/tmsco%20gramaphone%20copy.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-.hidpi #u3635
-{
-	background-image: url("../images/tmsco%20gramaphone%20copy_2x.jpg");
-}
-
-#u3638-6
-{
-	z-index: 258;
-	width: 237px;
-	min-height: 49px;
-	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
-	font-family: source-sans-pro, sans-serif;
-	margin-left: 1px;
-	margin-top: 20px;
-	position: relative;
-}
-
-#u3637-57
-{
-	z-index: 201;
-	width: 671px;
-	min-height: 491px;
-	background-color: transparent;
-	font-family: source-sans-pro, sans-serif;
-	position: relative;
-	margin-right: -10000px;
-	left: 462px;
-}
-
-#u3637-13
-{
-	font-style: normal;
-}
-
-#ppu2919
-{
-	width: 0.01px;
-	margin-left: 83px;
-	margin-top: 60px;
+	margin-top: 540px;
 }
 
 #pu2919
@@ -407,7 +356,7 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: -1px;
-	margin-left: -1px;
+	margin-left: 182px;
 }
 
 #u2919
@@ -429,12 +378,12 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
-	margin-top: 20px;
+	margin-top: 18px;
 	position: relative;
 }
 
@@ -447,17 +396,98 @@
 	font-family: source-sans-pro, sans-serif;
 	position: relative;
 	margin-right: -10000px;
+	left: 462px;
+}
+
+#pppu5350
+{
+	width: 0.01px;
+	margin-left: 83px;
+	margin-top: 45px;
+}
+
+#ppu5350
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+}
+
+#pu5350
+{
+	width: 0.01px;
+}
+
+#u5350
+{
+	z-index: 265;
+	width: 237px;
+	height: 237px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #484848;
+	background-color: transparent;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#u5351
+{
+	z-index: 266;
+	width: 237px;
+	height: 237px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/dustin_dimensions_art-u5351-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u5351
+{
+	background-image: url("../images/dustin_dimensions_art-u5351-fr_2x.jpg");
+}
+
+#u5353-4
+{
+	z-index: 318;
+	width: 237px;
+	min-height: 49px;
+	background-color: transparent;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u5352-51
+{
+	z-index: 267;
+	width: 671px;
+	min-height: 580px;
+	background-color: transparent;
+	font-family: source-sans-pro, sans-serif;
+	position: relative;
+	margin-right: -10000px;
 	left: 279px;
 }
 
-#pgreatpine
+#pmagicsound
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 24px;
+	margin-top: 50px;
 }
 
-#greatpine
+#magicsound
 {
 	position: relative;
 	width: 22px;
@@ -471,11 +501,11 @@
 	border-style: solid;
 	border-color: #484848;
 	background-color: transparent;
-	padding-bottom: 12px;
+	padding-bottom: 7px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
+	margin-top: 1px;
 	left: 183px;
 	border-width: 0px 0px 2px;
 }
@@ -485,15 +515,88 @@
 	z-index: 70;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
+	margin-top: 8px;
 	left: 24px;
+}
+
+#ppu5331
+{
+	width: 0.01px;
+	margin-left: 83px;
+	margin-top: 32px;
+}
+
+#pu5331
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: -1px;
+	margin-left: -1px;
+}
+
+#u5331
+{
+	z-index: 200;
+	width: 237px;
+	height: 237px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #484848;
+	position: relative;
+	background: transparent url("../images/tmsco%20gramaphone%20copy.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u5331
+{
+	background-image: url("../images/tmsco%20gramaphone%20copy_2x.jpg");
+}
+
+#u5333-6
+{
+	z-index: 258;
+	width: 237px;
+	min-height: 49px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	font-size: 17px;
+	font-family: source-sans-pro, sans-serif;
+	margin-left: 1px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u5332-57
+{
+	z-index: 201;
+	width: 671px;
+	min-height: 491px;
+	background-color: transparent;
+	font-family: source-sans-pro, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 279px;
+}
+
+#u5332-13
+{
+	font-style: normal;
+}
+
+#greatpine
+{
+	left: -100px;
+	position: relative;
 }
 
 #pfirework
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 21px;
+	margin-top: 69px;
 }
 
 #firework
@@ -532,8 +635,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
@@ -588,8 +691,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
@@ -597,13 +700,13 @@
 	position: relative;
 }
 
-#u3638-2,#u2925-2,#u2915-2,#u2923-2
+#u2925-2,#u5333-2,#u2915-2,#u2923-2
 {
 	font-weight: 400;
 	font-style: italic;
 }
 
-#u3638-4,#u2925-4,#u2915-4,#u2923-4
+#u2925-4,#u5333-4,#u2915-4,#u2923-4
 {
 	font-weight: 300;
 }
@@ -620,7 +723,7 @@
 	left: 279px;
 }
 
-#u3637-2,#u2924-2,#u2886-2,#u2922-2
+#u2924-2,#u5352-2,#u5332-2,#u2886-2,#u2922-2
 {
 	font-size: 36px;
 	text-align: left;
@@ -629,7 +732,7 @@
 	font-style: italic;
 }
 
-#u3637-5,#u2924-5,#u2886-5,#u2922-5
+#u2924-5,#u5352-5,#u5332-5,#u2886-5,#u2922-5
 {
 	font-size: 18px;
 	text-align: left;
@@ -637,19 +740,19 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u3637-3,#u2924-3,#u2886-3,#u2922-3
+#u2924-3,#u5352-3,#u5332-3,#u2886-3,#u2922-3
 {
 	font-style: italic;
 	line-height: 22px;
 }
 
-#u3637-4,#u2924-4,#u2886-4,#u2922-4
+#u2924-4,#u5352-4,#u5332-4,#u2886-4,#u2922-4
 {
 	font-size: 36px;
 	line-height: 43px;
 }
 
-#u3637-6,#u3637-17,#u3637-18,#u3637-22,#u3637-23,#u2924-6,#u2924-12,#u2924-13,#u2924-17,#u2924-18,#u2886-6,#u2886-10,#u2886-11,#u2886-21,#u2886-22,#u2922-6,#u2922-10,#u2922-11,#u2922-15,#u2922-16,#u2922-22
+#u2924-6,#u2924-12,#u2924-13,#u2924-17,#u2924-18,#u5352-6,#u5352-10,#u5352-11,#u5352-13,#u5352-14,#u5352-20,#u5352-21,#u5352-22,#u5332-6,#u5332-17,#u5332-18,#u5332-22,#u5332-23,#u2886-6,#u2886-10,#u2886-11,#u2886-21,#u2886-22,#u2922-6,#u2922-10,#u2922-11,#u2922-15,#u2922-16,#u2922-22
 {
 	font-size: 15px;
 	text-align: justify;
@@ -657,37 +760,37 @@
 	font-weight: 300;
 }
 
-#u3637-24,#u2924-19,#u2886-23,#u2922-24
+#u2924-19,#u5352-23,#u5332-24,#u2886-23,#u2922-24
 {
 	text-decoration: underline;
 	font-style: italic;
 }
 
-#u3637-34,#u2924-27,#u2886-31,#u2922-34
+#u2924-27,#u5352-33,#u5332-34,#u2886-31,#u2922-34
 {
 	text-align: left;
 	font-weight: 300;
 	font-style: italic;
 }
 
-#u3637-33,#u2924-26,#u2886-30,#u2922-33
+#u2924-26,#u5352-32,#u5332-33,#u2886-30,#u2922-33
 {
 	text-decoration: underline;
 }
 
-#u3637-25,#u3637-28,#u3637-31,#u3637-32,#u3637-36,#u3637-37,#u3637-38,#u3637-55,#u2924-20,#u2924-22,#u2924-24,#u2924-25,#u2924-29,#u2924-31,#u2924-32,#u2924-33,#u2924-45,#u2886-24,#u2886-26,#u2886-28,#u2886-29,#u2886-33,#u2886-35,#u2886-36,#u2886-37,#u2886-56,#u2922-23,#u2922-25,#u2922-27,#u2922-29,#u2922-31,#u2922-32,#u2922-36,#u2922-38,#u2922-39,#u2922-40,#u2922-55
+#u2924-20,#u2924-22,#u2924-24,#u2924-25,#u2924-29,#u2924-31,#u2924-32,#u2924-33,#u2924-45,#u5352-24,#u5352-26,#u5352-28,#u5352-30,#u5352-31,#u5352-35,#u5352-36,#u5352-49,#u5332-25,#u5332-28,#u5332-31,#u5332-32,#u5332-36,#u5332-37,#u5332-38,#u5332-55,#u2886-24,#u2886-26,#u2886-28,#u2886-29,#u2886-33,#u2886-35,#u2886-36,#u2886-37,#u2886-56,#u2922-23,#u2922-25,#u2922-27,#u2922-29,#u2922-31,#u2922-32,#u2922-36,#u2922-38,#u2922-39,#u2922-40,#u2922-55
 {
 	text-align: left;
 	font-weight: 300;
 }
 
-#u3637-39,#u2924-34,#u2886-38,#u2922-41
+#u2924-34,#u5352-37,#u5332-39,#u2886-38,#u2922-41
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 }
 
-#u3637-8,#u3637-10,#u3637-12,#u3637-15,#u3637-41,#u3637-44,#u3637-46,#u3637-49,#u3637-52,#u3637-54,#u2924-8,#u2924-10,#u2924-15,#u2924-36,#u2924-38,#u2924-40,#u2924-42,#u2886-8,#u2886-13,#u2886-15,#u2886-17,#u2886-19,#u2886-40,#u2886-43,#u2886-45,#u2886-48,#u2886-51,#u2886-54,#u2922-8,#u2922-13,#u2922-18,#u2922-20,#u2922-43,#u2922-46,#u2922-49,#u2922-52
+#u2924-8,#u2924-10,#u2924-15,#u2924-36,#u2924-38,#u2924-40,#u2924-42,#u5352-8,#u5352-16,#u5352-18,#u5352-39,#u5352-41,#u5352-43,#u5352-45,#u5352-47,#u5352-48,#u5332-8,#u5332-10,#u5332-12,#u5332-15,#u5332-41,#u5332-44,#u5332-46,#u5332-49,#u5332-52,#u5332-54,#u2886-8,#u2886-13,#u2886-15,#u2886-17,#u2886-19,#u2886-40,#u2886-43,#u2886-45,#u2886-48,#u2886-51,#u2886-54,#u2922-8,#u2922-13,#u2922-18,#u2922-20,#u2922-43,#u2922-46,#u2922-49,#u2922-52
 {
 	font-style: italic;
 }
@@ -717,7 +820,7 @@
 
 #u532-6
 {
-	z-index: 264;
+	z-index: 323;
 	min-height: 39px;
 	padding-left: 20px;
 	padding-top: 25px;
@@ -726,7 +829,7 @@
 
 #u532-6-bw
 {
-	z-index: 264;
+	z-index: 323;
 	min-height: 39px;
 }
 

@@ -1,7 +1,7 @@
 .version.william_alexander /* version checker */
 {
-	color: #0000F0;
-	background-color: #A3359C;
+	color: #0000E9;
+	background-color: #345603;
 }
 
 .html
@@ -582,9 +582,9 @@
 	width: 936px;
 	min-height: 235px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 94px;
