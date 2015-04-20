@@ -1135,6 +1135,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://yellowkrecords.github.io/images/yellowkoriginal-crop-u5396.png</loc>
+    <lastmod>2015-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yellowkoriginal-crop-u5396_2x.png</loc>
+    <lastmod>2015-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/dustin_dimensions_art-u5368-fr.jpg</loc>
+    <lastmod>2015-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/dustin_dimensions_art-u5368-fr_2x.jpg</loc>
+    <lastmod>2015-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yellowkoriginal-crop-u5400.png</loc>
+    <lastmod>2015-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yellowkoriginal-crop-u5400_2x.png</loc>
+    <lastmod>2015-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://yellowkrecords.github.io/index.html</loc>
     <lastmod>2015-04-20</lastmod>
     <changefreq>weekly</changefreq>

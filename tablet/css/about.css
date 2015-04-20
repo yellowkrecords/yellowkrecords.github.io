@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000EA;
-	background-color: #A6B801;
+	color: #0000F9;
+	background-color: #DA86D4;
 }
 
 @-ms-viewport
@@ -248,10 +248,10 @@
 	z-index: 43;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 18px;
+	color: #333333;
 	text-align: center;
 	font-size: 15px;
-	color: #333333;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -265,7 +265,7 @@
 
 #u4958
 {
-	z-index: 58;
+	z-index: 50;
 	width: 311px;
 	height: 1px;
 	background-color: #484848;
@@ -274,61 +274,29 @@
 	position: relative;
 }
 
-#u4957-8
+#u5399
 {
-	z-index: 50;
-	min-height: 36px;
+	z-index: 51;
+	width: 278px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #484848;
 	background-color: transparent;
-	line-height: 18px;
-	text-align: center;
-	font-size: 15px;
-	color: #333333;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u4957-8-bw
-{
-	z-index: 50;
-	min-height: 36px;
-	margin-top: 14px;
-}
-
-#u4959
-{
-	z-index: 59;
-	width: 311px;
-	height: 1px;
-	background-color: #484848;
-	margin-left: 224px;
-	margin-top: 17px;
+	padding-bottom: 9px;
+	margin-left: 239px;
+	margin-top: 13px;
 	position: relative;
 }
 
-#u4960-10
+#u5400
 {
-	z-index: 60;
-	min-height: 72px;
+	z-index: 52;
+	width: 258px;
 	background-color: transparent;
-	line-height: 18px;
-	text-align: center;
-	font-size: 15px;
-	color: #333333;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u4957-2,#u4957-4,#u4957-6,#u4960-2,#u4960-4,#u4960-6,#u4960-8
-{
-	padding-right: 5px;
-	padding-left: 5px;
-}
-
-#u4960-10-bw
-{
-	z-index: 60;
-	min-height: 72px;
-	margin-top: 17px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 10px;
 }
 
 #pu4769
