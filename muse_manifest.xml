@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429398517234">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1429559733794">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="96943578" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index"/>
@@ -67,21 +67,21 @@
     <file name="dustin-lovelis.html" crc="3767619762" mt="1428035190758" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="524681137"/>
-    <file name="master_a-master.css" crc="174940732" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
-    <file name="index.css" crc="535503367" ref="index"/>
+    <file name="site_global.css" crc="278233077"/>
+    <file name="master_a-master.css" crc="303602189" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis"/>
+    <file name="index.css" crc="57006183" ref="index"/>
     <file name="roster.css" crc="486658314" ref="roster"/>
     <file name="about.css" crc="4055424318" ref="about"/>
     <file name="tour.css" crc="4063021741" ref="tour"/>
-    <file name="releases.css" crc="3760919383" ref="releases"/>
+    <file name="releases.css" crc="3885419619" ref="releases"/>
     <file name="new-god.css" crc="3866808813" ref="new-god"/>
     <file name="iefonts_new-god.css" crc="432913152" ref="new-god"/>
     <file name="seagulls.css" crc="509127103" ref="seagulls"/>
     <file name="iefonts_seagulls.css" crc="4024188232" ref="seagulls"/>
-    <file name="iefonts_releases.css" crc="42569037" ref="releases"/>
+    <file name="iefonts_releases.css" crc="1333480" ref="releases"/>
     <file name="william-alexander.css" crc="4037227932" ref="william-alexander"/>
     <file name="iefonts_william-alexander.css" crc="3810646696" ref="william-alexander"/>
-    <file name="nicole-dollanganger.css" crc="4190353106" ref="nicole-dollanganger"/>
+    <file name="nicole-dollanganger.css" crc="3833476729" ref="nicole-dollanganger"/>
     <file name="dustin-lovelis.css" crc="4245399494" ref="dustin-lovelis"/>
     <file name="iefonts_dustin-lovelis.css" crc="400806359" ref="dustin-lovelis"/>
   </folder>
@@ -97,7 +97,7 @@
     <file name="jquery.watch.js" crc="56779320" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour"/>
     <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour"/>
     <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:about:roster:releases:tour:new-god:seagulls:index:william-alexander:nicole-dollanganger:dustin-lovelis"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour"/>
     <file name="museredirect.js" crc="4117159434" ref="about:roster:releases:tour:new-god:seagulls:index:william-alexander:nicole-dollanganger:dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour"/>
   </folder>
   <folder name="images">
@@ -164,12 +164,12 @@
     <file name="seagulls_artist_pic354x253.jpg" crc="143155369" ref="seagulls"/>
     <file name="seagulls_artist_pic354x253_2x.jpg" crc="3983731591" ref="seagulls"/>
     <file name="pasted svg 26227x70.svg" crc="3769927544" ref="releases:phone>releases"/>
-    <file name="pasted svg 26227x70_poster_.png" crc="9081532" ref="phone>releases"/>
+    <file name="pasted svg 26227x70_poster_.png" crc="3841348578" ref="phone>releases:releases"/>
     <file name="pasted svg 394785x80.svg" crc="181985863" ref="releases:phone>releases:tablet>releases"/>
-    <file name="pasted svg 394785x80_poster_.png" crc="108491203" ref="phone>releases"/>
+    <file name="pasted svg 394785x80_poster_.png" crc="4236434946" ref="phone>releases:releases"/>
     <file name="wa-st-jacket-preview237x237.jpg" crc="296094127" ref="releases"/>
     <file name="pasted svg 267803x61.svg" crc="175397836" ref="releases:phone>releases:tablet>releases"/>
-    <file name="pasted svg 267803x61_poster_.png" crc="323362315" ref="phone>releases"/>
+    <file name="pasted svg 267803x61_poster_.png" crc="35839168" ref="phone>releases:releases"/>
     <file name="sg-gp-cover237x237.jpg" crc="112652568" ref="releases"/>
     <file name="sg-gp-cover237x237_2x.jpg" crc="4122651426" ref="releases"/>
     <file name="firework-transparant-small-2237x237.png" crc="18554648" ref="releases"/>
@@ -202,8 +202,8 @@
     <file name="pasted svg 205487x32_poster_.png" crc="3988814864" ref="phone>seagulls:seagulls"/>
     <file name="pasted svg 120287x35.svg" crc="476116272" ref="new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>dustin-lovelis"/>
     <file name="pasted svg 120287x35_poster_.png" crc="3813341127" ref="phone>new-god:new-god"/>
-    <file name="nicole_artist_pic-crop-u4069.png" crc="125431137" ref="nicole-dollanganger"/>
-    <file name="nicole_artist_pic-crop-u4069_2x.png" crc="295614117" ref="nicole-dollanganger"/>
+    <file name="nicole_artist_pic-crop-u4069.png" crc="3992883378" ref="nicole-dollanganger"/>
+    <file name="nicole_artist_pic-crop-u4069_2x.png" crc="4036161317" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9.svg" crc="461014809" ref="nicole-dollanganger:phone>nicole-dollanganger:tablet>nicole-dollanganger"/>
     <file name="pasted svg 9809x9_poster_.png" crc="4077194670" ref="phone>nicole-dollanganger:nicole-dollanganger"/>
     <file name="williamalexander_artist_pic-crop-u4243.png" crc="4281403781" ref="phone>index"/>
@@ -252,7 +252,7 @@
     <file name="dustin_dimensions_art-u4602-fr_2x.jpg" crc="126494286" ref="phone>dustin-lovelis:tablet>dustin-lovelis"/>
     <file name="williamalexander_artist_pic-crop-u4924.png" crc="4281403781" ref="tablet>index"/>
     <file name="williamalexander_artist_pic-crop-u4924_2x.png" crc="15714551" ref="tablet>index"/>
-    <file name="favicon.ico" crc="4106136416" ref="phone>index:phone>new-god:phone>releases"/>
+    <file name="favicon.ico" crc="4106136416" ref="phone>index:phone>new-god:phone>releases:about"/>
     <file name="pasted svg 137349x43.svg" crc="416700670" ref="phone>index:tablet>index"/>
     <file name="pasted svg 137349x43_poster_.png" crc="162119590" ref="phone>index"/>
     <file name="nicole_artist_pic-crop-u5213.png" crc="277574208" ref="tablet>nicole-dollanganger"/>
@@ -288,14 +288,14 @@
     <file name="dustin_dimensions_art-u5351-fr.jpg" crc="432229479" ref="releases"/>
     <file name="dustin_dimensions_art-u5351-fr_2x.jpg" crc="207286176" ref="releases"/>
   </folder>
-  <file name="index.html" crc="263177527" mt="1429398373528" redirect="true"/>
-  <file name="roster.html" crc="259777258" mt="1429398373528" redirect="true"/>
-  <file name="about.html" crc="4244669135" mt="1429398373528" redirect="true"/>
-  <file name="tour.html" crc="524772919" mt="1429398373528" redirect="true"/>
-  <file name="releases.html" crc="422088867" mt="1429398373528" redirect="true"/>
-  <file name="new-god.html" crc="6787715" mt="1429398373528" redirect="true"/>
-  <file name="seagulls.html" crc="3813333454" mt="1429398373528" redirect="true"/>
-  <file name="william-alexander.html" crc="3951613750" mt="1429398373528" redirect="true"/>
-  <file name="nicole-dollanganger.html" crc="4161368222" mt="1429398373528" redirect="true"/>
-  <file name="dustin-lovelis.html" crc="160547859" mt="1429398373528" redirect="true"/>
+  <file name="index.html" crc="3948735099" mt="1429556440484" redirect="true"/>
+  <file name="roster.html" crc="22015818" mt="1429556440484" redirect="true"/>
+  <file name="about.html" crc="103304077" mt="1429556440484" redirect="true"/>
+  <file name="tour.html" crc="165564062" mt="1429556440484" redirect="true"/>
+  <file name="releases.html" crc="401746485" mt="1429556698589" redirect="true"/>
+  <file name="new-god.html" crc="4084647960" mt="1429556440484" redirect="true"/>
+  <file name="seagulls.html" crc="132013349" mt="1429556440484" redirect="true"/>
+  <file name="william-alexander.html" crc="3880366284" mt="1429556440484" redirect="true"/>
+  <file name="nicole-dollanganger.html" crc="314463401" mt="1429556440484" redirect="true"/>
+  <file name="dustin-lovelis.html" crc="3827379411" mt="1429556440484" redirect="true"/>
 </manifest>
