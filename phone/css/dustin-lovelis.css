@@ -4,8 +4,8 @@
 
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000F8;
-	background-color: #AE3F52;
+	color: #0000F3;
+	background-color: #A5C627;
 }
 
 @-ms-viewport
@@ -325,7 +325,7 @@
 
 #u4605
 {
-	z-index: 76;
+	z-index: 75;
 	overflow: hidden;
 	margin-left: 11px;
 	margin-top: 16px;
@@ -334,7 +334,7 @@
 
 #u4603
 {
-	z-index: 75;
+	z-index: 74;
 	margin-left: 11px;
 	margin-top: 30px;
 	position: relative;
@@ -349,7 +349,7 @@
 
 #u4601
 {
-	z-index: 73;
+	z-index: 72;
 	width: 195px;
 	height: 139px;
 	position: relative;
@@ -365,7 +365,7 @@
 
 #u4599
 {
-	z-index: 72;
+	z-index: 71;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -411,12 +411,12 @@
 
 #u5423-16
 {
-	z-index: 77;
+	z-index: 76;
 	min-height: 307px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -434,7 +434,7 @@
 
 #u5423-16-bw
 {
-	z-index: 77;
+	z-index: 76;
 	min-height: 307px;
 	margin-top: 13px;
 }
@@ -464,10 +464,10 @@
 	left: -1px;
 }
 
-#u4598-12
+#u4598-11
 {
 	z-index: 60;
-	width: 144px;
+	width: 154px;
 	min-height: 123px;
 	background-color: transparent;
 	text-align: center;
@@ -476,7 +476,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 31px;
-	left: 201px;
+	left: 196px;
 }
 
 #u4598-2
@@ -485,7 +485,7 @@
 	line-height: 31px;
 }
 
-#u4598-5
+#u4598-4
 {
 	font-size: 30px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
@@ -497,21 +497,14 @@
 	line-height: 17px;
 }
 
-#u4598-4
-{
-	font-size: 14px;
-	font-style: italic;
-	line-height: 17px;
-}
-
-#u4598-8
+#u4598-5,#u4598-7
 {
 	font-size: 17px;
 	line-height: 20px;
 	font-style: italic;
 }
 
-#u4598-6,#u4598-10
+#u4598-9
 {
 	font-size: 17px;
 	line-height: 20px;
@@ -519,7 +512,7 @@
 
 #u4602
 {
-	z-index: 74;
+	z-index: 73;
 	width: 186px;
 	height: 186px;
 	position: relative;

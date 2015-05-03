@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #000011;
-	background-color: #29F9C1;
+	color: #000017;
+	background-color: #DE8309;
 }
 
 @-ms-viewport
@@ -255,7 +255,7 @@
 
 #u5389
 {
-	z-index: 312;
+	z-index: 314;
 	width: 127px;
 	-pie-box-shadow: none;
 	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
@@ -280,7 +280,7 @@
 
 #u5393-8
 {
-	z-index: 360;
+	z-index: 362;
 	width: 229px;
 	min-height: 52px;
 	background-color: transparent;
@@ -291,7 +291,7 @@
 
 #u5392-6
 {
-	z-index: 354;
+	z-index: 356;
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
@@ -305,7 +305,7 @@
 
 #u5391-40
 {
-	z-index: 314;
+	z-index: 316;
 	min-height: 443px;
 	background-color: transparent;
 	font-family: source-sans-pro, sans-serif;
@@ -314,7 +314,7 @@
 
 #u5391-40-bw
 {
-	z-index: 314;
+	z-index: 316;
 	min-height: 443px;
 	margin-top: 19px;
 }
@@ -383,7 +383,7 @@
 
 #u5382-8
 {
-	z-index: 304;
+	z-index: 306;
 	width: 229px;
 	min-height: 52px;
 	background-color: transparent;
@@ -392,15 +392,15 @@
 	position: relative;
 }
 
-#u5381-4
+#u5381-6
 {
 	z-index: 300;
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -408,10 +408,16 @@
 	position: relative;
 }
 
-#u5381-2
+#u5381-2,#u5381-4
 {
 	padding-right: 10px;
 	padding-left: 10px;
+}
+
+#u5381-3
+{
+	font-weight: 300;
+	font-style: normal;
 }
 
 #u5365-45

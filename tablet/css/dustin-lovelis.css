@@ -1,7 +1,7 @@
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000EB;
-	background-color: #C0EE1C;
+	color: #0000FE;
+	background-color: #7E2C5F;
 }
 
 @-ms-viewport
@@ -472,13 +472,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 101px;
-	background: transparent url("../../images/dustin_artist_pic-u5201-fr.jpg") no-repeat center top;
+	background: transparent url("../../images/dustin_artist_pic-u4601-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
 .hidpi #u5201
 {
-	background-image: url("../../images/dustin_artist_pic-u5201-fr_2x.jpg");
+	background-image: url("../../images/dustin_artist_pic-u4601-fr_2x.jpg");
 }
 
 #u5199
@@ -497,9 +497,9 @@
 	z-index: 64;
 	min-height: 307px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -550,7 +550,7 @@
 #u5198-16
 {
 	z-index: 44;
-	width: 144px;
+	width: 162px;
 	min-height: 150px;
 	background-color: transparent;
 	text-align: center;
@@ -558,7 +558,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 32px;
-	left: 201px;
+	left: 202px;
 }
 
 #u5198-2
@@ -617,13 +617,13 @@
 	height: 186px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../../images/dustin_dimensions_art-u5202-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/dustin_dimensions_art-u4602-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u5202
 {
-	background-image: url("../../images/dustin_dimensions_art-u5202-fr_2x.jpg");
+	background-image: url("../../images/dustin_dimensions_art-u4602-fr_2x.jpg");
 }
 
 #pu4769
