@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #000014;
-	background-color: #2F5680;
+	color: #0000FA;
+	background-color: #63F75C;
 }
 
 @-ms-viewport
@@ -347,6 +347,17 @@
 	margin-right: -10000px;
 	margin-top: 11px;
 	left: 1px;
+}
+
+#u5570
+{
+	z-index: 377;
+	overflow: hidden;
+	position: relative;
+	width: 62px;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 306px;
 }
 
 #pu5371

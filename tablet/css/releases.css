@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #000017;
-	background-color: #DE8309;
+	color: #000004;
+	background-color: #067EC4;
 }
 
 @-ms-viewport
@@ -230,7 +230,7 @@
 	border-style: solid;
 	border-color: #484848;
 	background-color: transparent;
-	padding-bottom: 11px;
+	padding-bottom: 9px;
 	margin-left: 6px;
 	margin-top: 23px;
 	position: relative;
@@ -244,6 +244,17 @@
 	margin-right: -10000px;
 	margin-top: 11px;
 	left: 1px;
+}
+
+#u5567
+{
+	z-index: 370;
+	overflow: hidden;
+	position: relative;
+	width: 85px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 653px;
 }
 
 #pu5389

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #9E992C;
+	color: #0000E3;
+	background-color: #185B5C;
 }
 
 @-ms-viewport
@@ -227,8 +227,8 @@
 #u4895
 {
 	z-index: 43;
-	min-height: 84px;
-	padding-bottom: 57px;
+	min-height: 47px;
+	padding-bottom: 94px;
 	background: transparent url("../../images/yellow-k-logo-horiz-b-w-trans.gif") no-repeat center top;
 	background-size: contain;
 }
@@ -240,14 +240,14 @@
 	position: relative;
 	width: 85px;
 	margin-right: -10000px;
-	margin-top: 57px;
-	left: 29px;
+	margin-top: 20px;
+	left: 654px;
 }
 
 #u4895-bw
 {
 	z-index: 43;
-	min-height: 84px;
+	min-height: 47px;
 	margin-top: -1px;
 	margin-bottom: -1px;
 }
