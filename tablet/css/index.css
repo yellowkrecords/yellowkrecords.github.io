@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #8BFB2B;
+	color: #00000D;
+	background-color: #517597;
 }
 
 @-ms-viewport
@@ -364,18 +364,18 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	background: transparent url("../../images/dustin_dimensions_art-u5546-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/dustin_dimensions_art-u5530-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u5546
 {
-	background-image: url("../../images/dustin_dimensions_art-u5546-fr_2x.jpg");
+	background-image: url("../../images/dustin_dimensions_art-u5530-fr_2x.jpg");
 }
 
 #u5548
 {
-	z-index: 79;
+	z-index: 82;
 	width: 175px;
 	min-height: 175px;
 	border-style: none;
@@ -386,7 +386,7 @@
 	left: 188px;
 }
 
-#u5547-20
+#u5547-23
 {
 	z-index: 59;
 	width: 380px;
@@ -399,7 +399,7 @@
 
 #u5550
 {
-	z-index: 80;
+	z-index: 83;
 	width: 380px;
 	height: 392px;
 	border-style: none;
@@ -413,7 +413,7 @@
 
 #u5552
 {
-	z-index: 96;
+	z-index: 99;
 	width: 365px;
 	min-height: 229px;
 	border-style: none;
@@ -425,7 +425,7 @@
 
 #u5551-15
 {
-	z-index: 81;
+	z-index: 84;
 	width: 380px;
 	min-height: 155px;
 	background-color: transparent;
@@ -433,14 +433,14 @@
 	position: relative;
 }
 
-#u5547-11,#u5547-13,#u5547-15,#u5547-17,#u5551-8,#u5551-10,#u5551-12
+#u5547-11,#u5547-13,#u5547-15,#u5547-17,#u5547-18,#u5547-20,#u5551-8,#u5551-10,#u5551-12
 {
 	font-style: normal;
 }
 
 #u5554
 {
-	z-index: 97;
+	z-index: 100;
 	width: 379px;
 	height: 442px;
 	border-style: none;
@@ -461,7 +461,7 @@
 
 #u5558
 {
-	z-index: 98;
+	z-index: 101;
 	width: 179px;
 	min-height: 224px;
 	border-style: none;
@@ -473,7 +473,7 @@
 
 #u5556
 {
-	z-index: 112;
+	z-index: 115;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -483,7 +483,7 @@
 
 #u5555-13
 {
-	z-index: 99;
+	z-index: 102;
 	width: 379px;
 	min-height: 208px;
 	background-color: transparent;
@@ -508,7 +508,7 @@
 
 #u5560
 {
-	z-index: 114;
+	z-index: 117;
 	width: 380px;
 	height: 442px;
 	border-style: none;
@@ -522,7 +522,7 @@
 
 #u5562
 {
-	z-index: 115;
+	z-index: 118;
 	width: 365px;
 	min-height: 228px;
 	border-style: none;
@@ -534,7 +534,7 @@
 
 #u5561-17
 {
-	z-index: 116;
+	z-index: 119;
 	width: 380px;
 	min-height: 208px;
 	background-color: transparent;
@@ -564,7 +564,7 @@
 	line-height: 17px;
 }
 
-#u5547-10,#u5547-18,#u5551-13,#u5561-7
+#u5547-10,#u5547-21,#u5551-13,#u5561-7
 {
 	font-size: 12px;
 	line-height: 24px;
@@ -589,7 +589,7 @@
 
 #u5537
 {
-	z-index: 133;
+	z-index: 136;
 	width: 81px;
 	position: relative;
 	margin-right: -10000px;

@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #0000E8;
-	background-color: #6B135C;
+	color: #000012;
+	background-color: #3DC15E;
 }
 
 .html
@@ -486,18 +486,11 @@
 	left: 279px;
 }
 
-#pmagicsound
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: 50px;
-}
-
 #magicsound
 {
+	left: -100px;
+	margin-top: 50px;
 	position: relative;
-	width: 22px;
-	margin-right: -10000px;
 }
 
 #u2908
@@ -507,21 +500,20 @@
 	border-style: solid;
 	border-color: #484848;
 	background-color: transparent;
-	margin-bottom: -1px;
+	padding-bottom: 4px;
+	margin-left: 83px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 183px;
 	border-width: 0px 0px 2px;
 }
 
 #u2910
 {
 	z-index: 70;
-	margin-bottom: -10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: -6px;
 	left: 24px;
 }
 
@@ -529,7 +521,7 @@
 {
 	width: 0.01px;
 	margin-left: 83px;
-	margin-top: 32px;
+	margin-top: 18px;
 }
 
 #pu5331

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #9D627F;
+	color: #00000A;
+	background-color: #9673D7;
 }
 
 .html
@@ -483,22 +483,8 @@
 	background-size: cover;
 }
 
-#u3003:active
-{
-	border-style: none;
-	border-color: transparent;
-	width: 12px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thumbnail_active.svg") no-repeat center center;
-	background-size: cover;
-}
-
 #u3003.SSSlideLinkSelected
 {
-	border-style: none;
-	border-color: transparent;
 	width: 12px;
 	height: 10px;
 	min-height: 0px;
@@ -519,22 +505,8 @@
 	background-size: cover;
 }
 
-#u2999:active
-{
-	border-style: none;
-	border-color: transparent;
-	width: 12px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thumbnail_active.svg") no-repeat center center;
-	background-size: cover;
-}
-
 #u2999.SSSlideLinkSelected
 {
-	border-style: none;
-	border-color: transparent;
 	width: 12px;
 	height: 10px;
 	min-height: 0px;
@@ -555,22 +527,8 @@
 	background-size: cover;
 }
 
-#u3001:active
-{
-	border-style: none;
-	border-color: transparent;
-	width: 12px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thumbnail_active.svg") no-repeat center center;
-	background-size: cover;
-}
-
 #u3001.SSSlideLinkSelected
 {
-	border-style: none;
-	border-color: transparent;
 	width: 12px;
 	height: 10px;
 	min-height: 0px;
@@ -591,22 +549,8 @@
 	background-size: cover;
 }
 
-#u4284:active
-{
-	border-style: none;
-	border-color: transparent;
-	width: 12px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thumbnail_active.svg") no-repeat center center;
-	background-size: cover;
-}
-
 #u4284.SSSlideLinkSelected
 {
-	border-style: none;
-	border-color: transparent;
 	width: 12px;
 	height: 10px;
 	min-height: 0px;
@@ -627,41 +571,14 @@
 	background-size: cover;
 }
 
-#u5581:active
-{
-	border-style: none;
-	border-color: transparent;
-	width: 12px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thumbnail_active.svg") no-repeat center center;
-	background-size: cover;
-}
-
 #u5581.SSSlideLinkSelected
 {
-	border-style: none;
-	border-color: transparent;
 	width: 12px;
 	height: 10px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thumbnail_active.svg") no-repeat center center;
 	background-size: cover;
-}
-
-#u5581_clip
-{
-	overflow: hidden;
-	width: 12px;
-	height: 10px;
-}
-
-#u5581_img
-{
-	margin-top: -1px;
-	margin-bottom: -1px;
 }
 
 #u3008
@@ -1163,7 +1080,7 @@
 	background-size: contain;
 }
 
-.nosvg #u3003:active,.nosvg #u3003.SSSlideLinkSelected,.nosvg #u2999:active,.nosvg #u2999.SSSlideLinkSelected,.nosvg #u3001:active,.nosvg #u3001.SSSlideLinkSelected,.nosvg #u4284:active,.nosvg #u4284.SSSlideLinkSelected,.nosvg #u5581:active,.nosvg #u5581.SSSlideLinkSelected,.nosvg #u2965.PamphletThumbSelected,.nosvg #u2966.PamphletThumbSelected,.nosvg #u2964.PamphletThumbSelected,.nosvg #u4093.PamphletThumbSelected
+.nosvg #u3003.SSSlideLinkSelected,.nosvg #u2999.SSSlideLinkSelected,.nosvg #u3001.SSSlideLinkSelected,.nosvg #u4284.SSSlideLinkSelected,.nosvg #u5581.SSSlideLinkSelected,.nosvg #u2965.PamphletThumbSelected,.nosvg #u2966.PamphletThumbSelected,.nosvg #u2964.PamphletThumbSelected,.nosvg #u4093.PamphletThumbSelected
 {
 	background-image: url('../images/thumbnail_active_poster_u2145.png');
 }

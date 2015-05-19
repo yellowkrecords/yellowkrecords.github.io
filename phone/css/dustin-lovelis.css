@@ -4,8 +4,8 @@
 
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000F3;
-	background-color: #A5C627;
+	color: #000004;
+	background-color: #BDA26D;
 }
 
 @-ms-viewport
@@ -325,7 +325,7 @@
 
 #u4605
 {
-	z-index: 75;
+	z-index: 76;
 	overflow: hidden;
 	margin-left: 11px;
 	margin-top: 16px;
@@ -334,7 +334,7 @@
 
 #u4603
 {
-	z-index: 74;
+	z-index: 75;
 	margin-left: 11px;
 	margin-top: 30px;
 	position: relative;
@@ -349,7 +349,7 @@
 
 #u4601
 {
-	z-index: 72;
+	z-index: 73;
 	width: 195px;
 	height: 139px;
 	position: relative;
@@ -365,7 +365,7 @@
 
 #u4599
 {
-	z-index: 71;
+	z-index: 72;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -411,7 +411,7 @@
 
 #u5423-16
 {
-	z-index: 76;
+	z-index: 77;
 	min-height: 307px;
 	background-color: transparent;
 	line-height: 18px;
@@ -434,7 +434,7 @@
 
 #u5423-16-bw
 {
-	z-index: 76;
+	z-index: 77;
 	min-height: 307px;
 	margin-top: 13px;
 }
@@ -464,7 +464,7 @@
 	left: -1px;
 }
 
-#u4598-11
+#u4598-12
 {
 	z-index: 60;
 	width: 154px;
@@ -504,7 +504,7 @@
 	font-style: italic;
 }
 
-#u4598-9
+#u4598-10
 {
 	font-size: 17px;
 	line-height: 20px;
@@ -512,7 +512,7 @@
 
 #u4602
 {
-	z-index: 73;
+	z-index: 74;
 	width: 186px;
 	height: 186px;
 	position: relative;
