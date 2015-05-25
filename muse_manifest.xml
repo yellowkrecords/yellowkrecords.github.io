@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1432529044298">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1432529436590">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="129699907" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux"/>
@@ -21,7 +21,7 @@
       <file name="eskimeaux.css" crc="4214588145" ref="tablet>eskimeaux"/>
       <file name="iefonts_eskimeaux.css" crc="3887315755" ref="tablet>eskimeaux"/>
     </folder>
-    <file name="index.html" crc="4178268736" mt="1432528791237" redirect="true"/>
+    <file name="index.html" crc="43931080" mt="1432529341384" redirect="true"/>
     <file name="about.html" crc="209175115" mt="1429573797826" redirect="true"/>
     <file name="roster.html" crc="535167599" mt="1432529038266" redirect="true"/>
     <file name="new-god.html" crc="51959922" mt="1432526049397" redirect="true"/>
@@ -60,7 +60,7 @@
       <file name="eskimeaux.css" crc="4279111193" ref="phone>eskimeaux"/>
       <file name="iefonts_eskimeaux.css" crc="490468961" ref="phone>eskimeaux"/>
     </folder>
-    <file name="index.html" crc="515663747" mt="1432527539976" redirect="true"/>
+    <file name="index.html" crc="4042342227" mt="1432529320887" redirect="true"/>
     <file name="about.html" crc="327998425" mt="1429573781622" redirect="true"/>
     <file name="roster.html" crc="424080472" mt="1432529038265" redirect="true"/>
     <file name="new-god.html" crc="242383897" mt="1432527488625" redirect="true"/>
@@ -214,7 +214,7 @@
     <file name="pasted svg 9809x9.svg" crc="461014809" ref="nicole-dollanganger:phone>nicole-dollanganger:tablet>nicole-dollanganger"/>
     <file name="pasted svg 9809x9_poster_.png" crc="4077194670" ref="phone>nicole-dollanganger:nicole-dollanganger"/>
     <file name="pasted svg 9023x9.svg" crc="4099897992" ref="phone>index:tablet>index"/>
-    <file name="pasted svg 9023x9_poster_.png" crc="300429794" ref="phone>index:tablet>index"/>
+    <file name="pasted svg 9023x9_poster_.png" crc="300429794" ref="phone>index"/>
     <file name="new-god-2015-pic-lores300x216.jpg" crc="158003602" ref="phone>roster"/>
     <file name="new-god-2015-pic-lores300x216_2x.jpg" crc="3894790641" ref="phone>roster"/>
     <file name="seagulls_artist_pic300x216.jpg" crc="344524594" ref="phone>roster"/>
@@ -249,7 +249,7 @@
     <file name="dustin_dimensions_art-u4602-fr_2x.jpg" crc="126494286" ref="phone>dustin-lovelis"/>
     <file name="favicon.ico" crc="4106136416" ref="phone>index:phone>about:phone>roster"/>
     <file name="pasted svg 137349x43.svg" crc="416700670" ref="phone>index:tablet>index:phone>releases:tablet>releases"/>
-    <file name="pasted svg 137349x43_poster_.png" crc="4026017913" ref="phone>index:tablet>index"/>
+    <file name="pasted svg 137349x43_poster_.png" crc="162119590" ref="phone>index"/>
     <file name="nicole_artist_pic-crop-u5213.png" crc="277574208" ref="tablet>nicole-dollanganger"/>
     <file name="nicole_artist_pic-crop-u5213_2x.png" crc="4276642969" ref="tablet>nicole-dollanganger"/>
     <file name="menu_about-about.png" crc="4065743763" ref="about:roster"/>
