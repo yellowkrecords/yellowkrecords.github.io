@@ -4,8 +4,8 @@
 
 .version.roster /* version checker */
 {
-	color: #0000F0;
-	background-color: #EB7A3C;
+	color: #000011;
+	background-color: #4F0FF0;
 }
 
 @-ms-viewport
@@ -326,7 +326,7 @@
 
 #u4349
 {
-	z-index: 54;
+	z-index: 53;
 	width: 300px;
 	border-style: none;
 	border-color: transparent;
@@ -338,7 +338,7 @@
 
 #u4365-4
 {
-	z-index: 59;
+	z-index: 58;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -350,13 +350,13 @@
 
 #u4365-4-bw
 {
-	z-index: 59;
+	z-index: 58;
 	min-height: 25px;
 }
 
 #u4351
 {
-	z-index: 56;
+	z-index: 55;
 	width: 300px;
 	border-style: none;
 	border-color: transparent;
@@ -368,7 +368,7 @@
 
 #u4366-4
 {
-	z-index: 63;
+	z-index: 62;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -380,7 +380,7 @@
 
 #u4366-4-bw
 {
-	z-index: 63;
+	z-index: 62;
 	min-height: 25px;
 }
 
@@ -388,17 +388,24 @@
 {
 	z-index: 52;
 	width: 300px;
+	height: 216px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
 	margin-left: 40px;
 	margin-top: 13px;
 	position: relative;
+	background: transparent url("../../images/alex%20the%20brown-9668-u4347-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u4347
+{
+	background-image: url("../../images/alex%20the%20brown-9668-u4347-fr_2x.jpg");
 }
 
 #u4367-4
 {
-	z-index: 67;
+	z-index: 66;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -410,13 +417,13 @@
 
 #u4367-4-bw
 {
-	z-index: 67;
+	z-index: 66;
 	min-height: 25px;
 }
 
 #u4353
 {
-	z-index: 58;
+	z-index: 57;
 	width: 300px;
 	height: 216px;
 	border-style: none;
@@ -430,7 +437,7 @@
 
 #u4368-4
 {
-	z-index: 71;
+	z-index: 70;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -442,7 +449,7 @@
 
 #u4368-4-bw
 {
-	z-index: 71;
+	z-index: 70;
 	min-height: 25px;
 }
 
@@ -460,7 +467,7 @@
 
 #u4369-4
 {
-	z-index: 75;
+	z-index: 74;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -472,13 +479,13 @@
 
 #u4369-4-bw
 {
-	z-index: 75;
+	z-index: 74;
 	min-height: 25px;
 }
 
 #u5967
 {
-	z-index: 79;
+	z-index: 78;
 	width: 300px;
 	border-style: none;
 	border-color: transparent;
@@ -490,7 +497,7 @@
 
 #u5969-4
 {
-	z-index: 81;
+	z-index: 80;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -507,7 +514,7 @@
 
 #u5969-4-bw
 {
-	z-index: 81;
+	z-index: 80;
 	min-height: 25px;
 }
 

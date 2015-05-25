@@ -21,10 +21,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?213996851"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?129699907"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?3986942927" id="pagesheet"/>
-  <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?4147855621"/>
-  <![endif]-->
+  <link rel="stylesheet" type="text/css" href="css/index.css?14294398" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -32,7 +29,7 @@ var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/source-sans-pro:n3,i3:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/source-sans-pro:n3:all.js" type="text/javascript">\x3C/script>');
 </script>
   <!--[if lt IE 9]>
   <script src="../scripts/html5shiv.js?4241844378" type="text/javascript"></script>
@@ -73,20 +70,6 @@ var __adobewebfontsappname__ = "muse";
     </div>
     <div class="colelem" id="u4928"><!-- simple frame --></div>
     <div class="PamphletWidget clearfix colelem" id="pamphletu5818"><!-- none box -->
-     <div class="ThumbGroup clearfix grpelem" id="u5823"><!-- none box -->
-      <div class="popup_anchor">
-       <div class="Thumb popup_element museBGSize" id="u5826"><!-- simple frame --></div>
-      </div>
-      <div class="popup_anchor">
-       <div class="Thumb popup_element museBGSize" id="u5824"><!-- simple frame --></div>
-      </div>
-      <div class="popup_anchor">
-       <div class="Thumb popup_element museBGSize" id="u5827"><!-- simple frame --></div>
-      </div>
-      <div class="popup_anchor">
-       <div class="Thumb popup_element museBGSize" id="u5825"><!-- simple frame --></div>
-      </div>
-     </div>
      <div class="popup_anchor" id="u5830popup">
       <div class="ContainerGroup clearfix" id="u5830"><!-- stack box -->
        <div class="Container clearfix grpelem" id="u5836"><!-- column -->
@@ -145,18 +128,18 @@ var __adobewebfontsappname__ = "muse";
        </div>
       </div>
      </div>
-     <div class="popup_anchor">
-      <div class="PamphletPrevButton PamphletLightboxPart popup_element clearfix" id="u5828"><!-- group -->
-       <div class="clearfix grpelem" id="u5829-5"><!-- content -->
-        <p><span id="u5829">&lt; </span><span id="u5829-2">prev</span></p>
-       </div>
+     <div class="ThumbGroup clearfix grpelem" id="u5823"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element museBGSize" id="u5826"><!-- simple frame --></div>
       </div>
-     </div>
-     <div class="popup_anchor">
-      <div class="PamphletNextButton PamphletLightboxPart popup_element clearfix" id="u5821"><!-- group -->
-       <div class="clearfix grpelem" id="u5822-5"><!-- content -->
-        <p><span id="u5822">next</span><span id="u5822-2"> &gt;</span></p>
-       </div>
+      <div class="popup_anchor">
+       <div class="Thumb popup_element museBGSize" id="u5824"><!-- simple frame --></div>
+      </div>
+      <div class="popup_anchor">
+       <div class="Thumb popup_element museBGSize" id="u5827"><!-- simple frame --></div>
+      </div>
+      <div class="popup_anchor">
+       <div class="Thumb popup_element museBGSize" id="u5825"><!-- simple frame --></div>
       </div>
      </div>
     </div>
@@ -202,7 +185,7 @@ Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.resizeHeight()/* resize height */
-Muse.Utils.initWidget('#pamphletu5818', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:10000,transitionStyle:'vertical',transitionDuration:1200,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:10000,playOnce:false}); });/* #pamphletu5818 */
+Muse.Utils.initWidget('#pamphletu5818', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:10000,transitionStyle:'horizontal',transitionDuration:1200,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:10000,playOnce:false}); });/* #pamphletu5818 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

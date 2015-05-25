@@ -667,18 +667,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic300x217.jpg</loc>
-    <lastmod>2015-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/williamalexander_artist_pic300x217_2x.jpg</loc>
-    <lastmod>2015-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/nicole_artist_pic301x216.jpg</loc>
     <lastmod>2015-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1285,18 +1273,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/alex%20the%20brown-9668-u4963-fr.jpg</loc>
-    <lastmod>2015-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/alex%20the%20brown-9668-u4963-fr_2x.jpg</loc>
-    <lastmod>2015-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/wa%20come%20find%20me-u5174-fr.png</loc>
     <lastmod>2015-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1442,6 +1418,18 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/wa%20come%20find%20me_2x.png</loc>
+    <lastmod>2015-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/alex%20the%20brown-9668-u4347-fr.jpg</loc>
+    <lastmod>2015-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/alex%20the%20brown-9668-u4347-fr_2x.jpg</loc>
     <lastmod>2015-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

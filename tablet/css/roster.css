@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #000008;
-	background-color: #A82DA4;
+	color: #0000ED;
+	background-color: #FA24C4;
 }
 
 @-ms-viewport
@@ -294,13 +294,13 @@
 	margin-left: 234px;
 	margin-top: 14px;
 	position: relative;
-	background: transparent url("../../images/alex%20the%20brown-9668-u4963-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/alex%20the%20brown-9668-u4347-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u4963
 {
-	background-image: url("../../images/alex%20the%20brown-9668-u4963-fr_2x.jpg");
+	background-image: url("../../images/alex%20the%20brown-9668-u4347-fr_2x.jpg");
 }
 
 #u4972-4
