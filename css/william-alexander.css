@@ -1,7 +1,7 @@
 .version.william_alexander /* version checker */
 {
-	color: #0000F5;
-	background-color: #C01CBE;
+	color: #0000EF;
+	background-color: #C5ABB3;
 }
 
 .html
@@ -290,30 +290,30 @@
 	margin: 0px;
 }
 
-#u4062
+#u5750
 {
-	z-index: 68;
+	z-index: 64;
 	overflow: hidden;
 	margin-left: 86px;
 	position: relative;
 }
 
-#u3145
+#u5753
 {
-	z-index: 65;
+	z-index: 61;
 	margin-left: 86px;
 	margin-top: 33px;
 	position: relative;
 }
 
-#pu3123
+#pu5752
 {
 	width: 0.01px;
 	margin-left: 94px;
 	margin-top: 34px;
 }
 
-#u3123
+#u5752
 {
 	z-index: 4;
 	width: 386px;
@@ -321,7 +321,7 @@
 	border-style: solid;
 	border-color: #484848;
 	background-color: transparent;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
@@ -329,25 +329,30 @@
 	left: -2px;
 }
 
-#u3117
+#u5770
 {
-	z-index: 63;
-	width: 354px;
-	height: 253px;
+	z-index: 65;
+	width: 367px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
-	left: 15px;
-	background: transparent url("../images/williamalexander_artist_pic-u3117-fr.jpg") no-repeat center center;
-	background-size: cover;
+	margin-top: 8px;
+	left: 9px;
 }
 
-.hidpi #u3117
+#u5770_clip
 {
-	background-image: url("../images/williamalexander_artist_pic-u3117-fr_2x.jpg");
+	overflow: hidden;
+	width: 367px;
+	height: 265px;
 }
 
-#pamphletu3088
+#u5770_img
+{
+	margin-bottom: -19px;
+}
+
+#pamphletu5735
 {
 	z-index: 5;
 	width: 0.01px;
@@ -358,19 +363,19 @@
 	left: 418px;
 }
 
-#u3091
+#u5745
 {
 	position: absolute;
 	width: 518px;
 	background-color: transparent;
 }
 
-#u3091popup
+#u5745popup
 {
 	z-index: 6;
 }
 
-#u3100
+#u5748
 {
 	z-index: 7;
 	width: 518px;
@@ -382,7 +387,7 @@
 	position: relative;
 }
 
-#u3101-13
+#u5749-13
 {
 	z-index: 8;
 	width: 485px;
@@ -395,7 +400,7 @@
 	margin-right: -10000px;
 }
 
-#u3101,#u3101-2,#u3101-8
+#u5749,#u5749-2,#u5749-8
 {
 	font-size: 18px;
 	line-height: 25px;
@@ -404,7 +409,7 @@
 	font-weight: 300;
 }
 
-#u3101-9,#u3101-11
+#u5749-9,#u5749-11
 {
 	font-size: 16px;
 	line-height: 22px;
@@ -413,7 +418,7 @@
 	font-weight: 600;
 }
 
-#u3092
+#u5746
 {
 	z-index: 21;
 	width: 518px;
@@ -425,7 +430,7 @@
 	position: relative;
 }
 
-#u3093-8
+#u5747-8
 {
 	z-index: 22;
 	width: 486px;
@@ -440,27 +445,27 @@
 	margin-right: -10000px;
 }
 
-#u3093,#u3093-3,#u3093-4
+#u5747,#u5747-3,#u5747-4
 {
 	font-size: 18px;
 	line-height: 25px;
 	color: #29ABE2;
 }
 
-#u3093-6
+#u5747-6
 {
 	font-size: 16px;
 	line-height: 22px;
 	color: #484848;
 }
 
-#u3093-5
+#u5747-5
 {
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 }
 
-#u3104
+#u5736
 {
 	z-index: 30;
 	width: 27px;
@@ -470,7 +475,7 @@
 	left: 246px;
 }
 
-#u3105
+#u5738
 {
 	position: absolute;
 	width: 7px;
@@ -482,7 +487,7 @@
 	border-radius: 100px;
 }
 
-#u3105:hover
+#u5738:hover
 {
 	background-color: #29ABE2;
 	border-radius: 100px;
@@ -492,7 +497,7 @@
 	margin: 0px;
 }
 
-#u3105.PamphletThumbSelected
+#u5738.PamphletThumbSelected
 {
 	background-color: #29ABE2;
 	border-radius: 99px;
@@ -502,7 +507,7 @@
 	margin: 0px;
 }
 
-#u3107
+#u5737
 {
 	position: absolute;
 	width: 7px;
@@ -515,7 +520,7 @@
 	left: 18px;
 }
 
-#u3107:hover
+#u5737:hover
 {
 	background-color: #29ABE2;
 	border-radius: 100px;
@@ -525,7 +530,7 @@
 	margin: 0px;
 }
 
-#u3107.PamphletThumbSelected
+#u5737.PamphletThumbSelected
 {
 	background-color: #29ABE2;
 	border-radius: 50px;
@@ -540,25 +545,25 @@
 	cursor: pointer;
 }
 
-#pu3086
+#pu5728
 {
 	width: 0.01px;
 	margin-left: 229px;
 	margin-top: 21px;
 }
 
-#u3086
+#u5728
 {
-	z-index: 61;
+	z-index: 59;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
 	margin-right: -10000px;
 }
 
-#u3159
+#u5724
 {
-	z-index: 66;
+	z-index: 62;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -566,9 +571,9 @@
 	left: 53px;
 }
 
-#u3121
+#u5756
 {
-	z-index: 62;
+	z-index: 60;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -576,7 +581,7 @@
 	left: 105px;
 }
 
-#u3124-14
+#u5734-13
 {
 	z-index: 33;
 	width: 936px;
@@ -592,101 +597,99 @@
 	position: relative;
 }
 
-#u3101-4,#u3101-6,#u3124-2,#u3124-4,#u3124-9
+#u5749-4,#u5749-6,#u5734-2,#u5734-4,#u5734-9
 {
 	font-style: italic;
 }
 
-#pu3127
+#pu5727
 {
 	width: 0.01px;
 	margin-left: 156px;
 	margin-top: 29px;
 }
 
-#u3127
+#u5727
 {
-	z-index: 47;
+	z-index: 46;
 	width: 335px;
 	height: 335px;
-	-pie-box-shadow: none;
-	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
-	border-width: 1px;
-	border-style: solid;
-	border-color: #484848;
-	background-color: transparent;
-	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
 }
 
-#u3128-13
+.ie #u5727
 {
-	z-index: 48;
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5758-12
+{
+	z-index: 47;
 	width: 405px;
-	min-height: 246px;
+	min-height: 132px;
 	background-color: transparent;
 	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 44px;
+	margin-top: 101px;
 	left: 441px;
 }
 
-#u3128-2
-{
-	font-size: 48px;
-	line-height: 58px;
-}
-
-#u3128-4
+#u5758-5
 {
 	font-size: 30px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u3128-3
+#u5758-3
+{
+	line-height: 36px;
+}
+
+#u5758-4
 {
 	font-size: 14px;
 	line-height: 17px;
 }
 
-#u3128-7
+#u5758-8
 {
 	font-size: 22px;
 	line-height: 26px;
 	font-style: italic;
 }
 
-#u3128-5,#u3128-9,#u3128-11
+#u5758-6,#u5758-10
 {
 	font-size: 22px;
 	line-height: 26px;
 }
 
-#u3129
+#u5777
 {
-	z-index: 64;
+	z-index: 67;
 	width: 335px;
-	height: 335px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.24);
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/wa-st%20jacket.jpg") no-repeat center center;
-	background-size: cover;
 }
 
-#pu3125
+#pu5730
 {
 	width: 0.01px;
 	margin-left: 121px;
 	margin-top: 29px;
 }
 
-#u3125
+#u5730
 {
 	z-index: 3;
 	width: 404px;
@@ -698,9 +701,9 @@
 	margin-right: -10000px;
 }
 
-#u3167
+#u5732
 {
-	z-index: 67;
+	z-index: 63;
 	width: 252px;
 	min-height: 252px;
 	border-style: none;

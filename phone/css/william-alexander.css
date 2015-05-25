@@ -4,8 +4,8 @@
 
 .version.william_alexander /* version checker */
 {
-	color: #0000EB;
-	background-color: #59AD88;
+	color: #0000FA;
+	background-color: #2882FE;
 }
 
 @-ms-viewport
@@ -325,7 +325,7 @@
 
 #u4576
 {
-	z-index: 112;
+	z-index: 97;
 	overflow: hidden;
 	margin-left: 9px;
 	margin-top: 10px;
@@ -334,7 +334,7 @@
 
 #u4570
 {
-	z-index: 109;
+	z-index: 94;
 	margin-left: 9px;
 	margin-top: 23px;
 	position: relative;
@@ -349,23 +349,23 @@
 
 #u4568
 {
-	z-index: 107;
+	z-index: 92;
 	width: 194px;
 	height: 138px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../../images/williamalexander_artist_pic-u4568-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/alex%20the%20brown-9668-u4568-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u4568
 {
-	background-image: url("../../images/williamalexander_artist_pic-u4568-fr_2x.jpg");
+	background-image: url("../../images/alex%20the%20brown-9668-u4568-fr_2x.jpg");
 }
 
 #u4564
 {
-	z-index: 105;
+	z-index: 90;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -376,7 +376,7 @@
 
 #u4572
 {
-	z-index: 110;
+	z-index: 95;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -387,7 +387,7 @@
 
 #u4566
 {
-	z-index: 106;
+	z-index: 91;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -594,10 +594,10 @@
 	cursor: pointer;
 }
 
-#u4561-13
+#u6007-13
 {
-	z-index: 78;
-	min-height: 456px;
+	z-index: 98;
+	min-height: 365px;
 	background-color: transparent;
 	line-height: 18px;
 	text-align: justify;
@@ -606,34 +606,34 @@
 	font-weight: 300;
 }
 
-#u4561-6,#u4561-7,#u4561-11
+#u6007-6,#u6007-7,#u6007-11
 {
-	padding-right: 5px;
-	padding-left: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
-#u4556-3,#u4556-5,#u4561-2,#u4561-4,#u4561-9
+#u4556-3,#u4556-5,#u6007-2,#u6007-4,#u6007-9
 {
 	font-style: italic;
 }
 
-#u4561-13-bw
+#u6007-13-bw
 {
-	z-index: 78;
-	min-height: 456px;
-	margin-top: 9px;
+	z-index: 98;
+	min-height: 365px;
+	margin-top: 57px;
 }
 
 #pu4562
 {
 	width: 0.01px;
 	margin-left: 16px;
-	margin-top: 19px;
+	margin-top: 62px;
 }
 
 #u4562
 {
-	z-index: 91;
+	z-index: 78;
 	width: 187px;
 	height: 187px;
 	-pie-box-shadow: none;
@@ -649,9 +649,9 @@
 	left: -1px;
 }
 
-#u4563-13
+#u4563-11
 {
-	z-index: 92;
+	z-index: 79;
 	width: 166px;
 	min-height: 131px;
 	background-color: transparent;
@@ -682,7 +682,7 @@
 	line-height: 17px;
 }
 
-#u4563-6,#u4563-7,#u4563-9,#u4563-11
+#u4563-5,#u4563-7,#u4563-9
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -690,18 +690,18 @@
 
 #u4569
 {
-	z-index: 108;
+	z-index: 93;
 	width: 187px;
 	height: 187px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../../images/wa-st%20jacket-u4569-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/wa%20come%20find%20me-u4569-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u4569
 {
-	background-image: url("../../images/wa-st%20jacket-u4569-fr_2x.jpg");
+	background-image: url("../../images/wa%20come%20find%20me-u4569-fr_2x.png");
 }
 
 #u4543
@@ -719,7 +719,7 @@
 
 #u4574
 {
-	z-index: 111;
+	z-index: 96;
 	width: 327px;
 	min-height: 252px;
 	border-style: none;
