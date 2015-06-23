@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000002;
-	background-color: #71E4E6;
+	color: #0000F1;
+	background-color: #B8DD3E;
 }
 
 .html
@@ -309,10 +309,10 @@
 	background-color: transparent;
 	border-radius: 1800px;
 	padding: 21px;
-	line-height: 35px;
+	color: #333333;
 	text-align: center;
 	font-size: 29px;
-	color: #333333;
+	line-height: 35px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 8px;

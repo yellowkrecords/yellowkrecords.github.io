@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #0000E9;
-	background-color: #A2A896;
+	color: #000019;
+	background-color: #4438F8;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1116px;
-	min-height: 1485px;
+	min-height: 1864px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -35,7 +35,7 @@
 
 #u531-3
 {
-	z-index: 30;
+	z-index: 34;
 	min-height: 44px;
 	top: 0px;
 	padding: 20px 4px 4px;
@@ -43,12 +43,12 @@
 
 #u531-3-bw
 {
-	z-index: 30;
+	z-index: 34;
 }
 
 #u1439
 {
-	z-index: 36;
+	z-index: 40;
 	width: 158px;
 	top: 0px;
 	left: 7px;
@@ -56,7 +56,7 @@
 
 #u5322
 {
-	z-index: 38;
+	z-index: 42;
 	width: 429px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -66,7 +66,7 @@
 
 #u5304
 {
-	z-index: 39;
+	z-index: 43;
 	width: 369px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -76,7 +76,7 @@
 
 #u5286
 {
-	z-index: 40;
+	z-index: 44;
 	width: 369px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -86,7 +86,7 @@
 
 #u5269
 {
-	z-index: 41;
+	z-index: 45;
 	width: 369px;
 	padding-bottom: 1px;
 	top: -1px;
@@ -96,7 +96,7 @@
 
 #u5239
 {
-	z-index: 58;
+	z-index: 62;
 	width: 71px;
 	height: 68px;
 	top: -1px;
@@ -114,7 +114,7 @@
 
 #u1944-4
 {
-	z-index: 42;
+	z-index: 46;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -125,7 +125,7 @@
 
 #u5252
 {
-	z-index: 59;
+	z-index: 63;
 	width: 71px;
 	height: 68px;
 	margin-right: -10000px;
@@ -150,7 +150,7 @@
 
 #u1945-4
 {
-	z-index: 46;
+	z-index: 50;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -161,7 +161,7 @@
 
 #u1946-4
 {
-	z-index: 50;
+	z-index: 54;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -172,7 +172,7 @@
 
 #u1947-4
 {
-	z-index: 54;
+	z-index: 58;
 	width: 8px;
 	min-height: 59px;
 	padding-top: 9px;
@@ -183,7 +183,7 @@
 
 #u5270
 {
-	z-index: 60;
+	z-index: 64;
 	width: 103px;
 	height: 68px;
 	margin-right: -10000px;
@@ -208,7 +208,7 @@
 
 #u5287
 {
-	z-index: 61;
+	z-index: 65;
 	width: 64px;
 	height: 68px;
 	margin-right: -10000px;
@@ -233,7 +233,7 @@
 
 #u5305
 {
-	z-index: 62;
+	z-index: 66;
 	width: 55px;
 	height: 68px;
 	margin-right: -10000px;
@@ -258,7 +258,7 @@
 
 #u1087
 {
-	z-index: 33;
+	z-index: 37;
 	width: 38px;
 	height: 42px;
 	top: 13px;
@@ -267,7 +267,7 @@
 
 #u1365
 {
-	z-index: 34;
+	z-index: 38;
 	width: 38px;
 	height: 42px;
 	top: 13px;
@@ -276,7 +276,7 @@
 
 #u1384
 {
-	z-index: 35;
+	z-index: 39;
 	width: 38px;
 	height: 42px;
 	top: 13px;
@@ -679,7 +679,66 @@
 	background-size: cover;
 }
 
-.ie #u827:hover,.ie #u873:hover,.ie #u902:hover,.ie #u3957:hover,.ie #u5650:hover,.ie #u921:hover
+#u6108
+{
+	z-index: 24;
+	width: 461px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 328px;
+	margin-top: 66px;
+	position: relative;
+}
+
+#u6116
+{
+	z-index: 25;
+	width: 449px;
+	border-width: 6px;
+	border-style: solid;
+	border-color: #484848;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6111
+{
+	z-index: 27;
+	width: 450px;
+	height: 327px;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 5px;
+}
+
+.ie #u6111
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u6111:hover
+{
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+	width: 450px;
+	height: 327px;
+	min-height: 0px;
+	margin: 6px -10000px 0px 0px;
+	background: transparent url("../images/view_konig.png") no-repeat center center;
+	background-size: cover;
+}
+
+.ie #u827:hover,.ie #u873:hover,.ie #u902:hover,.ie #u3957:hover,.ie #u5650:hover,.ie #u921:hover,.ie #u6111:hover
 {
 	opacity: 0.88;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
@@ -692,13 +751,13 @@
 	width: 50px;
 	min-height: 50px;
 	left: -100px;
-	top: -61px;
+	top: -87px;
 	margin-bottom: -50px;
 }
 
 #u532-6
 {
-	z-index: 24;
+	z-index: 28;
 	min-height: 39px;
 	padding-left: 20px;
 	padding-top: 25px;
@@ -707,9 +766,9 @@
 
 #u532-6-bw
 {
-	z-index: 24;
+	z-index: 28;
 	min-height: 39px;
-	margin-top: 52px;
+	margin-top: 26px;
 }
 
 body

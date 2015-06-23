@@ -4,8 +4,8 @@
 
 .version.nicole_dollanganger /* version checker */
 {
-	color: #000001;
-	background-color: #B2C139;
+	color: #0000EC;
+	background-color: #1B0B10;
 }
 
 @-ms-viewport
@@ -338,9 +338,9 @@
 	width: 371px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 32px;
-	font-size: 27px;
 	color: #484848;
+	font-size: 27px;
+	line-height: 32px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	margin-left: 9px;
@@ -404,9 +404,9 @@
 	z-index: 50;
 	min-height: 194px;
 	background-color: transparent;
-	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	line-height: 26px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	font-style: italic;

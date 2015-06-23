@@ -4,8 +4,8 @@
 
 .version.roster /* version checker */
 {
-	color: #000011;
-	background-color: #4F0FF0;
+	color: #0000E9;
+	background-color: #51BFEE;
 }
 
 @-ms-viewport
@@ -42,7 +42,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1695.95px;
+	min-height: 1949.95px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -341,9 +341,9 @@
 	z-index: 58;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -371,9 +371,9 @@
 	z-index: 62;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -408,9 +408,9 @@
 	z-index: 66;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -440,9 +440,9 @@
 	z-index: 70;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -470,9 +470,9 @@
 	z-index: 74;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -500,16 +500,11 @@
 	z-index: 80;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-}
-
-#u4365,#u4366,#u4367,#u4368,#u4369,#u5969
-{
-	font-size: 18px;
 }
 
 #u5969-4-bw
@@ -518,10 +513,44 @@
 	min-height: 25px;
 }
 
+#u6216
+{
+	z-index: 84;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 40px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u6219-4
+{
+	z-index: 86;
+	min-height: 25px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u4365,#u4366,#u4367,#u4368,#u4369,#u5969,#u6219
+{
+	font-size: 18px;
+}
+
+#u6219-4-bw
+{
+	z-index: 86;
+	min-height: 25px;
+	margin-top: 1px;
+}
+
 #pu4301
 {
 	width: 0.01px;
-	margin-top: 15px;
+	margin-top: 11px;
 }
 
 #u4301,#u4301-bw

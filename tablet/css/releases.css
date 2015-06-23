@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #0000F0;
-	background-color: #3CAC8F;
+	color: #000012;
+	background-color: #B8A056;
 }
 
 @-ms-viewport
@@ -325,8 +325,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 15px;
@@ -409,8 +409,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 11px;
@@ -535,9 +535,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -656,8 +656,8 @@
 	width: 126px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
@@ -749,8 +749,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	position: relative;
@@ -858,8 +858,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;

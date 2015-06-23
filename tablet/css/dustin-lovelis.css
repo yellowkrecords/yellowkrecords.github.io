@@ -1,7 +1,7 @@
 .version.dustin_lovelis /* version checker */
 {
-	color: #000011;
-	background-color: #8F689E;
+	color: #00001A;
+	background-color: #26FFBE;
 }
 
 @-ms-viewport
@@ -242,11 +242,11 @@
 {
 	z-index: 77;
 	width: 0.01px;
-	height: 143px;
-	padding-bottom: 55px;
+	height: 148px;
+	padding-bottom: 54px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 106px;
+	margin-top: 101px;
 }
 
 #u5414
@@ -265,7 +265,7 @@
 {
 	z-index: 79;
 	width: 518px;
-	height: 198px;
+	height: 202px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -290,7 +290,7 @@
 {
 	z-index: 91;
 	width: 518px;
-	height: 198px;
+	height: 202px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -315,7 +315,7 @@
 {
 	z-index: 101;
 	width: 518px;
-	height: 198px;
+	height: 202px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -336,7 +336,57 @@
 	margin-right: -10000px;
 }
 
-#u5418,#u5418-2,#u5418-6,#u5420,#u5420-2,#u5420-4,#u5416,#u5416-2,#u5416-4
+#u6040
+{
+	z-index: 111;
+	width: 518px;
+	height: 202px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u6043-9
+{
+	z-index: 112;
+	width: 485px;
+	min-height: 180px;
+	background-color: transparent;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6044
+{
+	z-index: 121;
+	width: 518px;
+	height: 202px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u6047-9
+{
+	z-index: 122;
+	width: 485px;
+	min-height: 180px;
+	background-color: transparent;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5418,#u5418-2,#u5418-6,#u5420,#u5420-2,#u5420-4,#u5416,#u5416-2,#u5416-4,#u6043,#u6043-2,#u6043-4,#u6047,#u6047-2,#u6047-4
 {
 	font-size: 18px;
 	line-height: 25px;
@@ -345,7 +395,7 @@
 	font-weight: 300;
 }
 
-#u5418-7,#u5418-9,#u5420-5,#u5420-7,#u5416-5,#u5416-7
+#u5418-7,#u5418-9,#u5420-5,#u5420-7,#u5416-5,#u5416-7,#u6043-5,#u6043-7,#u6047-5,#u6047-7
 {
 	font-size: 16px;
 	line-height: 22px;
@@ -356,11 +406,11 @@
 
 #u5408
 {
-	z-index: 111;
-	width: 44px;
+	z-index: 131;
+	width: 80px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 135px;
+	margin-top: 140px;
 	left: 229px;
 }
 
@@ -451,7 +501,63 @@
 	margin: 0px;
 }
 
-.ie #u5411.PamphletThumbSelected
+#u6042
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 100px;
+	left: 54px;
+}
+
+.ie #u5411.PamphletThumbSelected,.ie #u6042
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u6042.PamphletThumbSelected
+{
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6046
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 100px;
+	left: 72px;
+}
+
+.ie #u6042.PamphletThumbSelected,.ie #u6046
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u6046.PamphletThumbSelected
+{
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u6046.PamphletThumbSelected
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
@@ -472,13 +578,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 101px;
-	background: transparent url("../../images/dustin_artist_pic-u5201-fr.jpg") no-repeat center top;
+	background: transparent url("../../images/dustin_artist_pic-u4601-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
 .hidpi #u5201
 {
-	background-image: url("../../images/dustin_artist_pic-u5201-fr_2x.jpg");
+	background-image: url("../../images/dustin_artist_pic-u4601-fr_2x.jpg");
 }
 
 #u5199
@@ -497,9 +603,9 @@
 	z-index: 61;
 	min-height: 307px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -617,13 +723,13 @@
 	height: 186px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../../images/dustin_dimensions_art-u5202-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/dustin_dimensions_art-u4602-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u5202
 {
-	background-image: url("../../images/dustin_dimensions_art-u5202-fr_2x.jpg");
+	background-image: url("../../images/dustin_dimensions_art-u4602-fr_2x.jpg");
 }
 
 #pu4769

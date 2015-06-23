@@ -1,7 +1,7 @@
 .version.new_god /* version checker */
 {
-	color: #0000FB;
-	background-color: #385126;
+	color: #0000E1;
+	background-color: #761831;
 }
 
 @-ms-viewport
@@ -404,8 +404,8 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-size: 14px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -434,8 +434,8 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
-	line-height: 18px;
 	text-align: center;
+	line-height: 18px;
 	font-size: 13px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -464,8 +464,8 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-size: 14px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -543,8 +543,8 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-size: 14px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -764,9 +764,9 @@
 	z-index: 108;
 	min-height: 293px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

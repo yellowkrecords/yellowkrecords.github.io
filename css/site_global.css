@@ -74,6 +74,10 @@ body
 	line-height: 17px;
 	word-wrap: break-word;
 	text-rendering: optimizeLegibility;/* kerning, primarily */
+	-moz-font-feature-settings: 'liga';
+	-ms-font-feature-settings: 'liga';
+	-webkit-font-feature-settings: 'liga';
+	font-feature-settings: 'liga';
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0)
@@ -129,12 +133,6 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #EAC516;
 	text-decoration: none;
-}
-
-.Yellow-K-Dark a
-{
-	color: inherit;
-	text-decoration: inherit;
 }
 
 .Yellow-K-Dark a:link
@@ -585,7 +583,7 @@ textarea
 	width: 0px;
 }
 
-.fld-checkbox input[type=checkbox] /* Hide native checkbox */
+.fld-checkbox input[type=checkbox],.fld-radiobutton input[type=radio] /* Hide native checkbox */
 {
 	position: absolute;
 	overflow: hidden;
@@ -597,7 +595,7 @@ textarea
 	border: 0;
 }
 
-.fld-checkbox input[type=checkbox] + label
+.fld-checkbox input[type=checkbox] + label,.fld-radiobutton input[type=radio] + label
 {
 	display: inline-block;
 	background-repeat: no-repeat;
@@ -629,5 +627,11 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara /* disable Android font boosting */
 	vertical-align: sub;
 	font-size: 66%;
 	line-height: 0;
+}
+
+.wp-slideshow-clip,.SlideShowWidget /* disable pointer events on slide shows */
+{
+	-ms-touch-action: none;
+	touch-action: none;
 }
 
