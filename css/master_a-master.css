@@ -2,9 +2,9 @@
 {
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 28px;
 	letter-spacing: 4px;
 	font-size: 23px;
+	line-height: 28px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
 }

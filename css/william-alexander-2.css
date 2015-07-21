@@ -1,7 +1,7 @@
 .version.william_alexander_2 /* version checker */
 {
-	color: #00000A;
-	background-color: #45E5AE;
+	color: #0000E0;
+	background-color: #BA6AA6;
 }
 
 .html
@@ -338,13 +338,13 @@
 	margin-right: -10000px;
 	margin-top: 15px;
 	left: 15px;
-	background: transparent url("../images/williamalexander_artist_pic-u3117-fr.jpg") no-repeat center center;
+	background: transparent url("../images/williamalexander_artist_pic.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3117
 {
-	background-image: url("../images/williamalexander_artist_pic-u3117-fr_2x.jpg");
+	background-image: url("../images/williamalexander_artist_pic_2x.jpg");
 }
 
 #pamphletu3088
