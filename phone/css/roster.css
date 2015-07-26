@@ -4,8 +4,8 @@
 
 .version.roster /* version checker */
 {
-	color: #0000E9;
-	background-color: #51BFEE;
+	color: #0000FC;
+	background-color: #46660C;
 }
 
 @-ms-viewport
@@ -341,9 +341,9 @@
 	z-index: 58;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -371,9 +371,9 @@
 	z-index: 62;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -408,9 +408,9 @@
 	z-index: 66;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -440,9 +440,9 @@
 	z-index: 70;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -470,9 +470,9 @@
 	z-index: 74;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -500,9 +500,9 @@
 	z-index: 80;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -528,9 +528,9 @@
 	z-index: 86;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

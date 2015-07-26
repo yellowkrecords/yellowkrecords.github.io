@@ -1,7 +1,7 @@
 .version.seagulls /* version checker */
 {
-	color: #0000EC;
-	background-color: #DB0DB8;
+	color: #000011;
+	background-color: #E3D809;
 }
 
 @-ms-viewport
@@ -728,9 +728,9 @@
 	z-index: 119;
 	min-height: 252px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

@@ -1,7 +1,7 @@
 .version.konig /* version checker */
 {
-	color: #000003;
-	background-color: #10069A;
+	color: #000001;
+	background-color: #CF6656;
 }
 
 .html
@@ -404,9 +404,9 @@
 	width: 936px;
 	min-height: 71px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;

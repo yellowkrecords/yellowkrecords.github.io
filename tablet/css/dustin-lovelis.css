@@ -1,7 +1,7 @@
 .version.dustin_lovelis /* version checker */
 {
-	color: #00001A;
-	background-color: #26FFBE;
+	color: #000002;
+	background-color: #8CA1F6;
 }
 
 @-ms-viewport
@@ -603,9 +603,9 @@
 	z-index: 61;
 	min-height: 307px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

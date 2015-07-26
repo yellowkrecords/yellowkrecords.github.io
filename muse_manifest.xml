@@ -1,40 +1,40 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1437511243959" domain="yellowkrecords.github.io">
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1437882503791" domain="yellowkrecords.github.io">
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="96943578" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig"/>
-      <file name="roster.css" crc="4071394839" ref="tablet>roster"/>
-      <file name="nicole-dollanganger.css" crc="4083801665" ref="tablet>nicole-dollanganger"/>
+      <file name="master_a-master.css" crc="4238910444" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig"/>
+      <file name="roster.css" crc="4187544334" ref="tablet>roster"/>
+      <file name="nicole-dollanganger.css" crc="491439677" ref="tablet>nicole-dollanganger"/>
       <file name="tour.css" crc="4259863821" ref="tablet>tour"/>
-      <file name="dustin-lovelis.css" crc="438763454" ref="tablet>dustin-lovelis"/>
-      <file name="about.css" crc="4191848148" ref="tablet>about"/>
-      <file name="william-alexander.css" crc="3875517571" ref="tablet>william-alexander"/>
-      <file name="new-god.css" crc="3782613041" ref="tablet>new-god"/>
-      <file name="seagulls.css" crc="3973778872" ref="tablet>seagulls"/>
-      <file name="releases.css" crc="314089558" ref="tablet>releases"/>
-      <file name="iefonts_releases.css" crc="4033040251" ref="tablet>releases"/>
-      <file name="index.css" crc="4220678140" ref="tablet>index"/>
+      <file name="dustin-lovelis.css" crc="42770934" ref="tablet>dustin-lovelis"/>
+      <file name="about.css" crc="56334473" ref="tablet>about"/>
+      <file name="william-alexander.css" crc="186304430" ref="tablet>william-alexander"/>
+      <file name="new-god.css" crc="96430458" ref="tablet>new-god"/>
+      <file name="seagulls.css" crc="300144649" ref="tablet>seagulls"/>
+      <file name="releases.css" crc="505348294" ref="tablet>releases"/>
+      <file name="iefonts_releases.css" crc="419934881" ref="tablet>releases"/>
+      <file name="index.css" crc="526613002" ref="tablet>index"/>
       <file name="iefonts_seagulls.css" crc="244309856" ref="tablet>seagulls"/>
-      <file name="iefonts_new-god.css" crc="144157405" ref="tablet>new-god"/>
+      <file name="iefonts_new-god.css" crc="4048928483" ref="tablet>new-god"/>
       <file name="iefonts_william-alexander.css" crc="3806454232" ref="tablet>william-alexander"/>
       <file name="iefonts_dustin-lovelis.css" crc="319298062" ref="tablet>dustin-lovelis"/>
       <file name="iefonts_nicole-dollanganger.css" crc="67795940" ref="tablet>nicole-dollanganger"/>
-      <file name="eskimeaux.css" crc="3780207149" ref="tablet>eskimeaux"/>
+      <file name="eskimeaux.css" crc="4214588145" ref="tablet>eskimeaux"/>
       <file name="iefonts_eskimeaux.css" crc="3887315755" ref="tablet>eskimeaux"/>
-      <file name="konig.css" crc="19577401" ref="tablet>konig"/>
+      <file name="konig.css" crc="4080478213" ref="tablet>konig"/>
       <file name="iefonts_konig.css" crc="4243874222" ref="tablet>konig"/>
     </folder>
-    <file name="index.html" crc="230977768" mt="1437511163924" redirect="true" seo="true"/>
-    <file name="about.html" crc="4237324593" mt="1429573797826" redirect="true" seo="true"/>
-    <file name="roster.html" crc="34659371" mt="1435026837586" redirect="true" seo="true"/>
-    <file name="new-god.html" crc="355055168" mt="1432526049397" redirect="true" seo="true"/>
-    <file name="seagulls.html" crc="3782942227" mt="1435026661320" redirect="true" seo="true"/>
-    <file name="william-alexander.html" crc="468628156" mt="1432529038263" redirect="true" seo="true"/>
-    <file name="dustin-lovelis.html" crc="3935892722" mt="1435024408038" redirect="true" seo="true"/>
-    <file name="nicole-dollanganger.html" crc="201178792" mt="1435026768658" redirect="true" seo="true"/>
-    <file name="releases.html" crc="38121419" mt="1432526831356" redirect="true" seo="true"/>
-    <file name="tour.html" crc="177744541" mt="1428034577480" redirect="true" seo="true"/>
-    <file name="eskimeaux.html" crc="4094579406" mt="1432527343612" redirect="true" seo="true"/>
-    <file name="konig.html" crc="479240314" seo="true" mt="1435027036983" redirect="true"/>
+    <file name="index.html" crc="338210541" mt="1437511163924" redirect="true" seo="true"/>
+    <file name="about.html" crc="4192175506" mt="1429573797826" redirect="true" seo="true"/>
+    <file name="roster.html" crc="3863755642" mt="1435026837586" redirect="true" seo="true"/>
+    <file name="new-god.html" crc="172196735" mt="1437882379028" redirect="true" seo="true"/>
+    <file name="seagulls.html" crc="3790341826" mt="1435026661320" redirect="true" seo="true"/>
+    <file name="william-alexander.html" crc="4024466963" mt="1432529038263" redirect="true" seo="true"/>
+    <file name="dustin-lovelis.html" crc="183355330" mt="1435024408038" redirect="true" seo="true"/>
+    <file name="nicole-dollanganger.html" crc="4159213463" mt="1435026768658" redirect="true" seo="true"/>
+    <file name="releases.html" crc="4119889857" mt="1437882277952" redirect="true" seo="true"/>
+    <file name="tour.html" crc="162127522" mt="1428034577480" redirect="true" seo="true"/>
+    <file name="eskimeaux.html" crc="4290462065" mt="1432527343612" redirect="true" seo="true"/>
+    <file name="konig.html" crc="4041582658" seo="true" mt="1435027036983" redirect="true"/>
   </folder>
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
@@ -43,80 +43,80 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="37467311" ref="phone>seagulls:phone>index:phone>roster:phone>nicole-dollanganger:phone>about:phone>releases:phone>william-alexander:phone>tour:phone>new-god:phone>dustin-lovelis:phone>eskimeaux:phone>konig"/>
-      <file name="seagulls.css" crc="4140590210" ref="phone>seagulls"/>
-      <file name="index.css" crc="3844620631" ref="phone>index"/>
-      <file name="roster.css" crc="3914448878" ref="phone>roster"/>
-      <file name="nicole-dollanganger.css" crc="3961195280" ref="phone>nicole-dollanganger"/>
-      <file name="about.css" crc="241262644" ref="phone>about"/>
-      <file name="releases.css" crc="430563042" ref="phone>releases"/>
-      <file name="william-alexander.css" crc="204007954" ref="phone>william-alexander"/>
+      <file name="master_a-master.css" crc="3968714460" ref="phone>seagulls:phone>index:phone>roster:phone>nicole-dollanganger:phone>about:phone>releases:phone>william-alexander:phone>tour:phone>new-god:phone>dustin-lovelis:phone>eskimeaux:phone>konig"/>
+      <file name="seagulls.css" crc="521567410" ref="phone>seagulls"/>
+      <file name="index.css" crc="78052525" ref="phone>index"/>
+      <file name="roster.css" crc="4232472076" ref="phone>roster"/>
+      <file name="nicole-dollanganger.css" crc="526558879" ref="phone>nicole-dollanganger"/>
+      <file name="about.css" crc="29865148" ref="phone>about"/>
+      <file name="releases.css" crc="4281640881" ref="phone>releases"/>
+      <file name="william-alexander.css" crc="4196958974" ref="phone>william-alexander"/>
       <file name="tour.css" crc="107867319" ref="phone>tour"/>
-      <file name="new-god.css" crc="4220789980" ref="phone>new-god"/>
-      <file name="iefonts_releases.css" crc="4022069113" ref="phone>releases"/>
-      <file name="iefonts_new-god.css" crc="4106833018" ref="phone>new-god"/>
-      <file name="dustin-lovelis.css" crc="60978728" ref="phone>dustin-lovelis"/>
+      <file name="new-god.css" crc="4249237355" ref="phone>new-god"/>
+      <file name="iefonts_releases.css" crc="3992666723" ref="phone>releases"/>
+      <file name="iefonts_new-god.css" crc="4214601706" ref="phone>new-god"/>
+      <file name="dustin-lovelis.css" crc="79536749" ref="phone>dustin-lovelis"/>
       <file name="iefonts_seagulls.css" crc="36545474" ref="phone>seagulls"/>
       <file name="iefonts_william-alexander.css" crc="4000395386" ref="phone>william-alexander"/>
       <file name="iefonts_nicole-dollanganger.css" crc="247383929" ref="phone>nicole-dollanganger"/>
       <file name="iefonts_dustin-lovelis.css" crc="251213077" ref="phone>dustin-lovelis"/>
-      <file name="eskimeaux.css" crc="490955569" ref="phone>eskimeaux"/>
+      <file name="eskimeaux.css" crc="4279111193" ref="phone>eskimeaux"/>
       <file name="iefonts_eskimeaux.css" crc="490468961" ref="phone>eskimeaux"/>
-      <file name="konig.css" crc="310246746" ref="phone>konig"/>
+      <file name="konig.css" crc="8812509" ref="phone>konig"/>
       <file name="iefonts_konig.css" crc="4086809100" ref="phone>konig"/>
     </folder>
-    <file name="index.html" crc="516463351" mt="1437511235293" redirect="true" seo="true"/>
-    <file name="about.html" crc="479687523" mt="1429573781622" redirect="true" seo="true"/>
-    <file name="roster.html" crc="3906918222" mt="1435027239100" redirect="true" seo="true"/>
-    <file name="new-god.html" crc="488297738" mt="1432527488625" redirect="true" seo="true"/>
-    <file name="seagulls.html" crc="3947426697" mt="1432002994841" redirect="true" seo="true"/>
-    <file name="william-alexander.html" crc="387695714" mt="1432529038267" redirect="true" seo="true"/>
-    <file name="nicole-dollanganger.html" crc="153260341" mt="1435027087508" redirect="true" seo="true"/>
-    <file name="releases.html" crc="168250707" mt="1432527961156" redirect="true" seo="true"/>
-    <file name="tour.html" crc="435261835" mt="1428031597055" redirect="true" seo="true"/>
-    <file name="dustin-lovelis.html" crc="297929101" mt="1435024306342" redirect="true" seo="true"/>
-    <file name="eskimeaux.html" crc="4195932527" mt="1432527545727" redirect="true" seo="true"/>
-    <file name="konig.html" crc="4008988608" seo="true" mt="1435027169687" redirect="true"/>
+    <file name="index.html" crc="453972684" mt="1437511235293" redirect="true" seo="true"/>
+    <file name="about.html" crc="514758397" mt="1429573781622" redirect="true" seo="true"/>
+    <file name="roster.html" crc="4108562486" mt="1435027239100" redirect="true" seo="true"/>
+    <file name="new-god.html" crc="440404268" mt="1437882448302" redirect="true" seo="true"/>
+    <file name="seagulls.html" crc="365791241" mt="1432002994841" redirect="true" seo="true"/>
+    <file name="william-alexander.html" crc="526734474" mt="1432529038267" redirect="true" seo="true"/>
+    <file name="nicole-dollanganger.html" crc="3926462971" mt="1435027087508" redirect="true" seo="true"/>
+    <file name="releases.html" crc="4018523183" mt="1437882277953" redirect="true" seo="true"/>
+    <file name="tour.html" crc="4012137247" mt="1428031597055" redirect="true" seo="true"/>
+    <file name="dustin-lovelis.html" crc="416592894" mt="1435024306342" redirect="true" seo="true"/>
+    <file name="eskimeaux.html" crc="123334754" mt="1432527545727" redirect="true" seo="true"/>
+    <file name="konig.html" crc="4053972167" seo="true" mt="1435027169687" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3813118786"/>
-    <file name="master_a-master.css" crc="530130397" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:eskimeaux:william-alexander-2:konig"/>
-    <file name="index.css" crc="4086194698" ref="index"/>
+    <file name="master_a-master.css" crc="333546545" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:eskimeaux:william-alexander-2:konig"/>
+    <file name="index.css" crc="82467302" ref="index"/>
     <file name="roster.css" crc="423901432" ref="roster"/>
-    <file name="about.css" crc="4055424318" ref="about"/>
+    <file name="about.css" crc="4218433388" ref="about"/>
     <file name="tour.css" crc="4063021741" ref="tour"/>
-    <file name="releases.css" crc="451721764" ref="releases"/>
-    <file name="new-god.css" crc="201498684" ref="new-god"/>
-    <file name="iefonts_new-god.css" crc="4226956663" ref="new-god"/>
-    <file name="seagulls.css" crc="3830768639" ref="seagulls"/>
+    <file name="releases.css" crc="4191410335" ref="releases"/>
+    <file name="new-god.css" crc="102848567" ref="new-god"/>
+    <file name="iefonts_new-god.css" crc="3831133376" ref="new-god"/>
+    <file name="seagulls.css" crc="4137568715" ref="seagulls"/>
     <file name="iefonts_seagulls.css" crc="4024188232" ref="seagulls"/>
-    <file name="iefonts_releases.css" crc="359064618" ref="releases"/>
-    <file name="william-alexander.css" crc="3882080488" ref="william-alexander"/>
+    <file name="iefonts_releases.css" crc="3855222318" ref="releases"/>
+    <file name="william-alexander.css" crc="4022709171" ref="william-alexander"/>
     <file name="iefonts_william-alexander.css" crc="147233261" ref="william-alexander"/>
-    <file name="nicole-dollanganger.css" crc="4190353106" ref="nicole-dollanganger"/>
-    <file name="dustin-lovelis.css" crc="460178865" ref="dustin-lovelis"/>
+    <file name="nicole-dollanganger.css" crc="4082181852" ref="nicole-dollanganger"/>
+    <file name="dustin-lovelis.css" crc="4244975235" ref="dustin-lovelis"/>
     <file name="iefonts_dustin-lovelis.css" crc="3858259366" ref="dustin-lovelis"/>
-    <file name="eskimeaux.css" crc="402992719" ref="eskimeaux"/>
+    <file name="eskimeaux.css" crc="3873406165" ref="eskimeaux"/>
     <file name="iefonts_eskimeaux.css" crc="287623739" ref="eskimeaux"/>
-    <file name="william-alexander-2.css" crc="3770313382" ref="william-alexander-2"/>
+    <file name="william-alexander-2.css" crc="524260278" ref="william-alexander-2"/>
     <file name="iefonts_william-alexander-2.css" crc="3810646696" ref="william-alexander-2"/>
-    <file name="konig.css" crc="51381914" ref="konig"/>
+    <file name="konig.css" crc="30369366" ref="konig"/>
     <file name="iefonts_konig.css" crc="3778450677" ref="konig"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
-    <file name="museutils.js" crc="183364071" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="roster:about:tour:index:releases:phone>index:dustin-lovelis:phone>about:phone>roster:phone>releases:phone>william-alexander:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>releases:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
+    <file name="museutils.js" crc="334180058" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="roster:about:tour:index:releases:phone>index:dustin-lovelis:phone>about:phone>roster:phone>releases:phone>william-alexander:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>releases:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2:phone>new-god:tablet>new-god:new-god"/>
     <file name="pie.js" crc="3827607177" ref="about:tour:new-god:seagulls:william-alexander:phone>index:dustin-lovelis:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
-    <file name="webpro.js" crc="3803554875" ref="index:new-god:seagulls:william-alexander:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:phone>eskimeaux:william-alexander-2:phone>konig"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index:new-god:seagulls:william-alexander:dustin-lovelis:phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index:new-god:seagulls:william-alexander:dustin-lovelis:phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index:new-god:seagulls:william-alexander:dustin-lovelis:phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:phone>konig:tablet>konig"/>
-    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig"/>
+    <file name="webpro.js" crc="7309900" ref="index:new-god:seagulls:william-alexander:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:phone>eskimeaux:william-alexander-2:phone>konig"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index:new-god:seagulls:william-alexander:dustin-lovelis:phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index:new-god:seagulls:william-alexander:dustin-lovelis:phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
+    <file name="touchswipe.js" crc="526709374" ref="index:new-god:seagulls:william-alexander:dustin-lovelis:phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:william-alexander-2"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:dustin-lovelis:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:phone>eskimeaux:tablet>eskimeaux:phone>konig:tablet>konig"/>
+    <file name="musewpdisclosure.js" crc="3941817638" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>releases:phone>tour:phone>dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:releases:new-god:seagulls:dustin-lovelis:phone>eskimeaux:tablet>eskimeaux:about:roster:tour:index:william-alexander-2:nicole-dollanganger:eskimeaux:william-alexander:phone>konig:tablet>konig:konig"/>
-    <file name="museredirect.js" crc="40941066" ref="about:roster:releases:tour:new-god:seagulls:index:william-alexander:nicole-dollanganger:dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:tablet>eskimeaux:eskimeaux:tablet>konig:konig"/>
+    <file name="museredirect.js" crc="390470276" ref="about:roster:releases:tour:new-god:seagulls:index:william-alexander:nicole-dollanganger:dustin-lovelis:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:tablet>eskimeaux:eskimeaux:tablet>konig:konig"/>
   </folder>
   <folder name="images">
     <file name="seagulls_artist_pic.jpg" crc="478524995" ref="roster" seo="true"/>
@@ -127,23 +127,23 @@
     <file name="nicole_artist_pic.jpg" crc="3963133889" ref="roster" seo="true"/>
     <file name="view_nicole.png" crc="4197296553" ref="roster"/>
     <file name="view_williamalexander.png" crc="4094499234" ref="roster"/>
-    <file name="fb_rollover-01.svg" crc="4037678609" ref="about:index"/>
+    <file name="fb_rollover-01.svg" crc="4037678609" ref="about"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="tour_header.jpg" crc="453445497" ref="tour"/>
-    <file name="fb-01-01.svg" crc="4190058772" ref="about:phone>index:tablet>index:index"/>
-    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:phone>index:tablet>index:index"/>
-    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about:index"/>
+    <file name="fb-01-01.svg" crc="4190058772" ref="about:phone>index:tablet>index"/>
+    <file name="fb-01-01_poster_u1346.png" crc="533253697" ref="about:phone>index:tablet>index"/>
+    <file name="fb_rollover-01_poster_u1352.png" crc="501213382" ref="about"/>
     <file name="menul_logo.png" crc="4011813803" ref="about:roster:releases:index:tour:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:william-alexander-2:eskimeaux:konig" seo="true"/>
     <file name="menul_logo_2x.png" crc="4286319249" ref="about:roster:releases:index:tour:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:william-alexander-2:eskimeaux:konig" seo="true"/>
-    <file name="twiiter-01.svg" crc="4212934312" ref="about:phone>index:tablet>index:index"/>
-    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:phone>index:tablet>index:index"/>
-    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about:index"/>
-    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about:index"/>
-    <file name="insta-01.svg" crc="316478732" ref="about:phone>index:tablet>index:index"/>
-    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index:tablet>index:index"/>
-    <file name="insta_rollover.svg" crc="4057936125" ref="about:index"/>
-    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about:index"/>
+    <file name="twiiter-01.svg" crc="4212934312" ref="about:phone>index:tablet>index"/>
+    <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="about:phone>index:tablet>index"/>
+    <file name="twiiter_rollover-01.svg" crc="421850805" ref="about"/>
+    <file name="twiiter_rollover-01_poster_u1378.png" crc="4151169530" ref="about"/>
+    <file name="insta-01.svg" crc="316478732" ref="about:phone>index:tablet>index"/>
+    <file name="insta-01_poster_u1385.png" crc="216846707" ref="about:phone>index:tablet>index"/>
+    <file name="insta_rollover.svg" crc="4057936125" ref="about"/>
+    <file name="insta_rollover_poster_u1391.png" crc="292775322" ref="about"/>
     <file name="pasted svg 724491x194.svg" crc="3787296314" ref="index"/>
     <file name="pasted svg 1071619x265.svg" crc="4149419158" ref="index"/>
     <file name="pasted svg 1071619x265_poster_.png" crc="4027234366" ref="index"/>
@@ -164,61 +164,61 @@
     <file name="yellowkoriginal-crop-u1477.png" crc="515701400" ref="about"/>
     <file name="yellowkoriginal-crop-u1477_2x.png" crc="317138898" ref="about"/>
     <file name="pasted svg 17372x32.svg" crc="4036536545" ref="new-god:phone>new-god:tablet>new-god"/>
-    <file name="pasted svg 17372x32_poster_.png" crc="3919117645" ref="phone>new-god:new-god"/>
+    <file name="pasted svg 17372x32_poster_.png" crc="3919117645" ref="phone>new-god"/>
     <file name="new-god-2015-pic-hires.jpg" crc="194507747" ref="new-god" seo="true"/>
     <file name="new-god-2015-pic-hires_2x.jpg" crc="4237307350" ref="new-god" seo="true"/>
     <file name="pasted svg 9832x9.svg" crc="4208576191" ref="new-god:seagulls:william-alexander:dustin-lovelis:nicole-dollanganger:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>dustin-lovelis:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
-    <file name="pasted svg 9832x9_poster_.png" crc="4290022102" ref="phone>new-god:new-god"/>
+    <file name="pasted svg 9832x9_poster_.png" crc="4290022102" ref="phone>new-god"/>
     <file name="pasted svg 23704x23.svg" crc="4247753903" ref="new-god:seagulls:phone>new-god:phone>seagulls:tablet>new-god:tablet>seagulls:phone>eskimeaux:tablet>eskimeaux:eskimeaux:phone>konig:tablet>konig:konig"/>
-    <file name="pasted svg 23704x23_poster_.png" crc="278612837" ref="phone>new-god:new-god"/>
+    <file name="pasted svg 23704x23_poster_.png" crc="278612837" ref="phone>new-god"/>
     <file name="pasted svg 23704x232.svg" crc="128447498" ref="new-god:seagulls:phone>new-god:phone>seagulls:tablet>new-god:tablet>seagulls:phone>konig:tablet>konig:konig"/>
-    <file name="pasted svg 23704x23_poster_2.png" crc="3831807250" ref="phone>new-god:new-god"/>
+    <file name="pasted svg 23704x23_poster_2.png" crc="3831807250" ref="phone>new-god"/>
     <file name="pasted svg 23704x233.svg" crc="345203960" ref="new-god:seagulls:phone>new-god:phone>seagulls:william-alexander:tablet>new-god:tablet>seagulls:william-alexander-2:phone>william-alexander:phone>konig:tablet>william-alexander:tablet>konig:konig"/>
-    <file name="pasted svg 23704x23_poster_3.png" crc="19918301" ref="phone>new-god:new-god"/>
-    <file name="firework-transparant-small-2.png" crc="481575512" ref="new-god" seo="true"/>
-    <file name="firework-transparant-small-2_2x.png" crc="144225918" ref="new-god" seo="true"/>
+    <file name="pasted svg 23704x23_poster_3.png" crc="19918301" ref="phone>new-god"/>
+    <file name="firework-transparant-small-2.png" crc="4126172752" ref="new-god" seo="true"/>
+    <file name="firework-transparant-small-2_2x.png" crc="3981778727" ref="new-god" seo="true"/>
     <file name="sg-gp-cover272x272.jpg" crc="453436935" ref="index" seo="true"/>
     <file name="sg-gp-cover272x272_2x.jpg" crc="3985533247" ref="index" seo="true"/>
     <file name="seagulls_artist_pic354x253.jpg" crc="3972891060" ref="seagulls" seo="true"/>
     <file name="seagulls_artist_pic354x253_2x.jpg" crc="116190406" ref="seagulls" seo="true"/>
     <file name="pasted svg 26227x70.svg" crc="3769927544" ref="releases:phone>releases"/>
-    <file name="pasted svg 26227x70_poster_.png" crc="3841348578" ref="phone>releases:releases"/>
+    <file name="pasted svg 26227x70_poster_.png" crc="9081532" ref="phone>releases"/>
     <file name="pasted svg 394785x80.svg" crc="181985863" ref="releases:phone>releases:tablet>releases"/>
-    <file name="pasted svg 394785x80_poster_.png" crc="4236434946" ref="phone>releases:releases"/>
+    <file name="pasted svg 394785x80_poster_.png" crc="108491203" ref="phone>releases"/>
     <file name="pasted svg 267803x61.svg" crc="175397836" ref="releases:phone>releases:tablet>releases"/>
-    <file name="pasted svg 267803x61_poster_.png" crc="35839168" ref="phone>releases:releases"/>
+    <file name="pasted svg 267803x61_poster_.png" crc="323362315" ref="phone>releases"/>
     <file name="sg-gp-cover237x237.jpg" crc="71819158" ref="releases" seo="true"/>
     <file name="sg-gp-cover237x237_2x.jpg" crc="118371149" ref="releases" seo="true"/>
-    <file name="firework-transparant-small-2237x237.png" crc="38233182" ref="releases" seo="true"/>
-    <file name="firework-transparant-small-2237x237_2x.png" crc="231127271" ref="releases" seo="true"/>
+    <file name="firework-transparant-small-2237x237.png" crc="4052960882" ref="releases" seo="true"/>
+    <file name="firework-transparant-small-2237x237_2x.png" crc="3785604329" ref="releases" seo="true"/>
     <file name="pasted svg 187588x66.svg" crc="256879670" ref="roster"/>
     <file name="pasted svg 187588x66_poster_.png" crc="4116183957" ref="roster"/>
     <file name="pasted svg 1093567x62.svg" crc="3985633088" ref="william-alexander:phone>william-alexander:tablet>william-alexander:william-alexander-2"/>
-    <file name="pasted svg 1093567x62_poster_.png" crc="4078429724" ref="phone>william-alexander:william-alexander-2"/>
+    <file name="pasted svg 1093567x62_poster_.png" crc="29708738" ref="phone>william-alexander"/>
     <file name="pasted svg 198x198.svg" crc="3997877972" ref="william-alexander:seagulls:nicole-dollanganger:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:tablet>seagulls:tablet>william-alexander:tablet>nicole-dollanganger:new-god:phone>eskimeaux:tablet>eskimeaux:william-alexander-2:eskimeaux:phone>konig:tablet>konig:konig"/>
-    <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="phone>seagulls:new-god"/>
+    <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="phone>seagulls"/>
     <file name="wa-st jacket.jpg" crc="466390727" ref="william-alexander-2"/>
     <file name="nicole_artist_pic_2x.jpg" crc="4044532113" ref="roster" seo="true"/>
     <file name="yellow k logo - k circle trans.png" crc="4061927425" ref="index" seo="true"/>
     <file name="yellow k logo - k circle trans_2x.png" crc="502862324" ref="index" seo="true"/>
-    <file name="yellow-k-logo-horiz-b-w-trans.gif" crc="386871558" ref="about:phone>index:phone>about:tablet>index:tablet>about"/>
-    <file name="yellow-k-logo-horiz-b-w-trans_2x.gif" crc="386871558" ref="about:phone>index:phone>about:tablet>about"/>
-    <file name="tmsco gramaphone copy.jpg" crc="4147926313" ref="releases"/>
-    <file name="tmsco gramaphone copy_2x.jpg" crc="3919614730" ref="releases"/>
+    <file name="yellow-k-logo-horiz-b-w-trans.gif" crc="386871558" ref="about:phone>index:phone>about:tablet>index:tablet>about" seo="true"/>
+    <file name="yellow-k-logo-horiz-b-w-trans_2x.gif" crc="386871558" ref="about:phone>index:phone>about:tablet>about" seo="true"/>
+    <file name="tmsco gramaphone copy.jpg" crc="309623381" ref="releases:new-god"/>
+    <file name="tmsco gramaphone copy_2x.jpg" crc="4270056357" ref="releases:new-god"/>
     <file name="dustin_artist_pic.jpg" crc="4251301396" ref="roster:dustin-lovelis:phone>roster:tablet>roster"/>
     <file name="view_dustin.png" crc="136196359" ref="roster"/>
     <file name="pasted svg 112557x15.svg" crc="3879119952" ref="dustin-lovelis:phone>dustin-lovelis:tablet>dustin-lovelis"/>
-    <file name="pasted svg 112557x15_poster_.png" crc="4160113077" ref="phone>dustin-lovelis:dustin-lovelis"/>
+    <file name="pasted svg 112557x15_poster_.png" crc="4160113077" ref="phone>dustin-lovelis"/>
     <file name="dustin_dimensions_art.jpg" crc="3999862470" ref="dustin-lovelis"/>
     <file name="view_seagulls_2.png" crc="220110180" ref="roster"/>
     <file name="pasted svg 205487x32.svg" crc="75510451" ref="seagulls:phone>seagulls:tablet>seagulls"/>
-    <file name="pasted svg 205487x32_poster_.png" crc="3988814864" ref="phone>seagulls:seagulls"/>
+    <file name="pasted svg 205487x32_poster_.png" crc="3988814864" ref="phone>seagulls"/>
     <file name="pasted svg 120287x35.svg" crc="476116272" ref="new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>dustin-lovelis:phone>eskimeaux:william-alexander-2:eskimeaux:phone>konig:konig"/>
-    <file name="pasted svg 120287x35_poster_.png" crc="3813341127" ref="phone>new-god:new-god"/>
-    <file name="nicole_artist_pic-crop-u4069.png" crc="4131882023" ref="nicole-dollanganger"/>
-    <file name="nicole_artist_pic-crop-u4069_2x.png" crc="4036161317" ref="nicole-dollanganger"/>
+    <file name="pasted svg 120287x35_poster_.png" crc="3813341127" ref="phone>new-god"/>
+    <file name="nicole_artist_pic-crop-u4069.png" crc="262215485" ref="nicole-dollanganger"/>
+    <file name="nicole_artist_pic-crop-u4069_2x.png" crc="81690392" ref="nicole-dollanganger"/>
     <file name="pasted svg 9809x9.svg" crc="461014809" ref="nicole-dollanganger:phone>nicole-dollanganger:tablet>nicole-dollanganger:phone>konig:tablet>konig:konig"/>
-    <file name="pasted svg 9809x9_poster_.png" crc="4077194670" ref="phone>nicole-dollanganger:nicole-dollanganger"/>
+    <file name="pasted svg 9809x9_poster_.png" crc="4077194670" ref="phone>nicole-dollanganger"/>
     <file name="pasted svg 9023x9.svg" crc="4099897992" ref="phone>index:tablet>index"/>
     <file name="pasted svg 9023x9_poster_.png" crc="300429794" ref="phone>index"/>
     <file name="new-god-2015-pic-lores300x216.jpg" crc="3884442227" ref="phone>roster" seo="true"/>
@@ -229,26 +229,24 @@
     <file name="nicole_artist_pic301x216_2x.jpg" crc="3955050371" ref="phone>roster" seo="true"/>
     <file name="new-god-2015-pic-hires195x140.jpg" crc="29922643" ref="phone>new-god" seo="true"/>
     <file name="new-god-2015-pic-hires195x140_2x.jpg" crc="405045253" ref="phone>new-god" seo="true"/>
-    <file name="firework-transparant-small-2187x187.png" crc="4195460684" ref="phone>new-god" seo="true"/>
-    <file name="firework-transparant-small-2187x187_2x.png" crc="81138691" ref="phone>new-god" seo="true"/>
     <file name="seagulls_artist_pic195x140.jpg" crc="227926886" ref="phone>seagulls" seo="true"/>
     <file name="seagulls_artist_pic195x140_2x.jpg" crc="4176570592" ref="phone>seagulls" seo="true"/>
     <file name="sg-gp-cover188x188.jpg" crc="4109498985" ref="phone>seagulls" seo="true"/>
     <file name="sg-gp-cover188x188_2x.jpg" crc="509890234" ref="phone>seagulls" seo="true"/>
-    <file name="tmsco gramaphone copy-u4331-fr.jpg" crc="240960656" ref="phone>releases:tablet>releases"/>
-    <file name="tmsco gramaphone copy-u4331-fr_2x.jpg" crc="4115559571" ref="phone>releases:tablet>releases"/>
+    <file name="tmsco gramaphone copy-u4331-fr.jpg" crc="4008217704" ref="phone>releases:tablet>releases"/>
+    <file name="tmsco gramaphone copy-u4331-fr_2x.jpg" crc="3982811127" ref="phone>releases:tablet>releases"/>
     <file name="wa-st-jacket-preview127x127.jpg" crc="4269544547" ref="phone>releases" seo="true"/>
     <file name="wa-st-jacket-preview127x127_2x.jpg" crc="420682225" ref="phone>releases" seo="true"/>
     <file name="sg-gp-cover127x127.jpg" crc="237207723" ref="phone>releases" seo="true"/>
     <file name="sg-gp-cover127x127_2x.jpg" crc="4284956866" ref="phone>releases" seo="true"/>
-    <file name="firework-transparant-small-2127x127.png" crc="4071731915" ref="phone>releases" seo="true"/>
-    <file name="firework-transparant-small-2127x127_2x.png" crc="3995590939" ref="phone>releases" seo="true"/>
+    <file name="firework-transparant-small-2127x127.png" crc="4208202904" ref="phone>releases" seo="true"/>
+    <file name="firework-transparant-small-2127x127_2x.png" crc="178051594" ref="phone>releases" seo="true"/>
     <file name="pasted svg 724491x194_poster_.png" crc="4227145210" ref="index"/>
     <file name="pasted svg 26227x56_poster_.png" crc="53308796" ref="index"/>
     <file name="tmsco gramaphone.jpg" crc="486523851" ref="index" seo="true"/>
     <file name="tmsco gramaphone_2x.jpg" crc="240570216" ref="index" seo="true"/>
-    <file name="nicole_artist_pic-crop-u4615.png" crc="3817607467" ref="phone>nicole-dollanganger"/>
-    <file name="nicole_artist_pic-crop-u4615_2x.png" crc="454232059" ref="phone>nicole-dollanganger"/>
+    <file name="nicole_artist_pic-crop-u4615.png" crc="4144577626" ref="phone>nicole-dollanganger"/>
+    <file name="nicole_artist_pic-crop-u4615_2x.png" crc="138908426" ref="phone>nicole-dollanganger"/>
     <file name="dustin_artist_pic-u4601-fr.jpg" crc="4015010581" ref="phone>dustin-lovelis:tablet>dustin-lovelis"/>
     <file name="dustin_artist_pic-u4601-fr_2x.jpg" crc="431309556" ref="phone>dustin-lovelis:tablet>dustin-lovelis"/>
     <file name="dustin_dimensions_art-u4602-fr.jpg" crc="200078200" ref="phone>dustin-lovelis:tablet>dustin-lovelis"/>
@@ -258,34 +256,34 @@
     <file name="pasted svg 137349x43_poster_.png" crc="162119590" ref="phone>index"/>
     <file name="nicole_artist_pic-crop-u5213.png" crc="3817607467" ref="tablet>nicole-dollanganger"/>
     <file name="nicole_artist_pic-crop-u5213_2x.png" crc="454232059" ref="tablet>nicole-dollanganger"/>
-    <file name="menu_about-about.png" crc="72731581" ref="about:index"/>
-    <file name="menu_about-about_2x.png" crc="3796561129" ref="about:index"/>
-    <file name="menu_about-about2.png" crc="4043822205" ref="about:index"/>
-    <file name="menu_about-about_2x2.png" crc="33573384" ref="about:index"/>
-    <file name="menu_roster.png" crc="3918710896" ref="about:index"/>
-    <file name="menu_roster_2x.png" crc="409764409" ref="about:index"/>
-    <file name="menu_roster-yellow.png" crc="3792553459" ref="about:index"/>
-    <file name="menu_roster-yellow_2x.png" crc="227032983" ref="about:index"/>
-    <file name="menu_roster-white.png" crc="493954025" ref="about:index"/>
-    <file name="menu_roster-white_2x.png" crc="4154604580" ref="about:index"/>
-    <file name="menu_releases.png" crc="4063245889" ref="about:index"/>
-    <file name="menu_releases_2x.png" crc="53895361" ref="about:index"/>
-    <file name="menu_releases-yellow.png" crc="252065118" ref="about:index"/>
-    <file name="menu_releases-yellow_2x.png" crc="141738303" ref="about:index"/>
-    <file name="menu_releases-white.png" crc="521005474" ref="about:index"/>
-    <file name="menu_releases-white_2x.png" crc="115285097" ref="about:index"/>
-    <file name="menu_store.png" crc="209701570" ref="about:index"/>
-    <file name="menu_store_2x.png" crc="3835734366" ref="about:index"/>
-    <file name="menu_store-yellow.png" crc="233903576" ref="about:index"/>
-    <file name="menu_store-yellow_2x.png" crc="69425382" ref="about:index"/>
-    <file name="menu_store-white.png" crc="4164403330" ref="about:index"/>
-    <file name="menu_store-white_2x.png" crc="308607698" ref="about:index"/>
-    <file name="menu_tour.png" crc="387308296" ref="about:index"/>
-    <file name="menu_tour_2x.png" crc="238982767" ref="about:index"/>
-    <file name="menu_tour-yellow.png" crc="3982268867" ref="about:index"/>
-    <file name="menu_tour-yellow_2x.png" crc="183321343" ref="about:index"/>
-    <file name="menu_tour-white.png" crc="4208258758" ref="about:index"/>
-    <file name="menu_tour-white_2x.png" crc="4289214184" ref="about:index"/>
+    <file name="menu_about-about.png" crc="72731581" ref="about"/>
+    <file name="menu_about-about_2x.png" crc="3796561129" ref="about"/>
+    <file name="menu_about-about2.png" crc="4043822205" ref="about"/>
+    <file name="menu_about-about_2x2.png" crc="33573384" ref="about"/>
+    <file name="menu_roster.png" crc="3918710896" ref="about"/>
+    <file name="menu_roster_2x.png" crc="409764409" ref="about"/>
+    <file name="menu_roster-yellow.png" crc="3792553459" ref="about"/>
+    <file name="menu_roster-yellow_2x.png" crc="227032983" ref="about"/>
+    <file name="menu_roster-white.png" crc="493954025" ref="about"/>
+    <file name="menu_roster-white_2x.png" crc="4154604580" ref="about"/>
+    <file name="menu_releases.png" crc="4063245889" ref="about"/>
+    <file name="menu_releases_2x.png" crc="53895361" ref="about"/>
+    <file name="menu_releases-yellow.png" crc="252065118" ref="about"/>
+    <file name="menu_releases-yellow_2x.png" crc="141738303" ref="about"/>
+    <file name="menu_releases-white.png" crc="521005474" ref="about"/>
+    <file name="menu_releases-white_2x.png" crc="115285097" ref="about"/>
+    <file name="menu_store.png" crc="209701570" ref="about"/>
+    <file name="menu_store_2x.png" crc="3835734366" ref="about"/>
+    <file name="menu_store-yellow.png" crc="233903576" ref="about"/>
+    <file name="menu_store-yellow_2x.png" crc="69425382" ref="about"/>
+    <file name="menu_store-white.png" crc="4164403330" ref="about"/>
+    <file name="menu_store-white_2x.png" crc="308607698" ref="about"/>
+    <file name="menu_tour.png" crc="387308296" ref="about"/>
+    <file name="menu_tour_2x.png" crc="238982767" ref="about"/>
+    <file name="menu_tour-yellow.png" crc="3982268867" ref="about"/>
+    <file name="menu_tour-yellow_2x.png" crc="183321343" ref="about"/>
+    <file name="menu_tour-white.png" crc="4208258758" ref="about"/>
+    <file name="menu_tour-white_2x.png" crc="4289214184" ref="about"/>
     <file name="dustin_dimensions_art-u5351-fr.jpg" crc="259297394" ref="releases"/>
     <file name="dustin_dimensions_art-u5351-fr_2x.jpg" crc="219282546" ref="releases"/>
     <file name="yellowkoriginal-crop-u5396.png" crc="515701400" ref="phone>about"/>
@@ -309,11 +307,11 @@
     <file name="wa come find me127x127.png" crc="157134413" ref="phone>releases" seo="true"/>
     <file name="wa come find me127x127_2x.png" crc="4007353413" ref="phone>releases" seo="true"/>
     <file name="pasted svg 78188x8.svg" crc="3765304581" ref="phone>eskimeaux:tablet>eskimeaux:eskimeaux"/>
-    <file name="pasted svg 78188x8_poster_.png" crc="4100195198" ref="phone>eskimeaux:eskimeaux"/>
+    <file name="pasted svg 78188x8_poster_.png" crc="4100195198" ref="phone>eskimeaux"/>
     <file name="eskimeaux_artist_pic321x232.jpg" crc="3942748847" ref="phone>eskimeaux" seo="true"/>
     <file name="eskimeaux_artist_pic321x232_2x.jpg" crc="3907656648" ref="phone>eskimeaux" seo="true"/>
-    <file name="2mountainz_2.jpg" crc="4234407212" ref="phone>eskimeaux:tablet>eskimeaux:eskimeaux" seo="true"/>
-    <file name="2mountainz_2_2x.jpg" crc="172734642" ref="phone>eskimeaux:tablet>eskimeaux:eskimeaux" seo="true"/>
+    <file name="2mountainz_2.jpg" crc="4234407212" ref="phone>eskimeaux:tablet>eskimeaux" seo="true"/>
+    <file name="2mountainz_2_2x.jpg" crc="172734642" ref="phone>eskimeaux:tablet>eskimeaux" seo="true"/>
     <file name="wa come find me235x235.png" crc="264865790" ref="tablet>index" seo="true"/>
     <file name="wa come find me235x235_2x.png" crc="444942086" ref="tablet>index" seo="true"/>
     <file name="wa with a girl like you.jpg" crc="22504058" ref="tablet>index:index" seo="true"/>
@@ -342,18 +340,18 @@
     <file name="konig-artist-pic-crop-u6216.png" crc="3960583328" ref="phone>roster"/>
     <file name="konig-artist-pic-crop-u6216_2x.png" crc="4068067771" ref="phone>roster"/>
     <file name="pasted svg 248131x61.svg" crc="295448238" ref="phone>konig:tablet>konig:konig"/>
-    <file name="pasted svg 248131x61_poster_.png" crc="4049424411" ref="phone>konig:konig"/>
-    <file name="konig-artist-pic-crop-u6195.png" crc="179586559" ref="phone>konig"/>
-    <file name="konig-artist-pic-crop-u6195_2x.png" crc="3995008902" ref="phone>konig"/>
-    <file name="konig-artist-pic-crop-u6174.png" crc="206586476" ref="tablet>roster"/>
+    <file name="pasted svg 248131x61_poster_.png" crc="4221747232" ref="phone>konig"/>
+    <file name="konig-artist-pic-crop-u6195.png" crc="446727120" ref="phone>konig"/>
+    <file name="konig-artist-pic-crop-u6195_2x.png" crc="4192625163" ref="phone>konig"/>
+    <file name="konig-artist-pic-crop-u6174.png" crc="221377372" ref="tablet>roster"/>
     <file name="konig-artist-pic-crop-u6174_2x.png" crc="491415247" ref="tablet>roster"/>
-    <file name="konig-artist-pic-crop-u6155.png" crc="363121311" ref="tablet>konig"/>
-    <file name="konig-artist-pic-crop-u6155_2x.png" crc="3972934543" ref="tablet>konig"/>
-    <file name="konig-artist-pic-crop-u6116.png" crc="3828402611" ref="roster"/>
-    <file name="konig-artist-pic-crop-u6116_2x.png" crc="482802508" ref="roster"/>
+    <file name="konig-artist-pic-crop-u6155.png" crc="3940426621" ref="tablet>konig"/>
+    <file name="konig-artist-pic-crop-u6155_2x.png" crc="165677575" ref="tablet>konig"/>
+    <file name="konig-artist-pic-crop-u6116.png" crc="3806771621" ref="roster"/>
+    <file name="konig-artist-pic-crop-u6116_2x.png" crc="4012651260" ref="roster"/>
     <file name="view_konig.png" crc="3846117812" ref="roster"/>
-    <file name="konig-artist-pic-crop-u6097.png" crc="4056109472" ref="konig"/>
-    <file name="konig-artist-pic-crop-u6097_2x.png" crc="534861397" ref="konig"/>
+    <file name="konig-artist-pic-crop-u6097.png" crc="242929272" ref="konig"/>
+    <file name="konig-artist-pic-crop-u6097_2x.png" crc="4067284414" ref="konig"/>
     <file name="newgodsingleart179x179.png" crc="502658236" seo="true" ref="phone>index"/>
     <file name="newgodsingleart179x179_2x.png" crc="4263622908" seo="true" ref="phone>index"/>
     <file name="new-god-2015-pic-hires-crop-u6311.png" crc="4238723285" ref="phone>index"/>
@@ -370,18 +368,42 @@
     <file name="new-god-2015-pic-hires-crop-u6259_2x.png" crc="4280128987" ref="index"/>
     <file name="williamalexander_artist_pic.jpg" crc="523476774" ref="william-alexander-2"/>
     <file name="williamalexander_artist_pic_2x.jpg" crc="396555177" ref="william-alexander-2"/>
+    <file name="firework-transparant-small-2107x107.png" crc="70346422" seo="true" ref="phone>new-god"/>
+    <file name="firework-transparant-small-2107x107_2x.png" crc="4021412562" seo="true" ref="phone>new-god"/>
+    <file name="tmsco gramaphone copy-u6389-fr.jpg" crc="3837189881" ref="phone>new-god"/>
+    <file name="tmsco gramaphone copy-u6389-fr_2x.jpg" crc="212651201" ref="phone>new-god"/>
+    <file name="newgodsingleart-u6390-fr.png" crc="3782917478" ref="phone>new-god"/>
+    <file name="newgodsingleart-u6390-fr_2x.png" crc="3864479809" ref="phone>new-god"/>
+    <file name="2mountainz-u6355-fr.jpg" crc="124140271" ref="phone>releases:tablet>releases"/>
+    <file name="2mountainz-u6355-fr_2x.jpg" crc="249861232" ref="phone>releases:tablet>releases"/>
+    <file name="newgodsingleart-u6359-fr.png" crc="4036045479" ref="phone>releases:tablet>releases"/>
+    <file name="newgodsingleart-u6359-fr_2x.png" crc="315752855" ref="phone>releases:tablet>releases"/>
+    <file name="firework-transparant-small-2199x199.png" crc="3813590020" seo="true" ref="tablet>new-god"/>
+    <file name="firework-transparant-small-2199x199_2x.png" crc="4031219619" seo="true" ref="tablet>new-god"/>
+    <file name="tmsco gramaphone copy-u6384-fr.jpg" crc="3764582364" ref="tablet>new-god"/>
+    <file name="tmsco gramaphone copy-u6384-fr_2x.jpg" crc="4195162653" ref="tablet>new-god"/>
+    <file name="newgodsingleart-u6385-fr.png" crc="4191265518" ref="tablet>new-god"/>
+    <file name="newgodsingleart-u6385-fr_2x.png" crc="483382574" ref="tablet>new-god"/>
+    <file name="2mountainz-u6322-fr.jpg" crc="128558581" ref="releases"/>
+    <file name="2mountainz-u6322-fr_2x.jpg" crc="194660408" ref="releases"/>
+    <file name="newgodsingleart-u6335-fr.png" crc="156166077" ref="releases"/>
+    <file name="newgodsingleart-u6335-fr_2x.png" crc="213648138" ref="releases"/>
+    <file name="newgodsingleart-u6375-fr.png" crc="4255320558" ref="new-god"/>
+    <file name="newgodsingleart-u6375-fr_2x.png" crc="3982453956" ref="new-god"/>
+    <file name="2mountainz.jpg" crc="436528233" seo="true" ref="eskimeaux"/>
+    <file name="2mountainz_2x.jpg" crc="4229688011" seo="true" ref="eskimeaux"/>
   </folder>
-  <file name="index.html" crc="3765895265" mt="1437511122874" redirect="true" seo="true"/>
-  <file name="roster.html" crc="50600591" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="about.html" crc="3786320567" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="tour.html" crc="4285030082" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="releases.html" crc="427366901" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="new-god.html" crc="4259749543" mt="1437508024997" redirect="true" seo="true"/>
-  <file name="seagulls.html" crc="273963390" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="william-alexander.html" crc="3765165995" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="nicole-dollanganger.html" crc="294455331" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="dustin-lovelis.html" crc="470374601" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="william-alexander-2.html" crc="396348553" mt="1437510493969" redirect="true" seo="true"/>
-  <file name="eskimeaux.html" crc="3884536940" mt="1437507412761" redirect="true" seo="true"/>
-  <file name="konig.html" crc="131380217" seo="true" mt="1437507412761" redirect="true"/>
+  <file name="index.html" crc="183284361" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="roster.html" crc="132456042" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="about.html" crc="4077590714" mt="1437881964850" redirect="true" seo="true"/>
+  <file name="tour.html" crc="3858400413" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="releases.html" crc="64587517" mt="1437882277954" redirect="true" seo="true"/>
+  <file name="new-god.html" crc="4035594935" mt="1437882281814" redirect="true" seo="true"/>
+  <file name="seagulls.html" crc="3827504195" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="william-alexander.html" crc="135935520" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="nicole-dollanganger.html" crc="3891055117" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="dustin-lovelis.html" crc="534801162" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="william-alexander-2.html" crc="3993700660" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="eskimeaux.html" crc="350088084" mt="1437881837916" redirect="true" seo="true"/>
+  <file name="konig.html" crc="3794694934" seo="true" mt="1437881837916" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.eskimeaux /* version checker */
 {
-	color: #000018;
-	background-color: #052E4F;
+	color: #0000E6;
+	background-color: #DF7CD5;
 }
 
 .html
@@ -342,7 +342,7 @@
 
 #u5713
 {
-	z-index: 53;
+	z-index: 51;
 	width: 395px;
 	background-color: transparent;
 	position: relative;
@@ -353,7 +353,7 @@
 
 #u5719
 {
-	z-index: 55;
+	z-index: 53;
 	width: 411px;
 	height: 283px;
 	border-width: 5px;
@@ -409,9 +409,9 @@
 	width: 936px;
 	min-height: 235px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;
@@ -424,17 +424,17 @@
 	font-style: italic;
 }
 
-#pu5706
+#pu6316
 {
 	width: 0.01px;
-	margin-left: 76px;
-	margin-top: 30px;
+	margin-left: 112px;
+	margin-top: 80px;
 }
 
-#u5706
+#u6316
 {
-	z-index: 32;
-	width: 335px;
+	z-index: 54;
+	width: 303px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -442,7 +442,7 @@
 
 #u5712-19
 {
-	z-index: 34;
+	z-index: 32;
 	width: 405px;
 	min-height: 246px;
 	background-color: transparent;
@@ -451,8 +451,8 @@
 	font-weight: 300;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 79px;
-	left: 450px;
+	margin-top: 28px;
+	left: 414px;
 }
 
 #u5712-2
@@ -498,8 +498,8 @@
 	width: 50px;
 	min-height: 50px;
 	left: -100px;
-	top: -74px;
-	margin-bottom: -50px;
+	top: -22px;
+	margin-bottom: -22px;
 }
 
 #u532-6
@@ -515,7 +515,7 @@
 {
 	z-index: 56;
 	min-height: 39px;
-	margin-top: 40px;
+	margin-top: 64px;
 }
 
 body

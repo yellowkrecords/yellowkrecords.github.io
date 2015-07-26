@@ -4,8 +4,8 @@
 
 .version.konig /* version checker */
 {
-	color: #000012;
-	background-color: #7DFD5A;
+	color: #000000;
+	background-color: #8677DD;
 }
 
 @-ms-viewport
@@ -430,9 +430,9 @@
 	z-index: 53;
 	min-height: 71px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

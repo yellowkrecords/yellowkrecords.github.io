@@ -1,7 +1,7 @@
 .version.seagulls /* version checker */
 {
-	color: #0000E4;
-	background-color: #54E3FF;
+	color: #0000F6;
+	background-color: #9E49CB;
 }
 
 .html
@@ -818,9 +818,9 @@
 	width: 936px;
 	min-height: 235px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 94px;
