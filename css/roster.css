@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #000018;
-	background-color: #E1931B;
+	color: #0000EA;
+	background-color: #A22545;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1116px;
-	min-height: 1864px;
+	min-height: 1264px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -783,7 +783,8 @@
 	width: 50px;
 	min-height: 50px;
 	left: -100px;
-	margin-top: 583px;
+	top: -17px;
+	margin-bottom: -17px;
 }
 
 #u532-6

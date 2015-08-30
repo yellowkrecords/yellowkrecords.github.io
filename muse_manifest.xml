@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1440955497277" domain="yellowkrecords.github.io">
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1440955645316" domain="yellowkrecords.github.io">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="96943578" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig"/>
@@ -82,7 +82,7 @@
     <file name="site_global.css" crc="4161237121"/>
     <file name="master_a-master.css" crc="530130397" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:eskimeaux:william-alexander-2:konig"/>
     <file name="index.css" crc="82467302" ref="index"/>
-    <file name="roster.css" crc="417436443" ref="roster"/>
+    <file name="roster.css" crc="3936494917" ref="roster"/>
     <file name="about.css" crc="4055424318" ref="about"/>
     <file name="tour.css" crc="4063021741" ref="tour"/>
     <file name="releases.css" crc="4191410335" ref="releases"/>
@@ -395,7 +395,7 @@
     <file name="nicole_artist_pic248x179_2x.jpg" crc="4289145612" seo="true" ref="roster"/>
   </folder>
   <file name="index.html" crc="183284361" mt="1437881837916" redirect="true" seo="true"/>
-  <file name="roster.html" crc="4261105648" mt="1440955450144" redirect="true" seo="true"/>
+  <file name="roster.html" crc="4261105648" mt="1440955626591" redirect="true" seo="true"/>
   <file name="about.html" crc="4077590714" mt="1440954575776" redirect="true" seo="true"/>
   <file name="tour.html" crc="3858400413" mt="1437881837916" redirect="true" seo="true"/>
   <file name="releases.html" crc="64587517" mt="1437882277954" redirect="true" seo="true"/>
