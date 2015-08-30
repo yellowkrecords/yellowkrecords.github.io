@@ -4,8 +4,8 @@
 
 .version.roster /* version checker */
 {
-	color: #0000FC;
-	background-color: #46660C;
+	color: #000016;
+	background-color: #6786A4;
 }
 
 @-ms-viewport
@@ -42,7 +42,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1949.95px;
+	min-height: 2045.95px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -341,9 +341,9 @@
 	z-index: 58;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -371,9 +371,9 @@
 	z-index: 62;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -394,13 +394,13 @@
 	margin-left: 40px;
 	margin-top: 13px;
 	position: relative;
-	background: transparent url("../../images/alex%20the%20brown-9668-u4347-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/alex%20the%20brown-9668.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u4347
 {
-	background-image: url("../../images/alex%20the%20brown-9668-u4347-fr_2x.jpg");
+	background-image: url("../../images/alex%20the%20brown-9668_2x.jpg");
 }
 
 #u4367-4
@@ -408,9 +408,9 @@
 	z-index: 66;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -421,6 +421,43 @@
 	min-height: 25px;
 }
 
+#u6216
+{
+	z-index: 84;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 40px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u6219-4
+{
+	z-index: 86;
+	min-height: 22px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u6219-4-bw
+{
+	z-index: 86;
+	min-height: 22px;
+	margin-top: 15px;
+}
+
+#u6409
+{
+	z-index: 90;
+	margin-left: 97px;
+	margin-top: 45px;
+	position: relative;
+}
+
 #u4353
 {
 	z-index: 57;
@@ -429,7 +466,7 @@
 	border-style: none;
 	border-color: transparent;
 	margin-left: 40px;
-	margin-top: 14px;
+	margin-top: 19px;
 	position: relative;
 	background: transparent url("../../images/dustin_artist_pic.jpg") no-repeat center top;
 	background-size: cover;
@@ -440,9 +477,9 @@
 	z-index: 70;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -470,9 +507,9 @@
 	z-index: 74;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -500,11 +537,16 @@
 	z-index: 80;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
+}
+
+#u4365,#u4366,#u4367,#u6219,#u4368,#u4369,#u5969
+{
+	font-size: 18px;
 }
 
 #u5969-4-bw
@@ -513,44 +555,10 @@
 	min-height: 25px;
 }
 
-#u6216
-{
-	z-index: 84;
-	width: 300px;
-	background-color: transparent;
-	margin-left: 40px;
-	margin-top: 14px;
-	position: relative;
-}
-
-#u6219-4
-{
-	z-index: 86;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u4365,#u4366,#u4367,#u4368,#u4369,#u5969,#u6219
-{
-	font-size: 18px;
-}
-
-#u6219-4-bw
-{
-	z-index: 86;
-	min-height: 25px;
-	margin-top: 1px;
-}
-
 #pu4301
 {
 	width: 0.01px;
-	margin-top: 11px;
+	margin-top: 21px;
 }
 
 #u4301,#u4301-bw
