@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000003;
-	background-color: #5B9889;
+	color: #000017;
+	background-color: #B65D47;
 }
 
 @-ms-viewport
@@ -62,7 +62,7 @@
 
 #u4815
 {
-	width: 149px;
+	width: 124px;
 	min-height: 54px;
 	margin-right: -10000px;
 	top: 3px;
@@ -71,13 +71,13 @@
 
 #u4816
 {
-	width: 148px;
+	width: 123px;
 	padding-bottom: 16px;
 }
 
 #u4817-4
 {
-	width: 148px;
+	width: 123px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
@@ -85,61 +85,45 @@
 
 #u4822
 {
-	width: 149px;
+	width: 124px;
 	min-height: 54px;
 	margin-right: -10000px;
 	top: 3px;
-	left: 154px;
+	left: 129px;
 }
 
 #u4823
 {
-	width: 148px;
+	width: 123px;
 	padding-bottom: 16px;
-}
-
-#u4816.MuseMenuActive,#u4823.MuseMenuActive
-{
-	width: 148px;
-	min-height: 0px;
-	margin: 0px;
 }
 
 #u4826-4
 {
-	width: 148px;
+	width: 123px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u4816.MuseMenuActive #u4817-4,#u4823.MuseMenuActive #u4826-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	width: 148px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u4829
 {
-	width: 150px;
+	width: 124px;
 	min-height: 54px;
 	margin-right: -10000px;
 	top: 3px;
-	left: 305px;
+	left: 255px;
 }
 
 #u4830
 {
-	width: 149px;
+	width: 123px;
 	padding-bottom: 16px;
 }
 
 #u4833-4
 {
-	width: 149px;
+	width: 123px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
@@ -147,85 +131,115 @@
 
 #u4836
 {
-	width: 150px;
+	width: 124px;
 	min-height: 54px;
 	margin-right: -10000px;
 	top: 3px;
-	left: 457px;
+	left: 381px;
 }
 
 #u4837
 {
-	width: 149px;
+	width: 123px;
 	padding-bottom: 16px;
 }
 
-#u4830.MuseMenuActive,#u4837.MuseMenuActive
+#u4816.MuseMenuActive,#u4823.MuseMenuActive,#u4830.MuseMenuActive,#u4837.MuseMenuActive
 {
-	width: 149px;
+	width: 123px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u4839-4
 {
-	width: 149px;
+	width: 123px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u4830.MuseMenuActive #u4833-4,#u4837.MuseMenuActive #u4839-4
+#u4816.MuseMenuActive #u4817-4,#u4823.MuseMenuActive #u4826-4,#u4830.MuseMenuActive #u4833-4,#u4837.MuseMenuActive #u4839-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 149px;
+	width: 123px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u4843
 {
-	width: 150px;
+	width: 125px;
 	min-height: 54px;
 	margin-right: -10000px;
 	top: 3px;
-	left: 609px;
+	left: 507px;
 }
 
 #u4846
 {
-	width: 150px;
+	width: 124px;
 	padding-bottom: 16px;
 }
 
 #u4846.MuseMenuActive
 {
-	width: 150px;
+	width: 124px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u4847-4
 {
-	width: 150px;
+	width: 124px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u4846.MuseMenuActive #u4847-4
+#u6617
+{
+	width: 125px;
+	min-height: 54px;
+	margin-right: -10000px;
+	top: 3px;
+	left: 634px;
+}
+
+#u6620
+{
+	width: 125px;
+	padding-bottom: 16px;
+}
+
+#u6620.MuseMenuActive
+{
+	width: 125px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6623-4
+{
+	width: 124px;
+	min-height: 38px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u4846.MuseMenuActive #u4847-4,#u6620.MuseMenuActive #u6623-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 150px;
+	width: 124px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u4956
 {
-	z-index: 49;
+	z-index: 55;
 	height: 121px;
 	background: transparent url("../../images/yellow-k-logo-horiz-b-w-trans.gif") no-repeat center top;
 	background-size: contain;
@@ -238,18 +252,18 @@
 
 #u4956-bw
 {
-	z-index: 49;
+	z-index: 55;
 	margin-top: 31px;
 	height: 121px;
 }
 
 #u4955-6
 {
-	z-index: 43;
+	z-index: 49;
 	min-height: 36px;
 	background-color: transparent;
-	color: #333333;
 	line-height: 18px;
+	color: #333333;
 	text-align: center;
 	font-size: 15px;
 	font-family: source-sans-pro, sans-serif;
@@ -258,14 +272,14 @@
 
 #u4955-6-bw
 {
-	z-index: 43;
+	z-index: 49;
 	min-height: 36px;
 	margin-top: 14px;
 }
 
 #u4958
 {
-	z-index: 50;
+	z-index: 56;
 	width: 311px;
 	height: 1px;
 	background-color: #484848;
@@ -276,7 +290,7 @@
 
 #u5399
 {
-	z-index: 51;
+	z-index: 57;
 	width: 278px;
 	border-width: 2px;
 	border-style: solid;
@@ -290,7 +304,7 @@
 
 #u5400
 {
-	z-index: 52;
+	z-index: 58;
 	width: 258px;
 	background-color: transparent;
 	position: relative;

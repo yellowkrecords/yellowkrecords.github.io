@@ -12,10 +12,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 38px;
 	color: #484848;
 	text-align: center;
 	font-size: 32px;
-	line-height: 38px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -35,10 +35,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 38px;
 	color: #484848;
 	text-align: center;
 	font-size: 32px;
-	line-height: 38px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -58,10 +58,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 38px;
 	color: #484848;
 	text-align: center;
 	font-size: 32px;
-	line-height: 38px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -81,27 +81,22 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 38px;
 	color: #484848;
 	text-align: center;
 	font-size: 32px;
-	line-height: 38px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
 }
 
-#u4815,#u4822,#u4829,#u4836,#u4843
+#u4846
 {
+	border-style: solid;
+	border-color: #A4A4A4;
 	background-color: transparent;
 	position: relative;
-}
-
-#menuu4814,#u4846
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
+	border-width: 0px 1px 0px 0px;
 }
 
 #u4847-4
@@ -109,10 +104,38 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 38px;
 	color: #484848;
 	text-align: center;
 	font-size: 32px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4815,#u4822,#u4829,#u4836,#u4843,#u6617
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#menuu4814,#u6620
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6623-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	line-height: 38px;
+	color: #484848;
+	text-align: center;
+	font-size: 32px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;

@@ -3,8 +3,8 @@
 	color: #FFFFFF;
 	text-align: center;
 	letter-spacing: 4px;
-	font-size: 23px;
 	line-height: 28px;
+	font-size: 23px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
 }
@@ -23,7 +23,7 @@
 	position: fixed;
 }
 
-#u5322,#u5304,#u5286,#u5269
+#u6499,#u5322,#u5304,#u5286,#u5269
 {
 	border-style: none;
 	border-color: transparent;
@@ -86,15 +86,6 @@
 .hidpi #u5252.MuseLinkActive
 {
 	background-image: url("../images/menu_roster-white_2x.png");
-}
-
-#u1944-4,#u1945-4,#u1946-4,#u1947-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 33px;
-	line-height: 40px;
-	position: fixed;
 }
 
 #u5270
@@ -197,6 +188,49 @@
 .hidpi #u5305.MuseLinkActive
 {
 	background-image: url("../images/menu_tour-white_2x.png");
+}
+
+#u1944-4,#u1945-4,#u1946-4,#u1947-4,#u6498-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 40px;
+	font-size: 33px;
+	position: fixed;
+}
+
+#u6481
+{
+	position: relative;
+	background: transparent url("../images/dist_tour.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6481:hover
+{
+	background: transparent url("../images/dist_tour-yellow.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6481.MuseLinkActive
+{
+	background: transparent url("../images/dist_tour-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+.hidpi #u6481
+{
+	background-image: url("../images/dist_tour_2x.png");
+}
+
+.hidpi #u6481:hover
+{
+	background-image: url("../images/dist_tour-yellow_2x.png");
+}
+
+.hidpi #u6481.MuseLinkActive
+{
+	background-image: url("../images/dist_tour-white_2x.png");
 }
 
 #u1087
