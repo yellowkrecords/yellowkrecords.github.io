@@ -1,7 +1,7 @@
 .version.nicole_dollanganger /* version checker */
 {
-	color: #000010;
-	background-color: #4D415C;
+	color: #0000E3;
+	background-color: #DF9C1D;
 }
 
 @-ms-viewport
@@ -199,6 +199,15 @@
 	top: 8px;
 }
 
+#u4846.MuseMenuActive #u4847-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 38px;
+	width: 124px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u6617
 {
 	width: 125px;
@@ -223,18 +232,18 @@
 
 #u6623-4
 {
-	width: 124px;
+	width: 125px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u4846.MuseMenuActive #u4847-4,#u6620.MuseMenuActive #u6623-4
+#u6620.MuseMenuActive #u6623-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 124px;
+	width: 125px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -245,8 +254,8 @@
 	min-height: 40px;
 	background-color: transparent;
 	color: #484848;
-	line-height: 32px;
 	font-size: 27px;
+	line-height: 32px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	margin-left: 227px;
@@ -310,9 +319,9 @@
 	z-index: 49;
 	min-height: 123px;
 	background-color: transparent;
-	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	line-height: 26px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	font-style: italic;

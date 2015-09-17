@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000015;
-	background-color: #B5B781;
+	color: #00001A;
+	background-color: #5C839D;
 }
 
 .html
@@ -1074,7 +1074,7 @@
 #u2967
 {
 	position: absolute;
-	width: 497px;
+	width: 491px;
 	background-color: transparent;
 }
 
@@ -1087,13 +1087,15 @@
 {
 	z-index: 132;
 	width: 487px;
-	height: 483px;
+	height: 480px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	padding-left: 4px;
+	padding-top: 11px;
+	padding-bottom: 30px;
 	margin-right: -10000px;
 	position: relative;
-	padding: 8px 6px 30px 4px;
 }
 
 #pu6882
@@ -1109,17 +1111,17 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
 }
 
-#u6890
+#u7104
 {
 	z-index: 154;
-	width: 238px;
+	width: 235px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 237px;
+	margin-top: 1px;
+	left: 239px;
 }
 
 #u6889-19
@@ -1144,7 +1146,7 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	padding: 14px 7px 17px 3px;
+	padding: 14px 1px 17px 3px;
 }
 
 #pu6435
@@ -1197,7 +1199,7 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	padding: 14px 8px 37px 2px;
+	padding: 14px 2px 37px;
 }
 
 #u6428
@@ -1256,7 +1258,7 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	padding: 14px 9px 37px 1px;
+	padding: 14px 3px 37px 1px;
 }
 
 #pu6428,#pu6423
@@ -1375,8 +1377,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

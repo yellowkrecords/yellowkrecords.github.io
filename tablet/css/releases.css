@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #0000E6;
-	background-color: #5CF0B4;
+	color: #0000EA;
+	background-color: #ED3363;
 }
 
 @-ms-viewport
@@ -199,6 +199,15 @@
 	top: 8px;
 }
 
+#u4846.MuseMenuActive #u4847-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 38px;
+	width: 124px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u6617
 {
 	width: 125px;
@@ -223,18 +232,18 @@
 
 #u6623-4
 {
-	width: 124px;
+	width: 125px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u4846.MuseMenuActive #u4847-4,#u6620.MuseMenuActive #u6623-4
+#u6620.MuseMenuActive #u6623-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 124px;
+	width: 125px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -287,13 +296,13 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
-	background: transparent url("../../images/2mountainz-u6355-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/2mountainz-u6331-fr.jpg") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #u6331
 {
-	background-image: url("../../images/2mountainz-u6355-fr_2x.jpg");
+	background-image: url("../../images/2mountainz-u6331-fr_2x.jpg");
 }
 
 #u6334-8
@@ -451,13 +460,13 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
-	background: transparent url("../../images/newgodsingleart-u6359-fr.png") no-repeat center center;
+	background: transparent url("../../images/newgodsingleart-u6347-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #u6347
 {
-	background-image: url("../../images/newgodsingleart-u6359-fr_2x.png");
+	background-image: url("../../images/newgodsingleart-u6347-fr_2x.png");
 }
 
 #pu6350-7
@@ -662,13 +671,13 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 1px;
-	background: transparent url("../../images/dustin_dimensions_art-u5368-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/dustin_dimensions_art-u5364-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u5364
 {
-	background-image: url("../../images/dustin_dimensions_art-u5368-fr_2x.jpg");
+	background-image: url("../../images/dustin_dimensions_art-u5364-fr_2x.jpg");
 }
 
 #pu5382-8
@@ -697,9 +706,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -757,13 +766,13 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
-	background: transparent url("../../images/tmsco%20gramaphone%20copy-u4331-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/tmsco%20gramaphone%20copy-u4999-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u4999
 {
-	background-image: url("../../images/tmsco%20gramaphone%20copy-u4331-fr_2x.jpg");
+	background-image: url("../../images/tmsco%20gramaphone%20copy-u4999-fr_2x.jpg");
 }
 
 #pu5002-8

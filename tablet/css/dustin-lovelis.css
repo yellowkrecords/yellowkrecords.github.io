@@ -1,7 +1,7 @@
 .version.dustin_lovelis /* version checker */
 {
-	color: #000007;
-	background-color: #F36618;
+	color: #00000C;
+	background-color: #B9D0BD;
 }
 
 @-ms-viewport
@@ -198,6 +198,15 @@
 	top: 8px;
 }
 
+#u4846.MuseMenuActive #u4847-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 38px;
+	width: 124px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u6617
 {
 	width: 125px;
@@ -222,18 +231,18 @@
 
 #u6623-4
 {
-	width: 124px;
+	width: 125px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u4846.MuseMenuActive #u4847-4,#u6620.MuseMenuActive #u6623-4
+#u6620.MuseMenuActive #u6623-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 124px;
+	width: 125px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -592,13 +601,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 101px;
-	background: transparent url("../../images/dustin_artist_pic-u4601-fr.jpg") no-repeat center top;
+	background: transparent url("../../images/dustin_artist_pic-u5201-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
 .hidpi #u5201
 {
-	background-image: url("../../images/dustin_artist_pic-u4601-fr_2x.jpg");
+	background-image: url("../../images/dustin_artist_pic-u5201-fr_2x.jpg");
 }
 
 #u5199
@@ -617,9 +626,9 @@
 	z-index: 67;
 	min-height: 307px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -737,13 +746,13 @@
 	height: 186px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../../images/dustin_dimensions_art-u4602-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/dustin_dimensions_art-u5202-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u5202
 {
-	background-image: url("../../images/dustin_dimensions_art-u4602-fr_2x.jpg");
+	background-image: url("../../images/dustin_dimensions_art-u5202-fr_2x.jpg");
 }
 
 #pu4769

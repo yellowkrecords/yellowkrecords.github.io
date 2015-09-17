@@ -1,7 +1,7 @@
 .version.dist /* version checker */
 {
-	color: #000006;
-	background-color: #E35193;
+	color: #000003;
+	background-color: #3142F1;
 }
 
 @-ms-viewport
@@ -199,6 +199,15 @@
 	top: 8px;
 }
 
+#u4846.MuseMenuActive #u4847-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 38px;
+	width: 124px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u6617
 {
 	width: 125px;
@@ -223,18 +232,18 @@
 
 #u6623-4
 {
-	width: 124px;
+	width: 125px;
 	min-height: 38px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u4846.MuseMenuActive #u4847-4,#u6620.MuseMenuActive #u6623-4
+#u6620.MuseMenuActive #u6623-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 38px;
-	width: 124px;
+	width: 125px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -253,8 +262,8 @@
 	min-height: 43px;
 	background-color: transparent;
 	color: #7F7F7F;
-	line-height: 38px;
 	font-size: 32px;
+	line-height: 38px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	font-style: italic;
