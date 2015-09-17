@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000018;
-	background-color: #EAC429;
+	color: #000015;
+	background-color: #B5B781;
 }
 
 .html
@@ -1272,13 +1272,13 @@
 	height: 235px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/dustin_dimensions_art-u6514-fr.jpg") no-repeat center center;
+	background: transparent url("../images/dustin_dimensions_art-u7025-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u6423
 {
-	background-image: url("../images/dustin_dimensions_art-u6514-fr_2x.jpg");
+	background-image: url("../images/dustin_dimensions_art-u7025-fr_2x.jpg");
 }
 
 #u6425
@@ -1375,8 +1375,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
