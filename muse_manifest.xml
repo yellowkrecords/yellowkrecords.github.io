@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1442506510226" domain="yellowkrecords.github.io">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1442506648277" domain="yellowkrecords.github.io">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4226638674" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig:tablet>dist"/>
@@ -25,7 +25,7 @@
       <file name="dist.css" crc="53560049" ref="tablet>dist"/>
       <file name="iefonts_index.css" crc="87877241" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="207805477" mt="1442506444965" redirect="true" seo="true"/>
+    <file name="index.html" crc="3868356380" mt="1442506614973" redirect="true" seo="true"/>
     <file name="about.html" crc="42403034" mt="1442506410664" redirect="true" seo="true"/>
     <file name="roster.html" crc="317658998" mt="1442506410664" redirect="true" seo="true"/>
     <file name="new-god.html" crc="3775463548" mt="1442506410664" redirect="true" seo="true"/>
@@ -69,7 +69,7 @@
       <file name="iefonts_konig.css" crc="3780048143" ref="phone>konig"/>
       <file name="dist.css" crc="4074146006" ref="phone>dist"/>
     </folder>
-    <file name="index.html" crc="446715317" mt="1442506488682" redirect="true" seo="true"/>
+    <file name="index.html" crc="3911910535" mt="1442506635474" redirect="true" seo="true"/>
     <file name="about.html" crc="4180655323" mt="1442366078563" redirect="true" seo="true"/>
     <file name="roster.html" crc="188338441" mt="1442366078570" redirect="true" seo="true"/>
     <file name="new-god.html" crc="3995590334" mt="1442366078572" redirect="true" seo="true"/>
@@ -432,7 +432,7 @@
     <file name="will - beach-crop-u7104.png" crc="469963034" ref="index"/>
     <file name="will - beach-crop-u7104_2x.png" crc="462597412" ref="index"/>
   </folder>
-  <file name="index.html" crc="385690264" mt="1442506339346" redirect="true" seo="true"/>
+  <file name="index.html" crc="265367130" mt="1442506625348" redirect="true" seo="true"/>
   <file name="roster.html" crc="3890444198" mt="1442366078482" redirect="true" seo="true"/>
   <file name="about.html" crc="416261098" mt="1442366078481" redirect="true" seo="true"/>
   <file name="tour.html" crc="138116096" mt="1442366078484" redirect="true" seo="true"/>
