@@ -110,6 +110,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://yellowkrecords.github.io/images/yellow-k-logo-horiz-b-w-trans.gif</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yellow-k-logo-horiz-b-w-trans_2x.gif</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://yellowkrecords.github.io/images/new-god-2015-pic-lores300x216.jpg</loc>
     <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -333,6 +345,18 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/0004054315_10348x232_2x.jpg</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/alex%20the%20brown-9668.jpg</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/alex%20the%20brown-9668_2x.jpg</loc>
     <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -605,7 +629,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/roster.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/roster.html"/>
@@ -613,7 +637,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/about.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/about.html"/>
@@ -621,7 +645,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/tour.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/tour.html"/>
@@ -637,7 +661,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/new-god.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/new-god.html"/>
@@ -645,7 +669,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/seagulls.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/seagulls.html"/>
@@ -653,7 +677,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/william-alexander.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/william-alexander.html"/>
@@ -661,7 +685,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/nicole-dollanganger.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/nicole-dollanganger.html"/>
@@ -669,7 +693,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/dustin-lovelis.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/dustin-lovelis.html"/>
@@ -677,7 +701,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/eskimeaux.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/eskimeaux.html"/>
@@ -685,7 +709,7 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/konig.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/konig.html"/>
@@ -693,13 +717,13 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/william-alexander-old.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/distribution.html</loc>
-    <lastmod>2015-09-15</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,7 +1,7 @@
 .version.distribution /* version checker */
 {
-	color: #0000F1;
-	background-color: #DB09C7;
+	color: #00001F;
+	background-color: #4CF888;
 }
 
 .html
@@ -343,8 +343,8 @@
 	min-height: 43px;
 	background-color: transparent;
 	color: #7F7F7F;
-	line-height: 38px;
 	font-size: 32px;
+	line-height: 38px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	font-style: italic;
