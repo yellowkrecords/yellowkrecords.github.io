@@ -38,18 +38,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/fireworklorescover.jpg</loc>
-    <lastmod>2015-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/fireworklorescover_2x.jpg</loc>
-    <lastmod>2015-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/sg-gp-cover.jpg</loc>
     <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -81,18 +69,6 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/firework-transparant-small-2_2x.png</loc>
-    <lastmod>2015-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/sg-gp-cover272x272.jpg</loc>
-    <lastmod>2015-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/sg-gp-cover272x272_2x.jpg</loc>
     <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -237,18 +213,6 @@
   </url>
   <url>
     <loc>http://yellowkrecords.github.io/images/firework-transparant-small-2127x127_2x.png</loc>
-    <lastmod>2015-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/tmsco%20gramaphone.jpg</loc>
-    <lastmod>2015-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yellowkrecords.github.io/images/tmsco%20gramaphone_2x.jpg</loc>
     <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -590,8 +554,50 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://yellowkrecords.github.io/images/two-mountains-cover-web272x272.jpg</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/two-mountains-cover-web233x234.jpg</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/two-mountains-cover-web233x234_2x.jpg</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/strangest-things-web-cover235x237.jpg</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/strangest-things-web-cover235x237_2x.jpg</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/newgodsingleart235x235.png</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/newgodsingleart235x235_2x.png</loc>
+    <lastmod>2015-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://yellowkrecords.github.io/index.html</loc>
-    <lastmod>2015-09-17</lastmod>
+    <lastmod>2015-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://yellowkrecords.github.io/phone/index.html"/>
