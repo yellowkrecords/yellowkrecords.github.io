@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1442611496614" domain="yellowkrecords.github.io">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1442612667129" domain="yellowkrecords.github.io">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4048853997" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig:tablet>dist"/>
@@ -24,7 +24,7 @@
       <file name="iefonts_konig.css" crc="4216214826" ref="tablet>konig"/>
       <file name="dist.css" crc="53560049" ref="tablet>dist"/>
     </folder>
-    <file name="index.html" crc="3858905910" mt="1442611435577" redirect="true" seo="true"/>
+    <file name="index.html" crc="4195386765" mt="1442612633860" redirect="true" seo="true"/>
     <file name="about.html" crc="42403034" mt="1442506410664" redirect="true" seo="true"/>
     <file name="roster.html" crc="317658998" mt="1442506410664" redirect="true" seo="true"/>
     <file name="new-god.html" crc="3775463548" mt="1442506410664" redirect="true" seo="true"/>
@@ -68,7 +68,7 @@
       <file name="iefonts_konig.css" crc="3780048143" ref="phone>konig"/>
       <file name="dist.css" crc="4074146006" ref="phone>dist"/>
     </folder>
-    <file name="index.html" crc="255159018" mt="1442611457570" redirect="true" seo="true"/>
+    <file name="index.html" crc="3999510744" mt="1442612579298" redirect="true" seo="true"/>
     <file name="about.html" crc="4180655323" mt="1442366078563" redirect="true" seo="true"/>
     <file name="roster.html" crc="188338441" mt="1442366078570" redirect="true" seo="true"/>
     <file name="new-god.html" crc="3995590334" mt="1442366078572" redirect="true" seo="true"/>
@@ -430,7 +430,7 @@
     <file name="newgodsingleart235x235.png" crc="4137717355" seo="true" ref="tablet>index"/>
     <file name="newgodsingleart235x235_2x.png" crc="3857219841" seo="true" ref="tablet>index"/>
   </folder>
-  <file name="index.html" crc="4128648376" mt="1442611421697" redirect="true" seo="true"/>
+  <file name="index.html" crc="524805872" mt="1442612599221" redirect="true" seo="true"/>
   <file name="roster.html" crc="4197776003" mt="1442596825052" redirect="true" seo="true"/>
   <file name="about.html" crc="185736979" mt="1442596825052" redirect="true" seo="true"/>
   <file name="tour.html" crc="3771700135" mt="1442596825052" redirect="true" seo="true"/>
