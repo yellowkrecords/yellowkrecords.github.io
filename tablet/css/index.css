@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FA;
-	background-color: #15C784;
+	color: #00000A;
+	background-color: #3B90E1;
 }
 
 @-ms-viewport
@@ -288,8 +288,8 @@
 	width: 94px;
 	min-height: 19px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -560,7 +560,7 @@
 
 #u7172
 {
-	z-index: 113;
+	z-index: 115;
 	width: 235px;
 	background-color: transparent;
 	position: relative;
@@ -569,7 +569,7 @@
 	left: 240px;
 }
 
-#u7176-19
+#u7176-21
 {
 	z-index: 94;
 	width: 487px;
@@ -582,7 +582,7 @@
 	position: relative;
 }
 
-#u7188-11,#u7188-14,#u7176-10,#u7176-12
+#u7188-11,#u7188-14,#u7176-12,#u7176-14
 {
 	font-size: 14px;
 	font-style: italic;
@@ -591,7 +591,7 @@
 
 #u7189
 {
-	z-index: 115;
+	z-index: 117;
 	width: 484px;
 	height: 488px;
 	border-style: none;
@@ -610,7 +610,7 @@
 
 #u7190
 {
-	z-index: 144;
+	z-index: 146;
 	width: 235px;
 	background-color: transparent;
 	position: relative;
@@ -619,7 +619,7 @@
 
 #u7193
 {
-	z-index: 146;
+	z-index: 148;
 	width: 235px;
 	border-style: none;
 	border-color: transparent;
@@ -631,7 +631,7 @@
 
 #u7192-28
 {
-	z-index: 116;
+	z-index: 118;
 	width: 484px;
 	min-height: 208px;
 	background-color: transparent;
@@ -641,7 +641,7 @@
 	position: relative;
 }
 
-#u7188-10,#u7188-13,#u7188-15,#u7176-7,#u7176-9,#u7176-11,#u7192-9,#u7192-13,#u7192-14,#u7192-16,#u7192-19,#u7192-23,#u7192-24
+#u7188-10,#u7188-13,#u7188-15,#u7176-11,#u7176-13,#u7192-9,#u7192-13,#u7192-14,#u7192-16,#u7192-19,#u7192-23,#u7192-24
 {
 	font-size: 14px;
 	font-style: normal;
@@ -650,7 +650,7 @@
 
 #u7177
 {
-	z-index: 148;
+	z-index: 150;
 	width: 487px;
 	height: 473px;
 	border-style: none;
@@ -669,7 +669,7 @@
 
 #u7180
 {
-	z-index: 171;
+	z-index: 173;
 	width: 235px;
 	background-color: transparent;
 	position: relative;
@@ -678,7 +678,7 @@
 
 #u7178
 {
-	z-index: 173;
+	z-index: 175;
 	width: 235px;
 	background-color: transparent;
 	position: relative;
@@ -688,7 +688,7 @@
 
 #u7182-22
 {
-	z-index: 149;
+	z-index: 151;
 	width: 487px;
 	min-height: 208px;
 	background-color: transparent;
@@ -718,13 +718,13 @@
 	line-height: 17px;
 }
 
-#u7188-7,#u7188-9,#u7192-6,#u7192-10,#u7192-12,#u7192-17,#u7192-20,#u7192-22,#u7182-7,#u7182-9
+#u7188-7,#u7188-9,#u7176-7,#u7176-8,#u7176-10,#u7192-6,#u7192-10,#u7192-12,#u7192-17,#u7192-20,#u7192-22,#u7182-7,#u7182-9
 {
 	font-size: 14px;
 	line-height: 28px;
 }
 
-#u7188-12,#u7188-16,#u7176-13,#u7176-17,#u7192-8,#u7192-26,#u7182-10,#u7182-20
+#u7188-12,#u7188-16,#u7176-15,#u7176-19,#u7192-8,#u7192-26,#u7182-10,#u7182-20
 {
 	padding-right: 12px;
 	padding-left: 12px;
@@ -732,14 +732,14 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u7176-15,#u7182-13,#u7182-15
+#u7176-17,#u7182-13,#u7182-15
 {
 	font-size: 14px;
 	font-style: italic;
 	line-height: 25px;
 }
 
-#u7176-14,#u7176-16,#u7182-11,#u7182-12,#u7182-14,#u7182-16,#u7182-17,#u7182-19
+#u7176-16,#u7176-18,#u7182-11,#u7182-12,#u7182-14,#u7182-16,#u7182-17,#u7182-19
 {
 	font-size: 14px;
 	font-style: normal;
