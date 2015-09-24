@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1443059876401" domain="yellowkrecords.github.io">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1443059992462" domain="yellowkrecords.github.io">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4048853997" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig:tablet>dist"/>
@@ -85,7 +85,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4161237121"/>
     <file name="master_a-master.css" crc="3804071819" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:eskimeaux:konig:distribution:william-alexander-old"/>
-    <file name="index.css" crc="4262915519" ref="index"/>
+    <file name="index.css" crc="4004412542" ref="index"/>
     <file name="roster.css" crc="7137922" ref="roster"/>
     <file name="about.css" crc="4132926949" ref="about"/>
     <file name="tour.css" crc="403011756" ref="tour"/>
@@ -195,8 +195,6 @@
     <file name="pasted svg 198x198.svg" crc="3997877972" ref="william-alexander:seagulls:nicole-dollanganger:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:tablet>seagulls:tablet>william-alexander:tablet>nicole-dollanganger:new-god:phone>eskimeaux:tablet>eskimeaux:eskimeaux:phone>konig:tablet>konig:konig:william-alexander-old"/>
     <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="phone>seagulls:tablet>seagulls:phone>eskimeaux:new-god"/>
     <file name="wa-st jacket.jpg" crc="466390727" ref="william-alexander"/>
-    <file name="yellow k logo - k circle trans.png" crc="4061927425" ref="index" seo="true"/>
-    <file name="yellow k logo - k circle trans_2x.png" crc="502862324" ref="index" seo="true"/>
     <file name="yellow-k-logo-horiz-b-w-trans.gif" crc="386871558" ref="about:phone>index:phone>about:tablet>index:tablet>about"/>
     <file name="yellow-k-logo-horiz-b-w-trans_2x.gif" crc="386871558" ref="about:phone>index:phone>about:tablet>about"/>
     <file name="tmsco gramaphone copy.jpg" crc="309623381" ref="releases:new-god"/>
@@ -430,8 +428,10 @@
     <file name="strangest-things-web-cover235x237_2x.jpg" crc="4096901493" seo="true" ref="tablet>index:index"/>
     <file name="newgodsingleart235x235.png" crc="4137717355" seo="true" ref="tablet>index:index"/>
     <file name="newgodsingleart235x235_2x.png" crc="3857219841" seo="true" ref="tablet>index:index"/>
+    <file name="yellow k logo - k circle trans-u3530.png" crc="4031672950" ref="index"/>
+    <file name="yellow k logo - k circle trans-u3530_2x.png" crc="531957253" ref="index"/>
   </folder>
-  <file name="index.html" crc="4140070763" mt="1443059847412" redirect="true" seo="true"/>
+  <file name="index.html" crc="449990101" mt="1443059974404" redirect="true" seo="true"/>
   <file name="roster.html" crc="4197776003" mt="1442596825052" redirect="true" seo="true"/>
   <file name="about.html" crc="185736979" mt="1442596825052" redirect="true" seo="true"/>
   <file name="tour.html" crc="3771700135" mt="1442596825052" redirect="true" seo="true"/>
