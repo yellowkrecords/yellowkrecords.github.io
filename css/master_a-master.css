@@ -1,10 +1,10 @@
 #u531-3
 {
-	color: #FFFFFF;
 	line-height: 28px;
 	text-align: center;
-	letter-spacing: 4px;
 	font-size: 23px;
+	color: #FFFFFF;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
 }
