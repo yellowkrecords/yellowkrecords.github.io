@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #0000EF;
-	background-color: #886ABD;
+	color: #0000F7;
+	background-color: #E5D716;
 }
 
 .html
@@ -543,6 +543,8 @@
 	z-index: 396;
 	width: 237px;
 	height: 237px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.33);
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -614,6 +616,8 @@
 {
 	z-index: 313;
 	width: 237px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.32);
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;

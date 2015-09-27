@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #D928FF;
+	color: #0000F2;
+	background-color: #FDC756;
 }
 
 @-ms-viewport
@@ -356,13 +356,13 @@
 {
 	z-index: 56;
 	height: 141px;
-	background: transparent url("../../images/yellow-k-logo-horiz-b-w-trans.gif") no-repeat center top;
+	background: transparent url("../../images/yellow-k-logo-horiz-b-w-trans-u3940-fr.png") no-repeat center top;
 	background-size: contain;
 }
 
 .hidpi #u3940
 {
-	background-image: url("../../images/yellow-k-logo-horiz-b-w-trans_2x.gif");
+	background-image: url("../../images/yellow-k-logo-horiz-b-w-trans-u3940-fr_2x.png");
 }
 
 #u3940-bw
@@ -381,7 +381,7 @@
 
 #u4246-4
 {
-	z-index: 175;
+	z-index: 173;
 	width: 94px;
 	min-height: 19px;
 	background-color: transparent;
@@ -395,7 +395,7 @@
 
 #u4248-4
 {
-	z-index: 180;
+	z-index: 178;
 	width: 66px;
 	min-height: 18px;
 	background-color: transparent;
@@ -409,7 +409,7 @@
 
 #u4255
 {
-	z-index: 184;
+	z-index: 182;
 	overflow: hidden;
 	position: relative;
 	width: 9px;
@@ -420,7 +420,7 @@
 
 #u5030
 {
-	z-index: 185;
+	z-index: 183;
 	overflow: hidden;
 	position: relative;
 	width: 45px;
@@ -507,25 +507,22 @@
 	left: 183px;
 }
 
-#u6578-20
+#u6578-18
 {
 	z-index: 64;
 	width: 381px;
 	min-height: 208px;
 	background-color: transparent;
 	text-align: justify;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
 	margin-top: 14px;
 	position: relative;
 }
 
-#u6578-10
-{
-	font-style: italic;
-}
-
 #u4177
 {
-	z-index: 84;
+	z-index: 82;
 	width: 380px;
 	height: 396px;
 	border-style: none;
@@ -540,7 +537,7 @@
 
 #u7224
 {
-	z-index: 85;
+	z-index: 83;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -549,7 +546,7 @@
 
 #u7227
 {
-	z-index: 108;
+	z-index: 106;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -559,7 +556,7 @@
 
 #u7226-21
 {
-	z-index: 87;
+	z-index: 85;
 	width: 380px;
 	min-height: 208px;
 	background-color: transparent;
@@ -568,10 +565,23 @@
 	position: relative;
 }
 
-#u7226-7,#u7226-8,#u7226-10
+#u7226-4
 {
 	font-size: 14px;
-	line-height: 28px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	line-height: 17px;
+}
+
+#u7226-15
+{
+	font-size: 32px;
+	padding-right: 12px;
+	padding-left: 12px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
 #u7226-11,#u7226-13
@@ -581,16 +591,26 @@
 	line-height: 28px;
 }
 
-#u7226-12,#u7226-14
+#u7226-7,#u7226-8,#u7226-10,#u7226-12,#u7226-14
 {
 	font-size: 14px;
-	font-style: italic;
 	line-height: 28px;
+}
+
+#u7226-19
+{
+	font-size: 12px;
+	line-height: 22px;
+	padding-right: 12px;
+	padding-left: 12px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	font-style: italic;
 }
 
 #u4182
 {
-	z-index: 110;
+	z-index: 108;
 	width: 380px;
 	height: 396px;
 	border-style: none;
@@ -605,7 +625,7 @@
 
 #u7217
 {
-	z-index: 111;
+	z-index: 109;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -614,7 +634,7 @@
 
 #u7219
 {
-	z-index: 113;
+	z-index: 111;
 	width: 178px;
 	border-style: none;
 	border-color: transparent;
@@ -626,7 +646,7 @@
 
 #u7221-28
 {
-	z-index: 115;
+	z-index: 113;
 	width: 380px;
 	min-height: 208px;
 	background-color: transparent;
@@ -635,14 +655,22 @@
 	position: relative;
 }
 
+#u7226,#u7221
+{
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
 #u7221-5
 {
 	font-size: 14px;
 	padding-right: 12px;
 	padding-left: 12px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
 }
 
-#u7226-15,#u7221-8
+#u7221-8
 {
 	font-size: 32px;
 	padding-right: 12px;
@@ -654,12 +682,26 @@
 #u7221-6
 {
 	font-size: 12px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	font-style: italic;
 	line-height: 24px;
+}
+
+#u7221-26
+{
+	font-size: 12px;
+	line-height: 24px;
+	padding-right: 12px;
+	padding-left: 12px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	font-style: italic;
 }
 
 #u4189
 {
-	z-index: 143;
+	z-index: 141;
 	width: 380px;
 	height: 396px;
 	border-style: none;
@@ -680,7 +722,7 @@
 
 #u7210
 {
-	z-index: 144;
+	z-index: 142;
 	width: 180px;
 	background-color: transparent;
 	position: relative;
@@ -689,7 +731,7 @@
 
 #u7212
 {
-	z-index: 146;
+	z-index: 144;
 	width: 180px;
 	background-color: transparent;
 	position: relative;
@@ -699,7 +741,7 @@
 
 #u7214-22
 {
-	z-index: 148;
+	z-index: 146;
 	width: 380px;
 	min-height: 208px;
 	background-color: transparent;
@@ -724,13 +766,13 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u6578-5,#u7226-4,#u7214-4
+#u6578-5,#u7214-4
 {
 	font-size: 14px;
 	line-height: 17px;
 }
 
-#u6578-14,#u6578-18,#u7221-26,#u7214-10
+#u6578-12,#u6578-16,#u7214-10
 {
 	font-size: 12px;
 	line-height: 24px;
@@ -739,7 +781,7 @@
 	font-style: italic;
 }
 
-#u7226-19,#u7214-20
+#u7214-20
 {
 	font-size: 12px;
 	line-height: 22px;
@@ -748,14 +790,14 @@
 	font-style: italic;
 }
 
-#u6578-12,#u6578-15,#u6578-17,#u7226-16,#u7226-18,#u7221-9,#u7221-13,#u7221-14,#u7221-16,#u7221-19,#u7221-23,#u7221-24,#u7214-11,#u7214-12,#u7214-14,#u7214-16,#u7214-17,#u7214-19
+#u6578-10,#u6578-13,#u6578-15,#u7226-16,#u7226-18,#u7221-9,#u7221-13,#u7221-14,#u7221-16,#u7221-19,#u7221-23,#u7221-24,#u7214-11,#u7214-12,#u7214-14,#u7214-16,#u7214-17,#u7214-19
 {
 	font-style: normal;
 }
 
 #u4165
 {
-	z-index: 170;
+	z-index: 168;
 	width: 81px;
 	position: relative;
 	margin-right: -10000px;
@@ -867,7 +909,7 @@
 
 #u4247
 {
-	z-index: 179;
+	z-index: 177;
 	width: 363px;
 	height: 3px;
 	border-style: solid;
