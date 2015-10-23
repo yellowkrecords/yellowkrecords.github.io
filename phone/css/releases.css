@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000F7;
-	background-color: #8EC658;
+	color: #000006;
+	background-color: #229057;
 }
 
 @-ms-viewport
@@ -428,7 +428,7 @@
 
 #u6358-8
 {
-	z-index: 464;
+	z-index: 469;
 	width: 234px;
 	min-height: 51px;
 	background-color: transparent;
@@ -440,12 +440,12 @@
 
 #u6357-6
 {
-	z-index: 458;
+	z-index: 463;
 	width: 232px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 12px;
@@ -465,7 +465,7 @@
 	font-weight: 300;
 }
 
-#u6356-31
+#u6356-36
 {
 	z-index: 427;
 	min-height: 203px;
@@ -474,7 +474,7 @@
 	font-weight: 300;
 }
 
-#u6356-31-bw
+#u6356-36-bw
 {
 	z-index: 427;
 	min-height: 203px;
@@ -522,8 +522,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 11px;
@@ -577,7 +577,7 @@
 
 #u6359
 {
-	z-index: 472;
+	z-index: 477;
 	width: 127px;
 	height: 127px;
 	border-width: 1px;
@@ -607,7 +607,7 @@
 
 #u6362-7
 {
-	z-index: 504;
+	z-index: 509;
 	width: 200px;
 	background-color: transparent;
 	text-align: left;
@@ -617,12 +617,12 @@
 
 #u6361-6
 {
-	z-index: 498;
+	z-index: 503;
 	width: 200px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 3px;
@@ -632,7 +632,7 @@
 
 #u6360-25
 {
-	z-index: 473;
+	z-index: 478;
 	min-height: 174px;
 	background-color: transparent;
 	font-family: source-sans-pro, sans-serif;
@@ -649,7 +649,7 @@
 
 #u6360-25-bw
 {
-	z-index: 473;
+	z-index: 478;
 	min-height: 174px;
 	margin-top: 21px;
 }
@@ -714,8 +714,8 @@
 	width: 200px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 15px;
@@ -833,8 +833,8 @@
 	width: 229px;
 	min-height: 61px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 11px;
@@ -951,8 +951,8 @@
 	width: 231px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
@@ -1037,8 +1037,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
@@ -1151,8 +1151,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
@@ -1213,7 +1213,7 @@
 	text-decoration: underline;
 }
 
-#u6356-2,#u6356-5,#u6356-8,#u6356-11,#u6356-14,#u6356-15,#u6356-19,#u6356-21,#u6356-22,#u6356-28,#u5373-3,#u5373-6,#u5373-9,#u5373-10,#u5373-14,#u5373-15,#u5373-16,#u5373-30,#u5369-18,#u5369-20,#u5369-22,#u5369-24,#u5369-25,#u5369-29,#u5369-30,#u5369-38,#u4332-18,#u4332-21,#u4332-24,#u4332-25,#u4332-29,#u4332-30,#u4332-31,#u4332-48,#u4314-18,#u4314-20,#u4314-22,#u4314-23,#u4314-27,#u4314-29,#u4314-30,#u4314-52,#u4327-17,#u4327-19,#u4327-21,#u4327-23,#u4327-25,#u4327-27,#u4327-28,#u4327-32,#u4327-34,#u4327-36,#u4327-37,#u4327-38,#u4327-53
+#u6356-2,#u6356-5,#u6356-8,#u6356-11,#u6356-14,#u6356-15,#u6356-19,#u6356-21,#u6356-22,#u6356-33,#u5373-3,#u5373-6,#u5373-9,#u5373-10,#u5373-14,#u5373-15,#u5373-16,#u5373-30,#u5369-18,#u5369-20,#u5369-22,#u5369-24,#u5369-25,#u5369-29,#u5369-30,#u5369-38,#u4332-18,#u4332-21,#u4332-24,#u4332-25,#u4332-29,#u4332-30,#u4332-31,#u4332-48,#u4314-18,#u4314-20,#u4314-22,#u4314-23,#u4314-27,#u4314-29,#u4314-30,#u4314-52,#u4327-17,#u4327-19,#u4327-21,#u4327-23,#u4327-25,#u4327-27,#u4327-28,#u4327-32,#u4327-34,#u4327-36,#u4327-37,#u4327-38,#u4327-53
 {
 	text-align: left;
 	padding-right: 5px;
@@ -1226,7 +1226,7 @@
 	font-weight: 600;
 }
 
-#u6356-25,#u5373-20,#u5373-23,#u5373-25,#u5373-27,#u6360-2,#u6360-21,#u6010-2,#u6010-4,#u6010-9,#u6010-21,#u6010-23,#u6010-25,#u6010-27,#u5369-2,#u5369-10,#u5369-12,#u5369-33,#u5369-36,#u4332-2,#u4332-4,#u4332-6,#u4332-8,#u4332-35,#u4332-38,#u4332-41,#u4332-43,#u4332-45,#u4332-47,#u4314-2,#u4314-7,#u4314-9,#u4314-11,#u4314-13,#u4314-36,#u4314-39,#u4314-41,#u4314-44,#u4314-47,#u4314-50,#u4327-2,#u4327-7,#u4327-12,#u4327-14,#u4327-41,#u4327-44,#u4327-47,#u4327-50
+#u6356-25,#u6356-27,#u6356-29,#u6356-31,#u5373-20,#u5373-23,#u5373-25,#u5373-27,#u6360-2,#u6360-21,#u6010-2,#u6010-4,#u6010-9,#u6010-21,#u6010-23,#u6010-25,#u6010-27,#u5369-2,#u5369-10,#u5369-12,#u5369-33,#u5369-36,#u4332-2,#u4332-4,#u4332-6,#u4332-8,#u4332-35,#u4332-38,#u4332-41,#u4332-43,#u4332-45,#u4332-47,#u4314-2,#u4314-7,#u4314-9,#u4314-11,#u4314-13,#u4314-36,#u4314-39,#u4314-41,#u4314-44,#u4314-47,#u4314-50,#u4327-2,#u4327-7,#u4327-12,#u4327-14,#u4327-41,#u4327-44,#u4327-47,#u4327-50
 {
 	font-style: italic;
 }
@@ -1238,7 +1238,7 @@
 	font-style: italic;
 }
 
-#u6356-29,#u5373-31,#u6010-30,#u4332-49,#u4327-54
+#u6356-34,#u5373-31,#u6010-30,#u4332-49,#u4327-54
 {
 	text-align: center;
 }
