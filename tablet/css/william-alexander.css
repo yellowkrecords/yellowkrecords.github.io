@@ -1,7 +1,7 @@
 .version.william_alexander /* version checker */
 {
-	color: #0000E7;
-	background-color: #08E593;
+	color: #0000EB;
+	background-color: #8E87DB;
 }
 
 @-ms-viewport
@@ -268,13 +268,13 @@
 	height: 138px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../../images/alex%20the%20brown-9668-u5180-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/alex%20the%20brown-9668-u4568-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u5180
 {
-	background-image: url("../../images/alex%20the%20brown-9668-u5180-fr_2x.jpg");
+	background-image: url("../../images/alex%20the%20brown-9668-u4568-fr_2x.jpg");
 }
 
 #u5176
@@ -581,9 +581,9 @@
 	z-index: 95;
 	min-height: 235px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
