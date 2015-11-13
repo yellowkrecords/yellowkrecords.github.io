@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1447432614260" domain="yellowkrecords.github.io">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1447432766483" domain="yellowkrecords.github.io">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4226638674" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig:tablet>dist"/>
@@ -90,7 +90,7 @@
     <file name="site_global.css" crc="3813118786"/>
     <file name="master_a-master.css" crc="4194454076" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:eskimeaux:konig:distribution:william-alexander-2"/>
     <file name="index.css" crc="4154523462" ref="index"/>
-    <file name="roster.css" crc="252144785" ref="roster"/>
+    <file name="roster.css" crc="3946541636" ref="roster"/>
     <file name="about.css" crc="4132926949" ref="about"/>
     <file name="tour.css" crc="403011756" ref="tour"/>
     <file name="releases.css" crc="4109187548" ref="releases"/>
@@ -322,7 +322,7 @@
     <file name="konig-artist-pic-crop-u6174_2x.png" crc="60849815" ref="tablet>roster"/>
     <file name="konig-artist-pic-crop-u6155.png" crc="8025210" ref="tablet>konig"/>
     <file name="konig-artist-pic-crop-u6155_2x.png" crc="26444441" ref="tablet>konig"/>
-    <file name="konig-artist-pic-crop-u6116.png" crc="281361920" ref="roster"/>
+    <file name="konig-artist-pic-crop-u6116.png" crc="4020057124" ref="roster"/>
     <file name="konig-artist-pic-crop-u6116_2x.png" crc="174225385" ref="roster"/>
     <file name="konig-artist-pic-crop-u6097.png" crc="384785519" ref="konig"/>
     <file name="konig-artist-pic-crop-u6097_2x.png" crc="462335407" ref="konig"/>
@@ -449,8 +449,8 @@
     <file name="seagulls_artist_pic265x191_2x.jpg" crc="4041893888" seo="true" ref="roster"/>
     <file name="img_0449-crop-u7521.png" crc="4150829820" ref="roster"/>
     <file name="img_0449-crop-u7521_2x.png" crc="4104816053" ref="roster"/>
-    <file name="carl creighton artist pic-crop-u7536.png" crc="166291381" ref="roster"/>
-    <file name="carl creighton artist pic-crop-u7536_2x.png" crc="3954552171" ref="roster"/>
+    <file name="carl creighton artist pic-crop-u7536.png" crc="493615803" ref="roster"/>
+    <file name="carl creighton artist pic-crop-u7536_2x.png" crc="158505829" ref="roster"/>
     <file name="gobbinjrpic-crop-u7543.png" crc="4210517008" ref="roster"/>
     <file name="gobbinjrpic-crop-u7543_2x.png" crc="3865758581" ref="roster"/>
     <file name="japanese breakfast artist pic-crop-u7558.png" crc="218566426" ref="roster"/>
@@ -485,7 +485,7 @@
     <file name="strangest-things-web-cover225x227_2x.jpg" crc="3921475698" seo="true" ref="tablet>william-alexander"/>
   </folder>
   <file name="index.html" crc="3884062796" mt="1447431522914" redirect="true" seo="true"/>
-  <file name="roster.html" crc="4015449622" mt="1447432515463" redirect="true" seo="true"/>
+  <file name="roster.html" crc="3964175232" mt="1447432752312" redirect="true" seo="true"/>
   <file name="about.html" crc="185736979" mt="1442596825052" redirect="true" seo="true"/>
   <file name="tour.html" crc="3771700135" mt="1442596825052" redirect="true" seo="true"/>
   <file name="releases.html" crc="4167483637" mt="1447429802089" redirect="true" seo="true"/>

@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #00000F;
-	background-color: #076C91;
+	color: #0000EB;
+	background-color: #3B7244;
 }
 
 .html
@@ -533,11 +533,6 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 600px;
-}
-
-#u7536_img
-{
-	padding-right: 1px;
 }
 
 #pu7520-4
