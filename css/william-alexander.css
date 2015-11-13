@@ -1,7 +1,7 @@
 .version.william_alexander /* version checker */
 {
-	color: #000007;
-	background-color: #03B503;
+	color: #0000F0;
+	background-color: #92662D;
 }
 
 .html
@@ -394,8 +394,8 @@
 {
 	z-index: 5;
 	width: 0.01px;
-	height: 245px;
-	padding-bottom: 43px;
+	height: 219px;
+	padding-bottom: 69px;
 	position: relative;
 	margin-right: -10000px;
 	left: 418px;
@@ -528,7 +528,7 @@
 {
 	z-index: 42;
 	width: 486px;
-	min-height: 271px;
+	min-height: 168px;
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
@@ -574,8 +574,8 @@
 	width: 63px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 236px;
-	left: 246px;
+	margin-top: 210px;
+	left: 228px;
 }
 
 #u5738
@@ -736,9 +736,9 @@
 	width: 936px;
 	min-height: 235px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 94px;

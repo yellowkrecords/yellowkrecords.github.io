@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #EFE4BA;
+	color: #0000E6;
+	background-color: #2C10B7;
 }
 
 @-ms-viewport
@@ -289,8 +289,8 @@
 	width: 94px;
 	min-height: 19px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;

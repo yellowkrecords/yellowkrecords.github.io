@@ -153,6 +153,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
+.Yellow-K-Bright a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Yellow-K-Bright a:link
 {
 	color: #FFFFFF;

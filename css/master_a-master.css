@@ -2,8 +2,8 @@
 {
 	color: #FFFFFF;
 	text-align: center;
-	letter-spacing: 4px;
 	line-height: 28px;
+	letter-spacing: 4px;
 	font-size: 23px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
@@ -194,8 +194,8 @@
 {
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 40px;
 	font-size: 33px;
+	line-height: 40px;
 	position: fixed;
 }
 

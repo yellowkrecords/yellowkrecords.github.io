@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #000019;
-	background-color: #94599B;
+	color: #000001;
+	background-color: #9683F1;
 }
 
 @-ms-viewport
@@ -387,11 +387,191 @@
 	left: 306px;
 }
 
+#u7661
+{
+	z-index: 530;
+	width: 128px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7669-13
+{
+	z-index: 538;
+	width: 218px;
+	min-height: 128px;
+	background-color: transparent;
+	text-align: left;
+	font-family: source-sans-pro, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 155px;
+}
+
+#pu7663
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 45px;
+}
+
+#u7663
+{
+	z-index: 532;
+	width: 128px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7670-13
+{
+	z-index: 551;
+	width: 218px;
+	min-height: 126px;
+	background-color: transparent;
+	font-family: source-sans-pro, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 151px;
+}
+
+#u7670-2
+{
+	font-size: 21px;
+	text-align: left;
+	line-height: 25px;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#u7670-6
+{
+	font-size: 21px;
+	text-align: left;
+	font-weight: 300;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u7670-7
+{
+	font-size: 15px;
+	text-align: justify;
+	line-height: 18px;
+	font-weight: 300;
+}
+
+#u7670-9
+{
+	font-size: 17px;
+	text-align: left;
+	line-height: 20px;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#u7670-11
+{
+	font-size: 17px;
+	text-align: left;
+	line-height: 20px;
+	font-weight: 300;
+}
+
+#u7665
+{
+	z-index: 534;
+	width: 125px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7671-12
+{
+	z-index: 564;
+	width: 218px;
+	min-height: 125px;
+	background-color: transparent;
+	text-align: left;
+	font-family: source-sans-pro, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 150px;
+}
+
+#u7671-6
+{
+	font-size: 15px;
+	line-height: 18px;
+	font-weight: 300;
+}
+
+#pu7665,#pu7667
+{
+	width: 0.01px;
+	margin-left: 11px;
+	margin-top: 45px;
+}
+
+#u7667
+{
+	z-index: 536;
+	width: 126px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.34);
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7672-12
+{
+	z-index: 576;
+	width: 218px;
+	min-height: 126px;
+	background-color: transparent;
+	text-align: left;
+	font-family: source-sans-pro, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 150px;
+}
+
+#u7669-7,#u7672-5,#u7672-6
+{
+	font-size: 21px;
+	line-height: 25px;
+	font-weight: 300;
+}
+
+#u7669-9,#u7671-8,#u7672-2,#u7672-8
+{
+	font-size: 17px;
+	line-height: 20px;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#u7669-11,#u7671-10,#u7672-10
+{
+	font-size: 17px;
+	line-height: 20px;
+	font-weight: 300;
+}
+
 #u4322
 {
 	z-index: 118;
 	margin-left: 11px;
-	margin-top: 731px;
+	margin-top: 73px;
 	position: relative;
 }
 
@@ -443,14 +623,13 @@
 #pu6358-8
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-left: 141px;
 }
 
 #u6358-8
 {
-	z-index: 475;
+	z-index: 483;
 	width: 234px;
 	min-height: 51px;
 	background-color: transparent;
@@ -462,7 +641,7 @@
 
 #u6357-6
 {
-	z-index: 469;
+	z-index: 477;
 	width: 232px;
 	min-height: 49px;
 	background-color: transparent;
@@ -470,7 +649,7 @@
 	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
-	margin-top: 12px;
+	margin-top: 13px;
 	position: relative;
 }
 
@@ -487,7 +666,7 @@
 	font-weight: 300;
 }
 
-#u6356-38
+#u6356-46
 {
 	z-index: 431;
 	min-height: 203px;
@@ -496,7 +675,7 @@
 	font-weight: 300;
 }
 
-#u6356-38-bw
+#u6356-46-bw
 {
 	z-index: 431;
 	min-height: 203px;
@@ -577,7 +756,7 @@
 
 #u6359
 {
-	z-index: 483;
+	z-index: 491;
 	width: 127px;
 	height: 127px;
 	border-width: 1px;
@@ -606,7 +785,7 @@
 
 #u6362-7
 {
-	z-index: 515;
+	z-index: 523;
 	width: 200px;
 	background-color: transparent;
 	text-align: left;
@@ -616,7 +795,7 @@
 
 #u6361-6
 {
-	z-index: 509;
+	z-index: 517;
 	width: 200px;
 	min-height: 49px;
 	background-color: transparent;
@@ -631,14 +810,14 @@
 
 #u6360-25
 {
-	z-index: 484;
+	z-index: 492;
 	min-height: 174px;
 	background-color: transparent;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
 
-#u6356-8,#u6356-15,#u5373-8,#u5373-15,#u6360-14
+#u6356-11,#u6356-22,#u5373-8,#u5373-15,#u6360-14
 {
 	text-align: left;
 	padding-right: 10px;
@@ -648,7 +827,7 @@
 
 #u6360-25-bw
 {
-	z-index: 484;
+	z-index: 492;
 	min-height: 174px;
 	margin-top: 21px;
 }
@@ -730,7 +909,7 @@
 	font-weight: 300;
 }
 
-#u6356-2,#u6356-3,#u6356-5,#u6356-6,#u5373-2,#u5373-3,#u5373-5,#u5373-6,#u6360-4,#u6010-6,#u6010-7,#u6010-11
+#u6356-7,#u6356-8,#u6356-9,#u5373-2,#u5373-3,#u5373-5,#u5373-6,#u6360-4,#u6010-6,#u6010-7,#u6010-11
 {
 	font-size: 15px;
 	text-align: justify;
@@ -739,7 +918,7 @@
 	padding-left: 10px;
 }
 
-#u6356-10,#u6356-12,#u6356-13,#u6356-17,#u6356-18,#u6356-19,#u6356-35,#u5373-10,#u5373-12,#u5373-13,#u5373-17,#u5373-18,#u5373-19,#u5373-35,#u6360-5,#u6360-7,#u6360-9,#u6360-11,#u6360-12,#u6360-16,#u6360-17,#u6360-23,#u6010-12,#u6010-13,#u6010-15,#u6010-17,#u6010-18,#u6010-29
+#u6356-13,#u6356-15,#u6356-17,#u6356-19,#u6356-20,#u6356-24,#u6356-26,#u6356-27,#u6356-28,#u6356-42,#u6356-43,#u5373-10,#u5373-12,#u5373-13,#u5373-17,#u5373-18,#u5373-19,#u5373-35,#u6360-5,#u6360-7,#u6360-9,#u6360-11,#u6360-12,#u6360-16,#u6360-17,#u6360-23,#u6010-12,#u6010-13,#u6010-15,#u6010-17,#u6010-18,#u6010-29
 {
 	text-align: left;
 	padding-right: 10px;
@@ -869,7 +1048,7 @@
 	margin-top: 11px;
 }
 
-#pu4331
+#pu7661,#pu4331
 {
 	width: 0.01px;
 	margin-left: 6px;
@@ -919,7 +1098,7 @@
 	position: relative;
 }
 
-#u4341-6
+#u7669-6,#u7671-5,#u4341-6
 {
 	font-size: 21px;
 	font-weight: 300;
@@ -933,13 +1112,13 @@
 	line-height: 12px;
 }
 
-#u4341-4
+#u7669-4,#u7670-4,#u4341-4
 {
 	font-style: italic;
 	line-height: 25px;
 }
 
-#u4341-5
+#u7669-5,#u7670-5,#u7671-4,#u4341-5
 {
 	line-height: 25px;
 }
@@ -1009,7 +1188,7 @@
 	position: relative;
 }
 
-#u4343-2
+#u7669-2,#u7671-2,#u4343-2
 {
 	font-size: 21px;
 	line-height: 25px;
@@ -1125,7 +1304,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u6358-3,#u5375-3,#u6362-3,#u6012-4,#u5379-3,#u4344-3
+#u7669-3,#u7670-3,#u7671-3,#u6358-3,#u5375-3,#u6362-3,#u6012-4,#u5379-3,#u4344-3
 {
 	font-size: 12px;
 	font-style: italic;
@@ -1207,7 +1386,7 @@
 	font-style: italic;
 }
 
-#u6356-7,#u6356-14,#u5373-7,#u5373-14,#u6360-13,#u5369-26,#u4332-26,#u4314-24,#u4327-29
+#u6356-10,#u6356-21,#u5373-7,#u5373-14,#u6360-13,#u5369-26,#u4332-26,#u4314-24,#u4327-29
 {
 	text-decoration: underline;
 }
@@ -1219,13 +1398,13 @@
 	padding-left: 5px;
 }
 
-#u6356-20,#u5373-20,#u6360-18,#u6010-19,#u5369-31,#u4332-32,#u4314-32,#u4327-39
+#u6356-29,#u5373-20,#u6360-18,#u6010-19,#u5369-31,#u4332-32,#u4314-32,#u4327-39
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 }
 
-#u6356-22,#u6356-25,#u6356-27,#u6356-29,#u6356-31,#u6356-33,#u5373-22,#u5373-25,#u5373-27,#u5373-29,#u5373-31,#u5373-33,#u6360-2,#u6360-21,#u6010-2,#u6010-4,#u6010-9,#u6010-21,#u6010-23,#u6010-25,#u6010-27,#u5369-2,#u5369-10,#u5369-12,#u5369-33,#u5369-36,#u4332-2,#u4332-4,#u4332-6,#u4332-8,#u4332-35,#u4332-38,#u4332-41,#u4332-43,#u4332-45,#u4332-47,#u4314-2,#u4314-7,#u4314-9,#u4314-11,#u4314-13,#u4314-36,#u4314-39,#u4314-41,#u4314-44,#u4314-47,#u4314-50,#u4327-2,#u4327-7,#u4327-12,#u4327-14,#u4327-41,#u4327-44,#u4327-47,#u4327-50
+#u7672-3,#u6356,#u6356-3,#u6356-5,#u6356-31,#u6356-33,#u6356-34,#u6356-36,#u6356-37,#u6356-39,#u6356-40,#u5373-22,#u5373-25,#u5373-27,#u5373-29,#u5373-31,#u5373-33,#u6360-2,#u6360-21,#u6010-2,#u6010-4,#u6010-9,#u6010-21,#u6010-23,#u6010-25,#u6010-27,#u5369-2,#u5369-10,#u5369-12,#u5369-33,#u5369-36,#u4332-2,#u4332-4,#u4332-6,#u4332-8,#u4332-35,#u4332-38,#u4332-41,#u4332-43,#u4332-45,#u4332-47,#u4314-2,#u4314-7,#u4314-9,#u4314-11,#u4314-13,#u4314-36,#u4314-39,#u4314-41,#u4314-44,#u4314-47,#u4314-50,#u4327-2,#u4327-7,#u4327-12,#u4327-14,#u4327-41,#u4327-44,#u4327-47,#u4327-50
 {
 	font-style: italic;
 }
@@ -1237,7 +1416,7 @@
 	font-style: italic;
 }
 
-#u6356-36,#u6010-30,#u4332-49,#u4327-54
+#u6356-44,#u6010-30,#u4332-49,#u4327-54
 {
 	text-align: center;
 }

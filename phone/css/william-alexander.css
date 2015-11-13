@@ -4,8 +4,8 @@
 
 .version.william_alexander /* version checker */
 {
-	color: #00001D;
-	background-color: #F6642E;
+	color: #000018;
+	background-color: #DA8C3C;
 }
 
 @-ms-viewport
@@ -353,7 +353,7 @@
 
 #u4576
 {
-	z-index: 103;
+	z-index: 92;
 	overflow: hidden;
 	margin-left: 9px;
 	margin-top: 25px;
@@ -362,7 +362,7 @@
 
 #u4570
 {
-	z-index: 100;
+	z-index: 89;
 	margin-left: 9px;
 	margin-top: 23px;
 	position: relative;
@@ -377,7 +377,7 @@
 
 #u4568
 {
-	z-index: 98;
+	z-index: 87;
 	width: 194px;
 	height: 138px;
 	position: relative;
@@ -393,7 +393,7 @@
 
 #u4564
 {
-	z-index: 96;
+	z-index: 85;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -404,7 +404,7 @@
 
 #u4572
 {
-	z-index: 101;
+	z-index: 90;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -415,7 +415,7 @@
 
 #u4566
 {
-	z-index: 97;
+	z-index: 86;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -624,12 +624,12 @@
 
 #u6007-13
 {
-	z-index: 104;
+	z-index: 93;
 	min-height: 365px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -647,7 +647,7 @@
 
 #u6007-13-bw
 {
-	z-index: 104;
+	z-index: 93;
 	min-height: 365px;
 	margin-top: 57px;
 }
@@ -655,15 +655,15 @@
 #pu4562
 {
 	width: 0.01px;
-	margin-left: 16px;
-	margin-top: 62px;
+	margin-left: 32px;
+	margin-top: 61px;
 }
 
 #u4562
 {
 	z-index: 84;
-	width: 187px;
-	height: 187px;
+	width: 150px;
+	height: 150px;
 	-pie-box-shadow: none;
 	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
 	border-width: 1px;
@@ -677,50 +677,11 @@
 	left: -1px;
 }
 
-#u4563-11
-{
-	z-index: 85;
-	width: 166px;
-	min-height: 131px;
-	background-color: transparent;
-	text-align: center;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 28px;
-	left: 195px;
-}
-
-#u4563-2
-{
-	font-size: 20px;
-	line-height: 24px;
-}
-
-#u4563-4
-{
-	font-size: 30px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u4563-3
-{
-	font-size: 14px;
-	line-height: 17px;
-}
-
-#u4563-5,#u4563-7,#u4563-9
-{
-	font-size: 18px;
-	line-height: 22px;
-}
-
 #u4569
 {
-	z-index: 99;
-	width: 187px;
-	height: 187px;
+	z-index: 88;
+	width: 150px;
+	height: 150px;
 	position: relative;
 	margin-right: -10000px;
 	background: transparent url("../../images/wa%20come%20find%20me-u4569-fr.png") no-repeat center center;
@@ -732,6 +693,18 @@
 	background-image: url("../../images/wa%20come%20find%20me-u4569-fr_2x.png");
 }
 
+#u7677
+{
+	z-index: 106;
+	width: 149px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.24);
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 167px;
+}
+
 #u4543
 {
 	z-index: 56;
@@ -741,13 +714,13 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 26px;
-	margin-top: 43px;
+	margin-top: 81px;
 	position: relative;
 }
 
 #u4574
 {
-	z-index: 102;
+	z-index: 91;
 	width: 327px;
 	min-height: 252px;
 	border-style: none;
