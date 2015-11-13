@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #0000E7;
-	background-color: #33CA34;
+	color: #00000F;
+	background-color: #076C91;
 }
 
 .html
@@ -438,9 +438,9 @@
 	width: 264px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -453,9 +453,9 @@
 	width: 264px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -469,9 +469,9 @@
 	width: 264px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -553,9 +553,9 @@
 	width: 264px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -568,9 +568,9 @@
 	width: 265px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -584,9 +584,9 @@
 	width: 265px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -662,9 +662,9 @@
 	width: 265px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -677,9 +677,9 @@
 	width: 265px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -693,9 +693,9 @@
 	width: 265px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -766,7 +766,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/dustin_artist_pic2.jpg") no-repeat center top;
+	background: transparent url("../images/dustin_artist_pic.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -813,9 +813,9 @@
 	width: 244px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -828,9 +828,9 @@
 	width: 247px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -844,9 +844,9 @@
 	width: 248px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
