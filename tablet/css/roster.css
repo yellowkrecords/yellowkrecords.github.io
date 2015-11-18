@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #0000FC;
-	background-color: #BB1B97;
+	color: #00000D;
+	background-color: #8A903F;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1938.5961270534262px;
+	min-height: 1938.9750000000004px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -248,6 +248,13 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#pu4965
+{
+	width: 0.01px;
+	margin-left: 59px;
+	margin-top: 23px;
+}
+
 #u4965
 {
 	z-index: 52;
@@ -255,44 +262,49 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 234px;
-	margin-top: 23px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u5858
+{
+	z-index: 77;
+	width: 300px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 351px;
+}
+
+#pu4970-4
+{
+	width: 0.01px;
+	margin-left: 59px;
+	margin-top: -1px;
 }
 
 #u4970-4
 {
 	z-index: 57;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u4970-4-bw
-{
-	z-index: 57;
-	min-height: 25px;
-}
-
-#u4967
-{
-	z-index: 54;
 	width: 300px;
-	border-style: none;
-	border-color: transparent;
+	min-height: 24px;
 	background-color: transparent;
-	margin-left: 234px;
-	margin-top: 14px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
 }
 
-#u4971-4
+#u5861-4
 {
-	z-index: 61;
+	z-index: 79;
+	width: 300px;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -300,24 +312,20 @@
 	font-size: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-}
-
-#u4971-4-bw
-{
-	z-index: 61;
-	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	left: 350px;
 }
 
 #u4963
 {
 	z-index: 51;
 	width: 300px;
-	height: 216px;
+	height: 215px;
 	border-style: none;
 	border-color: transparent;
-	margin-left: 234px;
-	margin-top: 14px;
 	position: relative;
+	margin-right: -10000px;
 	background: transparent url("../../images/alex%20the%20brown-9668.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -327,9 +335,26 @@
 	background-image: url("../../images/alex%20the%20brown-9668_2x.jpg");
 }
 
+#u7528
+{
+	z-index: 94;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 351px;
+}
+
+#pu4972-4
+{
+	width: 0.01px;
+	margin-left: 58px;
+}
+
 #u4972-4
 {
 	z-index: 65;
+	width: 300px;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -337,28 +362,14 @@
 	font-size: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-}
-
-#u4972-4-bw
-{
-	z-index: 65;
-	min-height: 25px;
-}
-
-#u7528
-{
-	z-index: 94;
-	width: 300px;
-	background-color: transparent;
-	margin-left: 233px;
-	margin-top: 28px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u7527-4
 {
 	z-index: 90;
-	width: 767px;
+	width: 300px;
 	min-height: 23px;
 	background-color: transparent;
 	line-height: 22px;
@@ -367,88 +378,26 @@
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
+	margin-right: -10000px;
+	left: 351px;
 }
 
-#u7550
+#pu4963,#pu4967
 {
-	z-index: 96;
+	width: 0.01px;
+	margin-left: 59px;
+	margin-top: 33px;
+}
+
+#u4967
+{
+	z-index: 54;
 	width: 300px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
-	margin-left: 232px;
-	margin-top: 30px;
 	position: relative;
-}
-
-#u7550_img
-{
-	padding-right: 1px;
-}
-
-#u7552-4
-{
-	z-index: 98;
-	width: 767px;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-	position: relative;
-}
-
-#u7553
-{
-	z-index: 102;
-	width: 300px;
-	background-color: transparent;
-	margin-left: 232px;
-	margin-top: 28px;
-	position: relative;
-}
-
-#u7555-4
-{
-	z-index: 104;
-	width: 767px;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-	left: -1px;
-	margin-top: 2px;
-	position: relative;
-}
-
-#u7572
-{
-	z-index: 108;
-	width: 300px;
-	background-color: transparent;
-	margin-left: 232px;
-	margin-top: 19px;
-	position: relative;
-}
-
-#u7574-4
-{
-	z-index: 110;
-	width: 767px;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-	left: -1px;
-	top: -1px;
-	margin-bottom: -1px;
-	position: relative;
+	margin-right: -10000px;
 }
 
 #u7575
@@ -456,9 +405,9 @@
 	z-index: 114;
 	width: 300px;
 	background-color: transparent;
-	margin-left: 232px;
-	margin-top: 21px;
 	position: relative;
+	margin-right: -10000px;
+	left: 349px;
 }
 
 #u7575_clip
@@ -474,10 +423,17 @@
 	margin-bottom: -4px;
 }
 
-#u7577-4
+#pu4971-4
 {
-	z-index: 116;
-	width: 767px;
+	width: 0.01px;
+	margin-left: 58px;
+	margin-top: -1px;
+}
+
+#u4971-4
+{
+	z-index: 61;
+	width: 300px;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -486,6 +442,109 @@
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u7577-4
+{
+	z-index: 116;
+	width: 299px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
+}
+
+#pu7553
+{
+	width: 0.01px;
+	margin-left: 57px;
+	margin-top: 33px;
+}
+
+#u7553
+{
+	z-index: 102;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7572
+{
+	z-index: 108;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 351px;
+}
+
+#pu7555-4
+{
+	width: 0.01px;
+	margin-left: 57px;
+}
+
+#u7555-4
+{
+	z-index: 104;
+	width: 299px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u7574-4
+{
+	z-index: 110;
+	width: 299px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 351px;
+}
+
+#pu7550
+{
+	width: 0.01px;
+	margin-left: 57px;
+	margin-top: 30px;
+}
+
+#u7550
+{
+	z-index: 96;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7550_img
+{
+	padding-right: 1px;
 }
 
 #u6174
@@ -493,15 +552,21 @@
 	z-index: 83;
 	width: 299px;
 	background-color: transparent;
-	margin-left: 232px;
-	margin-top: 21px;
 	position: relative;
+	margin-right: -10000px;
+	left: 351px;
 }
 
-#u6177-4
+#pu7552-4
 {
-	z-index: 85;
-	width: 767px;
+	width: 0.01px;
+	margin-left: 59px;
+}
+
+#u7552-4
+{
+	z-index: 98;
+	width: 299px;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -509,8 +574,24 @@
 	font-size: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	left: -1px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u6177-4
+{
+	z-index: 85;
+	width: 300px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 349px;
 }
 
 #u6406
@@ -521,35 +602,11 @@
 	position: relative;
 }
 
-#u5858
+#pu4969
 {
-	z-index: 77;
-	width: 300px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 233px;
-	margin-top: 17px;
-	position: relative;
-}
-
-#u5861-4
-{
-	z-index: 79;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u5861-4-bw
-{
-	z-index: 79;
-	min-height: 25px;
-	margin-top: 12px;
+	width: 0.01px;
+	margin-left: 56px;
+	margin-top: 34px;
 }
 
 #u4969
@@ -559,30 +616,10 @@
 	height: 216px;
 	border-style: none;
 	border-color: transparent;
-	margin-left: 234px;
-	margin-top: 12px;
 	position: relative;
+	margin-right: -10000px;
 	background: transparent url("../../images/dustin_artist_pic.jpg") no-repeat center top;
 	background-size: cover;
-}
-
-#u4973-4
-{
-	z-index: 69;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u4973-4-bw
-{
-	z-index: 69;
-	min-height: 25px;
-	margin-top: 12px;
 }
 
 #u4961
@@ -592,14 +629,21 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 234px;
-	margin-top: 12px;
 	position: relative;
+	margin-right: -10000px;
+	left: 351px;
 }
 
-#u4974-4
+#pu4973-4
 {
-	z-index: 73;
+	width: 0.01px;
+	margin-left: 56px;
+}
+
+#u4973-4
+{
+	z-index: 69;
+	width: 300px;
 	min-height: 25px;
 	background-color: transparent;
 	line-height: 22px;
@@ -607,24 +651,35 @@
 	font-size: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
 }
 
-#u4970,#u4971,#u4972,#u7527,#u7552,#u7555,#u7574,#u7577,#u6177,#u5861,#u4973,#u4974
-{
-	font-size: 18px;
-}
-
-#u4974-4-bw
+#u4974-4
 {
 	z-index: 73;
+	width: 300px;
 	min-height: 25px;
-	margin-top: 12px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 351px;
+}
+
+#u4970,#u5861,#u4972,#u7527,#u4971,#u7577,#u7555,#u7574,#u7552,#u6177,#u4973,#u4974
+{
+	font-size: 18px;
 }
 
 #pu4769
 {
 	width: 0.01px;
-	margin-top: 51px;
+	margin-top: 95px;
 }
 
 #u4769,#u4769-bw

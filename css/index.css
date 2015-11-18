@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F7;
-	background-color: #A0FF46;
+	color: #0000FE;
+	background-color: #9343CF;
 }
 
 .html
@@ -1416,8 +1416,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1462,8 +1462,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #484848;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	font-style: italic;

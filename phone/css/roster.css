@@ -4,8 +4,8 @@
 
 .version.roster /* version checker */
 {
-	color: #00000A;
-	background-color: #3CF4FB;
+	color: #00001E;
+	background-color: #0E372A;
 }
 
 @-ms-viewport
@@ -42,7 +42,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 2045.9999999999982px;
+	min-height: 2045.849999999998px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -355,7 +355,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 40px;
-	margin-top: 38px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -375,6 +375,7 @@
 {
 	z-index: 64;
 	min-height: 25px;
+	margin-top: 12px;
 }
 
 #u4351
@@ -385,7 +386,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 40px;
-	margin-top: 15px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -405,6 +406,35 @@
 {
 	z-index: 68;
 	min-height: 25px;
+	margin-top: 12px;
+}
+
+#u5967
+{
+	z-index: 84;
+	width: 300px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 40px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u5969-4
+{
+	z-index: 86;
+	width: 353px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	margin-left: 14px;
+	margin-top: 12px;
+	position: relative;
 }
 
 #u4347
@@ -415,7 +445,7 @@
 	border-style: none;
 	border-color: transparent;
 	margin-left: 40px;
-	margin-top: 13px;
+	margin-top: 12px;
 	position: relative;
 	background: transparent url("../../images/alex%20the%20brown-9668.jpg") no-repeat center center;
 	background-size: cover;
@@ -442,6 +472,7 @@
 {
 	z-index: 72;
 	min-height: 25px;
+	margin-top: 12px;
 }
 
 #u7532
@@ -449,8 +480,8 @@
 	z-index: 101;
 	width: 300px;
 	background-color: transparent;
-	margin-left: 39px;
-	margin-top: 14px;
+	margin-left: 40px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -470,69 +501,7 @@
 {
 	z-index: 97;
 	min-height: 23px;
-	margin-top: 1px;
-}
-
-#u7580
-{
-	z-index: 103;
-	width: 300px;
-	background-color: transparent;
-	margin-left: 38px;
-	margin-top: 16px;
-	position: relative;
-}
-
-#u7580_img
-{
-	padding-right: 1px;
-}
-
-#u7582-4
-{
-	z-index: 105;
-	min-height: 24px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u7582-4-bw
-{
-	z-index: 105;
-	min-height: 24px;
-}
-
-#u7583
-{
-	z-index: 109;
-	width: 300px;
-	background-color: transparent;
-	margin-left: 38px;
-	margin-top: 29px;
-	position: relative;
-}
-
-#u7585-4
-{
-	z-index: 111;
-	min-height: 26px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-}
-
-#u7585-4-bw
-{
-	z-index: 111;
-	min-height: 26px;
-	margin-top: 3px;
+	margin-top: 12px;
 }
 
 #u7586
@@ -540,8 +509,8 @@
 	z-index: 115;
 	width: 300px;
 	background-color: transparent;
-	margin-left: 38px;
-	margin-top: 17px;
+	margin-left: 40px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -561,7 +530,36 @@
 {
 	z-index: 117;
 	min-height: 23px;
-	margin-top: 2px;
+	margin-top: 12px;
+}
+
+#u7583
+{
+	z-index: 109;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 40px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u7585-4
+{
+	z-index: 111;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u7585-4-bw
+{
+	z-index: 111;
+	min-height: 26px;
+	margin-top: 12px;
 }
 
 #u7589
@@ -569,8 +567,8 @@
 	z-index: 121;
 	width: 300px;
 	background-color: transparent;
-	margin-left: 38px;
-	margin-top: 21px;
+	margin-left: 40px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -603,8 +601,41 @@
 {
 	z-index: 123;
 	min-height: 22px;
-	margin-top: -1px;
-	margin-bottom: -1px;
+	margin-top: 12px;
+}
+
+#u7580
+{
+	z-index: 103;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 40px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u7580_img
+{
+	padding-right: 1px;
+}
+
+#u7582-4
+{
+	z-index: 105;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u7582-4-bw
+{
+	z-index: 105;
+	min-height: 24px;
+	margin-top: 13px;
 }
 
 #u6216
@@ -613,7 +644,7 @@
 	width: 300px;
 	background-color: transparent;
 	margin-left: 40px;
-	margin-top: 24px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -633,41 +664,14 @@
 {
 	z-index: 92;
 	min-height: 22px;
-	margin-top: 16px;
+	margin-top: 12px;
 }
 
 #u6409
 {
 	z-index: 96;
-	margin-left: 97px;
-	margin-top: 34px;
-	position: relative;
-}
-
-#u5967
-{
-	z-index: 84;
-	width: 300px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 39px;
-	margin-top: 35px;
-	position: relative;
-}
-
-#u5969-4
-{
-	z-index: 86;
-	width: 353px;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-	margin-left: 13px;
+	margin-left: 98px;
+	margin-top: 37px;
 	position: relative;
 }
 
@@ -678,8 +682,8 @@
 	height: 216px;
 	border-style: none;
 	border-color: transparent;
-	margin-left: 39px;
-	margin-top: 9px;
+	margin-left: 40px;
+	margin-top: 12px;
 	position: relative;
 	background: transparent url("../../images/dustin_artist_pic.jpg") no-repeat center top;
 	background-size: cover;
@@ -701,6 +705,7 @@
 {
 	z-index: 76;
 	min-height: 25px;
+	margin-top: 12px;
 }
 
 #u4345
@@ -710,8 +715,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 39px;
-	margin-top: 14px;
+	margin-left: 40px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -727,7 +732,7 @@
 	font-weight: 300;
 }
 
-#u4365,#u4366,#u4367,#u7531,#u7582,#u7585,#u7588,#u7595,#u6219,#u5969,#u4368,#u4369
+#u4365,#u4366,#u5969,#u4367,#u7531,#u7588,#u7585,#u7595,#u7582,#u6219,#u4368,#u4369
 {
 	font-size: 18px;
 }
@@ -736,6 +741,7 @@
 {
 	z-index: 80;
 	min-height: 25px;
+	margin-top: 12px;
 }
 
 #page_position_content,#pu4301

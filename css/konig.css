@@ -1,7 +1,7 @@
 .version.konig /* version checker */
 {
-	color: #0000F2;
-	background-color: #D94DC3;
+	color: #0000EB;
+	background-color: #C7D1B8;
 }
 
 .html
@@ -352,7 +352,7 @@
 	border-style: solid;
 	border-color: #484848;
 	background-color: transparent;
-	padding-bottom: 7px;
+	padding-bottom: 17px;
 	margin-left: 56px;
 	margin-top: 25px;
 	position: relative;
@@ -361,12 +361,12 @@
 #u6097
 {
 	z-index: 16;
-	width: 375px;
+	width: 348px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
-	left: 4px;
+	margin-top: 13px;
+	left: 17px;
 }
 
 #pu6125
@@ -442,9 +442,9 @@
 	width: 936px;
 	min-height: 71px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;
