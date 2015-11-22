@@ -4,8 +4,8 @@
 
 .version.jagged_leaves /* version checker */
 {
-	color: #0000F4;
-	background-color: #EA804F;
+	color: #0000E3;
+	background-color: #B3F062;
 }
 
 @-ms-viewport
@@ -42,7 +42,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 703.95px;
+	min-height: 1001.95px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -353,7 +353,7 @@
 
 #u7899
 {
-	z-index: 68;
+	z-index: 70;
 	margin-left: 46px;
 	margin-top: 18px;
 	position: relative;
@@ -368,7 +368,7 @@
 
 #u7901
 {
-	z-index: 69;
+	z-index: 71;
 	width: 198px;
 	background-color: transparent;
 	position: relative;
@@ -397,7 +397,7 @@
 	left: 304px;
 }
 
-#u7898-10
+#u7898-12
 {
 	z-index: 58;
 	min-height: 177px;
@@ -409,23 +409,38 @@
 	font-weight: 300;
 }
 
-#u7898-2,#u7898-3,#u7898-5,#u7898-6,#u7898-8
+#u7898-2,#u7898-3,#u7898-5,#u7898-6,#u7898-10
 {
 	padding-right: 10px;
 	padding-left: 10px;
 }
 
-#u7898-10-bw
+#u7898-8
+{
+	font-style: italic;
+}
+
+#u7898-12-bw
 {
 	z-index: 58;
 	min-height: 177px;
 	margin-top: 18px;
 }
 
+#u8318
+{
+	z-index: 73;
+	width: 285px;
+	background-color: transparent;
+	margin-left: 47px;
+	margin-top: 6px;
+	position: relative;
+}
+
 #pu4301
 {
 	width: 0.01px;
-	margin-top: 8px;
+	margin-top: 19px;
 }
 
 #u4301,#u4301-bw

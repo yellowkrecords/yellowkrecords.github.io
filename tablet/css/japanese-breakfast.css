@@ -1,7 +1,7 @@
 .version.japanese_breakfast /* version checker */
 {
-	color: #0000EF;
-	background-color: #2934B7;
+	color: #00000A;
+	background-color: #7E583F;
 }
 
 @-ms-viewport
@@ -249,7 +249,7 @@
 
 #u8062
 {
-	z-index: 67;
+	z-index: 71;
 	margin-left: 194px;
 	margin-top: 41px;
 	position: relative;
@@ -264,7 +264,7 @@
 
 #u8058
 {
-	z-index: 63;
+	z-index: 67;
 	width: 220px;
 	background-color: transparent;
 	position: relative;
@@ -286,7 +286,7 @@
 
 #u8056
 {
-	z-index: 62;
+	z-index: 66;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -297,7 +297,7 @@
 
 #u8050
 {
-	z-index: 59;
+	z-index: 63;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -308,7 +308,7 @@
 
 #u8054
 {
-	z-index: 61;
+	z-index: 65;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -319,7 +319,7 @@
 
 #u8052
 {
-	z-index: 60;
+	z-index: 64;
 	overflow: hidden;
 	position: relative;
 	width: 20px;
@@ -328,7 +328,7 @@
 	left: 380px;
 }
 
-#u8049-10
+#u8049-14
 {
 	z-index: 49;
 	min-height: 226px;
@@ -340,13 +340,18 @@
 	font-weight: 300;
 }
 
-#u8049-2,#u8049-3,#u8049-5,#u8049-6,#u8049-8
+#u8049-5,#u8049-7
+{
+	font-style: italic;
+}
+
+#u8049-2,#u8049-3,#u8049-9,#u8049-10,#u8049-12
 {
 	padding-right: 10px;
 	padding-left: 10px;
 }
 
-#u8049-10-bw
+#u8049-14-bw
 {
 	z-index: 49;
 	min-height: 226px;
@@ -355,7 +360,7 @@
 
 #u8060
 {
-	z-index: 65;
+	z-index: 69;
 	width: 277px;
 	-pie-box-shadow: none;
 	box-shadow: 5px 3px 10px rgba(0,0,0,0.31);

@@ -1,7 +1,7 @@
 .version.carl_creighton /* version checker */
 {
-	color: #0000F3;
-	background-color: #473A0E;
+	color: #000006;
+	background-color: #77C72D;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1023.9750000000001px;
+	min-height: 888px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -46,7 +46,6 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	padding-bottom: 0px;
 }
 
 #page_position_content
@@ -247,27 +246,107 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u8310-4
+#u8365
 {
 	z-index: 49;
-	width: 206px;
-	min-height: 53px;
+	margin-left: 277px;
+	margin-top: 39px;
+	position: relative;
+}
+
+#pu8368
+{
+	width: 0.01px;
+	margin-left: 247px;
+	margin-top: 23px;
+}
+
+#u8368
+{
+	z-index: 50;
+	width: 219px;
 	background-color: transparent;
-	border-radius: 14px;
-	line-height: 37px;
-	font-size: 31px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8368_clip
+{
+	overflow: hidden;
+	width: 219px;
+	height: 158px;
+}
+
+#u8368_img
+{
+	margin-right: -18px;
+}
+
+#u8370
+{
+	z-index: 52;
+	overflow: hidden;
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	margin-top: 74px;
+	left: 253px;
+}
+
+#u8372-14
+{
+	z-index: 53;
+	width: 770px;
+	min-height: 197px;
+	background-color: transparent;
+	line-height: 18px;
+	text-align: justify;
+	font-size: 15px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	font-style: italic;
-	margin-left: 281px;
-	margin-top: 130px;
+	left: -2px;
+	margin-top: 20px;
 	position: relative;
+}
+
+#u8372-4,#u8372-5,#u8372-7,#u8372-8,#u8372-12
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u8372-2,#u8372-10
+{
+	font-style: italic;
+}
+
+#u8373
+{
+	z-index: 67;
+	width: 268px;
+	background-color: transparent;
+	margin-left: 249px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u8373_clip
+{
+	overflow: hidden;
+	width: 268px;
+	height: 237px;
+}
+
+#u8373_img
+{
+	margin-left: -24px;
+	margin-right: -24px;
 }
 
 #pu4769
 {
 	width: 0.01px;
-	margin-top: 704px;
+	margin-top: 51px;
 }
 
 #u4769,#u4769-bw

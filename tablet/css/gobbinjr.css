@@ -1,7 +1,7 @@
 .version.gobbinjr /* version checker */
 {
-	color: #00000D;
-	background-color: #DCE012;
+	color: #000016;
+	background-color: #FDD056;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 1023.9750000000001px;
+	min-height: 890.9750000000004px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -340,10 +340,20 @@
 	margin-top: 22px;
 }
 
+#u8327
+{
+	z-index: 66;
+	width: 289px;
+	background-color: transparent;
+	margin-left: 239px;
+	margin-top: 21px;
+	position: relative;
+}
+
 #pu4769
 {
 	width: 0.01px;
-	margin-top: 422px;
+	margin-top: 51px;
 }
 
 #u4769,#u4769-bw
