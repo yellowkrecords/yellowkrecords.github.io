@@ -1,7 +1,7 @@
 .version.japanese_breakfast /* version checker */
 {
-	color: #0000EA;
-	background-color: #86A4CC;
+	color: #0000FE;
+	background-color: #E75DE2;
 }
 
 .html
@@ -428,26 +428,20 @@
 	left: 106px;
 }
 
-#pu8007-14
-{
-	width: 0.01px;
-	margin-left: 90px;
-	margin-top: 19px;
-}
-
 #u8007-14
 {
 	z-index: 4;
 	width: 936px;
-	min-height: 235px;
+	min-height: 179px;
 	background-color: transparent;
 	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
+	margin-left: 90px;
+	margin-top: 19px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u8007-5,#u8007-7
@@ -462,10 +456,9 @@
 	-pie-box-shadow: none;
 	box-shadow: 5px 3px 10px rgba(0,0,0,0.31);
 	background-color: transparent;
+	margin-left: 420px;
+	margin-top: 21px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 200px;
-	left: 330px;
 }
 
 #u787
