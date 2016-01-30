@@ -1,9 +1,9 @@
 #u531-3
 {
 	color: #FFFFFF;
+	line-height: 28px;
 	text-align: center;
 	letter-spacing: 4px;
-	line-height: 28px;
 	font-size: 23px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
@@ -193,8 +193,8 @@
 #u1944-4,#u1945-4,#u1946-4,#u1947-4,#u6498-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 40px;
+	color: #FFFFFF;
 	font-size: 33px;
 	position: fixed;
 }

@@ -1,7 +1,7 @@
 .version.jagged_leaves /* version checker */
 {
-	color: #0000EB;
-	background-color: #0C0641;
+	color: #0000FF;
+	background-color: #DD5D4E;
 }
 
 .html
@@ -401,9 +401,9 @@
 	width: 936px;
 	min-height: 177px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;
@@ -426,6 +426,8 @@
 {
 	z-index: 22;
 	width: 285px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 3px 10px rgba(0,0,0,0.33);
 	background-color: transparent;
 	margin-left: 384px;
 	margin-top: 16px;

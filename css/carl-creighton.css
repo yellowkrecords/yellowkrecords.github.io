@@ -1,7 +1,7 @@
 .version.carl_creighton /* version checker */
 {
-	color: #00001C;
-	background-color: #8344B6;
+	color: #0000E7;
+	background-color: #D4B41D;
 }
 
 .html
@@ -388,9 +388,9 @@
 	width: 936px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;

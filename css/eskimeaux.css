@@ -1,7 +1,7 @@
 .version.eskimeaux /* version checker */
 {
-	color: #000009;
-	background-color: #C2A717;
+	color: #000002;
+	background-color: #BA5FB0;
 }
 
 .html
@@ -447,9 +447,9 @@
 	width: 936px;
 	min-height: 235px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;

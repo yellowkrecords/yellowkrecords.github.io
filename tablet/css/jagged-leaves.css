@@ -1,7 +1,7 @@
 .version.jagged_leaves /* version checker */
 {
-	color: #0000EB;
-	background-color: #DB0DC8;
+	color: #0000EF;
+	background-color: #5F614A;
 }
 
 @-ms-viewport
@@ -297,9 +297,9 @@
 	z-index: 51;
 	min-height: 177px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
