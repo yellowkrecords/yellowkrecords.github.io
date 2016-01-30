@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #F1E4A4;
+	color: #000017;
+	background-color: #BD6BF9;
 }
 
 .html
@@ -925,15 +925,21 @@
 {
 	z-index: 128;
 	width: 488px;
-	height: 498px;
+	height: 502px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-top: 11px;
+	padding-top: 7px;
 	padding-right: 2px;
 	padding-bottom: 53px;
 	margin-right: -10000px;
 	position: relative;
+}
+
+#pu8558
+{
+	width: 0.01px;
+	margin-left: 8px;
 }
 
 #u8558
@@ -964,7 +970,7 @@
 	text-align: justify;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	margin-top: 26px;
+	margin-top: 30px;
 	position: relative;
 }
 
@@ -977,11 +983,11 @@
 {
 	z-index: 153;
 	width: 488px;
-	height: 522px;
+	height: 523px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-top: 8px;
+	padding-top: 7px;
 	padding-right: 2px;
 	padding-bottom: 32px;
 	margin-right: -10000px;
@@ -1010,7 +1016,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 242px;
+	left: 243px;
 }
 
 #u8574-13
@@ -1022,7 +1028,7 @@
 	text-align: justify;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	margin-top: 28px;
+	margin-top: 29px;
 	position: relative;
 }
 
@@ -1091,7 +1097,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 241px;
+	left: 242px;
 }
 
 #u8631-16
@@ -1135,18 +1141,18 @@
 {
 	z-index: 192;
 	width: 488px;
-	height: 496px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-top: 9px;
+	padding-top: 7px;
 	padding-right: 2px;
 	padding-bottom: 57px;
 	margin-right: -10000px;
 	position: relative;
 }
 
-#pu8558,#pu8565,#pu8625,#pu8539
+#pu8565,#pu8625,#pu8539
 {
 	width: 0.01px;
 	margin-left: 7px;
@@ -1159,7 +1165,7 @@
 	height: 235px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
+	margin-top: 3px;
 	left: 241px;
 }
 

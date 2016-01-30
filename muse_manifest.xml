@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1454120951918" domain="yellowkrecords.github.io">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1454121275853" domain="yellowkrecords.github.io">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4226638674" ref="tablet>roster:tablet>nicole-dollanganger:tablet>tour:tablet>dustin-lovelis:tablet>about:tablet>william-alexander:tablet>new-god:tablet>seagulls:tablet>releases:tablet>index:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>jagged-leaves:tablet>carl-creighton:tablet>gobbinjr:tablet>luka:tablet>japanese-breakfast"/>
@@ -117,7 +117,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3928560775"/>
     <file name="master_a-master.css" crc="227396602" ref="index:roster:about:tour:releases:new-god:seagulls:william-alexander:nicole-dollanganger:dustin-lovelis:eskimeaux:konig:distribution:william-alexander-2:gobbinjr:carl-creighton:luka:jagged-leaves:japanese-breakfast"/>
-    <file name="index.css" crc="200402084" ref="index"/>
+    <file name="index.css" crc="398289913" ref="index"/>
     <file name="roster.css" crc="4277154142" ref="roster"/>
     <file name="about.css" crc="4132926949" ref="about"/>
     <file name="tour.css" crc="255754859" ref="tour"/>
@@ -558,7 +558,7 @@
     <file name="puberty album cover digital.jpg" crc="3851340920" seo="true" ref="konig"/>
     <file name="puberty album cover digital_2x.jpg" crc="374104840" seo="true" ref="konig"/>
   </folder>
-  <file name="index.html" crc="186087031" mt="1454120838631" redirect="true" seo="true"/>
+  <file name="index.html" crc="42232837" mt="1454121260018" redirect="true" seo="true"/>
   <file name="roster.html" crc="4062766784" mt="1454115214772" redirect="true" seo="true"/>
   <file name="about.html" crc="3818223460" mt="1454115214772" redirect="true" seo="true"/>
   <file name="tour.html" crc="3796939835" mt="1454115214772" redirect="true" seo="true"/>
