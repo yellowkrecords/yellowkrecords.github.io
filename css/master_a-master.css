@@ -1,9 +1,9 @@
 #u531-3
 {
 	color: #FFFFFF;
-	line-height: 28px;
 	text-align: center;
 	letter-spacing: 4px;
+	line-height: 28px;
 	font-size: 23px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: fixed;
@@ -23,7 +23,7 @@
 	position: fixed;
 }
 
-#u6499,#u5322,#u5304,#u5286,#u5269
+#u8793
 {
 	border-style: none;
 	border-color: transparent;
@@ -56,7 +56,7 @@
 
 #u5252
 {
-	position: relative;
+	position: fixed;
 	background: transparent url("../images/menu_roster.png") no-repeat left top;
 	background-size: contain;
 }
@@ -90,7 +90,7 @@
 
 #u5270
 {
-	position: relative;
+	position: fixed;
 	background: transparent url("../images/menu_releases.png") no-repeat left top;
 	background-size: contain;
 }
@@ -124,7 +124,7 @@
 
 #u5287
 {
-	position: relative;
+	position: fixed;
 	background: transparent url("../images/menu_store.png") no-repeat left top;
 	background-size: contain;
 }
@@ -156,9 +156,43 @@
 	background-image: url("../images/menu_store-white_2x.png");
 }
 
-#u5305
+#u8775
 {
 	position: relative;
+	background: transparent url("../images/menu_bandcamp.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u8775:hover
+{
+	background: transparent url("../images/menu_bandcamp-yellow.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u8775.MuseLinkActive
+{
+	background: transparent url("../images/menu_bandcamp-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+.hidpi #u8775
+{
+	background-image: url("../images/menu_bandcamp_2x.png");
+}
+
+.hidpi #u8775:hover
+{
+	background-image: url("../images/menu_bandcamp-yellow_2x.png");
+}
+
+.hidpi #u8775.MuseLinkActive
+{
+	background-image: url("../images/menu_bandcamp-white_2x.png");
+}
+
+#u5305
+{
+	position: fixed;
 	background: transparent url("../images/menu_tour.png") no-repeat left top;
 	background-size: contain;
 }
@@ -190,7 +224,7 @@
 	background-image: url("../images/menu_tour-white_2x.png");
 }
 
-#u1944-4,#u1945-4,#u1946-4,#u1947-4,#u6498-4
+#u1944-4,#u1945-4,#u1946-4,#u8791-4,#u1947-4,#u6498-4
 {
 	background-color: transparent;
 	line-height: 40px;
@@ -201,7 +235,7 @@
 
 #u6481
 {
-	position: relative;
+	position: fixed;
 	background: transparent url("../images/dist_tour.png") no-repeat left top;
 	background-size: contain;
 }

@@ -1,7 +1,7 @@
 .version.eskimeaux /* version checker */
 {
-	color: #0000E1;
-	background-color: #9A1D70;
+	color: #0000FB;
+	background-color: #FEFDAC;
 }
 
 @-ms-viewport
@@ -322,9 +322,9 @@
 	z-index: 55;
 	min-height: 271px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

@@ -120,7 +120,7 @@ a.nontext /* used to override default properties of 'a' tag */
 .Yellow-K a:link
 {
 	color: #484848;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .Yellow-K a:visited
@@ -132,31 +132,31 @@ a.nontext /* used to override default properties of 'a' tag */
 .Yellow-K a:hover
 {
 	color: #C1A314;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .Yellow-K-Dark a:link
 {
 	color: #000000;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .Yellow-K-Dark a:visited
 {
 	color: #000000;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .Yellow-K-Dark a:hover
 {
 	color: #000000;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
-a,.Yellow-K a,.Yellow-K-Dark a,.Yellow-K-Bright a
+.Yellow-K a:active,.Yellow-K-Dark a:active
 {
-	color: inherit;
-	text-decoration: inherit;
+	color: #EAC516;
+	text-decoration: underline;
 }
 
 .Yellow-K-Bright a:link
@@ -171,7 +171,7 @@ a,.Yellow-K a,.Yellow-K-Dark a,.Yellow-K-Bright a
 	text-decoration: none;
 }
 
-.Yellow-K a:active,.Yellow-K-Dark a:active,.Yellow-K-Bright a:hover
+.Yellow-K-Bright a:hover
 {
 	color: #EAC516;
 	text-decoration: none;

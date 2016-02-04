@@ -1,7 +1,7 @@
 .version.william_alexander /* version checker */
 {
-	color: #000015;
-	background-color: #C3A33B;
+	color: #000012;
+	background-color: #FF6AF1;
 }
 
 @-ms-viewport
@@ -358,9 +358,9 @@
 	z-index: 57;
 	min-height: 235px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

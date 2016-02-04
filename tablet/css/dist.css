@@ -1,7 +1,7 @@
 .version.dist /* version checker */
 {
-	color: #0000EB;
-	background-color: #EC7928;
+	color: #0000EC;
+	background-color: #55737A;
 }
 
 @-ms-viewport
@@ -344,9 +344,9 @@
 	width: 92px;
 	min-height: 34px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;
