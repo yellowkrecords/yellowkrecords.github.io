@@ -4,8 +4,8 @@
 
 .version.gobbinjr /* version checker */
 {
-	color: #0000EF;
-	background-color: #E5188D;
+	color: #000009;
+	background-color: #11DCDE;
 }
 
 @-ms-viewport
@@ -424,9 +424,9 @@
 	z-index: 59;
 	min-height: 208px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

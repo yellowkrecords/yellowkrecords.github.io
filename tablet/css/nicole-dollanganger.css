@@ -1,7 +1,7 @@
 .version.nicole_dollanganger /* version checker */
 {
-	color: #000015;
-	background-color: #AA6273;
+	color: #00000D;
+	background-color: #FC8461;
 }
 
 @-ms-viewport
@@ -253,8 +253,8 @@
 	width: 314px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 32px;
 	color: #484848;
+	line-height: 32px;
 	font-size: 27px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
