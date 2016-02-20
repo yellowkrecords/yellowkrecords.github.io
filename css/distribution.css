@@ -1,7 +1,7 @@
 .version.distribution /* version checker */
 {
-	color: #000008;
-	background-color: #D0AE03;
+	color: #00000A;
+	background-color: #97583E;
 }
 
 .html
@@ -368,9 +368,9 @@
 	width: 237px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;

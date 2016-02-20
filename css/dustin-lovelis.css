@@ -1,7 +1,7 @@
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000F0;
-	background-color: #750574;
+	color: #0000F8;
+	background-color: #840B31;
 }
 
 .html
@@ -382,7 +382,7 @@
 	margin-right: -10000px;
 	margin-top: 15px;
 	left: 15px;
-	background: transparent url("../images/dustin_artist_pic.jpg") no-repeat center top;
+	background: transparent url("../images/dustin_artist_pic2.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -850,9 +850,9 @@
 	width: 936px;
 	min-height: 271px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 94px;
