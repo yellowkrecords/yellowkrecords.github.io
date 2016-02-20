@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #000006;
-	background-color: #95F675;
+	color: #0000F4;
+	background-color: #05D868;
 }
 
 @-ms-viewport
@@ -396,8 +396,8 @@
 	width: 195px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
@@ -537,8 +537,8 @@
 	width: 192px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
@@ -706,8 +706,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 12px;
@@ -784,8 +784,8 @@
 	width: 241px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
@@ -861,8 +861,8 @@
 	width: 200px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 15px;
@@ -959,8 +959,8 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 16px;
@@ -1074,9 +1074,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1195,8 +1195,8 @@
 	width: 126px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
@@ -1288,8 +1288,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	position: relative;
@@ -1397,8 +1397,8 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-size: 17px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
