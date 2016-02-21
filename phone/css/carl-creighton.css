@@ -4,8 +4,8 @@
 
 .version.carl_creighton /* version checker */
 {
-	color: #000017;
-	background-color: #172463;
+	color: #000019;
+	background-color: #C64736;
 }
 
 @-ms-viewport
@@ -403,9 +403,9 @@
 	z-index: 60;
 	min-height: 327px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

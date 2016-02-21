@@ -4,8 +4,8 @@
 
 .version.japanese_breakfast /* version checker */
 {
-	color: #000000;
-	background-color: #CA9772;
+	color: #000002;
+	background-color: #9DD749;
 }
 
 @-ms-viewport
@@ -437,9 +437,9 @@
 	z-index: 56;
 	min-height: 226px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

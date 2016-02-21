@@ -4,8 +4,8 @@
 
 .version.roster /* version checker */
 {
-	color: #00000B;
-	background-color: #7072E6;
+	color: #0000FF;
+	background-color: #AFE522;
 }
 
 @-ms-viewport
@@ -364,9 +364,9 @@
 	z-index: 62;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -395,9 +395,9 @@
 	z-index: 66;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -427,9 +427,9 @@
 	width: 353px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 14px;
@@ -461,9 +461,9 @@
 	z-index: 70;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -490,9 +490,9 @@
 	z-index: 91;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -519,9 +519,9 @@
 	z-index: 111;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -548,9 +548,9 @@
 	z-index: 105;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -590,9 +590,9 @@
 	z-index: 117;
 	min-height: 22px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -624,9 +624,9 @@
 	z-index: 99;
 	min-height: 24px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -653,9 +653,9 @@
 	z-index: 86;
 	min-height: 22px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -694,9 +694,9 @@
 	z-index: 74;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
