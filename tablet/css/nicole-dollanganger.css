@@ -4,38 +4,8 @@
 
 .version.nicole_dollanganger /* version checker */
 {
-	color: #000013;
-	background-color: #0C0E6E;
-}
-
-@-ms-viewport
-{
-	width: 768px;
-}
-
-@-webkit-viewport
-{
-	width: 768px;
-}
-
-@-o-viewport
-{
-	width: 768px;
-}
-
-@-moz-viewport
-{
-	width: 768px;
-}
-
-@viewport
-{
-	width: 768px;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000F3;
+	background-color: #183505;
 }
 
 #page
@@ -44,18 +14,13 @@
 	width: 768px;
 	min-height: 477.65966372532034px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	padding-bottom: 0px;
-}
-
-#page_position_content
-{
-	width: 0.01px;
 }
 
 #u8969
@@ -105,6 +70,7 @@
 {
 	z-index: 19;
 	width: 538px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
@@ -113,6 +79,7 @@
 #u9120
 {
 	width: 538px;
+	position: relative;
 }
 
 #u9121
@@ -120,6 +87,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -141,6 +109,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -168,6 +137,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -189,6 +159,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -216,6 +187,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -237,6 +209,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -264,6 +237,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -285,6 +259,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -312,6 +287,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -333,6 +309,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -359,6 +336,7 @@
 {
 	width: 538px;
 	margin-top: 2px;
+	position: relative;
 }
 
 #u9151
@@ -366,6 +344,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 4px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -394,6 +373,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 2px;
 }
@@ -425,7 +405,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu9296
+#pu12025
 {
 	width: 0.01px;
 	padding-bottom: 1px;
@@ -434,23 +414,38 @@
 	margin-left: 618px;
 }
 
-#u9296
+#u12025
 {
 	z-index: 56;
+	width: 85px;
 	margin-left: 38px;
+	position: relative;
+}
+
+#u9296
+{
+	z-index: 57;
+}
+
+#u12115
+{
+	z-index: 58;
+	width: 123px;
+	margin-top: 31px;
+	position: relative;
 }
 
 #u9298
 {
-	z-index: 57;
-	margin-top: 31px;
+	z-index: 59;
 }
 
 #u9304
 {
-	z-index: 60;
+	z-index: 62;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
 	left: 616px;
@@ -458,9 +453,10 @@
 
 #u9302
 {
-	z-index: 58;
+	z-index: 60;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
 	left: 660px;
@@ -468,12 +464,23 @@
 
 #u9303
 {
-	z-index: 59;
+	z-index: 61;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
 	left: 704px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #accordionu8964,#accordionu8964-bw
@@ -483,7 +490,7 @@
 
 #u5215-4
 {
-	z-index: 67;
+	z-index: 69;
 	width: 314px;
 	min-height: 40px;
 	background-color: transparent;
@@ -506,51 +513,69 @@
 
 #u5213
 {
-	z-index: 65;
+	z-index: 67;
 	width: 194px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u5216
+#u11566
 {
-	z-index: 71;
-	overflow: hidden;
-	position: relative;
+	z-index: 73;
 	width: 20px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 59px;
 	left: 220px;
 }
 
-#u5220
+#u5216
 {
-	z-index: 73;
-	overflow: hidden;
-	position: relative;
+	z-index: 74;
+	display: block;
+}
+
+#u11998
+{
+	z-index: 77;
 	width: 20px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 60px;
 	left: 274px;
 }
 
-#u5218
+#u5220
 {
-	z-index: 72;
-	overflow: hidden;
-	position: relative;
+	z-index: 78;
+	display: block;
+}
+
+#u11845
+{
+	z-index: 75;
 	width: 20px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 59px;
 	left: 327px;
 }
 
+#u5218
+{
+	z-index: 76;
+	display: block;
+}
+
 #u5210-4
 {
-	z-index: 61;
+	z-index: 63;
 	min-height: 123px;
 	background-color: transparent;
 	text-align: center;
@@ -569,7 +594,7 @@
 
 #u5210-4-bw
 {
-	z-index: 61;
+	z-index: 63;
 	min-height: 123px;
 	margin-top: 31px;
 }
@@ -605,6 +630,7 @@
 	z-index: 9;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 365px;
@@ -615,6 +641,7 @@
 	z-index: 10;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 444px;
@@ -625,9 +652,46 @@
 	z-index: 11;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 286px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
 }
 
 @font-face
@@ -637,16 +701,5 @@
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
-}
-
-body
-{
-	position: relative;
-	min-width: 768px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

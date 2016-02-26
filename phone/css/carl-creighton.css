@@ -4,38 +4,8 @@
 
 .version.carl_creighton /* version checker */
 {
-	color: #000019;
-	background-color: #C64736;
-}
-
-@-ms-viewport
-{
-	width: 380px;
-}
-
-@-webkit-viewport
-{
-	width: 380px;
-}
-
-@-o-viewport
-{
-	width: 380px;
-}
-
-@-moz-viewport
-{
-	width: 380px;
-}
-
-@viewport
-{
-	width: 380px;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000E4;
+	background-color: #B07C22;
 }
 
 #page
@@ -44,18 +14,13 @@
 	width: 380px;
 	min-height: 984.95px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	padding-bottom: 0px;
-}
-
-#page_position_content
-{
-	width: 0.01px;
 }
 
 #u3789
@@ -96,6 +61,7 @@
 #u3805
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805:hover
@@ -113,6 +79,7 @@
 #u3807-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805:hover #u3807-4
@@ -134,6 +101,7 @@
 #u3810
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805.MuseMenuActive,#u3810:hover
@@ -151,6 +119,7 @@
 #u3812-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805.MuseMenuActive #u3807-4,#u3810:hover #u3812-4
@@ -172,6 +141,7 @@
 #u3817
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3810.MuseMenuActive,#u3817:hover
@@ -189,6 +159,7 @@
 #u3820-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3810.MuseMenuActive #u3812-4,#u3817:hover #u3820-4
@@ -210,6 +181,7 @@
 #u3824
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3817.MuseMenuActive,#u3824:hover
@@ -227,6 +199,7 @@
 #u3827-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3817.MuseMenuActive #u3820-4,#u3824:hover #u3827-4
@@ -248,6 +221,7 @@
 #u3831
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3824.MuseMenuActive,#u3831:hover
@@ -265,6 +239,7 @@
 #u3834-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3824.MuseMenuActive #u3827-4,#u3831:hover #u3834-4
@@ -286,6 +261,7 @@
 #u6635
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3831.MuseMenuActive,#u6635:hover
@@ -309,6 +285,7 @@
 #u6636-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3831.MuseMenuActive #u3834-4,#u6635:hover #u6636-4
@@ -340,6 +317,16 @@
 	margin-top: 2px;
 }
 
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
 #menuu3801,#menuu3801-bw
 {
 	z-index: 19;
@@ -351,12 +338,20 @@
 	z-index: 12;
 }
 
-#u8379
+#u12106
 {
 	z-index: 56;
+	width: 214px;
+	background-color: transparent;
 	margin-left: 84px;
 	margin-top: 29px;
 	position: relative;
+}
+
+#u8379
+{
+	z-index: 57;
+	display: block;
 }
 
 #pu8381
@@ -368,18 +363,11 @@
 
 #u8381
 {
-	z-index: 57;
+	z-index: 58;
 	width: 219px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u8381_clip
-{
-	overflow: hidden;
-	width: 219px;
-	height: 158px;
 }
 
 #u8381_img
@@ -387,20 +375,26 @@
 	margin-right: -18px;
 }
 
-#u8383
+#u11914
 {
-	z-index: 59;
-	overflow: hidden;
-	position: relative;
+	z-index: 60;
 	width: 20px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 74px;
 	left: 253px;
 }
 
+#u8383
+{
+	z-index: 61;
+	display: block;
+}
+
 #u8385-14
 {
-	z-index: 60;
+	z-index: 62;
 	min-height: 327px;
 	background-color: transparent;
 	text-align: justify;
@@ -423,26 +417,19 @@
 
 #u8385-14-bw
 {
-	z-index: 60;
+	z-index: 62;
 	min-height: 327px;
 	margin-top: 20px;
 }
 
 #u8386
 {
-	z-index: 74;
+	z-index: 76;
 	width: 268px;
 	background-color: transparent;
 	margin-left: 56px;
 	margin-top: 17px;
 	position: relative;
-}
-
-#u8386_clip
-{
-	overflow: hidden;
-	width: 268px;
-	height: 237px;
 }
 
 #u8386_img
@@ -482,6 +469,7 @@
 	z-index: 9;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 172px;
@@ -492,6 +480,7 @@
 	z-index: 10;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 251px;
@@ -502,9 +491,46 @@
 	z-index: 11;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 93px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
 }
 
 @font-face
@@ -516,14 +542,4 @@
 	font-style: normal;
 }
 
-body
-{
-	position: relative;
-	min-width: 380px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
-}
 

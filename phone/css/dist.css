@@ -4,38 +4,8 @@
 
 .version.dist /* version checker */
 {
-	color: #0000F4;
-	background-color: #5ACB90;
-}
-
-@-ms-viewport
-{
-	width: 380px;
-}
-
-@-webkit-viewport
-{
-	width: 380px;
-}
-
-@-o-viewport
-{
-	width: 380px;
-}
-
-@-moz-viewport
-{
-	width: 380px;
-}
-
-@viewport
-{
-	width: 380px;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000F0;
+	background-color: #A12966;
 }
 
 #page
@@ -44,7 +14,7 @@
 	width: 380px;
 	min-height: 613px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	opacity: 1;
@@ -90,6 +60,7 @@
 #u3805
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805:hover
@@ -107,6 +78,7 @@
 #u3807-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805:hover #u3807-4
@@ -128,6 +100,7 @@
 #u3810
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805.MuseMenuActive,#u3810:hover
@@ -145,6 +118,7 @@
 #u3812-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3805.MuseMenuActive #u3807-4,#u3810:hover #u3812-4
@@ -166,6 +140,7 @@
 #u3817
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3810.MuseMenuActive,#u3817:hover
@@ -183,6 +158,7 @@
 #u3820-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3810.MuseMenuActive #u3812-4,#u3817:hover #u3820-4
@@ -204,6 +180,7 @@
 #u3824
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3817.MuseMenuActive,#u3824:hover
@@ -221,6 +198,7 @@
 #u3827-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3817.MuseMenuActive #u3820-4,#u3824:hover #u3827-4
@@ -242,6 +220,7 @@
 #u3831
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3824.MuseMenuActive,#u3831:hover
@@ -259,6 +238,7 @@
 #u3834-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3824.MuseMenuActive #u3827-4,#u3831:hover #u3834-4
@@ -280,6 +260,7 @@
 #u6635
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3831.MuseMenuActive,#u6635:hover
@@ -303,6 +284,7 @@
 #u6636-4
 {
 	min-height: 29px;
+	position: relative;
 }
 
 #u3831.MuseMenuActive #u3834-4,#u6635:hover #u6636-4
@@ -334,6 +316,16 @@
 	margin-top: 2px;
 }
 
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
 #menuu3801,#menuu3801-bw
 {
 	z-index: 19;
@@ -345,12 +337,20 @@
 	z-index: 12;
 }
 
-#u6645
+#u12061
 {
 	z-index: 56;
+	width: 133px;
+	background-color: transparent;
 	margin-left: 14px;
 	margin-top: 46px;
 	position: relative;
+}
+
+#u6645
+{
+	z-index: 57;
+	display: block;
 }
 
 #pu7364
@@ -362,7 +362,7 @@
 
 #u7364
 {
-	z-index: 57;
+	z-index: 58;
 	width: 128px;
 	background-color: transparent;
 	position: relative;
@@ -378,7 +378,7 @@
 
 #u7367-7
 {
-	z-index: 63;
+	z-index: 64;
 	width: 108px;
 	min-height: 48px;
 	background-color: transparent;
@@ -417,7 +417,7 @@
 
 #u7366-4
 {
-	z-index: 59;
+	z-index: 60;
 	width: 92px;
 	min-height: 34px;
 	background-color: transparent;
@@ -433,7 +433,7 @@
 
 #u7368-45
 {
-	z-index: 70;
+	z-index: 71;
 	min-height: 546px;
 	background-color: transparent;
 	padding-left: 5px;
@@ -482,12 +482,12 @@
 
 #u7368-45-bw
 {
-	z-index: 70;
+	z-index: 71;
 	min-height: 546px;
 	margin-top: 17px;
 }
 
-#page_position_content,#pu4301
+#pu4301
 {
 	width: 0.01px;
 }
@@ -517,6 +517,7 @@
 	z-index: 9;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 172px;
@@ -527,6 +528,7 @@
 	z-index: 10;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 251px;
@@ -537,9 +539,46 @@
 	z-index: 11;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 93px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
 }
 
 @font-face
@@ -549,16 +588,5 @@
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
-}
-
-body
-{
-	position: relative;
-	min-width: 380px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

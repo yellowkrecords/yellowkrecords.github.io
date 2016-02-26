@@ -1,6 +1,6 @@
 #u3790-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
@@ -38,7 +38,7 @@
 
 #accordionu3788,#u3791,#menuu3801
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
@@ -47,7 +47,6 @@
 {
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
-	position: relative;
 	-pie-background: rgba(0,0,0,0.6);
 }
 
@@ -74,7 +73,7 @@
 
 #u3807-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
@@ -83,7 +82,6 @@
 	line-height: 29px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	position: relative;
 }
 
 #u3807-2
@@ -95,7 +93,6 @@
 {
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
-	position: relative;
 	-pie-background: rgba(0,0,0,0.6);
 }
 
@@ -122,7 +119,7 @@
 
 #u3812-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
@@ -131,7 +128,6 @@
 	line-height: 29px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	position: relative;
 }
 
 #u3812-2
@@ -143,7 +139,6 @@
 {
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
-	position: relative;
 	-pie-background: rgba(0,0,0,0.6);
 }
 
@@ -170,7 +165,7 @@
 
 #u3820-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
@@ -179,7 +174,6 @@
 	line-height: 29px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	position: relative;
 }
 
 #u3820-2
@@ -191,7 +185,6 @@
 {
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
-	position: relative;
 	-pie-background: rgba(0,0,0,0.6);
 }
 
@@ -218,7 +211,7 @@
 
 #u3827-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
@@ -227,7 +220,6 @@
 	line-height: 29px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	position: relative;
 }
 
 #u3827-2
@@ -239,7 +231,6 @@
 {
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
-	position: relative;
 	-pie-background: rgba(0,0,0,0.6);
 }
 
@@ -266,7 +257,7 @@
 
 #u3834-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
@@ -275,7 +266,6 @@
 	line-height: 29px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	position: relative;
 }
 
 #u3834-2
@@ -292,7 +282,6 @@
 {
 	background-color: #666666;
 	background-color: rgba(0,0,0,0.6);
-	position: relative;
 	-pie-background: rgba(0,0,0,0.6);
 }
 
@@ -319,7 +308,7 @@
 
 #u6636-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
@@ -328,7 +317,6 @@
 	line-height: 29px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-	position: relative;
 }
 
 #u6636-2
@@ -361,50 +349,59 @@
 	color: #FFFFFF;
 }
 
+#u4298
+{
+	background: transparent url("../../images/fb-01-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
 .big_menu_facebook
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background: transparent url("../../images/fb-01-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
-.nosvg #u4298
+.nosvg .big_menu_facebook,.nosvg #u4298
 {
 	background-image: url('../../images/fb-01-01_poster_u1346.png');
 }
 
+#u4299
+{
+	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
 .big_menu_twitter
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
-.nosvg #u4299
+.nosvg .big_menu_twitter,.nosvg #u4299
 {
 	background-image: url('../../images/twiiter-01_poster_u1372.png');
 }
 
-#u4298,#u4299,#u4300
+#u4300
 {
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-color: transparent;
-	position: relative;
+	background: transparent url("../../images/insta-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
 .big_menu_insta
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background: transparent url("../../images/insta-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
-.nosvg #u4300
+.nosvg .big_menu_insta,.nosvg #u4300
 {
 	background-image: url('../../images/insta-01_poster_u1385.png');
 }

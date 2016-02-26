@@ -4,38 +4,8 @@
 
 .version.eskimeaux /* version checker */
 {
-	color: #0000ED;
-	background-color: #D3E670;
-}
-
-@-ms-viewport
-{
-	width: 768px;
-}
-
-@-webkit-viewport
-{
-	width: 768px;
-}
-
-@-o-viewport
-{
-	width: 768px;
-}
-
-@-moz-viewport
-{
-	width: 768px;
-}
-
-@viewport
-{
-	width: 768px;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000E4;
+	background-color: #43780A;
 }
 
 #page
@@ -44,18 +14,13 @@
 	width: 768px;
 	min-height: 1023.5962014611696px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	padding-bottom: 0px;
-}
-
-#page_position_content
-{
-	width: 0.01px;
 }
 
 #u8969
@@ -105,6 +70,7 @@
 {
 	z-index: 19;
 	width: 538px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
@@ -113,6 +79,7 @@
 #u9120
 {
 	width: 538px;
+	position: relative;
 }
 
 #u9121
@@ -120,6 +87,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -141,6 +109,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -168,6 +137,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -189,6 +159,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -216,6 +187,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -237,6 +209,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -264,6 +237,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -285,6 +259,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -312,6 +287,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 3px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -333,6 +309,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 1px;
 }
@@ -359,6 +336,7 @@
 {
 	width: 538px;
 	margin-top: 2px;
+	position: relative;
 }
 
 #u9151
@@ -366,6 +344,7 @@
 	width: 538px;
 	min-height: 36px;
 	padding-bottom: 4px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -394,6 +373,7 @@
 {
 	width: 538px;
 	min-height: 36px;
+	position: relative;
 	margin-right: -10000px;
 	top: 2px;
 }
@@ -425,7 +405,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu9296
+#pu12025
 {
 	width: 0.01px;
 	padding-bottom: 1px;
@@ -434,23 +414,38 @@
 	margin-left: 618px;
 }
 
-#u9296
+#u12025
 {
 	z-index: 56;
+	width: 85px;
 	margin-left: 38px;
+	position: relative;
+}
+
+#u9296
+{
+	z-index: 57;
+}
+
+#u12115
+{
+	z-index: 58;
+	width: 123px;
+	margin-top: 31px;
+	position: relative;
 }
 
 #u9298
 {
-	z-index: 57;
-	margin-top: 31px;
+	z-index: 59;
 }
 
 #u9304
 {
-	z-index: 60;
+	z-index: 62;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
 	left: 616px;
@@ -458,9 +453,10 @@
 
 #u9302
 {
-	z-index: 58;
+	z-index: 60;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
 	left: 660px;
@@ -468,12 +464,23 @@
 
 #u9303
 {
-	z-index: 59;
+	z-index: 61;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
 	left: 704px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #accordionu8964,#accordionu8964-bw
@@ -481,12 +488,20 @@
 	z-index: 12;
 }
 
-#u5879
+#u12031
 {
-	z-index: 63;
+	z-index: 67;
+	width: 324px;
+	background-color: transparent;
 	margin-left: 222px;
 	margin-top: 66px;
 	position: relative;
+}
+
+#u5879
+{
+	z-index: 68;
+	display: block;
 }
 
 #pu5881
@@ -498,7 +513,7 @@
 
 #u5881
 {
-	z-index: 64;
+	z-index: 69;
 	width: 321px;
 	background-color: transparent;
 	position: relative;
@@ -507,7 +522,7 @@
 
 #u5889
 {
-	z-index: 109;
+	z-index: 115;
 	width: 348px;
 	background-color: transparent;
 	position: relative;
@@ -515,45 +530,63 @@
 	left: 346px;
 }
 
-#pu5875
+#pu11575
 {
 	width: 0.01px;
 	margin-left: 121px;
 	margin-top: 19px;
 }
 
-#u5875
+#u11575
 {
-	z-index: 61;
-	overflow: hidden;
-	position: relative;
+	z-index: 63;
 	width: 20px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 }
 
-#u5883
+#u5875
 {
-	z-index: 66;
-	overflow: hidden;
-	position: relative;
+	z-index: 64;
+	display: block;
+}
+
+#u11647
+{
+	z-index: 71;
 	width: 20px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 70px;
 }
 
-#u5877
+#u5883
 {
-	z-index: 62;
-	overflow: hidden;
-	position: relative;
+	z-index: 72;
+	display: block;
+}
+
+#u11857
+{
+	z-index: 65;
 	width: 20px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 140px;
 }
 
+#u5877
+{
+	z-index: 66;
+	display: block;
+}
+
 #u5885-21
 {
-	z-index: 67;
+	z-index: 73;
 	min-height: 271px;
 	background-color: transparent;
 	text-align: justify;
@@ -576,7 +609,7 @@
 
 #u5885-21-bw
 {
-	z-index: 67;
+	z-index: 73;
 	min-height: 271px;
 	margin-top: 20px;
 }
@@ -590,7 +623,7 @@
 
 #u5886
 {
-	z-index: 88;
+	z-index: 94;
 	width: 335px;
 	background-color: transparent;
 	position: relative;
@@ -599,7 +632,7 @@
 
 #u5888-19
 {
-	z-index: 90;
+	z-index: 96;
 	width: 405px;
 	min-height: 246px;
 	background-color: transparent;
@@ -680,6 +713,7 @@
 	z-index: 9;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 365px;
@@ -690,6 +724,7 @@
 	z-index: 10;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 444px;
@@ -700,9 +735,46 @@
 	z-index: 11;
 	width: 37px;
 	height: 24px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 14px;
 	left: 286px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
 }
 
 @font-face
@@ -712,16 +784,5 @@
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
-}
-
-body
-{
-	position: relative;
-	min-width: 768px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 
