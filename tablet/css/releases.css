@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #000018;
-	background-color: #7CD7B3;
+	color: #000014;
+	background-color: #96DB10;
 }
 
 #page
@@ -570,9 +570,9 @@
 	width: 195px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
 	position: relative;
@@ -802,9 +802,9 @@
 	width: 192px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
 	position: relative;
@@ -971,9 +971,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 12px;
 	position: relative;
@@ -1049,9 +1049,9 @@
 	width: 241px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
 	position: relative;
@@ -1126,9 +1126,9 @@
 	width: 200px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 15px;
 	position: relative;
@@ -1224,9 +1224,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 16px;
 	position: relative;
@@ -1460,9 +1460,9 @@
 	width: 126px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
 	position: relative;
@@ -1553,9 +1553,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	position: relative;
 }
@@ -1662,9 +1662,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
 	position: relative;

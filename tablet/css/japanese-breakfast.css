@@ -4,8 +4,8 @@
 
 .version.japanese_breakfast /* version checker */
 {
-	color: #000008;
-	background-color: #BB1F24;
+	color: #0000FC;
+	background-color: #FB3E2D;
 }
 
 #page
@@ -636,10 +636,10 @@
 	background-color: transparent;
 	padding-left: 12px;
 	padding-right: 12px;
+	line-height: 25px;
+	color: #29ABE2;
 	text-align: center;
 	font-size: 18px;
-	color: #29ABE2;
-	line-height: 25px;
 	position: relative;
 	margin-right: -10000px;
 }

@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000E4;
-	background-color: #2E1F81;
+	color: #000004;
+	background-color: #EC7608;
 }
 
 #page
@@ -428,9 +428,9 @@
 	width: 219px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
 	position: relative;
@@ -653,9 +653,9 @@
 	width: 192px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 14px;
 	position: relative;
@@ -835,9 +835,9 @@
 	width: 232px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
 	position: relative;
@@ -913,9 +913,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 11px;
 	position: relative;
@@ -989,9 +989,9 @@
 	width: 200px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 3px;
 	margin-top: 16px;
@@ -1082,9 +1082,9 @@
 	width: 200px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 15px;
 	position: relative;
@@ -1201,9 +1201,9 @@
 	width: 229px;
 	min-height: 61px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 11px;
 	position: relative;
@@ -1319,9 +1319,9 @@
 	width: 231px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
 	position: relative;
@@ -1405,9 +1405,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
 	position: relative;
@@ -1519,9 +1519,9 @@
 	width: 229px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 13px;
 	position: relative;

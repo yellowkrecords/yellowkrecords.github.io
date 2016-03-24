@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E6;
-	background-color: #991D19;
+	color: #0000F8;
+	background-color: #8EFF54;
 }
 
 #page
@@ -634,8 +634,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	text-align: center;
 	color: #484848;
+	text-align: center;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -671,8 +671,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	text-align: center;
 	color: #484848;
+	text-align: center;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -717,9 +717,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	text-align: center;
-	color: #484848;
 	line-height: 18px;
+	color: #484848;
+	text-align: center;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -1186,7 +1186,7 @@
 	height: 235px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2px;
+	margin-top: 3px;
 	left: 242px;
 }
 
@@ -1225,6 +1225,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 }
 
 #u8580-12
@@ -1607,9 +1608,7 @@
 {
 	width: 0.01px;
 	padding-bottom: 0px;
-	margin-bottom: -1px;
-	margin-right: -10000px;
-	margin-left: -100px;
+	margin: -113px -10000px -1px -100px;
 }
 
 #u787
@@ -1659,7 +1658,6 @@ body
 
 .verticalspacer
 {
-	margin-bottom: -113px;
 	min-height: 104px;
 }
 

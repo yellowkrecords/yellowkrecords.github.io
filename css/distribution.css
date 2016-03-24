@@ -1,7 +1,7 @@
 .version.distribution /* version checker */
 {
-	color: #0000F8;
-	background-color: #3DA265;
+	color: #000014;
+	background-color: #1AFBE2;
 }
 
 #page
@@ -518,9 +518,7 @@
 {
 	width: 0.01px;
 	padding-bottom: 0px;
-	margin-bottom: -1px;
-	margin-right: -10000px;
-	margin-left: -100px;
+	margin: -114px -10000px -1px -100px;
 }
 
 #u787
@@ -570,7 +568,6 @@ body
 
 .verticalspacer
 {
-	margin-bottom: -113px;
 	min-height: 1px;
 }
 

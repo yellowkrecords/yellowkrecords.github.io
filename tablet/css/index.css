@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #A4DEA2;
+	color: #00001B;
+	background-color: #BCBC4D;
 }
 
 #page
@@ -522,8 +522,8 @@
 	width: 94px;
 	min-height: 19px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -830,6 +830,7 @@
 	height: 235px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	left: 241px;
 }
 
@@ -849,7 +850,6 @@
 	border-width: 1px;
 	border-color: #A4A4A4;
 	background-color: transparent;
-	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
@@ -869,6 +869,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 }
 
 #u8645-14

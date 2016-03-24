@@ -1,7 +1,7 @@
 .version.releases /* version checker */
 {
-	color: #0000F4;
-	background-color: #CD05C4;
+	color: #00000D;
+	background-color: #1465C3;
 }
 
 #page
@@ -437,9 +437,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 22px;
 	position: relative;
@@ -489,9 +489,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 17px;
 	position: relative;
@@ -562,9 +562,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 5px;
 	margin-top: 18px;
@@ -619,9 +619,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 78px;
 	margin-top: 12px;
@@ -657,9 +657,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-top: 21px;
 	position: relative;
@@ -717,9 +717,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
 	margin-top: 18px;
@@ -772,9 +772,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
 	margin-top: 18px;
@@ -826,9 +826,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
 	margin-top: 24px;
@@ -893,9 +893,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
 	margin-top: 24px;
@@ -1056,9 +1056,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
 	margin-top: 20px;
@@ -1136,9 +1136,9 @@
 	width: 237px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
 	margin-top: 19px;
@@ -1192,9 +1192,9 @@
 	width: 237px;
 	min-height: 61px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	margin-left: 1px;
 	margin-top: 19px;
