@@ -4,8 +4,8 @@
 
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000E3;
-	background-color: #A1DDDE;
+	color: #0000EE;
+	background-color: #A3FD23;
 }
 
 #page
@@ -450,9 +450,9 @@
 	z-index: 86;
 	min-height: 307px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

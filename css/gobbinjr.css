@@ -1,7 +1,7 @@
 .version.gobbinjr /* version checker */
 {
-	color: #000019;
-	background-color: #BA5E31;
+	color: #0000E4;
+	background-color: #C1C944;
 }
 
 #page
@@ -500,9 +500,9 @@
 	width: 936px;
 	min-height: 71px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;

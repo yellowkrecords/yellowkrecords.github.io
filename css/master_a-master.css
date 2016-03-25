@@ -16,102 +16,6 @@
 	background-color: rgba(0,0,0,0.61);
 }
 
-#u1087
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-color: transparent;
-	background-size: contain;
-}
-
-#u1087:hover
-{
-	background: transparent url("../images/fb_rollover-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.big_menu_facebook
-{
-	border-width: 0px;
-	border-color: #000000;
-	background: transparent url("../images/fb-01-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_facebook
-{
-	background-image: url('../images/fb-01-01_poster_u1346.png');
-}
-
-.nosvg #u1087:hover
-{
-	background-image: url('../images/fb_rollover-01_poster_u1352.png');
-}
-
-#u1365
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-color: transparent;
-	background-size: contain;
-}
-
-#u1365:hover
-{
-	background: transparent url("../images/twiiter_rollover-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.big_menu_twitter
-{
-	border-width: 0px;
-	border-color: #000000;
-	background: transparent url("../images/twiiter-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_twitter
-{
-	background-image: url('../images/twiiter-01_poster_u1372.png');
-}
-
-.nosvg #u1365:hover
-{
-	background-image: url('../images/twiiter_rollover-01_poster_u1378.png');
-}
-
-#u1384
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-color: transparent;
-	background-size: contain;
-}
-
-#u1384:hover
-{
-	background: transparent url("../images/insta_rollover.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.big_menu_insta
-{
-	border-width: 0px;
-	border-color: #000000;
-	background: transparent url("../images/insta-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_insta
-{
-	background-image: url('../images/insta-01_poster_u1385.png');
-}
-
-.nosvg #u1384:hover
-{
-	background-image: url('../images/insta_rollover_poster_u1391.png');
-}
-
 #u1439
 {
 	background-color: transparent;
@@ -343,6 +247,102 @@
 .hidpi #u6481.MuseLinkActive
 {
 	background-image: url("../images/dist_tour-white_2x.png");
+}
+
+#u1087
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u1087:hover
+{
+	background: transparent url("../images/fb_rollover-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.big_menu_facebook
+{
+	border-width: 0px;
+	border-color: #000000;
+	background: transparent url("../images/fb-01-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg .big_menu_facebook
+{
+	background-image: url('../images/fb-01-01_poster_u1346.png');
+}
+
+.nosvg #u1087:hover
+{
+	background-image: url('../images/fb_rollover-01_poster_u1352.png');
+}
+
+#u1365
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u1365:hover
+{
+	background: transparent url("../images/twiiter_rollover-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.big_menu_twitter
+{
+	border-width: 0px;
+	border-color: #000000;
+	background: transparent url("../images/twiiter-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg .big_menu_twitter
+{
+	background-image: url('../images/twiiter-01_poster_u1372.png');
+}
+
+.nosvg #u1365:hover
+{
+	background-image: url('../images/twiiter_rollover-01_poster_u1378.png');
+}
+
+#u1384
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u1384:hover
+{
+	background: transparent url("../images/insta_rollover.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.big_menu_insta
+{
+	border-width: 0px;
+	border-color: #000000;
+	background: transparent url("../images/insta-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg .big_menu_insta
+{
+	background-image: url('../images/insta-01_poster_u1385.png');
+}
+
+.nosvg #u1384:hover
+{
+	background-image: url('../images/insta_rollover_poster_u1391.png');
 }
 
 #u8793,#u787

@@ -4,8 +4,8 @@
 
 .version.eskimeaux /* version checker */
 {
-	color: #0000E4;
-	background-color: #43780A;
+	color: #000013;
+	background-color: #D97A82;
 }
 
 #page
@@ -589,9 +589,9 @@
 	z-index: 73;
 	min-height: 271px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

@@ -4,8 +4,8 @@
 
 .version.luka /* version checker */
 {
-	color: #0000FA;
-	background-color: #91B370;
+	color: #0000F7;
+	background-color: #AD1F8F;
 }
 
 #page
@@ -449,9 +449,9 @@
 	z-index: 68;
 	min-height: 94px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

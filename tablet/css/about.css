@@ -4,8 +4,8 @@
 
 .version.about /* version checker */
 {
-	color: #0000EF;
-	background-color: #009DB3;
+	color: #00001B;
+	background-color: #A682BF;
 }
 
 #page
@@ -513,9 +513,9 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #333333;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

@@ -4,8 +4,8 @@
 
 .version.seagulls /* version checker */
 {
-	color: #0000F7;
-	background-color: #EA40AF;
+	color: #00001E;
+	background-color: #7A1A14;
 }
 
 #page
@@ -901,9 +901,9 @@
 	z-index: 132;
 	min-height: 401px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

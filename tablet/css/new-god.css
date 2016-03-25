@@ -4,8 +4,8 @@
 
 .version.new_god /* version checker */
 {
-	color: #0000ED;
-	background-color: #5F1819;
+	color: #000015;
+	background-color: #7D2609;
 }
 
 #page
@@ -1059,9 +1059,9 @@
 	z-index: 129;
 	min-height: 293px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

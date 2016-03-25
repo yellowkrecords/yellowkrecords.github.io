@@ -4,8 +4,8 @@
 
 .version.william_alexander /* version checker */
 {
-	color: #0000E8;
-	background-color: #902147;
+	color: #00000F;
+	background-color: #883980;
 }
 
 #page
@@ -652,9 +652,9 @@
 	z-index: 98;
 	min-height: 365px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }

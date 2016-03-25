@@ -1,7 +1,7 @@
 .version.japanese_breakfast /* version checker */
 {
-	color: #000009;
-	background-color: #E13A89;
+	color: #0000ED;
+	background-color: #E170CE;
 }
 
 #page
@@ -796,9 +796,9 @@
 	width: 936px;
 	min-height: 179px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 90px;
