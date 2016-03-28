@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459192887812">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459198879635">
   <folder name="css">
     <file name="site_global.css" crc="315553776"/>
     <file name="master_a-master.css" crc="422468661" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:william-alexander-2:index:seagulls:tour:releases:new-god:about:roster"/>
@@ -32,12 +32,12 @@
     <file name="iefonts_releases.css" crc="406623574" ref="releases"/>
     <file name="new-god.css" crc="445085327" ref="new-god"/>
     <file name="iefonts_new-god.css" crc="4120464127" ref="new-god"/>
-    <file name="about.css" crc="52269286" ref="about"/>
+    <file name="about.css" crc="3961625229" ref="about"/>
     <file name="roster.css" crc="45900974" ref="roster"/>
     <file name="iefonts_gobbinjr.css" crc="510943702" ref="gobbinjr"/>
     <file name="iefonts_roster.css" crc="483355728" ref="roster"/>
     <file name="iefonts_tour.css" crc="3820316744" ref="tour"/>
-    <file name="iefonts_about.css" crc="3883826519" ref="about"/>
+    <file name="iefonts_about.css" crc="4143801681" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
@@ -169,7 +169,7 @@
     <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>nicole-dollanganger:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton:about:roster:releases:tour:new-god:seagulls:index:dustin-lovelis:eskimeaux:william-alexander:konig:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4106136416" ref="phone>index:phone>about:tablet>about"/>
+    <file name="favicon.ico" crc="4106136416" ref="phone>index:phone>about:tablet>about:about"/>
     <file name="yellow-k-logo-horiz-b-w-trans-u3940-fr.png" crc="499063221" ref="phone>index"/>
     <file name="yellow-k-logo-horiz-b-w-trans-u3940-fr_2x.png" crc="499063221" ref="phone>index"/>
     <file name="pasted-svg-9023x9.svg" crc="4099897992" ref="phone>index:tablet>index"/>
@@ -187,8 +187,8 @@
     <file name="twiiter-01_poster_u1372.png" crc="253085816" ref="tablet>index:tablet>about"/>
     <file name="insta-01.svg" crc="316478732" ref="tablet>index:tablet>about"/>
     <file name="insta-01_poster_u1385.png" crc="216846707" ref="tablet>index:tablet>about"/>
-    <file name="yellow-k-logo-horiz-b-w-trans.gif" crc="386871558" ref="phone>about:tablet>about:about"/>
-    <file name="yellow-k-logo-horiz-b-w-trans_2x.gif" crc="386871558" ref="phone>about:tablet>about:about"/>
+    <file name="yellow-k-logo-horiz-b-w-trans.gif" crc="386871558" ref="phone>about:tablet>about:about" seo="true"/>
+    <file name="yellow-k-logo-horiz-b-w-trans_2x.gif" crc="386871558" ref="phone>about:tablet>about:about" seo="true"/>
     <file name="yellowkoriginal-crop-u5396.png" crc="515701400" ref="phone>about"/>
     <file name="yellowkoriginal-crop-u5396_2x.png" crc="317138898" ref="phone>about"/>
     <file name="new-god-2015-pic-lores.jpg" crc="275308866" seo="true" ref="phone>roster:tablet>roster"/>
@@ -630,7 +630,7 @@
     <file name="luka.html" crc="3981465559" seo="true" mt="1459191384776" redirect="true"/>
     <file name="carl-creighton.html" crc="154140023" seo="true" mt="1459191384776" redirect="true"/>
   </folder>
-  <file name="about.html" crc="4182659905" seo="true" mt="1459191373065" redirect="true"/>
+  <file name="about.html" crc="420488441" seo="true" mt="1459198867373" redirect="true"/>
   <file name="roster.html" crc="166304953" seo="true" mt="1459191373065" redirect="true"/>
   <file name="releases.html" crc="394408439" seo="true" mt="1459191373065" redirect="true"/>
   <file name="tour.html" crc="4003933481" seo="true" mt="1459191373065" redirect="true"/>
