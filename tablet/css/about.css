@@ -4,8 +4,8 @@
 
 .version.about /* version checker */
 {
-	color: #00001F;
-	background-color: #614934;
+	color: #000008;
+	background-color: #A07A30;
 }
 
 #page
@@ -590,7 +590,7 @@
 	position: relative;
 }
 
-#u13289-22
+#u13289-24
 {
 	z-index: 94;
 	width: 400px;
@@ -605,7 +605,7 @@
 
 #u13290
 {
-	z-index: 116;
+	z-index: 118;
 	width: 400px;
 	border-width: 0px;
 	border-color: transparent;
@@ -615,9 +615,9 @@
 	position: relative;
 }
 
-#u13291-22
+#u13291-24
 {
-	z-index: 117;
+	z-index: 119;
 	width: 400px;
 	min-height: 153px;
 	background-color: transparent;
@@ -628,37 +628,37 @@
 	margin-right: -10000px;
 }
 
-#u13287-2,#u13289-2,#u13291-2
+#u13287-2,#u13289-2,#u13289-4,#u13291-2,#u13291-4
 {
 	font-style: italic;
 }
 
-#u13287-6,#u13287-7,#u13289-6,#u13289-7,#u13291-6,#u13291-7
+#u13287-6,#u13287-7,#u13289-8,#u13289-9,#u13291-8,#u13291-9
 {
 	font-size: 20px;
 	line-height: 20px;
 }
 
-#u13287-3,#u13287-4,#u13287-10,#u13289-3,#u13289-4,#u13289-10,#u13291-3,#u13291-4,#u13291-10
+#u13287-3,#u13287-4,#u13287-10,#u13289-5,#u13289-6,#u13289-12,#u13291-5,#u13291-6,#u13291-12
 {
 	font-size: 22px;
 	line-height: 22px;
 }
 
-#u13287-11,#u13289-11,#u13291-11
+#u13287-11,#u13289-13,#u13291-13
 {
 	font-size: 17px;
 	line-height: 17px;
 }
 
-#u13287-20,#u13289-20,#u13291-20
+#u13287-20,#u13289-22,#u13291-22
 {
 	font-size: 35px;
 	line-height: 35px;
 	color: #7F7F7F;
 }
 
-#u13287-12,#u13287-14,#u13287-15,#u13287-17,#u13287-18,#u13289-12,#u13289-14,#u13289-15,#u13289-17,#u13289-18,#u13291-12,#u13291-14,#u13291-15,#u13291-17,#u13291-18
+#u13287-12,#u13287-14,#u13287-15,#u13287-17,#u13287-18,#u13289-14,#u13289-16,#u13289-17,#u13289-19,#u13289-20,#u13291-14,#u13291-16,#u13291-17,#u13291-19,#u13291-20
 {
 	font-family: '__websocialmenus_5';
 	font-weight: 400;
@@ -692,7 +692,7 @@
 
 #u13327-14
 {
-	z-index: 139;
+	z-index: 143;
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
@@ -738,6 +738,15 @@ body
 
 @font-face
 {
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
@@ -745,12 +754,4 @@ body
 	font-style: normal;
 }
 
-@font-face
-{
-	font-family: '__web-icons_5';
-	src: url('../../fonts/web-icons.eot');
-	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
 
