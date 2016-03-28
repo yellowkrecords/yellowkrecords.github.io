@@ -4,15 +4,15 @@
 
 .version.carl_creighton /* version checker */
 {
-	color: #000001;
-	background-color: #E1723B;
+	color: #00000A;
+	background-color: #8B80C3;
 }
 
 #page
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 888px;
+	min-height: 887.5750000000003px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -20,6 +20,7 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	padding-bottom: 0px;
 }
 
 #page_position_content
@@ -29,12 +30,12 @@
 
 #u8969
 {
-	z-index: 13;
+	z-index: 10;
 }
 
 #u8972-4
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 33px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -67,12 +68,12 @@
 
 #u8970
 {
-	z-index: 18;
+	z-index: 15;
 }
 
 #menuu9112
 {
-	z-index: 19;
+	z-index: 16;
 	width: 538px;
 	position: relative;
 	margin-right: -10000px;
@@ -420,7 +421,7 @@
 
 #u12025
 {
-	z-index: 56;
+	z-index: 53;
 	width: 85px;
 	margin-left: 38px;
 	position: relative;
@@ -428,12 +429,12 @@
 
 #u9296
 {
-	z-index: 57;
+	z-index: 54;
 }
 
 #u12115
 {
-	z-index: 58;
+	z-index: 55;
 	width: 123px;
 	margin-top: 31px;
 	position: relative;
@@ -441,12 +442,12 @@
 
 #u9298
 {
-	z-index: 59;
+	z-index: 56;
 }
 
 #u9304
 {
-	z-index: 62;
+	z-index: 59;
 	width: 37px;
 	height: 24px;
 	position: relative;
@@ -457,7 +458,7 @@
 
 #u9302
 {
-	z-index: 60;
+	z-index: 57;
 	width: 37px;
 	height: 24px;
 	position: relative;
@@ -468,7 +469,7 @@
 
 #u9303
 {
-	z-index: 61;
+	z-index: 58;
 	width: 37px;
 	height: 24px;
 	position: relative;
@@ -489,12 +490,12 @@
 
 #accordionu8964,#accordionu8964-bw
 {
-	z-index: 12;
+	z-index: 9;
 }
 
 #u12103
 {
-	z-index: 63;
+	z-index: 60;
 	width: 214px;
 	background-color: transparent;
 	margin-left: 277px;
@@ -504,7 +505,7 @@
 
 #u8365
 {
-	z-index: 64;
+	z-index: 61;
 	display: block;
 }
 
@@ -517,7 +518,7 @@
 
 #u8368
 {
-	z-index: 65;
+	z-index: 62;
 	width: 219px;
 	background-color: transparent;
 	position: relative;
@@ -531,7 +532,7 @@
 
 #u11911
 {
-	z-index: 67;
+	z-index: 64;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -542,19 +543,19 @@
 
 #u8370
 {
-	z-index: 68;
+	z-index: 65;
 	display: block;
 }
 
 #u8372-14
 {
-	z-index: 69;
+	z-index: 66;
 	width: 770px;
 	min-height: 197px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	left: -2px;
@@ -575,7 +576,7 @@
 
 #u8373
 {
-	z-index: 83;
+	z-index: 80;
 	width: 268px;
 	background-color: transparent;
 	margin-left: 249px;
@@ -592,7 +593,7 @@
 #pu4769
 {
 	width: 0.01px;
-	margin-top: 51px;
+	margin-top: 253px;
 }
 
 #u4769,#u4769-bw
@@ -615,37 +616,14 @@
 	margin-top: 26px;
 }
 
-#u4771
+#u13327-14
 {
-	z-index: 9;
-	width: 37px;
-	height: 24px;
+	z-index: 82;
+	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 365px;
-}
-
-#u4772
-{
-	z-index: 10;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 444px;
-}
-
-#u4773
-{
-	z-index: 11;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 286px;
+	margin-top: 10px;
+	left: 265px;
 }
 
 #muse_css_mq,.html
@@ -689,6 +667,15 @@ body
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

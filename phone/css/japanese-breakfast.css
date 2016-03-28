@@ -4,8 +4,8 @@
 
 .version.japanese_breakfast /* version checker */
 {
-	color: #000018;
-	background-color: #79F2ED;
+	color: #000019;
+	background-color: #CFBBB9;
 }
 
 #page
@@ -25,12 +25,12 @@
 
 #u3789
 {
-	z-index: 13;
+	z-index: 10;
 }
 
 #u3790-4
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 30px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -55,7 +55,7 @@
 
 #u3791
 {
-	z-index: 18;
+	z-index: 15;
 }
 
 #u3805
@@ -329,18 +329,18 @@
 
 #menuu3801,#menuu3801-bw
 {
-	z-index: 19;
+	z-index: 16;
 	min-height: 184px;
 }
 
 #accordionu3788,#accordionu3788-bw
 {
-	z-index: 12;
+	z-index: 9;
 }
 
 #u12088
 {
-	z-index: 82;
+	z-index: 79;
 	width: 311px;
 	background-color: transparent;
 	margin-left: 34px;
@@ -350,7 +350,7 @@
 
 #u8096
 {
-	z-index: 83;
+	z-index: 80;
 	display: block;
 }
 
@@ -363,7 +363,7 @@
 
 #u8092
 {
-	z-index: 78;
+	z-index: 75;
 	width: 220px;
 	background-color: transparent;
 	position: relative;
@@ -378,7 +378,7 @@
 
 #u11896
 {
-	z-index: 76;
+	z-index: 73;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -389,13 +389,13 @@
 
 #u8090
 {
-	z-index: 77;
+	z-index: 74;
 	display: block;
 }
 
 #u11614
 {
-	z-index: 70;
+	z-index: 67;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -406,13 +406,13 @@
 
 #u8084
 {
-	z-index: 71;
+	z-index: 68;
 	display: block;
 }
 
 #u11731
 {
-	z-index: 74;
+	z-index: 71;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -423,13 +423,13 @@
 
 #u8088
 {
-	z-index: 75;
+	z-index: 72;
 	display: block;
 }
 
 #u11677
 {
-	z-index: 72;
+	z-index: 69;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -440,18 +440,18 @@
 
 #u8086
 {
-	z-index: 73;
+	z-index: 70;
 	display: block;
 }
 
 #u8083-14
 {
-	z-index: 56;
+	z-index: 53;
 	min-height: 226px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -469,14 +469,14 @@
 
 #u8083-14-bw
 {
-	z-index: 56;
+	z-index: 53;
 	min-height: 226px;
 	margin-top: 16px;
 }
 
 #u8094
 {
-	z-index: 80;
+	z-index: 77;
 	width: 192px;
 	-pie-box-shadow: none;
 	box-shadow: 5px 3px 10px rgba(0,0,0,0.31);
@@ -512,37 +512,14 @@
 	margin-top: 26px;
 }
 
-#u4298
+#u13321-14
 {
-	z-index: 9;
-	width: 37px;
-	height: 24px;
+	z-index: 81;
+	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 172px;
-}
-
-#u4299
-{
-	z-index: 10;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 251px;
-}
-
-#u4300
-{
-	z-index: 11;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 93px;
+	margin-top: 6px;
+	left: 90px;
 }
 
 #muse_css_mq,.html
@@ -586,6 +563,15 @@ body
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

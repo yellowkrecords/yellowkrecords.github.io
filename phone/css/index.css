@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #BEFE96;
+	color: #0000FE;
+	background-color: #A67F0B;
 }
 
 #page
@@ -26,12 +26,12 @@
 
 #u3789
 {
-	z-index: 13;
+	z-index: 10;
 }
 
 #u3790-4
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 30px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -56,7 +56,7 @@
 
 #u3791
 {
-	z-index: 18;
+	z-index: 15;
 }
 
 #u3805
@@ -330,18 +330,18 @@
 
 #menuu3801,#menuu3801-bw
 {
-	z-index: 19;
+	z-index: 16;
 	min-height: 184px;
 }
 
 #accordionu3788,#accordionu3788-bw
 {
-	z-index: 12;
+	z-index: 9;
 }
 
 #u3940
 {
-	z-index: 56;
+	z-index: 53;
 	height: 141px;
 	background: transparent url("../../images/yellow-k-logo-horiz-b-w-trans-u3940-fr.png") no-repeat center top;
 	background-size: contain;
@@ -354,7 +354,7 @@
 
 #u3940-bw
 {
-	z-index: 56;
+	z-index: 53;
 	margin-top: 15px;
 	height: 141px;
 }
@@ -368,12 +368,12 @@
 
 #u4246-4
 {
-	z-index: 57;
+	z-index: 54;
 	width: 94px;
 	min-height: 19px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -382,7 +382,7 @@
 
 #u4248-4
 {
-	z-index: 62;
+	z-index: 59;
 	width: 66px;
 	min-height: 18px;
 	background-color: transparent;
@@ -396,7 +396,7 @@
 
 #u12010
 {
-	z-index: 66;
+	z-index: 63;
 	width: 9px;
 	background-color: transparent;
 	position: relative;
@@ -407,13 +407,13 @@
 
 #u4255
 {
-	z-index: 67;
+	z-index: 64;
 	display: block;
 }
 
 #u12112
 {
-	z-index: 70;
+	z-index: 67;
 	width: 58px;
 	background-color: transparent;
 	position: relative;
@@ -424,13 +424,13 @@
 
 #u8799
 {
-	z-index: 71;
+	z-index: 68;
 	display: block;
 }
 
 #u12016
 {
-	z-index: 68;
+	z-index: 65;
 	width: 45px;
 	background-color: transparent;
 	position: relative;
@@ -441,13 +441,13 @@
 
 #u5030
 {
-	z-index: 69;
+	z-index: 66;
 	display: block;
 }
 
 #pamphletu12482
 {
-	z-index: 72;
+	z-index: 69;
 	width: 0.01px;
 	height: 554px;
 	padding-bottom: 48px;
@@ -465,12 +465,12 @@
 
 #u12489popup
 {
-	z-index: 73;
+	z-index: 70;
 }
 
 #u12509
 {
-	z-index: 74;
+	z-index: 71;
 	width: 380px;
 	height: 463px;
 	border-width: 0px;
@@ -491,7 +491,7 @@
 
 #u12513
 {
-	z-index: 112;
+	z-index: 109;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -505,7 +505,7 @@
 
 #u12510
 {
-	z-index: 110;
+	z-index: 107;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -515,7 +515,7 @@
 
 #u12512-35
 {
-	z-index: 75;
+	z-index: 72;
 	width: 380px;
 	min-height: 232px;
 	background-color: transparent;
@@ -537,7 +537,7 @@
 
 #u12503
 {
-	z-index: 114;
+	z-index: 111;
 	width: 380px;
 	height: 489px;
 	border-width: 0px;
@@ -558,7 +558,7 @@
 
 #u12505
 {
-	z-index: 134;
+	z-index: 131;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -567,7 +567,7 @@
 
 #u12507
 {
-	z-index: 136;
+	z-index: 133;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -577,7 +577,7 @@
 
 #u12504-19
 {
-	z-index: 115;
+	z-index: 112;
 	width: 380px;
 	min-height: 232px;
 	background-color: transparent;
@@ -610,7 +610,7 @@
 
 #u12490
 {
-	z-index: 138;
+	z-index: 135;
 	width: 380px;
 	height: 486px;
 	border-width: 0px;
@@ -625,7 +625,7 @@
 
 #u12494
 {
-	z-index: 139;
+	z-index: 136;
 	width: 179px;
 	border-style: solid;
 	border-width: 1px;
@@ -640,7 +640,7 @@
 
 #u12491
 {
-	z-index: 141;
+	z-index: 138;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -650,7 +650,7 @@
 
 #u12493-11
 {
-	z-index: 143;
+	z-index: 140;
 	width: 380px;
 	min-height: 257px;
 	background-color: transparent;
@@ -693,7 +693,7 @@
 
 #u12496
 {
-	z-index: 154;
+	z-index: 151;
 	width: 380px;
 	height: 503px;
 	border-width: 0px;
@@ -714,7 +714,7 @@
 
 #u12500
 {
-	z-index: 155;
+	z-index: 152;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -729,7 +729,7 @@
 
 #u12497
 {
-	z-index: 157;
+	z-index: 154;
 	width: 179px;
 	background-color: transparent;
 	position: relative;
@@ -739,7 +739,7 @@
 
 #u12502-14
 {
-	z-index: 159;
+	z-index: 156;
 	width: 380px;
 	min-height: 257px;
 	background-color: transparent;
@@ -801,7 +801,7 @@
 
 #u12515
 {
-	z-index: 173;
+	z-index: 170;
 	width: 81px;
 	position: relative;
 	margin-right: -10000px;
@@ -913,7 +913,7 @@
 
 #u4247
 {
-	z-index: 61;
+	z-index: 58;
 	width: 363px;
 	height: 3px;
 	border-style: solid;
@@ -951,37 +951,14 @@
 	margin-top: 26px;
 }
 
-#u4298
+#u13321-14
 {
-	z-index: 9;
-	width: 37px;
-	height: 24px;
+	z-index: 175;
+	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 172px;
-}
-
-#u4299
-{
-	z-index: 10;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 251px;
-}
-
-#u4300
-{
-	z-index: 11;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 93px;
+	margin-top: 6px;
+	left: 90px;
 }
 
 #muse_css_mq,.html
@@ -1029,4 +1006,12 @@ body
 	font-style: normal;
 }
 
+@font-face
+{
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
 

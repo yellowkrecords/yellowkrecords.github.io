@@ -4,8 +4,8 @@
 
 .version.seagulls /* version checker */
 {
-	color: #00001E;
-	background-color: #7A1A14;
+	color: #000015;
+	background-color: #A6803A;
 }
 
 #page
@@ -30,12 +30,12 @@
 
 #u3789
 {
-	z-index: 13;
+	z-index: 10;
 }
 
 #u3790-4
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 30px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -60,7 +60,7 @@
 
 #u3791
 {
-	z-index: 18;
+	z-index: 15;
 }
 
 #u3805
@@ -334,18 +334,18 @@
 
 #menuu3801,#menuu3801-bw
 {
-	z-index: 19;
+	z-index: 16;
 	min-height: 184px;
 }
 
 #accordionu3788,#accordionu3788-bw
 {
-	z-index: 12;
+	z-index: 9;
 }
 
 #u11953
 {
-	z-index: 185;
+	z-index: 182;
 	width: 60px;
 	background-color: transparent;
 	margin-left: 5px;
@@ -355,13 +355,13 @@
 
 #u4531
 {
-	z-index: 186;
+	z-index: 183;
 	display: block;
 }
 
 #u11929
 {
-	z-index: 183;
+	z-index: 180;
 	width: 350px;
 	background-color: transparent;
 	margin-left: 5px;
@@ -371,7 +371,7 @@
 
 #u4529
 {
-	z-index: 184;
+	z-index: 181;
 	display: block;
 }
 
@@ -383,7 +383,7 @@
 
 #pamphletu4470
 {
-	z-index: 57;
+	z-index: 54;
 	width: 0.01px;
 	height: 167px;
 	padding-bottom: 104px;
@@ -401,12 +401,12 @@
 
 #u4478popup
 {
-	z-index: 58;
+	z-index: 55;
 }
 
 #u4487
 {
-	z-index: 59;
+	z-index: 56;
 	width: 380px;
 	height: 271px;
 	border-width: 0px;
@@ -418,7 +418,7 @@
 
 #u4488-10
 {
-	z-index: 60;
+	z-index: 57;
 	width: 356px;
 	min-height: 201px;
 	background-color: transparent;
@@ -458,7 +458,7 @@
 
 #u4479
 {
-	z-index: 70;
+	z-index: 67;
 	width: 380px;
 	height: 271px;
 	border-width: 0px;
@@ -470,7 +470,7 @@
 
 #u4480-10
 {
-	z-index: 71;
+	z-index: 68;
 	width: 356px;
 	min-height: 271px;
 	background-color: transparent;
@@ -485,7 +485,7 @@
 
 #u4485
 {
-	z-index: 81;
+	z-index: 78;
 	width: 380px;
 	height: 271px;
 	border-width: 0px;
@@ -497,7 +497,7 @@
 
 #u4486-10
 {
-	z-index: 82;
+	z-index: 79;
 	width: 356px;
 	min-height: 202px;
 	background-color: transparent;
@@ -512,7 +512,7 @@
 
 #u4489
 {
-	z-index: 92;
+	z-index: 89;
 	width: 380px;
 	height: 271px;
 	border-width: 0px;
@@ -524,7 +524,7 @@
 
 #u4490-10
 {
-	z-index: 93;
+	z-index: 90;
 	width: 356px;
 	min-height: 271px;
 	background-color: transparent;
@@ -539,7 +539,7 @@
 
 #u4481
 {
-	z-index: 103;
+	z-index: 100;
 	width: 380px;
 	height: 271px;
 	border-width: 0px;
@@ -551,7 +551,7 @@
 
 #u4482-10
 {
-	z-index: 104;
+	z-index: 101;
 	width: 356px;
 	min-height: 271px;
 	background-color: transparent;
@@ -566,7 +566,7 @@
 
 #u4483
 {
-	z-index: 114;
+	z-index: 111;
 	width: 380px;
 	height: 271px;
 	border-width: 0px;
@@ -578,7 +578,7 @@
 
 #u4484-10
 {
-	z-index: 115;
+	z-index: 112;
 	width: 356px;
 	min-height: 197px;
 	background-color: transparent;
@@ -613,7 +613,7 @@
 
 #u4471
 {
-	z-index: 125;
+	z-index: 122;
 	width: 98px;
 	position: relative;
 	margin-right: -10000px;
@@ -803,7 +803,7 @@
 
 #u11542
 {
-	z-index: 168;
+	z-index: 165;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -814,13 +814,13 @@
 
 #u4500
 {
-	z-index: 169;
+	z-index: 166;
 	display: block;
 }
 
 #u11635
 {
-	z-index: 170;
+	z-index: 167;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -831,13 +831,13 @@
 
 #u4502
 {
-	z-index: 171;
+	z-index: 168;
 	display: block;
 }
 
 #u11698
 {
-	z-index: 172;
+	z-index: 169;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -848,13 +848,13 @@
 
 #u4504
 {
-	z-index: 173;
+	z-index: 170;
 	display: block;
 }
 
 #u11755
 {
-	z-index: 174;
+	z-index: 171;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -865,13 +865,13 @@
 
 #u4506
 {
-	z-index: 175;
+	z-index: 172;
 	display: block;
 }
 
 #u4510
 {
-	z-index: 177;
+	z-index: 174;
 	width: 195px;
 	background-color: transparent;
 	position: relative;
@@ -881,7 +881,7 @@
 
 #u11830
 {
-	z-index: 181;
+	z-index: 178;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -892,18 +892,18 @@
 
 #u4527
 {
-	z-index: 182;
+	z-index: 179;
 	display: block;
 }
 
 #u4497-20
 {
-	z-index: 132;
+	z-index: 129;
 	min-height: 401px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -921,7 +921,7 @@
 
 #u4497-20-bw
 {
-	z-index: 132;
+	z-index: 129;
 	min-height: 401px;
 	margin-top: -37px;
 	margin-bottom: -37px;
@@ -936,7 +936,7 @@
 
 #u4498
 {
-	z-index: 152;
+	z-index: 149;
 	width: 187px;
 	height: 187px;
 	-pie-box-shadow: none;
@@ -954,7 +954,7 @@
 
 #u4499-15
 {
-	z-index: 153;
+	z-index: 150;
 	width: 181px;
 	min-height: 139px;
 	background-color: transparent;
@@ -999,7 +999,7 @@
 
 #u4512
 {
-	z-index: 179;
+	z-index: 176;
 	width: 187px;
 	background-color: transparent;
 	position: relative;
@@ -1008,7 +1008,7 @@
 
 #u4508
 {
-	z-index: 176;
+	z-index: 173;
 	width: 327px;
 	min-height: 256px;
 	border-width: 0px;
@@ -1021,7 +1021,7 @@
 
 #u4467
 {
-	z-index: 56;
+	z-index: 53;
 	width: 327px;
 	min-height: 204px;
 	border-width: 0px;
@@ -1058,37 +1058,14 @@
 	margin-top: 26px;
 }
 
-#u4298
+#u13321-14
 {
-	z-index: 9;
-	width: 37px;
-	height: 24px;
+	z-index: 184;
+	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 172px;
-}
-
-#u4299
-{
-	z-index: 10;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 251px;
-}
-
-#u4300
-{
-	z-index: 11;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 93px;
+	margin-top: 6px;
+	left: 90px;
 }
 
 #muse_css_mq,.html
@@ -1132,6 +1109,15 @@ body
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

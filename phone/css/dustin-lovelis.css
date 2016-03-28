@@ -4,8 +4,8 @@
 
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000EE;
-	background-color: #A3FD23;
+	color: #0000E0;
+	background-color: #31F868;
 }
 
 #page
@@ -25,12 +25,12 @@
 
 #u3789
 {
-	z-index: 13;
+	z-index: 10;
 }
 
 #u3790-4
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 30px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -55,7 +55,7 @@
 
 #u3791
 {
-	z-index: 18;
+	z-index: 15;
 }
 
 #u3805
@@ -329,18 +329,18 @@
 
 #menuu3801,#menuu3801-bw
 {
-	z-index: 19;
+	z-index: 16;
 	min-height: 184px;
 }
 
 #accordionu3788,#accordionu3788-bw
 {
-	z-index: 12;
+	z-index: 9;
 }
 
 #u11959
 {
-	z-index: 84;
+	z-index: 81;
 	width: 60px;
 	background-color: transparent;
 	margin-left: 11px;
@@ -350,13 +350,13 @@
 
 #u4605
 {
-	z-index: 85;
+	z-index: 82;
 	display: block;
 }
 
 #u11920
 {
-	z-index: 82;
+	z-index: 79;
 	width: 316px;
 	background-color: transparent;
 	margin-left: 11px;
@@ -366,7 +366,7 @@
 
 #u4603
 {
-	z-index: 83;
+	z-index: 80;
 	display: block;
 }
 
@@ -379,7 +379,7 @@
 
 #u4601
 {
-	z-index: 80;
+	z-index: 77;
 	width: 195px;
 	height: 139px;
 	position: relative;
@@ -395,7 +395,7 @@
 
 #u11548
 {
-	z-index: 78;
+	z-index: 75;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -406,13 +406,13 @@
 
 #u4599
 {
-	z-index: 79;
+	z-index: 76;
 	display: block;
 }
 
 #u4591-9
 {
-	z-index: 56;
+	z-index: 53;
 	min-height: 158px;
 	background-color: transparent;
 	padding-left: 12px;
@@ -440,19 +440,19 @@
 
 #u4591-9-bw
 {
-	z-index: 56;
+	z-index: 53;
 	min-height: 158px;
 	margin-top: 13px;
 }
 
 #u5423-16
 {
-	z-index: 86;
+	z-index: 83;
 	min-height: 307px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -470,7 +470,7 @@
 
 #u5423-16-bw
 {
-	z-index: 86;
+	z-index: 83;
 	min-height: 307px;
 	margin-top: 13px;
 }
@@ -484,7 +484,7 @@
 
 #u4597
 {
-	z-index: 65;
+	z-index: 62;
 	width: 186px;
 	height: 186px;
 	-pie-box-shadow: none;
@@ -502,7 +502,7 @@
 
 #u4598-12
 {
-	z-index: 66;
+	z-index: 63;
 	width: 154px;
 	min-height: 123px;
 	background-color: transparent;
@@ -548,7 +548,7 @@
 
 #u4602
 {
-	z-index: 81;
+	z-index: 78;
 	width: 186px;
 	height: 186px;
 	position: relative;
@@ -588,37 +588,14 @@
 	margin-top: 26px;
 }
 
-#u4298
+#u13321-14
 {
-	z-index: 9;
-	width: 37px;
-	height: 24px;
+	z-index: 99;
+	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 172px;
-}
-
-#u4299
-{
-	z-index: 10;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 251px;
-}
-
-#u4300
-{
-	z-index: 11;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 93px;
+	margin-top: 6px;
+	left: 90px;
 }
 
 #muse_css_mq,.html
@@ -662,6 +639,15 @@ body
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

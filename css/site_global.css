@@ -96,6 +96,12 @@ body
 	font-feature-settings: 'liga';
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
 	color: #0000FF;
@@ -192,6 +198,96 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #EAC516;
 	text-decoration: none;
+}
+
+.menu-link a:link
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.menu-link a:visited
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.menu-link a:hover
+{
+	color: #EAC516;
+	text-decoration: inherit;
+}
+
+.menu-link a:active,.no-show a:link
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.no-show a:visited
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.no-show a:hover
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.no-show a:active
+{
+	color: #000000;
+	text-decoration: inherit;
+}
+
+.social-icons a:link
+{
+	color: #484848;
+	text-decoration: inherit;
+}
+
+.social-icons a:visited
+{
+	color: #484848;
+	text-decoration: inherit;
+}
+
+.social-icons a:hover
+{
+	color: #EAC516;
+	text-decoration: inherit;
+}
+
+.social-icons a:active
+{
+	color: #484848;
+	text-decoration: inherit;
+}
+
+.menu-social-icons a:link
+{
+	color: #EAC516;
+	text-decoration: inherit;
+}
+
+.menu-social-icons a:visited
+{
+	color: #EAC516;
+	text-decoration: inherit;
+}
+
+.menu-social-icons a:hover
+{
+	color: #FFE3B7;
+	text-decoration: inherit;
+}
+
+.menu-social-icons a:active
+{
+	color: #EAC516;
+	text-decoration: inherit;
 }
 
 .normal_text

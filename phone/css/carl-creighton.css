@@ -4,8 +4,8 @@
 
 .version.carl_creighton /* version checker */
 {
-	color: #00001A;
-	background-color: #CFDD0E;
+	color: #0000E7;
+	background-color: #202FB0;
 }
 
 #page
@@ -25,12 +25,12 @@
 
 #u3789
 {
-	z-index: 13;
+	z-index: 10;
 }
 
 #u3790-4
 {
-	z-index: 14;
+	z-index: 11;
 	min-height: 30px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -55,7 +55,7 @@
 
 #u3791
 {
-	z-index: 18;
+	z-index: 15;
 }
 
 #u3805
@@ -329,18 +329,18 @@
 
 #menuu3801,#menuu3801-bw
 {
-	z-index: 19;
+	z-index: 16;
 	min-height: 184px;
 }
 
 #accordionu3788,#accordionu3788-bw
 {
-	z-index: 12;
+	z-index: 9;
 }
 
 #u12106
 {
-	z-index: 56;
+	z-index: 53;
 	width: 214px;
 	background-color: transparent;
 	margin-left: 84px;
@@ -350,7 +350,7 @@
 
 #u8379
 {
-	z-index: 57;
+	z-index: 54;
 	display: block;
 }
 
@@ -363,7 +363,7 @@
 
 #u8381
 {
-	z-index: 58;
+	z-index: 55;
 	width: 219px;
 	background-color: transparent;
 	position: relative;
@@ -377,7 +377,7 @@
 
 #u11914
 {
-	z-index: 60;
+	z-index: 57;
 	width: 20px;
 	background-color: transparent;
 	position: relative;
@@ -388,18 +388,18 @@
 
 #u8383
 {
-	z-index: 61;
+	z-index: 58;
 	display: block;
 }
 
 #u8385-14
 {
-	z-index: 62;
+	z-index: 59;
 	min-height: 327px;
 	background-color: transparent;
-	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
+	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -417,14 +417,14 @@
 
 #u8385-14-bw
 {
-	z-index: 62;
+	z-index: 59;
 	min-height: 327px;
 	margin-top: 20px;
 }
 
 #u8386
 {
-	z-index: 76;
+	z-index: 73;
 	width: 268px;
 	background-color: transparent;
 	margin-left: 56px;
@@ -464,37 +464,14 @@
 	margin-top: 26px;
 }
 
-#u4298
+#u13321-14
 {
-	z-index: 9;
-	width: 37px;
-	height: 24px;
+	z-index: 75;
+	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 172px;
-}
-
-#u4299
-{
-	z-index: 10;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 251px;
-}
-
-#u4300
-{
-	z-index: 11;
-	width: 37px;
-	height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 14px;
-	left: 93px;
+	margin-top: 6px;
+	left: 90px;
 }
 
 #muse_css_mq,.html
@@ -538,6 +515,15 @@ body
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

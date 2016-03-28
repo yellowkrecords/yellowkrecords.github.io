@@ -4,8 +4,8 @@
 	border-color: transparent;
 	background-color: #7F7F7F;
 	color: #FFFFFF;
-	line-height: 30px;
 	font-size: 30px;
+	line-height: 30px;
 	font-family: '__websocialmenus_5';
 	font-weight: 400;
 }
@@ -88,9 +88,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -138,9 +138,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -188,9 +188,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -238,9 +238,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -288,9 +288,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -338,9 +338,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -360,11 +360,28 @@
 	display: block;
 }
 
+#u9304
+{
+	background: transparent url("../../images/insta-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
 .big_menu_insta
 {
 	border-width: 0px;
 	border-color: #000000;
 	background: transparent url("../../images/insta-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg .big_menu_insta,.nosvg #u9304
+{
+	background-image: url('../../images/insta-01_poster_u1385.png');
+}
+
+#u9302
+{
+	background: transparent url("../../images/fb-01-01.svg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -376,12 +393,28 @@
 	background-size: contain;
 }
 
+.nosvg .big_menu_facebook,.nosvg #u9302
+{
+	background-image: url('../../images/fb-01-01_poster_u1346.png');
+}
+
+#u9303
+{
+	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
+	background-size: contain;
+}
+
 .big_menu_twitter
 {
 	border-width: 0px;
 	border-color: #000000;
 	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
 	background-size: contain;
+}
+
+.nosvg .big_menu_twitter,.nosvg #u9303
+{
+	background-image: url('../../images/twiiter-01_poster_u1372.png');
 }
 
 .MenuItem,.AccordionPanelTab /* unifiedNavBar */
@@ -409,36 +442,20 @@
 	color: #FFFFFF;
 }
 
-#u9302,#u4771
+#u13327-14
 {
-	background: transparent url("../../images/fb-01-01.svg") no-repeat center center;
-	background-size: contain;
+	background-color: transparent;
+	line-height: 30px;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 30px;
+	font-family: '__websocialmenus_5';
+	font-weight: 400;
 }
 
-.nosvg .big_menu_facebook,.nosvg #u9302,.nosvg #u4771
+#u13327-10
 {
-	background-image: url('../../images/fb-01-01_poster_u1346.png');
-}
-
-#u9303,#u4772
-{
-	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_twitter,.nosvg #u9303,.nosvg #u4772
-{
-	background-image: url('../../images/twiiter-01_poster_u1372.png');
-}
-
-#u9304,#u4773
-{
-	background: transparent url("../../images/insta-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_insta,.nosvg #u9304,.nosvg #u4773
-{
-	background-image: url('../../images/insta-01_poster_u1385.png');
+	font-family: '__web-icons_5';
+	font-weight: 400;
 }
 
