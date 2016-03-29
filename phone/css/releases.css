@@ -4,8 +4,8 @@
 
 .version.releases /* version checker */
 {
-	color: #0000F5;
-	background-color: #0F8E7C;
+	color: #0000F4;
+	background-color: #C7B65D;
 }
 
 #page
@@ -1639,6 +1639,15 @@ body
 
 @font-face
 {
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
@@ -1646,12 +1655,4 @@ body
 	font-style: normal;
 }
 
-@font-face
-{
-	font-family: '__web-icons_5';
-	src: url('../../fonts/web-icons.eot');
-	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
 

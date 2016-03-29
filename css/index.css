@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000013;
-	background-color: #8B9500;
+	color: #000015;
+	background-color: #3FE00A;
 }
 
 #page
@@ -1577,8 +1577,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 20px;
-	color: #484848;
 	text-align: center;
+	color: #484848;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	font-style: italic;
