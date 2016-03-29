@@ -4,8 +4,8 @@
 
 .version.eskimeaux /* version checker */
 {
-	color: #0000F5;
-	background-color: #E34599;
+	color: #0000FD;
+	background-color: #0EA4C4;
 }
 
 #page
@@ -27,14 +27,12 @@
 #page_position_content
 {
 	margin-top: -1px;
-	margin-bottom: -1px;
 	width: 0.01px;/* should not cover content below */
 }
 
 #pu12625
 {
 	width: 0.01px;
-	margin-left: -97px;
 }
 
 #u12625
@@ -45,27 +43,17 @@
 	margin-right: -10000px;
 }
 
-#pu12811-4
+#pu12797-4
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 17px;
-	margin-left: 897px;
-}
-
-#u12811-4
-{
-	z-index: 126;
-	width: 16px;
-	min-height: 40px;
-	position: relative;
-	margin-right: -10000px;
-	left: 98px;
+	margin-top: 23px;
+	margin-left: 885px;
 }
 
 #u12797-4
 {
-	z-index: 130;
+	z-index: 126;
 	width: 16px;
 	min-height: 40px;
 	position: relative;
@@ -74,7 +62,7 @@
 
 #u12803-4
 {
-	z-index: 135;
+	z-index: 131;
 	width: 107px;
 	min-height: 34px;
 	position: relative;
@@ -97,8 +85,8 @@
 	width: 648px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 17px;
-	left: 237px;
+	margin-top: 23px;
+	left: 224px;
 }
 
 #u12636
@@ -385,8 +373,8 @@
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 17px;
-	left: 339px;
+	margin-top: 23px;
+	left: 327px;
 }
 
 #u12785-4
@@ -396,8 +384,8 @@
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 17px;
-	left: 447px;
+	margin-top: 23px;
+	left: 435px;
 }
 
 #u12788-4
@@ -407,8 +395,8 @@
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 17px;
-	left: 551px;
+	margin-top: 23px;
+	left: 538px;
 }
 
 #u12791-4
@@ -418,8 +406,8 @@
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 17px;
-	left: 672px;
+	margin-top: 23px;
+	left: 660px;
 }
 
 #u12794-4
@@ -429,28 +417,8 @@
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 17px;
-	left: 760px;
-}
-
-#u12808-4
-{
-	z-index: 139;
-	width: 107px;
-	min-height: 34px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 1023px;
-}
-
-#u12808-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 34px;
-	width: 107px;
-	margin: 17px -10000px 0px 0px;
+	margin-top: 23px;
+	left: 748px;
 }
 
 #u12028
@@ -532,7 +500,7 @@
 
 #buttonu12800
 {
-	z-index: 134;
+	z-index: 130;
 	width: 74px;
 	height: 50px;
 	position: relative;
@@ -609,9 +577,9 @@
 	width: 936px;
 	min-height: 235px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;
@@ -698,8 +666,8 @@
 	width: 50px;
 	min-height: 50px;
 	left: -100px;
-	top: -22px;
-	margin-bottom: -22px;
+	top: -23px;
+	margin-bottom: -23px;
 	position: relative;
 }
 
@@ -737,7 +705,7 @@
 
 #u13317-14
 {
-	z-index: 143;
+	z-index: 135;
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
@@ -758,18 +726,18 @@ body
 
 @font-face
 {
-	font-family: '__websocialmenus_5';
-	src: url('../fonts/websocialmenus.eot');
-	src: local('☺'), url('../fonts/websocialmenus.woff') format('woff'), url('../fonts/websocialmenus.svg') format('svg');
+	font-family: '__web-icons_5';
+	src: url('../fonts/web-icons.eot');
+	src: local('☺'), url('../fonts/web-icons.woff') format('woff'), url('../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
-	font-family: '__web-icons_5';
-	src: url('../fonts/web-icons.eot');
-	src: local('☺'), url('../fonts/web-icons.woff') format('woff'), url('../fonts/web-icons.svg') format('svg');
+	font-family: '__websocialmenus_5';
+	src: url('../fonts/websocialmenus.eot');
+	src: local('☺'), url('../fonts/websocialmenus.woff') format('woff'), url('../fonts/websocialmenus.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

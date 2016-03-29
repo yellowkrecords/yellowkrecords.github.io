@@ -1,9 +1,9 @@
 #u12803-4
 {
 	background-color: transparent;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -21,8 +21,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	color: #000000;
 	font-size: 24px;
 	font-family: source-sans-pro, sans-serif;
@@ -49,8 +49,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	color: #000000;
 	font-size: 24px;
 	font-family: source-sans-pro, sans-serif;
@@ -77,8 +77,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	color: #000000;
 	font-size: 24px;
 	font-family: source-sans-pro, sans-serif;
@@ -105,8 +105,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	color: #000000;
 	font-size: 24px;
 	font-family: source-sans-pro, sans-serif;
@@ -133,8 +133,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	color: #000000;
 	font-size: 24px;
 	font-family: source-sans-pro, sans-serif;
@@ -166,8 +166,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	color: #000000;
 	font-size: 24px;
 	font-family: source-sans-pro, sans-serif;
@@ -194,31 +194,13 @@
 	cursor: pointer;
 }
 
-#u12811-4,#u12797-4,#u12779-4,#u12785-4,#u12788-4,#u12791-4,#u12794-4
+#u12797-4,#u12779-4,#u12785-4,#u12788-4,#u12791-4,#u12794-4
 {
 	background-color: transparent;
-	font-size: 25px;
 	line-height: 30px;
+	font-size: 25px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
-}
-
-#u12808-4
-{
-	background-color: transparent;
-	text-align: center;
-	font-size: 24px;
-	line-height: 29px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
-	font-style: italic;
-}
-
-#u12808-4:hover p
-{
-	color: #EAC516;
-	visibility: inherit;
-	text-decoration: none;
 }
 
 #u787

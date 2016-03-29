@@ -1,43 +1,43 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459198879635">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459224791792">
   <folder name="css">
-    <file name="site_global.css" crc="315553776"/>
-    <file name="master_a-master.css" crc="422468661" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:william-alexander-2:index:seagulls:tour:releases:new-god:about:roster"/>
-    <file name="carl-creighton.css" crc="347595525" ref="carl-creighton"/>
-    <file name="iefonts_carl-creighton.css" crc="3879744894" ref="carl-creighton"/>
-    <file name="japanese-breakfast.css" crc="332836374" ref="japanese-breakfast"/>
-    <file name="iefonts_japanese-breakfast.css" crc="511566102" ref="japanese-breakfast"/>
-    <file name="luka.css" crc="3782153905" ref="luka"/>
-    <file name="iefonts_luka.css" crc="4209107036" ref="luka"/>
-    <file name="jagged-leaves.css" crc="301402124" ref="jagged-leaves"/>
-    <file name="iefonts_jagged-leaves.css" crc="3759925098" ref="jagged-leaves"/>
-    <file name="gobbinjr.css" crc="473262726" ref="gobbinjr"/>
-    <file name="william-alexander.css" crc="469287132" ref="william-alexander"/>
-    <file name="iefonts_william-alexander.css" crc="4070117458" ref="william-alexander"/>
-    <file name="konig.css" crc="309333946" ref="konig"/>
-    <file name="iefonts_konig.css" crc="358709812" ref="konig"/>
-    <file name="distribution.css" crc="287590400" ref="distribution"/>
-    <file name="iefonts_distribution.css" crc="4540083" ref="distribution"/>
-    <file name="dustin-lovelis.css" crc="523891019" ref="dustin-lovelis"/>
-    <file name="iefonts_dustin-lovelis.css" crc="413999464" ref="dustin-lovelis"/>
-    <file name="eskimeaux.css" crc="4125312409" ref="eskimeaux"/>
-    <file name="iefonts_eskimeaux.css" crc="4249215760" ref="eskimeaux"/>
-    <file name="william-alexander-2.css" crc="4196949985" ref="william-alexander-2"/>
-    <file name="iefonts_william-alexander-2.css" crc="532294386" ref="william-alexander-2"/>
-    <file name="index.css" crc="514559393" ref="index"/>
-    <file name="iefonts_index.css" crc="98870589" ref="index"/>
-    <file name="seagulls.css" crc="3928572201" ref="seagulls"/>
-    <file name="iefonts_seagulls.css" crc="4088124235" ref="seagulls"/>
-    <file name="tour.css" crc="3965465777" ref="tour"/>
-    <file name="releases.css" crc="458482633" ref="releases"/>
-    <file name="iefonts_releases.css" crc="406623574" ref="releases"/>
-    <file name="new-god.css" crc="445085327" ref="new-god"/>
-    <file name="iefonts_new-god.css" crc="4120464127" ref="new-god"/>
-    <file name="about.css" crc="3961625229" ref="about"/>
-    <file name="roster.css" crc="45900974" ref="roster"/>
-    <file name="iefonts_gobbinjr.css" crc="510943702" ref="gobbinjr"/>
-    <file name="iefonts_roster.css" crc="483355728" ref="roster"/>
-    <file name="iefonts_tour.css" crc="3820316744" ref="tour"/>
-    <file name="iefonts_about.css" crc="4143801681" ref="about"/>
+    <file name="site_global.css" crc="4222294970"/>
+    <file name="master_a-master.css" crc="517970592" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:william-alexander-2:index:seagulls:tour:releases:new-god:about:roster"/>
+    <file name="carl-creighton.css" crc="4106190841" ref="carl-creighton"/>
+    <file name="iefonts_carl-creighton.css" crc="3951638986" ref="carl-creighton"/>
+    <file name="japanese-breakfast.css" crc="307598937" ref="japanese-breakfast"/>
+    <file name="iefonts_japanese-breakfast.css" crc="250543759" ref="japanese-breakfast"/>
+    <file name="luka.css" crc="333395719" ref="luka"/>
+    <file name="iefonts_luka.css" crc="3974509238" ref="luka"/>
+    <file name="jagged-leaves.css" crc="4182951890" ref="jagged-leaves"/>
+    <file name="iefonts_jagged-leaves.css" crc="3973245918" ref="jagged-leaves"/>
+    <file name="gobbinjr.css" crc="463441432" ref="gobbinjr"/>
+    <file name="william-alexander.css" crc="124392029" ref="william-alexander"/>
+    <file name="iefonts_william-alexander.css" crc="4217345735" ref="william-alexander"/>
+    <file name="konig.css" crc="4212517721" ref="konig"/>
+    <file name="iefonts_konig.css" crc="430470784" ref="konig"/>
+    <file name="distribution.css" crc="92480966" ref="distribution"/>
+    <file name="iefonts_distribution.css" crc="488388577" ref="distribution"/>
+    <file name="dustin-lovelis.css" crc="3788983058" ref="dustin-lovelis"/>
+    <file name="iefonts_dustin-lovelis.css" crc="295494475" ref="dustin-lovelis"/>
+    <file name="eskimeaux.css" crc="4245595332" ref="eskimeaux"/>
+    <file name="iefonts_eskimeaux.css" crc="4184548181" ref="eskimeaux"/>
+    <file name="william-alexander-2.css" crc="4248375106" ref="william-alexander-2"/>
+    <file name="iefonts_william-alexander-2.css" crc="39968726" ref="william-alexander-2"/>
+    <file name="index.css" crc="327914752" ref="index"/>
+    <file name="iefonts_index.css" crc="4172220855" ref="index"/>
+    <file name="seagulls.css" crc="3982915050" ref="seagulls"/>
+    <file name="iefonts_seagulls.css" crc="4077753232" ref="seagulls"/>
+    <file name="tour.css" crc="4136633888" ref="tour"/>
+    <file name="releases.css" crc="370097436" ref="releases"/>
+    <file name="iefonts_releases.css" crc="391342037" ref="releases"/>
+    <file name="new-god.css" crc="4254178219" ref="new-god"/>
+    <file name="iefonts_new-god.css" crc="3849096890" ref="new-god"/>
+    <file name="about.css" crc="4050552120" ref="about"/>
+    <file name="roster.css" crc="4106176264" ref="roster"/>
+    <file name="iefonts_gobbinjr.css" crc="141800252" ref="gobbinjr"/>
+    <file name="iefonts_roster.css" crc="139574061" ref="roster"/>
+    <file name="iefonts_tour.css" crc="4077520277" ref="tour"/>
+    <file name="iefonts_about.css" crc="4175749827" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
@@ -197,7 +197,7 @@
     <file name="seagulls_artist_pic300x216_2x.jpg" crc="362595307" seo="true" ref="phone>roster"/>
     <file name="eskimeaux_artist_pic300x217.jpg" crc="3819071615" seo="true" ref="phone>roster"/>
     <file name="eskimeaux_artist_pic300x217_2x.jpg" crc="4101469898" seo="true" ref="phone>roster"/>
-    <file name="alex the brown-9668.jpg" crc="4059054572" seo="true" ref="phone>roster:tablet>roster:william-alexander"/>
+    <file name="alex the brown-9668.jpg" crc="261434572" seo="true" ref="phone>roster:tablet>roster:william-alexander"/>
     <file name="alex the brown-9668_2x.jpg" crc="47437531" seo="true" ref="phone>roster:tablet>roster:william-alexander"/>
     <file name="img_0449-crop-u7532.png" crc="216476184" ref="phone>roster"/>
     <file name="img_0449-crop-u7532_2x.png" crc="3915577278" ref="phone>roster"/>
@@ -211,7 +211,7 @@
     <file name="konig-artist-pic-crop-u6216.png" crc="3964501055" ref="phone>roster"/>
     <file name="konig-artist-pic-crop-u6216_2x.png" crc="3990080245" ref="phone>roster"/>
     <file name="pasted-svg-543928x71.svg" crc="4047622" ref="phone>roster:tablet>roster:roster"/>
-    <file name="dustin_artist_pic.jpg" crc="4251301396" ref="phone>roster:tablet>roster:dustin-lovelis"/>
+    <file name="dustin_artist_pic.jpg" crc="227122949" ref="phone>roster:tablet>roster:roster"/>
     <file name="pasted-svg-120287x35.svg" crc="476116272" ref="phone>new-god:phone>seagulls:phone>william-alexander:phone>nicole-dollanganger:phone>dustin-lovelis:phone>eskimeaux:phone>konig:william-alexander-2:dustin-lovelis"/>
     <file name="pasted-svg-17372x32.svg" crc="4036536545" ref="phone>new-god:tablet>new-god:new-god"/>
     <file name="new-god-2015-pic-hires195x140.jpg" crc="3834091494" seo="true" ref="phone>new-god"/>
@@ -243,14 +243,14 @@
     <file name="nicole_artist_pic-crop-u4615_2x.png" crc="4222658899" ref="phone>nicole-dollanganger"/>
     <file name="pasted-svg-9809x9.svg" crc="461014809" ref="phone>nicole-dollanganger:phone>konig:tablet>nicole-dollanganger:tablet>konig:konig"/>
     <file name="pasted-svg-26227x70.svg" crc="3769927544" ref="phone>releases:releases"/>
-    <file name="pasted svg 26227x70_poster_.png" crc="9081532" ref="phone>releases"/>
+    <file name="pasted svg 26227x70_poster_.png" crc="4107334480" ref="phone>releases:releases"/>
     <file name="pasted-svg-394785x80.svg" crc="181985863" ref="phone>releases:tablet>releases:releases"/>
-    <file name="pasted svg 394785x80_poster_.png" crc="108491203" ref="phone>releases"/>
+    <file name="pasted svg 394785x80_poster_.png" crc="506732527" ref="phone>releases:releases"/>
     <file name="pasted svg 137349x43_poster_.png" crc="162119590" ref="phone>index"/>
     <file name="psychopomp-cover-web-1500128x128.jpg" crc="113671758" seo="true" ref="phone>releases"/>
     <file name="psychopomp-cover-web-1500128x128_2x.jpg" crc="4036425321" seo="true" ref="phone>releases"/>
     <file name="pasted-svg-267803x61.svg" crc="175397836" ref="phone>releases:tablet>releases:releases"/>
-    <file name="pasted svg 267803x61_poster_.png" crc="323362315" ref="phone>releases"/>
+    <file name="pasted svg 267803x61_poster_.png" crc="211799617" ref="phone>releases:releases"/>
     <file name="jagged leaves nightmare afternoon cover 1500128x126.jpg" crc="3888068319" seo="true" ref="phone>releases"/>
     <file name="jagged leaves nightmare afternoon cover 1500128x126_2x.jpg" crc="449450565" seo="true" ref="phone>releases"/>
     <file name="pasted image 177x177127x127.png" crc="359710120" seo="true" ref="phone>releases"/>
@@ -318,12 +318,12 @@
     <file name="yellow-k-logo-horiz-b-w-trans-u4895-fr_2x.png" crc="430163005" ref="tablet>index"/>
     <file name="psychopomp-cover-web-1500.jpg" crc="297237632" seo="true" ref="tablet>index:releases:index"/>
     <file name="psychopomp-cover-web-1500_2x.jpg" crc="11582849" seo="true" ref="tablet>index:releases:index"/>
-    <file name="jagged leaves nightmare afternoon cover 1500238x237.jpg" crc="174027746" seo="true" ref="tablet>index"/>
-    <file name="jagged leaves nightmare afternoon cover 1500238x237_2x.jpg" crc="356922055" seo="true" ref="tablet>index"/>
-    <file name="danpic236x237.jpg" crc="472348558" seo="true" ref="tablet>index"/>
-    <file name="danpic236x237_2x.jpg" crc="269578882" seo="true" ref="tablet>index"/>
-    <file name="gobbinjrpic241x241.jpg" crc="410916086" seo="true" ref="tablet>index"/>
-    <file name="gobbinjrpic241x241_2x.jpg" crc="4185619576" seo="true" ref="tablet>index"/>
+    <file name="jagged leaves nightmare afternoon cover 1500238x237.jpg" crc="174027746" seo="true" ref="tablet>index:index"/>
+    <file name="jagged leaves nightmare afternoon cover 1500238x237_2x.jpg" crc="356922055" seo="true" ref="tablet>index:index"/>
+    <file name="danpic236x237.jpg" crc="472348558" seo="true" ref="tablet>index:index"/>
+    <file name="danpic236x237_2x.jpg" crc="269578882" seo="true" ref="tablet>index:index"/>
+    <file name="gobbinjrpic241x241.jpg" crc="410916086" seo="true" ref="tablet>index:index"/>
+    <file name="gobbinjrpic241x241_2x.jpg" crc="4185619576" seo="true" ref="tablet>index:index"/>
     <file name="yellowkoriginal-crop-u5400.png" crc="515701400" ref="tablet>about"/>
     <file name="yellowkoriginal-crop-u5400_2x.png" crc="317138898" ref="tablet>about"/>
     <file name="img_0449-crop-u7528.png" crc="216476184" ref="tablet>roster"/>
@@ -382,7 +382,7 @@
     <file name="luka 2 (josh madonald)261x214_2x.jpg" crc="3935808997" seo="true" ref="roster"/>
     <file name="konig-artist-pic-crop-u6116.png" crc="281361920" ref="roster"/>
     <file name="konig-artist-pic-crop-u6116_2x.png" crc="174225385" ref="roster"/>
-    <file name="dustin_artist_pic2.jpg" crc="227122949" ref="roster"/>
+    <file name="dustin_artist_pic2.jpg" crc="4251301396" ref="dustin-lovelis"/>
     <file name="dustin_artist_pic_2x.jpg" crc="4251301396" ref="roster"/>
     <file name="jagged leaves nightmare afternoon cover 1500238x234.jpg" crc="174027746" seo="true" ref="releases"/>
     <file name="jagged leaves nightmare afternoon cover 1500238x234_2x.jpg" crc="356922055" seo="true" ref="releases"/>
@@ -459,13 +459,13 @@
     <file name="gobbinjrpic-crop-u7732_2x.png" crc="4151278514" ref="gobbinjr"/>
     <file name="danpic-crop-u7849.png" crc="4290588982" ref="jagged-leaves"/>
     <file name="danpic-crop-u7849_2x.png" crc="70820503" ref="jagged-leaves"/>
-    <file name="pasted svg 267825x19_poster_.png" crc="272185417" ref="phone>japanese-breakfast"/>
+    <file name="pasted svg 267825x19_poster_.png" crc="3771481941" ref="phone>japanese-breakfast:japanese-breakfast"/>
     <file name="japanese breakfast artist pic370x278.jpg" crc="417012416" seo="true" ref="japanese-breakfast"/>
     <file name="japanese breakfast artist pic370x278_2x.jpg" crc="4063707754" seo="true" ref="japanese-breakfast"/>
-    <file name="pasted svg 9832x9_poster_.png" crc="4290022102" ref="phone>gobbinjr"/>
-    <file name="pasted svg 23704x23_poster_.png" crc="278612837" ref="phone>gobbinjr"/>
-    <file name="pasted svg 23704x23_poster_2.png" crc="3831807250" ref="phone>gobbinjr"/>
-    <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="phone>gobbinjr"/>
+    <file name="pasted svg 9832x9_poster_.png" crc="4290022102" ref="phone>gobbinjr:new-god"/>
+    <file name="pasted svg 23704x23_poster_.png" crc="278612837" ref="phone>gobbinjr:new-god"/>
+    <file name="pasted svg 23704x23_poster_2.png" crc="3831807250" ref="phone>gobbinjr:new-god"/>
+    <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="phone>gobbinjr:new-god"/>
     <file name=" luka 2 (josh madonald)jpg .jpg" crc="4220220562" seo="true" ref="luka"/>
     <file name=" luka 2 (josh madonald)jpg _2x.jpg" crc="4166551181" seo="true" ref="luka"/>
     <file name="carl creighton artist pic 2.jpg" crc="4205551387" seo="true" ref="carl-creighton"/>
@@ -496,8 +496,8 @@
     <file name="japanese breakfast artist pic-crop-u12189_2x.png" crc="451709188" ref="index"/>
     <file name="luka 2 (josh madonald)-crop-u12154.png" crc="366698306" ref="index"/>
     <file name="luka 2 (josh madonald)-crop-u12154_2x.png" crc="66427735" ref="index"/>
-    <file name="pasted svg 198167x40_poster_.png" crc="3986927448" ref="phone>gobbinjr"/>
-    <file name="pasted svg 123357x35_poster_.png" crc="3796711055" ref="phone>luka"/>
+    <file name="pasted svg 198167x40_poster_.png" crc="3986927448" ref="phone>gobbinjr:gobbinjr"/>
+    <file name="pasted svg 123357x35_poster_.png" crc="3796711055" ref="phone>luka:luka"/>
     <file name="japanese breakfast artist pic-crop-u8657.png" crc="8466828" ref="tablet>index"/>
     <file name="japanese breakfast artist pic-crop-u8657_2x.png" crc="451709188" ref="tablet>index"/>
     <file name="luka 2 (josh madonald)-crop-u8654.png" crc="366698306" ref="tablet>index"/>
@@ -630,22 +630,22 @@
     <file name="luka.html" crc="3981465559" seo="true" mt="1459191384776" redirect="true"/>
     <file name="carl-creighton.html" crc="154140023" seo="true" mt="1459191384776" redirect="true"/>
   </folder>
-  <file name="about.html" crc="420488441" seo="true" mt="1459198867373" redirect="true"/>
-  <file name="roster.html" crc="166304953" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="releases.html" crc="394408439" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="tour.html" crc="4003933481" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="new-god.html" crc="4282563094" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="seagulls.html" crc="197348996" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="index.html" crc="4244165098" seo="true" mt="1459191843769" redirect="true"/>
-  <file name="william-alexander-2.html" crc="3849225549" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="dustin-lovelis.html" crc="3878272236" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="eskimeaux.html" crc="343017412" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="william-alexander.html" crc="3864290176" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="konig.html" crc="4167836002" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="distribution.html" crc="170350940" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="gobbinjr.html" crc="4110549252" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="jagged-leaves.html" crc="188311763" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="japanese-breakfast.html" crc="296834312" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="luka.html" crc="3870288679" seo="true" mt="1459191373065" redirect="true"/>
-  <file name="carl-creighton.html" crc="4127824622" seo="true" mt="1459191373065" redirect="true"/>
+  <file name="about.html" crc="87145506" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="roster.html" crc="13953039" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="releases.html" crc="123482612" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="tour.html" crc="4283489825" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="new-god.html" crc="399383609" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="seagulls.html" crc="225497064" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="index.html" crc="3985748005" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="william-alexander-2.html" crc="170435223" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="dustin-lovelis.html" crc="135388697" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="eskimeaux.html" crc="3918146449" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="william-alexander.html" crc="3944083777" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="konig.html" crc="3775375973" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="distribution.html" crc="18163079" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="gobbinjr.html" crc="3762858616" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="jagged-leaves.html" crc="5174146" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="japanese-breakfast.html" crc="453113969" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="luka.html" crc="4113115246" seo="true" mt="1459224728618" redirect="true"/>
+  <file name="carl-creighton.html" crc="369493932" seo="true" mt="1459224728618" redirect="true"/>
 </manifest>
