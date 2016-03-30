@@ -4,8 +4,8 @@
 
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000EB;
-	background-color: #B9A7E2;
+	color: #0000F4;
+	background-color: #C2EE98;
 }
 
 #page
@@ -881,9 +881,9 @@
 	z-index: 80;
 	min-height: 307px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -1084,18 +1084,18 @@ body
 
 @font-face
 {
-	font-family: '__websocialmenus_5';
-	src: url('../../fonts/websocialmenus.eot');
-	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
-	font-family: '__web-icons_5';
-	src: url('../../fonts/web-icons.eot');
-	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
+	font-family: '__websocialmenus_5';
+	src: url('../../fonts/websocialmenus.eot');
+	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

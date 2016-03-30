@@ -4,8 +4,8 @@
 
 .version.carl_creighton /* version checker */
 {
-	color: #0000E7;
-	background-color: #202FB0;
+	color: #000002;
+	background-color: #7EFF32;
 }
 
 #page
@@ -397,9 +397,9 @@
 	z-index: 59;
 	min-height: 327px;
 	background-color: transparent;
+	line-height: 18px;
 	text-align: justify;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 }
@@ -512,6 +512,15 @@ body
 
 @font-face
 {
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
 	font-family: '__websocialmenus_5';
 	src: url('../../fonts/websocialmenus.eot');
 	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
@@ -519,13 +528,11 @@ body
 	font-style: normal;
 }
 
-@font-face
-{
-	font-family: '__web-icons_5';
-	src: url('../../fonts/web-icons.eot');
-	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
+
+
+
+
+
+
 
 

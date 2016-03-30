@@ -4,8 +4,8 @@
 
 .version.dist /* version checker */
 {
-	color: #0000EE;
-	background-color: #255551;
+	color: #0000F8;
+	background-color: #009148;
 }
 
 #page
@@ -353,11 +353,84 @@
 	display: block;
 }
 
+#u123256-12
+{
+	z-index: 113;
+	min-height: 80px;
+	background-color: transparent;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u123256-2,#u123256-3,#u123256-7
+{
+	font-size: 19px;
+	line-height: 23px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u123256-6,#u123256-10
+{
+	font-size: 27px;
+	padding-right: 10px;
+	padding-left: 10px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u123256-4,#u123256-8
+{
+	font-size: 19px;
+	line-height: 23px;
+}
+
+#u123256-12-bw
+{
+	z-index: 113;
+	min-height: 80px;
+	margin-top: 6px;
+}
+
+#u123258
+{
+	z-index: 129;
+	width: 339px;
+	height: 2px;
+	background-color: #7F7F7F;
+	margin-left: 21px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u123257-4
+{
+	z-index: 125;
+	min-height: 73px;
+	background-color: transparent;
+	line-height: 23px;
+	font-size: 19px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u123257-2
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u123257-4-bw
+{
+	z-index: 125;
+	min-height: 73px;
+	margin-top: 27px;
+}
+
 #pu7364
 {
 	width: 0.01px;
 	margin-left: 9px;
-	margin-top: 17px;
+	margin-top: 38px;
 }
 
 #u7364
@@ -421,9 +494,9 @@
 	width: 92px;
 	min-height: 34px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -514,7 +587,7 @@
 
 #u13321-14
 {
-	z-index: 113;
+	z-index: 130;
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
@@ -560,18 +633,18 @@ body
 
 @font-face
 {
-	font-family: '__websocialmenus_5';
-	src: url('../../fonts/websocialmenus.eot');
-	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
-	font-family: '__web-icons_5';
-	src: url('../../fonts/web-icons.eot');
-	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
+	font-family: '__websocialmenus_5';
+	src: url('../../fonts/websocialmenus.eot');
+	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }

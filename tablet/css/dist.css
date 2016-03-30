@@ -4,15 +4,15 @@
 
 .version.dist /* version checker */
 {
-	color: #000018;
-	background-color: #1EE158;
+	color: #0000E7;
+	background-color: #3708DB;
 }
 
 #page
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 788.5750000000003px;
+	min-height: 788.5749999999998px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -525,11 +525,84 @@
 	border-width: 0px 0px 1px;
 }
 
+#u123265-12
+{
+	z-index: 121;
+	min-height: 114px;
+	background-color: transparent;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u123265-2,#u123265-3,#u123265-7
+{
+	font-size: 17px;
+	line-height: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u123265-6,#u123265-10
+{
+	font-size: 27px;
+	padding-right: 10px;
+	padding-left: 10px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u123265-4,#u123265-8
+{
+	font-size: 17px;
+	line-height: 20px;
+}
+
+#u123265-12-bw
+{
+	z-index: 121;
+	min-height: 114px;
+	margin-top: 23px;
+}
+
+#u123267
+{
+	z-index: 137;
+	width: 676px;
+	height: 1px;
+	background-color: #7F7F7F;
+	margin-left: 46px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u123266-4
+{
+	z-index: 133;
+	min-height: 60px;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u123266-2
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u123266-4-bw
+{
+	z-index: 133;
+	min-height: 60px;
+	margin-top: 10px;
+}
+
 #pu7358
 {
 	width: 0.01px;
 	margin-left: 14px;
-	margin-top: 21px;
+	margin-top: 7px;
 }
 
 #u7358
@@ -593,9 +666,9 @@
 	width: 92px;
 	min-height: 34px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -662,7 +735,7 @@
 #pu4769
 {
 	width: 0.01px;
-	margin-top: 318px;
+	margin-top: 115px;
 }
 
 #u4769,#u4769-bw
@@ -687,7 +760,7 @@
 
 #u13327-14
 {
-	z-index: 121;
+	z-index: 138;
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
@@ -733,18 +806,18 @@ body
 
 @font-face
 {
-	font-family: '__websocialmenus_5';
-	src: url('../../fonts/websocialmenus.eot');
-	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-family: '__web-icons_5';
+	src: url('../../fonts/web-icons.eot');
+	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face
 {
-	font-family: '__web-icons_5';
-	src: url('../../fonts/web-icons.eot');
-	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
+	font-family: '__websocialmenus_5';
+	src: url('../../fonts/websocialmenus.eot');
+	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
 	font-weight: 400;
 	font-style: normal;
 }
