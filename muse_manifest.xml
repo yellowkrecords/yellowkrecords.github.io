@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459367384963">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459370759831">
   <folder name="css">
     <file name="site_global.css" crc="4222294970"/>
     <file name="master_a-master.css" crc="233689801" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:index:seagulls:tour:releases:new-god:about:roster"/>
@@ -875,7 +875,7 @@
       <file name="iefonts_releases.css" crc="404615196" ref="tablet>releases"/>
       <file name="about.css" crc="53594161" ref="tablet>about"/>
       <file name="roster.css" crc="156444861" ref="tablet>roster"/>
-      <file name="index.css" crc="3982368015" ref="tablet>index"/>
+      <file name="index.css" crc="53253992" ref="tablet>index"/>
       <file name="luka.css" crc="366271123" ref="tablet>luka"/>
       <file name="carl-creighton.css" crc="289650493" ref="tablet>carl-creighton"/>
       <file name="iefonts_carl-creighton.css" crc="449694558" ref="tablet>carl-creighton"/>
@@ -892,7 +892,7 @@
       <file name="iefonts_eskimeaux.css" crc="341555012" ref="tablet>eskimeaux"/>
       <file name="iefonts_about.css" crc="4061206922" ref="tablet>about"/>
     </folder>
-    <file name="index.html" crc="68873715" seo="true" mt="1459367320431" redirect="true"/>
+    <file name="index.html" crc="493878670" seo="true" mt="1459370733984" redirect="true"/>
     <file name="about.html" crc="196300355" seo="true" mt="1459367320431" redirect="true"/>
     <file name="roster.html" crc="4085898689" seo="true" mt="1459367320431" redirect="true"/>
     <file name="new-god.html" crc="3868868276" seo="true" mt="1459367320431" redirect="true"/>
@@ -922,7 +922,7 @@
       <file name="iefonts_william-alexander.css" crc="291120156" ref="phone>william-alexander"/>
       <file name="jagged-leaves.css" crc="277648510" ref="phone>jagged-leaves"/>
       <file name="iefonts_jagged-leaves.css" crc="3919525372" ref="phone>jagged-leaves"/>
-      <file name="index.css" crc="3763489637" ref="phone>index"/>
+      <file name="index.css" crc="4091541972" ref="phone>index"/>
       <file name="tour.css" crc="163676577" ref="phone>tour"/>
       <file name="releases.css" crc="436577575" ref="phone>releases"/>
       <file name="iefonts_releases.css" crc="356945184" ref="phone>releases"/>
@@ -943,7 +943,7 @@
       <file name="iefonts_carl-creighton.css" crc="102067308" ref="phone>carl-creighton"/>
       <file name="iefonts_about.css" crc="4094573559" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="3789781712" seo="true" mt="1459367341450" redirect="true"/>
+    <file name="index.html" crc="535716629" seo="true" mt="1459370598854" redirect="true"/>
     <file name="about.html" crc="214947338" seo="true" mt="1459367341450" redirect="true"/>
     <file name="roster.html" crc="59476248" seo="true" mt="1459367341450" redirect="true"/>
     <file name="new-god.html" crc="3974691203" seo="true" mt="1459367341450" redirect="true"/>
