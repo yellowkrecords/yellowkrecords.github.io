@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459370759831">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459370939283">
   <folder name="css">
     <file name="site_global.css" crc="4222294970"/>
     <file name="master_a-master.css" crc="233689801" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:index:seagulls:tour:releases:new-god:about:roster"/>
@@ -943,7 +943,7 @@
       <file name="iefonts_carl-creighton.css" crc="102067308" ref="phone>carl-creighton"/>
       <file name="iefonts_about.css" crc="4094573559" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="535716629" seo="true" mt="1459370598854" redirect="true"/>
+    <file name="index.html" crc="3769652797" seo="true" mt="1459370921515" redirect="true"/>
     <file name="about.html" crc="214947338" seo="true" mt="1459367341450" redirect="true"/>
     <file name="roster.html" crc="59476248" seo="true" mt="1459367341450" redirect="true"/>
     <file name="new-god.html" crc="3974691203" seo="true" mt="1459367341450" redirect="true"/>
