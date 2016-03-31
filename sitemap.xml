@@ -625,12 +625,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://yellowkrecords.github.io/images/yellow%20k%20logo%20horiz-b-w-trans%20small_2x.png</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://yellowkrecords.github.io/images/jagged%20leaves%20nightmare%20afternoon%20cover%201500278x274.jpg</loc>
     <lastmod>2016-03-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1813,8 +1807,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://yellowkrecords.github.io/images/yellow%20k%20logo%20horiz-b-w-trans%20small162x70.png</loc>
+    <lastmod>2016-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yellowkrecords.github.io/images/yellow%20k%20logo%20horiz-b-w-trans%20small162x70_2x.png</loc>
+    <lastmod>2016-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://yellowkrecords.github.io/tablet/dist.html</loc>
-    <lastmod>2016-03-30</lastmod>
+    <lastmod>2016-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://yellowkrecords.github.io/phone/dist.html"/>

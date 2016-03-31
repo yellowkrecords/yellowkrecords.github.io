@@ -1,425 +1,340 @@
-#u8972-4
+#u133226-4
 {
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #7F7F7F;
-	color: #FFFFFF;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	color: #7F7F7F;
 	line-height: 30px;
 	font-size: 30px;
 	font-family: '__websocialmenus_5';
 	font-weight: 400;
 }
 
-#u8972-4:hover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #7F7F7F;
-}
-
-#u8972-4:active
-{
-	background-color: #7F7F7F;
-}
-
-#u8972-4.AccordionPanelTabOpen
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #000000;
-}
-
-#u8972-4.AccordionPanelTabOpen p
+#u133226-4.AccordionPanelTabOpen p
 {
 	color: #4F4F4F;
 	visibility: inherit;
 }
 
-#u8970
+#u133182
 {
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: transparent;
+	background-color: #FFFFFF;
 }
 
-#accordionu8964,#menuu9112
+#accordionu133180,#menuu133183
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#u9121
+#u133220
 {
-	background: transparent url("../../images/u9121-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#7F7F7F ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#7F7F7F ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../../images/blank.gif");
+	border-color: #A4A4A4;
+	background-color: transparent;
 }
 
-#u9121:hover
+#u133220:hover
 {
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 1.1s;
+	-webkit-transition-delay: 0.3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 1.1s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease-in-out;
 }
 
-#u9121:active
-{
-	background: transparent url("../../images/u9121-m-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#6B6B6B),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#6B6B6B ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#6B6B6B ,rgba(255,255,255,0) 100%);
-}
-
-#u9121.MuseMenuActive
-{
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
-}
-
-#u9122-4
+#u133221-4
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 36px;
+	line-height: 31px;
 	text-align: left;
-	font-size: 30px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
+	color: #484848;
+	font-size: 26px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	font-style: normal;
 }
 
-#u9122-2
+#u133220:hover #u133221-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u133221-2
 {
 	padding-left: 20px;
 }
 
-#u9114
+#u133187
 {
-	background: transparent url("../../images/u9121-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#7F7F7F ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#7F7F7F ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../../images/blank.gif");
+	border-color: #A4A4A4;
+	background-color: transparent;
 }
 
-#u9114:hover
+#u133187:hover
 {
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 1.1s;
+	-webkit-transition-delay: 0.3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 1.1s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease-in-out;
 }
 
-#u9114:active
-{
-	background: transparent url("../../images/u9121-m-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#6B6B6B),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#6B6B6B ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#6B6B6B ,rgba(255,255,255,0) 100%);
-}
-
-#u9114.MuseMenuActive
-{
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
-}
-
-#u9117-4
+#u133190-4
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 36px;
+	color: #484848;
+	line-height: 31px;
 	text-align: left;
-	font-size: 30px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
+	font-size: 26px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 }
 
-#u9117-2
+#u133187:hover #u133190-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u133190-2
 {
 	padding-left: 20px;
 }
 
-#u9130
+#u133208
 {
-	background: transparent url("../../images/u9121-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#7F7F7F ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#7F7F7F ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../../images/blank.gif");
+	border-color: #A4A4A4;
+	background-color: transparent;
 }
 
-#u9130:hover
+#u133208:hover
 {
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 1.1s;
+	-webkit-transition-delay: 0.3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 1.1s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease-in-out;
 }
 
-#u9130:active
-{
-	background: transparent url("../../images/u9121-m-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#6B6B6B),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#6B6B6B ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#6B6B6B ,rgba(255,255,255,0) 100%);
-}
-
-#u9130.MuseMenuActive
-{
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
-}
-
-#u9131-4
+#u133211-4
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 36px;
+	color: #484848;
+	line-height: 31px;
 	text-align: left;
-	font-size: 30px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
+	font-size: 26px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 }
 
-#u9131-2
+#u133208:hover #u133211-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u133211-2
 {
 	padding-left: 20px;
 }
 
-#u9135
+#u133194
 {
-	background: transparent url("../../images/u9121-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#7F7F7F ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#7F7F7F ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../../images/blank.gif");
+	border-color: #A4A4A4;
+	background-color: transparent;
 }
 
-#u9135:hover
+#u133194:hover
 {
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 1.1s;
+	-webkit-transition-delay: 0.3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 1.1s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease-in-out;
 }
 
-#u9135:active
-{
-	background: transparent url("../../images/u9121-m-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#6B6B6B),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#6B6B6B ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#6B6B6B ,rgba(255,255,255,0) 100%);
-}
-
-#u9135.MuseMenuActive
-{
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
-}
-
-#u9136-4
+#u133196-4
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 36px;
+	color: #484848;
+	line-height: 31px;
 	text-align: left;
-	font-size: 30px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
+	font-size: 26px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 }
 
-#u9136-2
+#u133194:hover #u133196-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u133196-2
 {
 	padding-left: 20px;
 }
 
-#u9144
+#u133213
 {
-	background: transparent url("../../images/u9121-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#7F7F7F ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#7F7F7F ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../../images/blank.gif");
+	border-color: #A4A4A4;
+	background-color: transparent;
 }
 
-#u9144:hover
+#u133213:hover
 {
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 1.1s;
+	-webkit-transition-delay: 0.3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 1.1s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease-in-out;
 }
 
-#u9144:active
-{
-	background: transparent url("../../images/u9121-m-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#6B6B6B),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#6B6B6B ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#6B6B6B ,rgba(255,255,255,0) 100%);
-}
-
-#u9144.MuseMenuActive
-{
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
-}
-
-#u9146-4
+#u133215-4
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 36px;
+	color: #484848;
+	line-height: 31px;
 	text-align: left;
-	font-size: 30px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
+	font-size: 26px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 }
 
-#u9146-2
+#u133213:hover #u133215-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u133215-2
 {
 	padding-left: 20px;
 }
 
-#u9151
+#u133199
 {
-	background: transparent url("../../images/u9121-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#7F7F7F ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#7F7F7F ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../../images/blank.gif");
+	border-color: #A4A4A4;
+	background-color: transparent;
 }
 
-#u9151:hover
+#u133199:hover
 {
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 1.1s;
+	-webkit-transition-delay: 0.3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-duration: 1.1s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease-in-out;
 }
 
-#u9151:active
+#u133220.MuseMenuActive,#u133187.MuseMenuActive,#u133208.MuseMenuActive,#u133194.MuseMenuActive,#u133213.MuseMenuActive,#u133199.MuseMenuActive
 {
-	background: transparent url("../../images/u9121-m-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#6B6B6B),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#6B6B6B ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#6B6B6B ,rgba(255,255,255,0) 100%);
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
 }
 
-#u9151.MuseMenuActive
-{
-	background: transparent url("../../images/u9121-r-grad.png") repeat-y left top;
-	background: -webkit-gradient(linear, left center, right center, from(#999999),color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(left,#999999 ,rgba(255,255,255,0) 100%);
-	background: linear-gradient(to right,#999999 ,rgba(255,255,255,0) 100%);
-}
-
-#u9154-4
+#u133200-4
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 36px;
+	color: #484848;
+	line-height: 31px;
 	text-align: left;
-	font-size: 30px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 300;
+	font-size: 26px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 }
 
-#u9154-2
+#u133199:hover #u133200-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u133220.MuseMenuActive #u133221-4 p,#u133187.MuseMenuActive #u133190-4 p,#u133208.MuseMenuActive #u133211-4 p,#u133194.MuseMenuActive #u133196-4 p,#u133213.MuseMenuActive #u133215-4 p,#u133199.MuseMenuActive #u133200-4 p
+{
+	color: #484848;
+	visibility: inherit;
+}
+
+#u133200-2
 {
 	padding-left: 20px;
-}
-
-#u8969,#u9120,#u9113,#u9127,#u9134,#u9141,#u9148,#u12025,#u12115
-{
-	background-color: transparent;
-}
-
-#u9296,#u9298
-{
-	display: block;
-}
-
-#u9304
-{
-	background: transparent url("../../images/insta-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.big_menu_insta
-{
-	border-width: 0px;
-	border-color: #000000;
-	background: transparent url("../../images/insta-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_insta,.nosvg #u9304
-{
-	background-image: url('../../images/insta-01_poster_u1385.png');
-}
-
-#u9302
-{
-	background: transparent url("../../images/fb-01-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.big_menu_facebook
-{
-	border-width: 0px;
-	border-color: #000000;
-	background: transparent url("../../images/fb-01-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_facebook,.nosvg #u9302
-{
-	background-image: url('../../images/fb-01-01_poster_u1346.png');
-}
-
-#u9303
-{
-	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.big_menu_twitter
-{
-	border-width: 0px;
-	border-color: #000000;
-	background: transparent url("../../images/twiiter-01.svg") no-repeat center center;
-	background-size: contain;
-}
-
-.nosvg .big_menu_twitter,.nosvg #u9303
-{
-	background-image: url('../../images/twiiter-01_poster_u1372.png');
 }
 
 .MenuItem,.AccordionPanelTab /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u133181,#u133219,#u133184,#u133205,#u133191,#u133212,#u133198,#u133178
+{
+	background-color: transparent;
+}
+
+#u133227-4
+{
+	background-color: transparent;
+	color: #484848;
+	line-height: 36px;
+	font-size: 30px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 }
 
 #u4769

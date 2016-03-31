@@ -1,7 +1,7 @@
 .version.roster /* version checker */
 {
-	color: #00001A;
-	background-color: #07C350;
+	color: #000008;
+	background-color: #3FC69C;
 }
 
 .js body
@@ -450,7 +450,7 @@
 	z-index: 17;
 	position: relative;
 	height: 178px;
-	background: transparent url("../images/dustin_artist_pic.jpg") no-repeat center top;
+	background: transparent url("../images/dustin_artist_pic2.jpg") no-repeat center top;
 	background-size: cover;
 }
 

@@ -1,7 +1,7 @@
 .version.dustin_lovelis /* version checker */
 {
-	color: #0000FE;
-	background-color: #6267EB;
+	color: #000013;
+	background-color: #0F9F3F;
 }
 
 .js body
@@ -283,7 +283,7 @@ body
 	#u3977
 	{
 		z-index: 129;
-		background-image: url("../images/dustin_artist_pic2.jpg");
+		background-image: url("../images/dustin_artist_pic.jpg");
 		width: 91.71%;
 		left: 3.89%;
 	}
@@ -1687,7 +1687,7 @@ body
 	#u3977
 	{
 		z-index: 36;
-		background-image: url("../images/dustin_artist_pic2.jpg");
+		background-image: url("../images/dustin_artist_pic.jpg");
 		width: 91.82%;
 		left: 3.81%;
 	}
@@ -2161,7 +2161,7 @@ body
 	#u3977
 	{
 		z-index: 36;
-		background-image: url("../images/dustin_artist_pic.jpg");
+		background-image: url("../images/dustin_artist_pic2.jpg");
 		width: 92.4%;
 		left: 3.43%;
 	}
