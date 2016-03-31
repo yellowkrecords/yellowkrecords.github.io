@@ -247,6 +247,13 @@
 
 	#u12803-4
 	{
+		-webkit-transition-duration: 0.1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease-in-out;
+		transition-duration: 0.1s;
+		transition-delay: 0s;
+		transition-timing-function: ease-in-out;
+		background-image: url("../images/blank.gif");
 		background-color: transparent;
 		line-height: 29px;
 		text-align: center;
@@ -556,6 +563,13 @@
 
 	#u12803-4
 	{
+		-webkit-transition-duration: 0.1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease-in-out;
+		transition-duration: 0.1s;
+		transition-delay: 0s;
+		transition-timing-function: ease-in-out;
+		background-image: url("../images/blank.gif");
 		background-color: transparent;
 		line-height: 29px;
 		text-align: center;
@@ -866,6 +880,13 @@
 
 	#u12803-4
 	{
+		-webkit-transition-duration: 0.1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease-in-out;
+		transition-duration: 0.1s;
+		transition-delay: 0s;
+		transition-timing-function: ease-in-out;
+		background-image: url("../images/blank.gif");
 		background-color: transparent;
 		line-height: 29px;
 		text-align: center;
@@ -2329,6 +2350,13 @@
 
 	#u12803-4
 	{
+		-webkit-transition-duration: 0.1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease-in-out;
+		transition-duration: 0.1s;
+		transition-delay: 0s;
+		transition-timing-function: ease-in-out;
+		background-image: url("../images/blank.gif");
 		background-color: transparent;
 		line-height: 29px;
 		text-align: center;

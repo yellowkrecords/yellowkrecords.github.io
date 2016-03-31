@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #DFF9D4;
+	color: #000000;
+	background-color: #A5A1D8;
 }
 
 #page
@@ -854,5 +854,4 @@ body
 	font-weight: 400;
 	font-style: normal;
 }
-
 
