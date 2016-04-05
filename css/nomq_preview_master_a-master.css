@@ -252,20 +252,6 @@
 		text-decoration: none;
 	}
 
-	#u12636,#u13142,#u13163,#u13184,#u13205,#u13226,#u35310-4
-	{
-		background-color: transparent;
-	}
-
-	#u35310-3
-	{
-		line-height: 24px;
-		text-align: center;
-		font-size: 20px;
-		font-family: source-sans-pro, sans-serif;
-		font-weight: 300;
-	}
-
 	#u30842-20
 	{
 		background-color: transparent;
@@ -310,4 +296,19 @@
 		font-weight: 400;
 		line-height: 58px;
 	}
+
+	#u12636,#u13142,#u13163,#u13184,#u13205,#u13226,#u35310-4
+	{
+		background-color: transparent;
+	}
+
+	#u35310-3
+	{
+		line-height: 24px;
+		text-align: center;
+		font-size: 20px;
+		font-family: source-sans-pro, sans-serif;
+		font-weight: 300;
+	}
+
 

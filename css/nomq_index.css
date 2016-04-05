@@ -10,104 +10,70 @@
 
 	#page
 	{
-		min-height: 1599px;
+		min-height: 2373px;
 		padding-bottom: 1px;
 		width: 100%;
 		max-width: 1300px;
 	}
 
-	#pu12625
+	#u12625
 	{
 		margin-right: -10000px;
 		margin-top: -1px;
-		width: 34.39%;
 	}
 
-	#u104634
+	#pu64335
 	{
-		margin-left: 114px;
-		margin-top: 927px;
-		width: 74.5%;
-	}
-
-	#u100674
-	{
-		padding-top: 22px;
 		padding-bottom: 0px;
-		width: 100%;
-	}
-
-	#u100623
-	{
-		margin-left: 33px;
-		width: 79.88%;
-	}
-
-	#u102886-4
-	{
-		min-height: 71px;
-		margin-top: 3px;
-		width: 100%;
-	}
-
-	#u102886-4:hover
-	{
-		margin-left: 0px;
-		margin-top: 3px;
-		min-height: 71px;
-		width: 100%;
-	}
-
-	#ppu64335
-	{
 		margin-right: -10000px;
-		margin-top: 97px;
+		margin-top: 112px;
 		width: 81.39%;
 		margin-left: 9.31%;
 	}
 
 	#u64335
 	{
-		z-index: 119;
-		width: 100%;
+		z-index: 133;
+		width: 86.68%;
+		margin-left: 6.72%;
 	}
 
 	#u64336
 	{
-		z-index: 120;
-		padding-top: 35px;
-		padding-bottom: 66px;
+		z-index: 134;
+		padding-top: 30px;
+		padding-bottom: 6.243586572323807px;
 		width: 100%;
 	}
 
 	#u64337
 	{
-		z-index: 121;
-		width: 90.65%;
-		margin-left: 4.73%;
+		z-index: 135;
+		width: 90.63%;
+		margin-left: 4.69%;
 	}
 
 	#u64339-4
 	{
-		z-index: 123;
-		min-height: 60px;
-		margin-top: 8px;
-		width: 90.65%;
-		margin-left: 4.73%;
+		z-index: 141;
+		min-height: 52px;
+		margin-top: 7px;
+		width: 90.63%;
+		margin-left: 4.69%;
 	}
 
 	#u64339-4:hover
 	{
-		margin-top: 8px;
-		min-height: 60px;
-		width: 90.65%;
-		margin-left: 4.73%;
+		margin-top: 7px;
+		min-height: 52px;
+		width: 90.63%;
+		margin-left: 4.69%;
 	}
 
 	#u72079-4
 	{
-		z-index: 127;
-		min-height: 42px;
+		z-index: 137;
+		min-height: 36px;
 		background-color: transparent;
 		line-height: 29px;
 		text-align: center;
@@ -115,21 +81,110 @@
 		font-family: source-sans-pro, sans-serif;
 		font-weight: 300;
 		font-style: italic;
+		margin-top: 16px;
 		position: relative;
-		margin-right: -10000px;
-		margin-top: 807px;
+		width: 90.63%;
+		margin-left: 4.69%;
+	}
+
+	#u139311
+	{
+		margin-top: 39px;
+		width: 86.68%;
+		margin-left: 6.72%;
+	}
+
+	#u100774
+	{
+		padding-top: 28px;
+		padding-bottom: 9.001052961750247px;
 		width: 100%;
+	}
+
+	#u100657
+	{
+		width: 89.32%;
+		margin-left: 5.35%;
+	}
+
+	#u102912-4
+	{
+		min-height: 47px;
+		margin-top: 11px;
+		width: 89.32%;
+		margin-left: 5.35%;
+	}
+
+	#u102912-4:hover
+	{
+		margin-top: 11px;
+		min-height: 47px;
+		width: 89.32%;
+		margin-left: 5.35%;
+	}
+
+	#u145123-4
+	{
+		min-height: 36px;
+		margin-top: 19px;
+		width: 90.63%;
+		margin-left: 5.02%;
 	}
 
 	#u100291
 	{
-		margin-top: 24px;
+		margin-top: 59px;
 		width: 100%;
+	}
+
+	#u139319
+	{
+		margin-top: 58px;
+		width: 45%;
+		margin-left: 2.56%;
+	}
+
+	#u100748
+	{
+		padding-top: 34px;
+		padding-bottom: 11px;
+		width: 100%;
+	}
+
+	#u100640
+	{
+		width: 78.79%;
+		margin-left: 10.3%;
+	}
+
+	#u102894-4
+	{
+		min-height: 41px;
+		top: -1px;
+		margin-bottom: -1px;
+		width: 78.79%;
+		margin-left: 10.51%;
+	}
+
+	#u102894-4:hover
+	{
+		margin-bottom: -1px;
+		min-height: 41px;
+		width: 78.79%;
+		margin-left: 10.51%;
+	}
+
+	#u145558-4
+	{
+		min-height: 39px;
+		margin-top: 10px;
+		width: 89.71%;
+		margin-left: 5.47%;
 	}
 
 	#u34058
 	{
-		z-index: 29;
+		z-index: 43;
 		width: 769px;
 		position: relative;
 		margin-right: -10000px;
@@ -147,7 +202,7 @@
 
 	#menuu12635
 	{
-		z-index: 30;
+		z-index: 44;
 		width: 648px;
 		position: relative;
 		margin-right: -10000px;
@@ -434,7 +489,7 @@
 
 	#u12779-4
 	{
-		z-index: 67;
+		z-index: 81;
 		width: 16px;
 		min-height: 40px;
 		position: relative;
@@ -445,7 +500,7 @@
 
 	#u12785-4
 	{
-		z-index: 71;
+		z-index: 85;
 		width: 16px;
 		min-height: 40px;
 		position: relative;
@@ -456,7 +511,7 @@
 
 	#u12788-4
 	{
-		z-index: 75;
+		z-index: 89;
 		width: 16px;
 		min-height: 40px;
 		position: relative;
@@ -467,7 +522,7 @@
 
 	#u12791-4
 	{
-		z-index: 79;
+		z-index: 93;
 		width: 16px;
 		min-height: 40px;
 		position: relative;
@@ -478,7 +533,7 @@
 
 	#u12794-4
 	{
-		z-index: 83;
+		z-index: 97;
 		width: 16px;
 		min-height: 40px;
 		position: relative;
@@ -496,7 +551,7 @@
 
 	#u12797-4
 	{
-		z-index: 87;
+		z-index: 101;
 		width: 16px;
 		min-height: 40px;
 		position: relative;
@@ -507,7 +562,7 @@
 
 	#u12803-4
 	{
-		z-index: 91;
+		z-index: 105;
 		width: 107px;
 		min-height: 34px;
 		position: relative;
@@ -526,70 +581,54 @@
 		margin: 0px -10000px 0px 50%;
 	}
 
-	#u100748
+	#u104634
 	{
 		margin-right: -10000px;
-		margin-top: 997px;
-		width: 25.62%;
-		left: 37.24%;
+		margin-top: 1751px;
+		width: 36.7%;
+		left: 52%;
 	}
 
-	#u100640
+	#u100674
 	{
-		width: 78.68%;
-		margin-left: 10.52%;
+		padding-top: 31px;
+		padding-bottom: 22px;
+		width: 100%;
 	}
 
-	#u100623_img,#pu64335,#u64337_img,#u100640_img,#u102894-4
+	#u100623
+	{
+		width: 79.88%;
+		margin-left: 10.07%;
+	}
+
+	#u64337_img,#u100657_img,#u100640_img,#u100623_img
 	{
 		width: 100%;
 	}
 
-	#u102894-4:hover
+	#u102886-4
 	{
-		margin-bottom: 0px;
-		margin-top: 0px;
-		width: 100%;
-		margin-left: 0%;
+		min-height: 42px;
+		margin-top: 2px;
+		width: 79.88%;
+		margin-left: 10.07%;
 	}
 
-	#u100774
+	#u102886-4:hover
 	{
-		margin-right: -10000px;
-		margin-top: 997px;
-		width: 25.62%;
-		left: 65.62%;
+		margin-top: 2px;
+		min-height: 42px;
+		width: 79.88%;
+		margin-left: 10.07%;
 	}
 
-	#u100748_position_content,#u100774_position_content
+	#u145566-4
 	{
-		padding-top: 25px;
-		width: 100%;
-	}
-
-	#u100657
-	{
-		width: 78.98%;
-		margin-left: 10.52%;
-	}
-
-	#u100657_img
-	{
-		width: 100.39%;
-	}
-
-	#u102912-4
-	{
-		min-height: 71px;
-		width: 100%;
-	}
-
-	#u102912-4:hover
-	{
-		margin-top: 0px;
-		min-height: 71px;
-		width: 100%;
-		margin-left: 0%;
+		min-height: 28px;
+		margin-top: 10px;
+		width: 89.52%;
+		margin-left: 5.25%;
 	}
 
 	#buttonu12800
@@ -607,7 +646,7 @@
 
 	#u35310-4
 	{
-		z-index: 115;
+		z-index: 129;
 		min-height: 39px;
 		padding-top: 25px;
 		position: relative;
@@ -624,7 +663,7 @@
 
 	#u30842-20
 	{
-		z-index: 95;
+		z-index: 109;
 		position: relative;
 		margin-right: -10000px;
 		margin-top: -2px;
@@ -634,6 +673,6 @@
 
 	.verticalspacer
 	{
-		min-height: 183px;
+		min-height: 48px;
 	}
 
