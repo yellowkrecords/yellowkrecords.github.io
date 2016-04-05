@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459886169483">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459886502438">
   <folder name="css">
     <file name="site_global.css" crc="4222294970"/>
     <file name="master_a-master.css" crc="297923988" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:index:seagulls:tour:releases:new-god:about:roster"/>
@@ -173,7 +173,6 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4106136416" ref="phone>index:phone>releases"/>
-    <file name="pasted-svg-137349x43.svg" crc="416700670" ref="phone>releases"/>
     <file name="yellow-k-logo-horiz-b-w-trans.gif" crc="386871558" ref="about" seo="true"/>
     <file name="yellow-k-logo-horiz-b-w-trans_2x.gif" crc="386871558" ref="about" seo="true"/>
     <file name="yellowkoriginal-crop-u5396.png" crc="515701400" ref="phone>about"/>
@@ -231,7 +230,6 @@
     <file name="pasted svg 26227x70_poster_.png" crc="9081532" ref="phone>releases"/>
     <file name="pasted-svg-394785x80.svg" crc="181985863" ref="phone>releases:tablet>releases:releases"/>
     <file name="pasted svg 394785x80_poster_.png" crc="108491203" ref="phone>releases"/>
-    <file name="pasted svg 137349x43_poster_.png" crc="359025581" ref="phone>releases"/>
     <file name="psychopomp-cover-web-1500128x128.jpg" crc="113671758" seo="true" ref="phone>releases"/>
     <file name="psychopomp-cover-web-1500128x128_2x.jpg" crc="4036425321" seo="true" ref="phone>releases"/>
     <file name="pasted-svg-267803x61.svg" crc="175397836" ref="phone>releases:tablet>releases:releases"/>
@@ -900,7 +898,7 @@
       <file name="jagged-leaves.css" crc="212956771" ref="phone>jagged-leaves"/>
       <file name="index.css" crc="4196589870" ref="phone>index"/>
       <file name="tour.css" crc="167584570" ref="phone>tour"/>
-      <file name="releases.css" crc="483376661" ref="phone>releases"/>
+      <file name="releases.css" crc="404527407" ref="phone>releases"/>
       <file name="new-god.css" crc="536113701" ref="phone>new-god"/>
       <file name="gobbinjr.css" crc="521643535" ref="phone>gobbinjr"/>
       <file name="dist.css" crc="3861740437" ref="phone>dist"/>
@@ -919,7 +917,7 @@
     <file name="new-god.html" crc="4261411097" seo="true" mt="1459443200169" redirect="true"/>
     <file name="seagulls.html" crc="4118523581" seo="true" mt="1459443200169" redirect="true"/>
     <file name="william-alexander.html" crc="486178295" seo="true" mt="1459443200169" redirect="true"/>
-    <file name="releases.html" crc="401688414" seo="true" mt="1459886150055" redirect="true"/>
+    <file name="releases.html" crc="4200874940" seo="true" mt="1459886487559" redirect="true"/>
     <file name="tour.html" crc="394167480" seo="true" mt="1459443200169" redirect="true"/>
     <file name="dustin-lovelis.html" crc="253717188" seo="true" mt="1459443200169" redirect="true"/>
     <file name="eskimeaux.html" crc="86057431" seo="true" mt="1459443200169" redirect="true"/>
