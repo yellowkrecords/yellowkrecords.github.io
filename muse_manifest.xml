@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1459886502438">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yellowkrecords.github.io" resolutions="1x,2x" timestamp="1462806739153">
   <folder name="css">
     <file name="site_global.css" crc="4222294970"/>
-    <file name="master_a-master.css" crc="297923988" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:index:seagulls:tour:releases:new-god:about:roster"/>
+    <file name="master_a-master.css" crc="4189950753" ref="carl-creighton:japanese-breakfast:luka:jagged-leaves:gobbinjr:william-alexander:konig:distribution:dustin-lovelis:eskimeaux:index:seagulls:tour:releases:new-god:about:roster"/>
     <file name="carl-creighton.css" crc="396326534" ref="carl-creighton"/>
     <file name="japanese-breakfast.css" crc="201913078" ref="japanese-breakfast"/>
-    <file name="luka.css" crc="43418332" ref="luka"/>
+    <file name="luka.css" crc="85868678" ref="luka"/>
     <file name="jagged-leaves.css" crc="4072238880" ref="jagged-leaves"/>
     <file name="gobbinjr.css" crc="3854926095" ref="gobbinjr"/>
     <file name="william-alexander.css" crc="292429171" ref="william-alexander"/>
@@ -15,13 +15,13 @@
     <file name="index.css" crc="4198579925" ref="index"/>
     <file name="seagulls.css" crc="4087284998" ref="seagulls"/>
     <file name="tour.css" crc="388349947" ref="tour"/>
-    <file name="releases.css" crc="354894774" ref="releases"/>
+    <file name="releases.css" crc="481208793" ref="releases"/>
     <file name="new-god.css" crc="326280759" ref="new-god"/>
     <file name="about.css" crc="299273328" ref="about"/>
     <file name="roster.css" crc="138397340" ref="roster"/>
     <file name="nomq_preview_master_a-master.css" crc="4037372158" ref="gobbinjr:luka:distribution:william-alexander:releases:konig:tour:jagged-leaves:eskimeaux:index:about:dustin-lovelis:seagulls:new-god:japanese-breakfast:roster:carl-creighton"/>
     <file name="nomq_gobbinjr.css" crc="4045535128" ref="gobbinjr"/>
-    <file name="nomq_luka.css" crc="500222943" ref="luka"/>
+    <file name="nomq_luka.css" crc="3861641629" ref="luka"/>
     <file name="nomq_distribution.css" crc="276533798" ref="distribution"/>
     <file name="nomq_william-alexander.css" crc="462960528" ref="william-alexander"/>
     <file name="nomq_releases.css" crc="3983777605" ref="releases"/>
@@ -158,7 +158,7 @@
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig:phone>dist:phone>gobbinjr:phone>jagged-leaves:phone>japanese-breakfast:phone>luka:phone>carl-creighton:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton:about:roster:releases:tour:new-god:seagulls:index:dustin-lovelis:eskimeaux:william-alexander:konig:distribution:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton"/>
     <file name="museutils.js" crc="3790713428" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig:phone>dist:phone>gobbinjr:phone>jagged-leaves:phone>japanese-breakfast:phone>luka:phone>carl-creighton:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton:about:roster:releases:tour:new-god:seagulls:index:dustin-lovelis:eskimeaux:william-alexander:konig:distribution:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton"/>
     <file name="whatinput.js" crc="84559013" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig:phone>dist:phone>gobbinjr:phone>jagged-leaves:phone>japanese-breakfast:phone>luka:phone>carl-creighton:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton:about:roster:releases:tour:new-god:seagulls:index:dustin-lovelis:eskimeaux:william-alexander:konig:distribution:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>dustin-lovelis:tablet>japanese-breakfast:about:new-god:seagulls:dustin-lovelis:william-alexander:japanese-breakfast:releases:index:konig:jagged-leaves:phone>releases"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>new-god:phone>seagulls:phone>william-alexander:tablet>index:tablet>new-god:tablet>seagulls:tablet>dustin-lovelis:tablet>japanese-breakfast:about:new-god:seagulls:dustin-lovelis:william-alexander:japanese-breakfast:releases:index:konig:jagged-leaves:phone>releases:tablet>releases"/>
     <file name="jquery.musemenu.js" crc="238543590" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig:phone>dist:phone>gobbinjr:phone>jagged-leaves:phone>japanese-breakfast:phone>luka:phone>carl-creighton:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton:about:roster:releases:tour:new-god:seagulls:index:dustin-lovelis:eskimeaux:william-alexander:konig:distribution:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton"/>
     <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig:phone>dist:phone>gobbinjr:phone>jagged-leaves:phone>japanese-breakfast:phone>luka:phone>carl-creighton:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton:about:roster:releases:tour:new-god:seagulls:index:dustin-lovelis:eskimeaux:william-alexander:konig:distribution:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton"/>
     <file name="webpro.js" crc="329496574" ref="phone>index:phone>about:phone>roster:phone>new-god:phone>seagulls:phone>william-alexander:phone>releases:phone>tour:phone>dustin-lovelis:phone>eskimeaux:phone>konig:phone>dist:phone>gobbinjr:phone>jagged-leaves:phone>japanese-breakfast:phone>luka:phone>carl-creighton:tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton:new-god:seagulls:index:dustin-lovelis:william-alexander:japanese-breakfast:about:roster:releases:tour:eskimeaux:konig:distribution:gobbinjr:jagged-leaves:luka:carl-creighton"/>
@@ -377,7 +377,7 @@
     <file name="newgodsingleart-u6375-fr_2x.png" crc="3982453956" ref="new-god"/>
     <file name="sg-gp-cover.jpg" crc="472868798" seo="true" ref="seagulls"/>
     <file name="sg-gp-cover_2x.jpg" crc="4172714038" seo="true" ref="seagulls"/>
-    <file name="blank.gif" crc="4208392903" ref="index:phone>index:tablet>index:about:roster:releases:tour:new-god:seagulls:dustin-lovelis:eskimeaux:william-alexander:konig:distribution:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton:phone>releases"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index:tablet>index:about:roster:releases:tour:new-god:seagulls:dustin-lovelis:eskimeaux:william-alexander:konig:distribution:gobbinjr:jagged-leaves:japanese-breakfast:luka:carl-creighton:phone>releases:tablet>releases"/>
     <file name="wa come find me.png" crc="3920894782" seo="true" ref="william-alexander"/>
     <file name="wa come find me_2x.png" crc="91508593" seo="true" ref="william-alexander"/>
     <file name="dustin_dimensions_art.jpg" crc="3999862470" ref="dustin-lovelis"/>
@@ -398,12 +398,12 @@
     <file name="danpic-crop-u7849.png" crc="4290588982" ref="jagged-leaves"/>
     <file name="danpic-crop-u7849_2x.png" crc="70820503" ref="jagged-leaves"/>
     <file name="pasted svg 267825x19_poster_.png" crc="3805047247" ref="phone>japanese-breakfast:tablet>japanese-breakfast"/>
-    <file name="pasted svg 9832x9_poster_.png" crc="4290022102" ref="phone>gobbinjr:tablet>new-god"/>
-    <file name="pasted svg 23704x23_poster_.png" crc="278612837" ref="phone>gobbinjr:tablet>new-god"/>
-    <file name="pasted svg 23704x23_poster_2.png" crc="3831807250" ref="phone>gobbinjr:tablet>new-god"/>
-    <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="phone>gobbinjr:tablet>gobbinjr"/>
+    <file name="pasted svg 9832x9_poster_.png" crc="4290022102" ref="phone>gobbinjr:tablet>new-god:phone>luka"/>
+    <file name="pasted svg 23704x23_poster_.png" crc="278612837" ref="phone>gobbinjr:tablet>new-god:phone>luka"/>
+    <file name="pasted svg 23704x23_poster_2.png" crc="3831807250" ref="phone>gobbinjr:tablet>new-god:phone>luka"/>
+    <file name="pasted svg 198x198_poster_.png" crc="3866433459" ref="phone>gobbinjr:tablet>gobbinjr:phone>luka"/>
     <file name="pasted svg 198167x40_poster_.png" crc="3986927448" ref="phone>gobbinjr:tablet>gobbinjr"/>
-    <file name="pasted svg 123357x35_poster_.png" crc="3796711055" ref="phone>luka:tablet>luka"/>
+    <file name="pasted svg 123357x35_poster_.png" crc="345508878" ref="phone>luka:tablet>luka"/>
     <file name="yellow k logo horiz-b-w-trans small.png" crc="3990869001" seo="true" ref="tablet>index:tablet>about:tablet>roster:tablet>new-god:tablet>seagulls:tablet>william-alexander:tablet>dustin-lovelis:tablet>releases:tablet>tour:tablet>eskimeaux:tablet>konig:tablet>dist:tablet>gobbinjr:tablet>jagged-leaves:tablet>japanese-breakfast:tablet>luka:tablet>carl-creighton"/>
     <file name="pasted svg 17372x32_poster_.png" crc="3919117645" ref="tablet>new-god"/>
     <file name="pasted svg 23704x23_poster_3.png" crc="19918301" ref="tablet>new-god"/>
@@ -762,14 +762,14 @@
     <file name="japanese breakfast artist pic-crop-u8023_2x5.png" crc="492103989" ref="japanese-breakfast"/>
     <file name="psychopomp cover-web55x55.jpg" crc="409902599" seo="true" ref="japanese-breakfast"/>
     <file name="psychopomp cover-web55x55_2x.jpg" crc="4026143074" seo="true" ref="japanese-breakfast"/>
-    <file name=" luka 2 (josh madonald)jpg -crop-u8146.png" crc="389367851" ref="luka"/>
-    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x.png" crc="3883922046" ref="luka"/>
-    <file name=" luka 2 (josh madonald)jpg -crop-u81462.png" crc="3790499892" ref="luka"/>
-    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x2.png" crc="3920229580" ref="luka"/>
-    <file name=" luka 2 (josh madonald)jpg -crop-u81463.png" crc="4050132223" ref="luka"/>
-    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x3.png" crc="4170457041" ref="luka"/>
+    <file name=" luka 2 (josh madonald)jpg -crop-u8146.png" crc="3853469228" ref="luka"/>
+    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x.png" crc="26594465" ref="luka"/>
+    <file name=" luka 2 (josh madonald)jpg -crop-u81462.png" crc="440049568" ref="luka"/>
+    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x2.png" crc="327958066" ref="luka"/>
+    <file name=" luka 2 (josh madonald)jpg -crop-u81463.png" crc="3965816318" ref="luka"/>
+    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x3.png" crc="193777807" ref="luka"/>
     <file name=" luka 2 (josh madonald)jpg -crop-u81464.png" crc="253003860" ref="luka"/>
-    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x4.png" crc="425662647" ref="luka"/>
+    <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x4.png" crc="4063743966" ref="luka"/>
     <file name=" luka 2 (josh madonald)jpg -crop-u81465.png" crc="372108836" ref="luka"/>
     <file name=" luka 2 (josh madonald)jpg -crop-u8146_2x5.png" crc="4073933239" ref="luka"/>
     <file name="carl creighton artist pic 2-crop-u8338.png" crc="349218903" ref="carl-creighton"/>
@@ -846,16 +846,26 @@
     <file name="2mountainz192x193_2x.jpg" crc="69481130" seo="true" ref="index"/>
     <file name="jagged leaves nightmare afternoon cover 1500193x193.jpg" crc="3824553718" seo="true" ref="index"/>
     <file name="jagged leaves nightmare afternoon cover 1500193x193_2x.jpg" crc="4250292782" seo="true" ref="index"/>
+    <file name="luka-cover-web-1500188x188.jpg" crc="3793727081" seo="true" ref="phone>luka"/>
+    <file name="luka-cover-web-1500188x188_2x.jpg" crc="511588669" seo="true" ref="phone>luka"/>
+    <file name="luka-cover-web-1500167x167.jpg" crc="255616926" seo="true" ref="luka"/>
+    <file name="luka-cover-web-1500167x167_2x.jpg" crc="45367828" seo="true" ref="luka"/>
+    <file name="luka-cover-web-1500115x115.jpg" crc="64890252" seo="true" ref="luka"/>
+    <file name="luka-cover-web-1500115x115_2x.jpg" crc="73083603" seo="true" ref="luka"/>
+    <file name="luka-cover-web-150050x50.jpg" crc="3862486128" seo="true" ref="luka"/>
+    <file name="luka-cover-web-150050x50_2x.jpg" crc="409072428" seo="true" ref="luka"/>
+    <file name="luka-cover-web-150016x16.jpg" crc="4247580617" seo="true" ref="luka"/>
+    <file name="luka-cover-web-150016x16_2x.jpg" crc="3919401024" seo="true" ref="luka"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="3860538359" ref="tablet>tour:tablet>dustin-lovelis:tablet>william-alexander:tablet>seagulls:tablet>new-god:tablet>releases:tablet>about:tablet>roster:tablet>index:tablet>luka:tablet>carl-creighton:tablet>japanese-breakfast:tablet>gobbinjr:tablet>jagged-leaves:tablet>dist:tablet>konig:tablet>eskimeaux"/>
+      <file name="master_a-master.css" crc="42511928" ref="tablet>tour:tablet>dustin-lovelis:tablet>william-alexander:tablet>seagulls:tablet>new-god:tablet>releases:tablet>about:tablet>roster:tablet>index:tablet>luka:tablet>carl-creighton:tablet>japanese-breakfast:tablet>gobbinjr:tablet>jagged-leaves:tablet>dist:tablet>konig:tablet>eskimeaux"/>
       <file name="tour.css" crc="291404769" ref="tablet>tour"/>
       <file name="dustin-lovelis.css" crc="211819349" ref="tablet>dustin-lovelis"/>
       <file name="william-alexander.css" crc="198588746" ref="tablet>william-alexander"/>
       <file name="seagulls.css" crc="4061212964" ref="tablet>seagulls"/>
       <file name="new-god.css" crc="440664177" ref="tablet>new-god"/>
-      <file name="releases.css" crc="4010552681" ref="tablet>releases"/>
+      <file name="releases.css" crc="4199806938" ref="tablet>releases"/>
       <file name="about.css" crc="4103047073" ref="tablet>about"/>
       <file name="roster.css" crc="102065102" ref="tablet>roster"/>
       <file name="index.css" crc="424863264" ref="tablet>index"/>
@@ -869,6 +879,7 @@
       <file name="eskimeaux.css" crc="3821428003" ref="tablet>eskimeaux"/>
       <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tablet>releases:tablet>index:tablet>eskimeaux:tablet>dist:tablet>about:tablet>gobbinjr:tablet>roster:tablet>new-god:tablet>jagged-leaves:tablet>luka:tablet>carl-creighton:tablet>seagulls:tablet>dustin-lovelis:tablet>japanese-breakfast:tablet>william-alexander:tablet>tour:tablet>konig"/>
       <file name="nomq_carl-creighton.css" crc="321525473" ref="tablet>carl-creighton"/>
+      <file name="nomq_releases.css" crc="321525473" ref="tablet>releases"/>
     </folder>
     <file name="index.html" crc="4281591426" seo="true" mt="1459884999201" redirect="true"/>
     <file name="about.html" crc="3958572862" seo="true" mt="1459880785703" redirect="true"/>
@@ -877,7 +888,7 @@
     <file name="seagulls.html" crc="165332986" seo="true" mt="1459880785703" redirect="true"/>
     <file name="william-alexander.html" crc="4093361978" seo="true" mt="1459880785703" redirect="true"/>
     <file name="dustin-lovelis.html" crc="3917603331" seo="true" mt="1459880785703" redirect="true"/>
-    <file name="releases.html" crc="3937703491" seo="true" mt="1459885824261" redirect="true"/>
+    <file name="releases.html" crc="3977515367" seo="true" mt="1462806108811" redirect="true"/>
     <file name="tour.html" crc="151497761" seo="true" mt="1459880785703" redirect="true"/>
     <file name="eskimeaux.html" crc="482452731" seo="true" mt="1459880785703" redirect="true"/>
     <file name="konig.html" crc="177905684" seo="true" mt="1459880785703" redirect="true"/>
@@ -890,7 +901,7 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4251255758" ref="phone>eskimeaux:phone>seagulls:phone>roster:phone>william-alexander:phone>jagged-leaves:phone>index:phone>tour:phone>releases:phone>new-god:phone>gobbinjr:phone>dist:phone>japanese-breakfast:phone>about:phone>dustin-lovelis:phone>konig:phone>luka:phone>carl-creighton"/>
+      <file name="master_a-master.css" crc="109226574" ref="phone>eskimeaux:phone>seagulls:phone>roster:phone>william-alexander:phone>jagged-leaves:phone>index:phone>tour:phone>releases:phone>new-god:phone>gobbinjr:phone>dist:phone>japanese-breakfast:phone>about:phone>dustin-lovelis:phone>konig:phone>luka:phone>carl-creighton"/>
       <file name="eskimeaux.css" crc="390750710" ref="phone>eskimeaux"/>
       <file name="seagulls.css" crc="215657533" ref="phone>seagulls"/>
       <file name="roster.css" crc="73424303" ref="phone>roster"/>
@@ -898,7 +909,7 @@
       <file name="jagged-leaves.css" crc="212956771" ref="phone>jagged-leaves"/>
       <file name="index.css" crc="4196589870" ref="phone>index"/>
       <file name="tour.css" crc="167584570" ref="phone>tour"/>
-      <file name="releases.css" crc="404527407" ref="phone>releases"/>
+      <file name="releases.css" crc="4224311926" ref="phone>releases"/>
       <file name="new-god.css" crc="536113701" ref="phone>new-god"/>
       <file name="gobbinjr.css" crc="521643535" ref="phone>gobbinjr"/>
       <file name="dist.css" crc="3861740437" ref="phone>dist"/>
@@ -906,10 +917,11 @@
       <file name="about.css" crc="219638766" ref="phone>about"/>
       <file name="dustin-lovelis.css" crc="3926395471" ref="phone>dustin-lovelis"/>
       <file name="konig.css" crc="313915133" ref="phone>konig"/>
-      <file name="luka.css" crc="3902153720" ref="phone>luka"/>
+      <file name="luka.css" crc="321844935" ref="phone>luka"/>
       <file name="carl-creighton.css" crc="239071754" ref="phone>carl-creighton"/>
-      <file name="nomq_preview_master_a-master.css" crc="321525473" ref="phone>index:phone>tour:phone>eskimeaux:phone>about:phone>konig:phone>seagulls:phone>dist:phone>jagged-leaves:phone>gobbinjr:phone>roster:phone>japanese-breakfast:phone>new-god:phone>luka:phone>carl-creighton:phone>william-alexander:phone>dustin-lovelis"/>
+      <file name="nomq_preview_master_a-master.css" crc="321525473" ref="phone>index:phone>tour:phone>eskimeaux:phone>about:phone>konig:phone>seagulls:phone>dist:phone>jagged-leaves:phone>gobbinjr:phone>roster:phone>japanese-breakfast:phone>new-god:phone>luka:phone>carl-creighton:phone>william-alexander:phone>dustin-lovelis:phone>releases"/>
       <file name="nomq_carl-creighton.css" crc="321525473" ref="phone>carl-creighton"/>
+      <file name="nomq_luka.css" crc="321525473" ref="phone>luka"/>
     </folder>
     <file name="index.html" crc="191913638" seo="true" mt="1459885304686" redirect="true"/>
     <file name="about.html" crc="206652544" seo="true" mt="1459443200169" redirect="true"/>
@@ -917,7 +929,7 @@
     <file name="new-god.html" crc="4261411097" seo="true" mt="1459443200169" redirect="true"/>
     <file name="seagulls.html" crc="4118523581" seo="true" mt="1459443200169" redirect="true"/>
     <file name="william-alexander.html" crc="486178295" seo="true" mt="1459443200169" redirect="true"/>
-    <file name="releases.html" crc="4200874940" seo="true" mt="1459886487559" redirect="true"/>
+    <file name="releases.html" crc="157420420" seo="true" mt="1462806108773" redirect="true"/>
     <file name="tour.html" crc="394167480" seo="true" mt="1459443200169" redirect="true"/>
     <file name="dustin-lovelis.html" crc="253717188" seo="true" mt="1459443200169" redirect="true"/>
     <file name="eskimeaux.html" crc="86057431" seo="true" mt="1459443200169" redirect="true"/>
@@ -926,12 +938,12 @@
     <file name="gobbinjr.html" crc="3950096768" seo="true" mt="1459443200169" redirect="true"/>
     <file name="jagged-leaves.html" crc="4192875453" seo="true" mt="1459443200169" redirect="true"/>
     <file name="japanese-breakfast.html" crc="4135130963" seo="true" mt="1459443200169" redirect="true"/>
-    <file name="luka.html" crc="168393518" seo="true" mt="1459443200169" redirect="true"/>
+    <file name="luka.html" crc="112860011" seo="true" mt="1462806685370" redirect="true"/>
     <file name="carl-creighton.html" crc="393217040" seo="true" mt="1459443200169" redirect="true"/>
   </folder>
   <file name="about.html" crc="3939741885" seo="true" mt="1459442137236" redirect="true"/>
   <file name="roster.html" crc="81164650" seo="true" mt="1459442137236" redirect="true"/>
-  <file name="releases.html" crc="180693236" seo="true" mt="1459884705832" redirect="true"/>
+  <file name="releases.html" crc="3938927649" seo="true" mt="1462806108846" redirect="true"/>
   <file name="tour.html" crc="3768667947" seo="true" mt="1459442137236" redirect="true"/>
   <file name="new-god.html" crc="449515568" seo="true" mt="1459442137236" redirect="true"/>
   <file name="seagulls.html" crc="4173812824" seo="true" mt="1459442137236" redirect="true"/>
@@ -944,6 +956,6 @@
   <file name="gobbinjr.html" crc="180637780" seo="true" mt="1459442137236" redirect="true"/>
   <file name="jagged-leaves.html" crc="3911241785" seo="true" mt="1459442137236" redirect="true"/>
   <file name="japanese-breakfast.html" crc="4170417095" seo="true" mt="1459442137236" redirect="true"/>
-  <file name="luka.html" crc="406851804" seo="true" mt="1459442137236" redirect="true"/>
+  <file name="luka.html" crc="102564325" seo="true" mt="1462806734823" redirect="true"/>
   <file name="carl-creighton.html" crc="4233469354" seo="true" mt="1459442137236" redirect="true"/>
 </manifest>

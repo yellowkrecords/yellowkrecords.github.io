@@ -4,15 +4,15 @@
 
 .version.luka /* version checker */
 {
-	color: #0000E8;
-	background-color: #9623F8;
+	color: #000013;
+	background-color: #2EF6C7;
 }
 
 #page
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 664px;
+	min-height: 1220.95px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -20,16 +20,17 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	padding-bottom: 0px;
 }
 
 #u132777
 {
-	z-index: 49;
+	z-index: 57;
 }
 
 #u132822-4
 {
-	z-index: 50;
+	z-index: 58;
 	min-height: 30px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -62,12 +63,12 @@
 
 #u132778
 {
-	z-index: 54;
+	z-index: 62;
 }
 
 #menuu132779
 {
-	z-index: 55;
+	z-index: 63;
 	width: 352px;
 	margin-bottom: -1px;
 	position: relative;
@@ -321,7 +322,7 @@
 
 #accordionu132776,#accordionu132776-bw
 {
-	z-index: 48;
+	z-index: 56;
 }
 
 #pu132751
@@ -332,7 +333,7 @@
 
 #u132751
 {
-	z-index: 46;
+	z-index: 54;
 	width: 162px;
 	position: relative;
 	margin-right: -10000px;
@@ -340,7 +341,7 @@
 
 #u133169-4
 {
-	z-index: 28;
+	z-index: 36;
 	width: 37px;
 	min-height: 22px;
 	position: relative;
@@ -352,10 +353,10 @@
 #u12097
 {
 	z-index: 19;
-	width: 211px;
+	width: 148px;
 	background-color: transparent;
-	margin-left: 88px;
-	margin-top: 16px;
+	margin-left: 116px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -365,26 +366,27 @@
 	display: block;
 }
 
-#pu8236
-{
-	width: 0.01px;
-	margin-left: 13px;
-	margin-top: 25px;
-}
-
 #u8236
 {
 	z-index: 17;
 	width: 210px;
 	background-color: transparent;
+	margin-left: 85px;
+	margin-top: 41px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u8236_img
 {
 	margin-top: -10px;
 	margin-bottom: -10px;
+}
+
+#pu11623
+{
+	width: 0.01px;
+	margin-left: 125px;
+	margin-top: 14px;
 }
 
 #u11623
@@ -394,8 +396,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 229px;
+	margin-top: 1px;
 }
 
 #u8228
@@ -411,8 +412,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 67px;
-	left: 263px;
+	margin-top: 1px;
+	left: 35px;
 }
 
 #u8230
@@ -428,8 +429,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 299px;
+	margin-top: 1px;
+	left: 70px;
 }
 
 #u8232
@@ -445,14 +446,53 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 335px;
+	left: 106px;
 }
 
 #u8234
 {
 	z-index: 16;
 	display: block;
+}
+
+#u152845
+{
+	z-index: 28;
+	width: 188px;
+	background-color: transparent;
+	margin-left: 96px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u152847-6
+{
+	z-index: 30;
+	width: 188px;
+	min-height: 19px;
+	background-color: transparent;
+	text-align: center;
+	font-style: italic;
+	margin-left: 96px;
+	position: relative;
+}
+
+#u152847-2
+{
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
+#u152847-4
+{
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+}
+
+#u152847-3
+{
+	font-weight: 700;
+	font-style: normal;
 }
 
 #u8427-7
@@ -477,12 +517,13 @@
 {
 	z-index: 21;
 	min-height: 94px;
-	margin-top: 10px;
+	margin-top: 35px;
 }
 
 #pu4301
 {
 	width: 0.01px;
+	margin-top: 78px;
 }
 
 #u4301,#u4301-bw
@@ -507,11 +548,11 @@
 
 #u13321-14
 {
-	z-index: 32;
+	z-index: 40;
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
+	margin-top: 6px;
 	left: 90px;
 }
 
@@ -553,6 +594,15 @@ body
 
 @font-face
 {
+	font-family: '__websocialmenus_5';
+	src: url('../../fonts/websocialmenus.eot');
+	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
 	font-family: '__web-icons_5';
 	src: url('../../fonts/web-icons.eot');
 	src: local('☺'), url('../../fonts/web-icons.woff') format('woff'), url('../../fonts/web-icons.svg') format('svg');
@@ -560,12 +610,9 @@ body
 	font-style: normal;
 }
 
-@font-face
-{
-	font-family: '__websocialmenus_5';
-	src: url('../../fonts/websocialmenus.eot');
-	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
+
+
+
+
+
 
