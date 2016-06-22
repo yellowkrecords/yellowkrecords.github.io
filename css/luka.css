@@ -1,7 +1,7 @@
 .version.luka /* version checker */
 {
-	color: #000005;
-	background-color: #1E4086;
+	color: #0000F6;
+	background-color: #0E1762;
 }
 
 .js body
@@ -12,6 +12,15 @@
 .js body.initialized
 {
 	visibility: visible;
+}
+
+@font-face
+{
+	font-family: '__web-icons_5';
+	src: url('../fonts/web-icons.eot');
+	src: local('☺'), url('../fonts/web-icons.woff') format('woff'), url('../fonts/web-icons.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 
 @font-face
@@ -32,42 +41,33 @@
 	font-style: normal;
 }
 
-@font-face
-{
-	font-family: '__web-icons_5';
-	src: url('../fonts/web-icons.eot');
-	src: local('☺'), url('../fonts/web-icons.woff') format('woff'), url('../fonts/web-icons.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
-
 #page
 {
 	margin-right: auto;
-	filter: alpha(opacity=100);
 	background-image: none;
-	background-color: transparent;
 	border-width: 0px;
-	margin-left: auto;
 	z-index: 1;
+	margin-left: auto;
+	filter: alpha(opacity=100);
+	background-color: transparent;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	width: 100%;
-	border-color: #000000;
 	opacity: 1;
+	border-color: #000000;
 }
 
 #u12625
 {
+	z-index: 31;
 	width: 162px;
 	position: relative;
-	z-index: 31;
 }
 
 #u12091
 {
 	background-color: transparent;
-	position: relative;
 	z-index: 21;
+	position: relative;
 }
 
 #u8152
@@ -78,21 +78,76 @@
 
 #u8113
 {
-	border-style: solid;
 	background-color: transparent;
-	border-color: #484848;
-	position: relative;
-	z-index: 3;
 	border-width: 5px;
+	z-index: 3;
+	border-style: solid;
+	position: relative;
+	border-color: #484848;
 }
 
 #u8146
 {
-	margin-top: 7px;
+	background-color: transparent;
+	z-index: 19;
 	margin-right: -10000px;
 	position: relative;
-	z-index: 19;
+	margin-top: 7px;
+}
+
+#u11617
+{
 	background-color: transparent;
+	z-index: 11;
+	position: relative;
+}
+
+#u8116
+{
+	display: block;
+	z-index: 12;
+}
+
+#u11680
+{
+	background-color: transparent;
+	z-index: 13;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8122
+{
+	display: block;
+	z-index: 14;
+}
+
+#u11734
+{
+	background-color: transparent;
+	z-index: 15;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8120
+{
+	display: block;
+	z-index: 16;
+}
+
+#u11899
+{
+	background-color: transparent;
+	z-index: 17;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8111
+{
+	display: block;
+	z-index: 18;
 }
 
 #pu151395
@@ -102,21 +157,21 @@
 
 #u151395
 {
+	background-color: transparent;
 	width: 100%;
 	position: relative;
 	z-index: 23;
-	background-color: transparent;
 }
 
 #u151829-6
 {
-	font-style: italic;
-	position: relative;
+	background-color: transparent;
 	z-index: 25;
 	min-height: 19px;
-	width: 100%;
 	text-align: center;
-	background-color: transparent;
+	width: 100%;
+	position: relative;
+	font-style: italic;
 }
 
 #u151829-2
@@ -139,87 +194,32 @@
 
 #buttonu12800
 {
-	left: 891px;
 	margin-right: -10000px;
+	z-index: 33;
+	left: 891px;
 	width: 74px;
 	position: relative;
-	z-index: 33;
 	height: 50px;
 }
 
 .ie #buttonu12800
 {
-	filter: alpha(opacity=1);
-	opacity: 0.01;
 	background-color: #FFFFFF;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-}
-
-#u11617
-{
-	position: relative;
-	z-index: 11;
-	background-color: transparent;
-}
-
-#u8116
-{
-	display: block;
-	z-index: 12;
-}
-
-#u11680
-{
-	margin-right: -10000px;
-	position: relative;
-	z-index: 13;
-	background-color: transparent;
-}
-
-#u8122
-{
-	display: block;
-	z-index: 14;
-}
-
-#u11734
-{
-	margin-right: -10000px;
-	position: relative;
-	z-index: 15;
-	background-color: transparent;
-}
-
-#u8120
-{
-	display: block;
-	z-index: 16;
-}
-
-#u11899
-{
-	margin-right: -10000px;
-	position: relative;
-	z-index: 17;
-	background-color: transparent;
-}
-
-#u8111
-{
-	display: block;
-	z-index: 18;
+	opacity: 0.01;
+	filter: alpha(opacity=1);
 }
 
 #u8110-7
 {
-	line-height: 18px;
-	min-height: 94px;
-	text-align: justify;
-	background-color: transparent;
-	font-family: source-sans-pro, sans-serif;
-	z-index: 4;
-	font-weight: 300;
 	font-size: 15px;
+	text-align: justify;
+	z-index: 4;
+	background-color: transparent;
+	font-weight: 300;
+	min-height: 94px;
+	line-height: 18px;
+	font-family: source-sans-pro, sans-serif;
 	position: relative;
 }
 
@@ -231,11 +231,11 @@
 
 #u787
 {
-	left: -100px;
 	min-height: 50px;
+	z-index: 2;
+	left: -100px;
 	width: 50px;
 	position: relative;
-	z-index: 2;
 }
 
 .html
@@ -2161,25 +2161,24 @@ body
 		margin-left: 7.95%;
 	}
 
-	#u8152
+	#ppu8113
 	{
-		margin-bottom: 11.11111111111111%;
-		width: 61.12%;
+		margin-top: 26px;
+		width: 100%;
 	}
 
 	#pu8113
 	{
-		margin-top: 34px;
-		width: 100%;
+		margin-right: -10000px;
+		margin-top: -2px;
+		width: 35.99%;
+		margin-left: 7.75%;
 	}
 
 	#u8113
 	{
-		padding-bottom: 11px;
-		margin-right: -10000px;
-		margin-top: -2px;
-		width: 33.9%;
-		left: 7.75%;
+		padding-bottom: 8px;
+		width: 94.19%;
 	}
 
 	#u8146
@@ -2188,84 +2187,70 @@ body
 		left: 1.24%;
 	}
 
-	#u8146_img
-	{
-		padding-right: 61px;
-		padding-bottom: 42px;
-		width: 61.15%;
-	}
-
-	#pu151395
-	{
-		margin-top: 28px;
-		width: 16.95%;
-		margin-left: 61.09%;
-	}
-
-	#u151395_img
-	{
-		padding-right: 31px;
-		padding-bottom: 31px;
-		width: 60.5%;
-	}
-
-	#u151829-6
-	{
-		margin-top: 7px;
-	}
-
-	#buttonu12800
-	{
-		margin-top: 12px;
-	}
-
 	#u11617
 	{
 		margin-top: 16px;
-		width: 1.89%;
-		margin-left: 19.88%;
+		width: 5.24%;
+		margin-left: 34.31%;
 	}
 
 	#pu11680
 	{
 		margin-top: -9px;
-		width: 100%;
+		width: 22.68%;
+		margin-left: 42.45%;
 	}
 
 	#u11680
 	{
-		width: 1.89%;
-		left: 23.02%;
+		width: 23.08%;
 	}
 
 	#u11734
 	{
-		width: 1.89%;
-		left: 26.16%;
+		width: 23.08%;
+		left: 38.47%;
 	}
 
 	#u11899
 	{
-		width: 1.89%;
-		left: 29.5%;
+		width: 23.08%;
+		left: 79.49%;
 	}
 
-	#u8116,#u8122,#u8120,#u8111
+	#pu151395
 	{
-		margin-bottom: 33.33333333333333%;
-		width: 55.56%;
+		padding-bottom: 0px;
+		margin-top: 28px;
+		width: 16.95%;
+		margin-left: 61.09%;
+	}
+
+	#u8152,#u8146_img,#u8116,#u8122,#u8120,#u8111,#u151395_img
+	{
+		width: 100%;
+	}
+
+	#u151829-6
+	{
+		margin-top: 10px;
+	}
+
+	#buttonu12800
+	{
+		margin-top: 20px;
 	}
 
 	#u8110-7
 	{
-		margin-top: 20px;
+		margin-top: 10px;
 		width: 83.9%;
 		margin-left: 8.16%;
 	}
 
 	#u787
 	{
-		margin-top: 163px;
+		margin-top: 202px;
 	}
 
 	#pu40199-20
@@ -2643,25 +2628,24 @@ body
 		margin-left: 7.96%;
 	}
 
-	#u8152
+	#ppu8113
 	{
-		margin-bottom: 20.8955223880597%;
-		width: 25.38%;
+		margin-top: 26px;
+		width: 100%;
 	}
 
 	#pu8113
 	{
-		margin-top: 34px;
-		width: 100%;
+		margin-right: -10000px;
+		margin-top: -2px;
+		width: 36.37%;
+		margin-left: 7.68%;
 	}
 
 	#u8113
 	{
-		padding-bottom: 11px;
-		margin-right: -10000px;
-		margin-top: -2px;
-		width: 33.53%;
-		left: 7.68%;
+		padding-bottom: 8px;
+		width: 92.19%;
 	}
 
 	#u8146
@@ -2672,82 +2656,73 @@ body
 
 	#u8146_img
 	{
-		padding-right: 84px;
-		padding-bottom: 64px;
-		width: 26.96%;
-	}
-
-	#pu151395
-	{
-		margin-top: 27px;
-		width: 16.77%;
-		margin-left: 61.08%;
-	}
-
-	#u151395_img
-	{
-		padding-right: 44px;
-		padding-bottom: 44px;
-		width: 27.12%;
-	}
-
-	#u151829-6
-	{
-		margin-top: 8px;
-	}
-
-	#buttonu12800
-	{
-		margin-top: 18px;
+		width: 100.87%;
 	}
 
 	#u11617
 	{
 		margin-top: 16px;
-		width: 1.71%;
-		margin-left: 19.89%;
+		width: 4.69%;
+		margin-left: 34.38%;
 	}
 
 	#pu11680
 	{
-		margin-top: -6px;
-		width: 100%;
+		margin-top: 24px;
+		width: 22.66%;
+		margin-left: 42.97%;
 	}
 
 	#u11680
 	{
-		width: 1.71%;
-		left: 23.02%;
+		margin-top: 1px;
+		width: 20.69%;
 	}
 
 	#u11734
 	{
-		width: 1.71%;
-		left: 26.14%;
+		width: 20.69%;
+		left: 37.94%;
 	}
 
 	#u11899
 	{
-		width: 1.71%;
-		left: 29.55%;
+		width: 20.69%;
+		left: 75.87%;
 	}
 
-	#u8116,#u8122,#u8120,#u8111
+	#pu151395
 	{
-		margin-bottom: 83.33333333333334%;
-		width: 33.34%;
+		margin-top: 28px;
+		width: 16.77%;
+		margin-left: 61.08%;
+	}
+
+	#u8152,#u8116,#u8122,#u8120,#u8111,#u151395_img
+	{
+		width: 100%;
+	}
+
+	#u151829-6
+	{
+		margin-top: 11px;
+	}
+
+	#buttonu12800
+	{
+		margin-top: 27px;
 	}
 
 	#u8110-7
 	{
-		margin-top: 19px;
+		margin-top: 11px;
 		width: 83.81%;
 		margin-left: 7.96%;
 	}
 
 	#u787
 	{
-		margin-top: 35px;
+		margin-top: 71px;
 	}
 
 	#u40199-20
